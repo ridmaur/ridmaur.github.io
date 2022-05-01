@@ -3,21 +3,21 @@
 		"id": 1,
 		"title": "Disco Tracks 1983-1984",
 		"description": "Two years of charts with the best disco tracks played in Cartouche, Utrecht and on radio in shows like And The Beat Goes On and Ben Liebrand's In The Mix…",
-		"imageUrl": "https://ridmaur.github.io/chartyourmusic/images/1.png",
+		"imageUrl": "https://ridmaur.github.io/chartyourmusic/1.png",
 		"url": "https://whatever.nl"
 	},
 	{
 		"id": 2,
 		"title": "Dance Tracks 2003-2004",
 		"description": "Absolute smashing dance music from 2003 and (partially) 2004, combined with what was trendy top tracks. Mostly inspired by legend dance radion station ID&T…",
-		"imageUrl": "https://ridmaur.github.io/chartyourmusic/images/2.png",
+		"imageUrl": "https://ridmaur.github.io/chartyourmusic/2.png",
 		"url": "https://whatever.nl"
 	},
 	{
 		"id": 3,
 		"title": "OOR 2021",
 		"description": "The best albums according to Dutch infamous music magazine OOR…",
-		"imageUrl": "https://ridmaur.github.io/chartyourmusic/images/3.png",
+		"imageUrl": "https://ridmaur.github.io/chartyourmusic/3.png",
 		"url": "https://whatever.nl"
 	}
 ]
