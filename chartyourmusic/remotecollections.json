@@ -2,16 +2,22 @@
 	{
 		"id": 1,
 		"title": "Apple Top 10",
+		"description": "Best tracks every week according to Apple",
+		"imageUrl": "whater.png",
 		"url": "https://whatever.nl",
 	},
 	{
 		"id": 2,
 		"title": "Spotify Top 10",
+		"description": "Best tracks every week according to Spotify",
+		"imageUrl": "whater.png",
 		"url": "https://whatever.nl",
 	},
 	{
 		"id": 3,
 		"title": "Tidal Top 10",
+		"description": "Best tracks every week according to Tidal",
+		"imageUrl": "whater.png",
 		"url": "https://whatever.nl",
 	}
 	
