@@ -19,5 +19,75 @@
 		"description": "The best albums according to music journalists in the Netherlands and collected by the Dutch infamous music magazine OOR. A collection without a sequence… ",
 		"imageUrl": "https://ridmaur.github.io/chartyourmusic/3.png",
 		"url": "https://whatever.nl"
+	},
+	{
+		"id": 4,
+		"title": "Disco Tracks 1983-1984",
+		"description": "Two years of charts with the best disco tracks played in Cartouche, Utrecht and on radio in shows like And The Beat Goes On and Ben Liebrand's In The Mix…",
+		"imageUrl": "https://ridmaur.github.io/chartyourmusic/1.png",
+		"url": "https://whatever.nl"
+	},
+	{
+		"id": 5,
+		"title": "Dance Tracks 2003-2004",
+		"description": "Absolute smashing dance music from 2003 and (partially) 2004, combined with what was trendy top tracks. Mostly inspired by legend dance radion station ID&T…",
+		"imageUrl": "https://ridmaur.github.io/chartyourmusic/2.png",
+		"url": "https://whatever.nl"
+	},
+	{
+		"id": 6,
+		"title": "Disco Tracks 1983-1984",
+		"description": "Two years of charts with the best disco tracks played in Cartouche, Utrecht and on radio in shows like And The Beat Goes On and Ben Liebrand's In The Mix…",
+		"imageUrl": "https://ridmaur.github.io/chartyourmusic/1.png",
+		"url": "https://whatever.nl"
+	},
+	{
+		"id": 7,
+		"title": "Dance Tracks 2003-2004",
+		"description": "Absolute smashing dance music from 2003 and (partially) 2004, combined with what was trendy top tracks. Mostly inspired by legend dance radion station ID&T…",
+		"imageUrl": "https://ridmaur.github.io/chartyourmusic/2.png",
+		"url": "https://whatever.nl"
+	},
+	{
+		"id": 8,
+		"title": "Disco Tracks 1983-1984",
+		"description": "Two years of charts with the best disco tracks played in Cartouche, Utrecht and on radio in shows like And The Beat Goes On and Ben Liebrand's In The Mix…",
+		"imageUrl": "https://ridmaur.github.io/chartyourmusic/1.png",
+		"url": "https://whatever.nl"
+	},
+	{
+		"id": 9,
+		"title": "Dance Tracks 2003-2004",
+		"description": "Absolute smashing dance music from 2003 and (partially) 2004, combined with what was trendy top tracks. Mostly inspired by legend dance radion station ID&T…",
+		"imageUrl": "https://ridmaur.github.io/chartyourmusic/2.png",
+		"url": "https://whatever.nl"
+	},
+	{
+		"id": 10,
+		"title": "Disco Tracks 1983-1984",
+		"description": "Two years of charts with the best disco tracks played in Cartouche, Utrecht and on radio in shows like And The Beat Goes On and Ben Liebrand's In The Mix…",
+		"imageUrl": "https://ridmaur.github.io/chartyourmusic/1.png",
+		"url": "https://whatever.nl"
+	},
+	{
+		"id": 11,
+		"title": "Dance Tracks 2003-2004",
+		"description": "Absolute smashing dance music from 2003 and (partially) 2004, combined with what was trendy top tracks. Mostly inspired by legend dance radion station ID&T…",
+		"imageUrl": "https://ridmaur.github.io/chartyourmusic/2.png",
+		"url": "https://whatever.nl"
+	},
+	{
+		"id": 12,
+		"title": "Disco Tracks 1983-1984",
+		"description": "Two years of charts with the best disco tracks played in Cartouche, Utrecht and on radio in shows like And The Beat Goes On and Ben Liebrand's In The Mix…",
+		"imageUrl": "https://ridmaur.github.io/chartyourmusic/1.png",
+		"url": "https://whatever.nl"
+	},
+	{
+		"id": 13,
+		"title": "Dance Tracks 2003-2004",
+		"description": "Absolute smashing dance music from 2003 and (partially) 2004, combined with what was trendy top tracks. Mostly inspired by legend dance radion station ID&T…",
+		"imageUrl": "https://ridmaur.github.io/chartyourmusic/2.png",
+		"url": "https://whatever.nl"
 	}
 ]
