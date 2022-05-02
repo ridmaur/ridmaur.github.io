@@ -1,13 +1,5 @@
 [
 	{
-		"id": 0,
-		"title": "Disco Tracks 1983-1984",
-		"description": "Two years of charts with the best disco tracks from disco temple Cartouche, Utrecht and from radio shows like And The Beat Goes On and Ben Liebrand's In The Mix…",
-		"imageUrl": "https://ridmaur.github.io/chartyourmusic/examples/images/1.png",
-		"musicService": "Apple Music",
-		"url": "https://whatever.nl"
-	},
-	{
 		"id": 1,
 		"title": "Disco Tracks 1983-1984",
 		"description": "Two years of charts with the best disco tracks from disco temple Cartouche, Utrecht and from radio shows like And The Beat Goes On and Ben Liebrand's In The Mix…",
