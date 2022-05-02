@@ -1,9 +1,17 @@
 [
 	{
-		"id": 0,
+		"id": 4,
+		"title": "Apple Music Song Chart",
+		"description": "Initial example chart available with first release of the app…",
+		"imageUrl": "https://ridmaur.github.io/chartyourmusic/examples/images/4.png",
+		"musicService": "iTunes",
+		"url": "https://ridmaur.github.io/chartyourmusic/examples/CYM-iTunes.json"
+	},
+	{
+		"id": 5,
 		"title": "Spotify Top 10",
 		"description": "First 10 days in 2022 of the most popular streams in the Netherlands…",
-		"imageUrl": "https://ridmaur.github.io/chartyourmusic/examples/images/1.png",
+		"imageUrl": "https://ridmaur.github.io/chartyourmusic/examples/images/5.png",
 		"musicService": "Spotify",
 		"url": "https://whatever.nl"
 	},
