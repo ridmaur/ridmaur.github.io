@@ -12,7 +12,7 @@
 		"title": "Disco Tracks 1983-1984",
 		"description": "Two years of charts with the best disco tracks from disco temple Cartouche, Utrecht and from radio shows like And The Beat Goes On and Ben Liebrand's In The Mix…",
 		"imageUrl": "https://ridmaur.github.io/chartyourmusic/examples/images/1.png",
-		"musicService": "Apple",
+		"musicService": "Apple Music",
 		"url": "https://whatever.nl"
 	},
 	{
@@ -20,7 +20,7 @@
 		"title": "Dance Tracks 2003-2004",
 		"description": "Absolute smashing dance music from 2003 and (partially) 2004, combined with trendy top tracks. Mostly inspired by legend dance radion station ID&T…",
 		"imageUrl": "https://ridmaur.github.io/chartyourmusic/examples/images/2.png",
-		"musicService": "Apple",
+		"musicService": "Apple Music",
 		"url": "https://whatever.nl"
 	},
 	{
@@ -28,7 +28,7 @@
 		"title": "OOR 2021",
 		"description": "The best albums of 2021 according to music journalists in the Netherlands and collected by the Dutch infamous music magazine OOR. A collection without a sequence… ",
 		"imageUrl": "https://ridmaur.github.io/chartyourmusic/examples/images/3.png",
-		"musicService": "Apple",
+		"musicService": "Apple Music",
 		"url": "https://whatever.nl"
 	}
 ]
