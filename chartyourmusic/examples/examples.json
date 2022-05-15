@@ -1,12 +1,20 @@
 [
 	{
 		"id": 4,
-		"title": "Apple Music Song Chart",
-		"description": "Initial example chart available with first release of the app… If you do have Apple Music or Spotify subscription, you might better enable that music service in Settings and then pick an example collections for that selected music service…",
+		"title": "Apple Music Song Chart Collection",
+		"description": "Initial example collection available with first release of the app… If you do have Apple Music or Spotify subscription, you might better enable that music service in Settings and then pick an example collections for that selected music service…",
 		"imageUrl": "https://ridmaur.github.io/chartyourmusic/examples/images/4.jpeg",
 		"musicService": "iTunes",
 		"url": "https://ridmaur.github.io/chartyourmusic/examples/CYM-iTunes.json"
 	},
+	{
+		"id": 6,
+		"title": "Fake Collection",
+		"description": "Initial example chart available with first release of the app… If you do have Apple Music or Spotify subscription, you might better enable that music service in Settings and then pick an example collections for that selected music service…",
+		"imageUrl": "https://ridmaur.github.io/chartyourmusic/examples/images/6.jpeg",
+		"musicService": "iTunes",
+		"url": "https://ridmaur.github.io/chartyourmusic/examples/CYM-Fake.json"
+	},	
 	{
 		"id": 5,
 		"title": "Spotify Top 10",
