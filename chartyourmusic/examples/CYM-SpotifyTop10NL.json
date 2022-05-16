@@ -3,6 +3,447 @@
     "charts" : [
       {
         "locked" : true,
+        "title" : "May 14, 2022",
+        "notes" : "",
+        "subtitle" : "",
+        "chartEntries" : [
+          {
+            "entryId" : "1612026523",
+            "currentPosition" : 1
+          },
+          {
+            "entryId" : "1613835083",
+            "currentPosition" : 2
+          },
+          {
+            "entryId" : "1614015063",
+            "currentPosition" : 3
+          },
+          {
+            "entryId" : "1622181214",
+            "currentPosition" : 4
+          },
+          {
+            "entryId" : "1615585008",
+            "currentPosition" : 5
+          },
+          {
+            "entryId" : "1608361225",
+            "currentPosition" : 6
+          },
+          {
+            "entryId" : "1610834871",
+            "currentPosition" : 7
+          },
+          {
+            "entryId" : "1610314695",
+            "currentPosition" : 8
+          },
+          {
+            "entryId" : "1595566841",
+            "currentPosition" : 9
+          },
+          {
+            "entryId" : "1620468349",
+            "currentPosition" : 10
+          }
+        ],
+        "date" : "2022-05-14T17:33:00Z"
+      },
+      {
+        "locked" : true,
+        "title" : "May 13, 2022",
+        "notes" : "",
+        "subtitle" : "",
+        "chartEntries" : [
+          {
+            "entryId" : "1612026523",
+            "currentPosition" : 1
+          },
+          {
+            "entryId" : "1622181214",
+            "currentPosition" : 2
+          },
+          {
+            "entryId" : "1614015063",
+            "currentPosition" : 3
+          },
+          {
+            "entryId" : "1615585008",
+            "currentPosition" : 4
+          },
+          {
+            "entryId" : "1613835083",
+            "currentPosition" : 5
+          },
+          {
+            "entryId" : "1620468349",
+            "currentPosition" : 6
+          },
+          {
+            "entryId" : "1608361225",
+            "currentPosition" : 7
+          },
+          {
+            "entryId" : "1610834871",
+            "currentPosition" : 8
+          },
+          {
+            "entryId" : "1610314695",
+            "currentPosition" : 9
+          },
+          {
+            "entryId" : "1595566841",
+            "currentPosition" : 10
+          }
+        ],
+        "date" : "2022-05-13T20:23:00Z"
+      },
+      {
+        "locked" : true,
+        "title" : "May 12, 2022",
+        "notes" : "",
+        "subtitle" : "",
+        "chartEntries" : [
+          {
+            "entryId" : "1612026523",
+            "currentPosition" : 1
+          },
+          {
+            "entryId" : "1615585008",
+            "currentPosition" : 2
+          },
+          {
+            "entryId" : "1614015063",
+            "currentPosition" : 3
+          },
+          {
+            "entryId" : "1620468349",
+            "currentPosition" : 4
+          },
+          {
+            "entryId" : "1613835083",
+            "currentPosition" : 5
+          },
+          {
+            "entryId" : "1608361225",
+            "currentPosition" : 6
+          },
+          {
+            "entryId" : "1610834871",
+            "currentPosition" : 7
+          },
+          {
+            "entryId" : "1610314695",
+            "currentPosition" : 8
+          },
+          {
+            "entryId" : "1595566841",
+            "currentPosition" : 9
+          },
+          {
+            "entryId" : "1618136917",
+            "currentPosition" : 10
+          }
+        ],
+        "date" : "2022-05-12T20:37:00Z"
+      },
+      {
+        "locked" : true,
+        "title" : "May 11, 2022",
+        "notes" : "",
+        "subtitle" : "",
+        "chartEntries" : [
+          {
+            "entryId" : "1612026523",
+            "currentPosition" : 1
+          },
+          {
+            "entryId" : "1615585008",
+            "currentPosition" : 2
+          },
+          {
+            "entryId" : "1614015063",
+            "currentPosition" : 3
+          },
+          {
+            "entryId" : "1620468349",
+            "currentPosition" : 4
+          },
+          {
+            "entryId" : "1613835083",
+            "currentPosition" : 5
+          },
+          {
+            "entryId" : "1608361225",
+            "currentPosition" : 6
+          },
+          {
+            "entryId" : "1610834871",
+            "currentPosition" : 7
+          },
+          {
+            "entryId" : "1610314695",
+            "currentPosition" : 8
+          },
+          {
+            "entryId" : "1595566841",
+            "currentPosition" : 9
+          },
+          {
+            "entryId" : "1609497995",
+            "currentPosition" : 10
+          }
+        ],
+        "date" : "2022-05-11T20:22:00Z"
+      },
+      {
+        "locked" : true,
+        "title" : "May 10, 2022",
+        "notes" : "",
+        "subtitle" : "",
+        "chartEntries" : [
+          {
+            "entryId" : "1612026523",
+            "currentPosition" : 1
+          },
+          {
+            "entryId" : "1615585008",
+            "currentPosition" : 2
+          },
+          {
+            "entryId" : "1614015063",
+            "currentPosition" : 3
+          },
+          {
+            "entryId" : "1620468349",
+            "currentPosition" : 4
+          },
+          {
+            "entryId" : "1613835083",
+            "currentPosition" : 5
+          },
+          {
+            "entryId" : "1608361225",
+            "currentPosition" : 6
+          },
+          {
+            "entryId" : "1610314695",
+            "currentPosition" : 7
+          },
+          {
+            "entryId" : "1610834871",
+            "currentPosition" : 8
+          },
+          {
+            "entryId" : "1595566841",
+            "currentPosition" : 9
+          },
+          {
+            "entryId" : "1618136917",
+            "currentPosition" : 10
+          }
+        ],
+        "date" : "2022-05-10T18:26:00Z"
+      },
+      {
+        "locked" : true,
+        "title" : "May 9, 2022",
+        "notes" : "",
+        "subtitle" : "",
+        "chartEntries" : [
+          {
+            "entryId" : "1615585008",
+            "currentPosition" : 1
+          },
+          {
+            "entryId" : "1614015063",
+            "currentPosition" : 2
+          },
+          {
+            "entryId" : "1620468349",
+            "currentPosition" : 3
+          },
+          {
+            "entryId" : "1613835083",
+            "currentPosition" : 4
+          },
+          {
+            "entryId" : "1608361225",
+            "currentPosition" : 5
+          },
+          {
+            "entryId" : "1610314695",
+            "currentPosition" : 6
+          },
+          {
+            "entryId" : "1610834871",
+            "currentPosition" : 7
+          },
+          {
+            "entryId" : "1612026523",
+            "currentPosition" : 8
+          },
+          {
+            "entryId" : "1595566841",
+            "currentPosition" : 9
+          },
+          {
+            "entryId" : "1609497995",
+            "currentPosition" : 10
+          }
+        ],
+        "date" : "2022-05-09T18:10:00Z"
+      },
+      {
+        "locked" : true,
+        "title" : "May 8, 2022",
+        "notes" : "",
+        "subtitle" : "",
+        "chartEntries" : [
+          {
+            "entryId" : "1615585008",
+            "currentPosition" : 1
+          },
+          {
+            "entryId" : "1614015063",
+            "currentPosition" : 2
+          },
+          {
+            "entryId" : "1613835083",
+            "currentPosition" : 3
+          },
+          {
+            "entryId" : "1608361225",
+            "currentPosition" : 4
+          },
+          {
+            "entryId" : "1610314695",
+            "currentPosition" : 5
+          },
+          {
+            "entryId" : "1620468349",
+            "currentPosition" : 6
+          },
+          {
+            "entryId" : "1595566841",
+            "currentPosition" : 7
+          },
+          {
+            "entryId" : "1610834871",
+            "currentPosition" : 8
+          },
+          {
+            "entryId" : "1612026523",
+            "currentPosition" : 9
+          },
+          {
+            "entryId" : "1609497995",
+            "currentPosition" : 10
+          }
+        ],
+        "date" : "2022-05-08T19:59:00Z"
+      },
+      {
+        "locked" : true,
+        "title" : "May 7, 2022",
+        "notes" : "",
+        "subtitle" : "",
+        "chartEntries" : [
+          {
+            "entryId" : "1613835083",
+            "currentPosition" : 1
+          },
+          {
+            "entryId" : "1614015063",
+            "currentPosition" : 2
+          },
+          {
+            "entryId" : "1615585008",
+            "currentPosition" : 3
+          },
+          {
+            "entryId" : "1608361225",
+            "currentPosition" : 4
+          },
+          {
+            "entryId" : "1610314695",
+            "currentPosition" : 5
+          },
+          {
+            "entryId" : "1595566841",
+            "currentPosition" : 6
+          },
+          {
+            "entryId" : "1609497995",
+            "currentPosition" : 7
+          },
+          {
+            "entryId" : "1610834871",
+            "currentPosition" : 8
+          },
+          {
+            "entryId" : "1620468349",
+            "currentPosition" : 9
+          },
+          {
+            "entryId" : "1612026523",
+            "currentPosition" : 10
+          }
+        ],
+        "date" : "2022-05-07T18:19:00Z"
+      },
+      {
+        "locked" : true,
+        "title" : "May 6, 2022",
+        "notes" : "",
+        "subtitle" : "",
+        "chartEntries" : [
+          {
+            "entryId" : "1615585008",
+            "currentPosition" : 1
+          },
+          {
+            "entryId" : "1613835083",
+            "currentPosition" : 2
+          },
+          {
+            "entryId" : "1614015063",
+            "currentPosition" : 3
+          },
+          {
+            "entryId" : "1608361225",
+            "currentPosition" : 4
+          },
+          {
+            "entryId" : "1610314695",
+            "currentPosition" : 5
+          },
+          {
+            "entryId" : "1595566841",
+            "currentPosition" : 6
+          },
+          {
+            "entryId" : "1610834871",
+            "currentPosition" : 7
+          },
+          {
+            "entryId" : "1609497995",
+            "currentPosition" : 8
+          },
+          {
+            "entryId" : "1620468349",
+            "currentPosition" : 9
+          },
+          {
+            "entryId" : "1612026523",
+            "currentPosition" : 10
+          }
+        ],
+        "date" : "2022-05-06T18:18:00Z"
+      },
+      {
+        "locked" : true,
         "title" : "May 5, 2022",
         "notes" : "",
         "subtitle" : "",
@@ -6136,216 +6577,6 @@
     "date" : "2022-01-01T14:30:00Z",
     "entries" : [
       {
-        "artist" : "Lil Kleine",
-        "id" : "1606723438",
-        "notes" : "",
-        "preview" : "https:\/\/music.apple.com\/nl\/album\/honderd-ruggen\/1606722838?i=1606723438",
-        "date" : "2022-01-28T18:21:00Z",
-        "title" : "Honderd Ruggen",
-        "musicService" : "Apple Music",
-        "artwork" : "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Music126\/v4\/77\/ad\/ba\/77adbab0-06b3-8e72-bf72-028f8e9b9281\/22UMGIM06026.rgb.jpg\/1024x1024bb.jpg"
-      },
-      {
-        "artist" : "Lil Kleine",
-        "id" : "1606723185",
-        "notes" : "",
-        "preview" : "https:\/\/music.apple.com\/nl\/album\/over-feat-boef\/1606722838?i=1606723185",
-        "date" : "2022-01-28T18:21:00Z",
-        "title" : "Over (feat. Boef)",
-        "musicService" : "Apple Music",
-        "artwork" : "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Music126\/v4\/77\/ad\/ba\/77adbab0-06b3-8e72-bf72-028f8e9b9281\/22UMGIM06026.rgb.jpg\/1024x1024bb.jpg"
-      },
-      {
-        "artist" : "S10",
-        "id" : "1612026523",
-        "notes" : "",
-        "preview" : "https:\/\/music.apple.com\/nl\/album\/de-diepte\/1612026238?i=1612026523",
-        "date" : "2022-03-03T19:02:00Z",
-        "title" : "De Diepte",
-        "musicService" : "Apple Music",
-        "artwork" : "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Music116\/v4\/1e\/c0\/cc\/1ec0cc2e-b9e2-5ab2-7aac-ae4a93289f6d\/22UMGIM18117.rgb.jpg\/1024x1024bb.jpg"
-      },
-      {
-        "artist" : "Donnie",
-        "id" : "1583547318",
-        "notes" : "",
-        "preview" : "https:\/\/music.apple.com\/nl\/album\/bon-gepakt-feat-rene-froger\/1583547035?i=1583547318",
-        "date" : "2022-01-01T14:31:00Z",
-        "title" : "Bon Gepakt (feat. Rene Froger)",
-        "musicService" : "Apple Music",
-        "artwork" : "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Music115\/v4\/e6\/f5\/30\/e6f5300f-205b-2465-07b6-94a6a7e25b6d\/21UMGIM86441.rgb.jpg\/1024x1024bb.jpg"
-      },
-      {
-        "artist" : "Tiësto & Ava Max",
-        "id" : "1590438674",
-        "notes" : "",
-        "preview" : "https:\/\/music.apple.com\/nl\/album\/the-motto\/1590438335?i=1590438674",
-        "date" : "2022-01-10T12:09:00Z",
-        "title" : "The Motto",
-        "musicService" : "Apple Music",
-        "artwork" : "https:\/\/is4-ssl.mzstatic.com\/image\/thumb\/Music126\/v4\/d4\/46\/bc\/d446bcf7-e633-ab67-a2fe-35a95ca74a6c\/075679766038.jpg\/1024x1024bb.jpg"
-      },
-      {
-        "artist" : "Bankzitters",
-        "id" : "1608977827",
-        "notes" : "",
-        "preview" : "https:\/\/music.apple.com\/nl\/album\/je-blik-richting-mij\/1608977826?i=1608977827",
-        "date" : "2022-02-11T19:14:00Z",
-        "title" : "Je Blik Richting Mij",
-        "musicService" : "Apple Music",
-        "artwork" : "https:\/\/is2-ssl.mzstatic.com\/image\/thumb\/Music126\/v4\/1c\/2c\/98\/1c2c98b0-30f3-979b-9b85-2f65fe4bc2a1\/artwork.jpg\/1024x1024bb.jpg"
-      },
-      {
-        "artist" : "Acraze",
-        "id" : "1579983161",
-        "notes" : "",
-        "preview" : "https:\/\/music.apple.com\/nl\/album\/do-it-to-it-feat-cherish\/1579983158?i=1579983161",
-        "date" : "2022-01-01T14:31:00Z",
-        "title" : "Do It To It (feat. Cherish)",
-        "musicService" : "Apple Music",
-        "artwork" : "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Music125\/v4\/3b\/da\/58\/3bda58c3-4cb9-b30d-b455-035010707df9\/21UMGIM70915.rgb.jpg\/1024x1024bb.jpg"
-      },
-      {
-        "artist" : "FLEMMING",
-        "id" : "1600444510",
-        "notes" : "",
-        "preview" : "https:\/\/music.apple.com\/nl\/album\/zij-wil-mij\/1600444509?i=1600444510",
-        "date" : "2022-02-19T18:28:00Z",
-        "title" : "Zij Wil Mij",
-        "musicService" : "Apple Music",
-        "artwork" : "https:\/\/is5-ssl.mzstatic.com\/image\/thumb\/Music116\/v4\/f5\/ff\/ec\/f5ffec9d-06df-6bbf-6ad7-987b0f218029\/8717774690475.png\/1024x1024bb.jpg"
-      },
-      {
-        "artist" : "Farruko",
-        "id" : "1573304194",
-        "notes" : "",
-        "preview" : "https:\/\/music.apple.com\/nl\/album\/pepas\/1573304187?i=1573304194",
-        "date" : "2022-01-01T14:31:00Z",
-        "title" : "Pepas",
-        "musicService" : "Apple Music",
-        "artwork" : "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Music115\/v4\/66\/bd\/86\/66bd86b2-3dc4-0cbd-d47e-00cc863dd7c4\/886449370535.jpg\/1024x1024bb.jpg"
-      },
-      {
-        "artist" : "GAYLE",
-        "id" : "1576949673",
-        "notes" : "",
-        "preview" : "https:\/\/music.apple.com\/nl\/album\/abcdefu\/1576949671?i=1576949673",
-        "date" : "2022-01-01T14:31:00Z",
-        "title" : "abcdefu",
-        "musicService" : "Apple Music",
-        "artwork" : "https:\/\/is5-ssl.mzstatic.com\/image\/thumb\/Music125\/v4\/a8\/28\/f3\/a828f3eb-74a6-96c9-356f-940da7905f54\/075679774309.jpg\/1024x1024bb.jpg"
-      },
-      {
-        "artist" : "Antoon",
-        "id" : "1610314695",
-        "notes" : "",
-        "preview" : "https:\/\/music.apple.com\/nl\/album\/hotelschool\/1610314686?i=1610314695",
-        "date" : "2022-03-06T19:36:00Z",
-        "title" : "Hotelschool",
-        "musicService" : "Apple Music",
-        "artwork" : "https:\/\/is2-ssl.mzstatic.com\/image\/thumb\/Music126\/v4\/20\/96\/d2\/2096d229-fe7d-dc8a-fd42-53101152c209\/8718521067663.png\/1024x1024bb.jpg"
-      },
-      {
-        "artist" : "Harry Styles",
-        "id" : "1615585008",
-        "notes" : "",
-        "preview" : "https:\/\/music.apple.com\/nl\/album\/as-it-was\/1615584999?i=1615585008",
-        "date" : "2022-04-01T18:03:00Z",
-        "title" : "As It Was",
-        "musicService" : "Apple Music",
-        "artwork" : "https:\/\/is2-ssl.mzstatic.com\/image\/thumb\/Music126\/v4\/2a\/19\/fb\/2a19fb85-2f70-9e44-f2a9-82abe679b88e\/886449990061.jpg\/1024x1024bb.jpg"
-      },
-      {
-        "artist" : "James Hype & Miggy Dela Rosa",
-        "id" : "1614015063",
-        "notes" : "",
-        "preview" : "https:\/\/music.apple.com\/nl\/album\/ferrari\/1614015061?i=1614015063",
-        "date" : "2022-04-22T16:59:00Z",
-        "title" : "Ferrari",
-        "musicService" : "Apple Music",
-        "artwork" : "https:\/\/is4-ssl.mzstatic.com\/image\/thumb\/Music126\/v4\/ff\/d4\/f4\/ffd4f4da-015f-047d-35d3-460321d86473\/5060203988746_Cover.jpg\/1024x1024bb.jpg"
-      },
-      {
-        "artist" : "Lijpe",
-        "id" : "1605734741",
-        "notes" : "",
-        "preview" : "https:\/\/music.apple.com\/nl\/album\/was-er-nooit\/1605734740?i=1605734741",
-        "date" : "2022-01-21T20:55:00Z",
-        "title" : "Was Er Nooit",
-        "musicService" : "Apple Music",
-        "artwork" : "https:\/\/is2-ssl.mzstatic.com\/image\/thumb\/Music116\/v4\/7b\/19\/c8\/7b19c8f6-034e-a1f3-2b46-ed98b453ee5b\/22UMGIM05711.rgb.jpg\/1024x1024bb.jpg"
-      },
-      {
-        "artist" : "Cristian D, Bilal Wahib & LA$$A",
-        "id" : "1611859850",
-        "notes" : "",
-        "preview" : "https:\/\/music.apple.com\/nl\/album\/1234\/1611859841?i=1611859850",
-        "date" : "2022-03-14T19:17:00Z",
-        "title" : "1234",
-        "musicService" : "Apple Music",
-        "artwork" : "https:\/\/is4-ssl.mzstatic.com\/image\/thumb\/Music126\/v4\/56\/23\/88\/56238824-008b-f8f4-3906-e8667dd2681b\/190296224355.jpg\/1024x1024bb.jpg"
-      },
-      {
-        "artist" : "FLEMMING",
-        "id" : "1585337001",
-        "notes" : "",
-        "preview" : "https:\/\/music.apple.com\/nl\/album\/amsterdam\/1585337000?i=1585337001",
-        "date" : "2022-01-01T14:31:00Z",
-        "title" : "Amsterdam",
-        "musicService" : "Apple Music",
-        "artwork" : "https:\/\/is3-ssl.mzstatic.com\/image\/thumb\/Music115\/v4\/f5\/32\/e5\/f532e511-35ea-a771-24d7-0df82d96e5f9\/8717774690161.png\/1024x1024bb.jpg"
-      },
-      {
-        "artist" : "Bilal Wahib",
-        "id" : "1594397797",
-        "notes" : "",
-        "preview" : "https:\/\/music.apple.com\/nl\/album\/streken-van-een-duivel-feat-frenna\/1594397674?i=1594397797",
-        "date" : "2022-01-02T14:35:00Z",
-        "title" : "Streken Van Een Duivel (feat. Frenna)",
-        "musicService" : "Apple Music",
-        "artwork" : "https:\/\/is5-ssl.mzstatic.com\/image\/thumb\/Music116\/v4\/12\/c7\/da\/12c7dad3-0192-8ea4-6e6c-73fef03e2790\/21UM1IM40048.rgb.jpg\/1024x1024bb.jpg"
-      },
-      {
-        "artist" : "Donnie & Mart Hoogkamer",
-        "id" : "1609497995",
-        "notes" : "",
-        "preview" : "https:\/\/music.apple.com\/nl\/album\/bieber-van-de-kroeg\/1609497994?i=1609497995",
-        "date" : "2022-03-25T21:36:00Z",
-        "title" : "Bieber Van De Kroeg",
-        "musicService" : "Apple Music",
-        "artwork" : "https:\/\/is2-ssl.mzstatic.com\/image\/thumb\/Music126\/v4\/6c\/f1\/07\/6cf107ea-ec65-fbbe-9310-e0b8be39dbe1\/8717774690604.png\/1024x1024bb.jpg"
-      },
-      {
-        "artist" : "Adele",
-        "id" : "1590036021",
-        "notes" : "",
-        "preview" : "https:\/\/music.apple.com\/nl\/album\/easy-on-me\/1590035691?i=1590036021",
-        "date" : "2022-01-01T14:31:00Z",
-        "title" : "Easy On Me",
-        "musicService" : "Apple Music",
-        "artwork" : "https:\/\/is3-ssl.mzstatic.com\/image\/thumb\/Music115\/v4\/73\/6d\/7c\/736d7cfb-c79d-c9a9-4170-5e71d008dea1\/886449666430.jpg\/1024x1024bb.jpg"
-      },
-      {
-        "artist" : "Lil Kleine",
-        "id" : "1606723177",
-        "notes" : "",
-        "preview" : "https:\/\/music.apple.com\/nl\/album\/ibiza-stories\/1606722838?i=1606723177",
-        "date" : "2022-01-28T18:21:00Z",
-        "title" : "Ibiza Stories",
-        "musicService" : "Apple Music",
-        "artwork" : "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Music126\/v4\/77\/ad\/ba\/77adbab0-06b3-8e72-bf72-028f8e9b9281\/22UMGIM06026.rgb.jpg\/1024x1024bb.jpg"
-      },
-      {
-        "artist" : "Imagine Dragons, JID & League of Legends",
-        "id" : "1591640885",
-        "notes" : "",
-        "preview" : "https:\/\/music.apple.com\/nl\/album\/enemy-from-the-series-arcane-league-of-legends\/1591640884?i=1591640885",
-        "date" : "2022-01-12T19:10:00Z",
-        "title" : "Enemy (From the series \"Arcane League of Legends\")",
-        "musicService" : "Apple Music",
-        "artwork" : "https:\/\/is3-ssl.mzstatic.com\/image\/thumb\/Music126\/v4\/76\/77\/08\/767708a7-ec93-3b3d-3bac-40086e5a265c\/21UM1IM29634.rgb.jpg\/1024x1024bb.jpg"
-      },
-      {
         "artist" : "Stromae",
         "id" : "1597986967",
         "notes" : "",
@@ -6356,44 +6587,14 @@
         "artwork" : "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Music126\/v4\/06\/c2\/09\/06c2092d-5ca7-d5a3-50a2-f4182bb64dc6\/21UM1IM50758.rgb.jpg\/1024x1024bb.jpg"
       },
       {
-        "artist" : "Antoon & Big2",
-        "id" : "1610314694",
-        "notes" : "",
-        "preview" : "https:\/\/music.apple.com\/nl\/album\/tantoe-lekker\/1610314686?i=1610314694",
-        "date" : "2022-03-17T19:34:00Z",
-        "title" : "Tantoe Lekker",
-        "musicService" : "Apple Music",
-        "artwork" : "https:\/\/is2-ssl.mzstatic.com\/image\/thumb\/Music126\/v4\/20\/96\/d2\/2096d229-fe7d-dc8a-fd42-53101152c209\/8718521067663.png\/1024x1024bb.jpg"
-      },
-      {
-        "artist" : "Lauren Spencer-Smith",
-        "id" : "1602237308",
-        "notes" : "",
-        "preview" : "https:\/\/music.apple.com\/nl\/album\/fingers-crossed\/1602237141?i=1602237308",
-        "date" : "2022-01-06T14:40:00Z",
-        "title" : "Fingers Crossed",
-        "musicService" : "Apple Music",
-        "artwork" : "https:\/\/is2-ssl.mzstatic.com\/image\/thumb\/Music116\/v4\/a8\/72\/61\/a8726153-e53f-9f57-fdfa-e032b969c81a\/859752093125_cover.jpg\/1024x1024bb.jpg"
-      },
-      {
         "artist" : "Lil Kleine",
-        "id" : "1606723198",
+        "id" : "1606723185",
         "notes" : "",
-        "preview" : "https:\/\/music.apple.com\/nl\/album\/bosmuis\/1606722838?i=1606723198",
+        "preview" : "https:\/\/music.apple.com\/nl\/album\/over-feat-boef\/1606722838?i=1606723185",
         "date" : "2022-01-28T18:21:00Z",
-        "title" : "Bosmuis",
+        "title" : "Over (feat. Boef)",
         "musicService" : "Apple Music",
         "artwork" : "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Music126\/v4\/77\/ad\/ba\/77adbab0-06b3-8e72-bf72-028f8e9b9281\/22UMGIM06026.rgb.jpg\/1024x1024bb.jpg"
-      },
-      {
-        "artist" : "Trobi",
-        "id" : "1615413901",
-        "notes" : "",
-        "preview" : "https:\/\/music.apple.com\/nl\/album\/donkere-dagen-feat-lijpe-emms\/1615413900?i=1615413901",
-        "date" : "2022-04-08T19:34:32Z",
-        "title" : "Donkere Dagen (feat. Lijpe & Emms)",
-        "musicService" : "Apple Music",
-        "artwork" : "https:\/\/is3-ssl.mzstatic.com\/image\/thumb\/Music112\/v4\/42\/9d\/c0\/429dc010-3637-3dcb-d63e-effc5f174e3e\/22UMGIM27615.rgb.jpg\/1024x1024bb.jpg"
       },
       {
         "artist" : "Suzan & Freek",
@@ -6416,14 +6617,154 @@
         "artwork" : "https:\/\/is2-ssl.mzstatic.com\/image\/thumb\/Music115\/v4\/da\/8b\/77\/da8b7731-6f4f-eacf-5e74-8b23389eefa1\/20UMGIM03371.rgb.jpg\/1024x1024bb.jpg"
       },
       {
-        "artist" : "Elton John & Dua Lipa",
-        "id" : "1578986673",
+        "artist" : "Trobi",
+        "id" : "1615413901",
         "notes" : "",
-        "preview" : "https:\/\/music.apple.com\/nl\/album\/cold-heart-pnau-remix\/1578986656?i=1578986673",
-        "date" : "2022-01-01T14:31:00Z",
-        "title" : "Cold Heart (PNAU Remix)",
+        "preview" : "https:\/\/music.apple.com\/nl\/album\/donkere-dagen-feat-lijpe-emms\/1615413900?i=1615413901",
+        "date" : "2022-04-08T19:34:32Z",
+        "title" : "Donkere Dagen (feat. Lijpe & Emms)",
         "musicService" : "Apple Music",
-        "artwork" : "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Music125\/v4\/ec\/2f\/92\/ec2f929f-e7ea-b291-42d7-75081bd808a1\/21UMGIM68484.rgb.jpg\/1024x1024bb.jpg"
+        "artwork" : "https:\/\/is3-ssl.mzstatic.com\/image\/thumb\/Music112\/v4\/42\/9d\/c0\/429dc010-3637-3dcb-d63e-effc5f174e3e\/22UMGIM27615.rgb.jpg\/1024x1024bb.jpg"
+      },
+      {
+        "artist" : "Camila Cabello",
+        "id" : "1610834871",
+        "notes" : "",
+        "preview" : "https:\/\/music.apple.com\/nl\/album\/bam-bam-feat-ed-sheeran\/1610834866?i=1610834871",
+        "date" : "2022-04-05T19:40:00Z",
+        "title" : "Bam Bam (feat. Ed Sheeran)",
+        "musicService" : "Apple Music",
+        "artwork" : "https:\/\/is5-ssl.mzstatic.com\/image\/thumb\/Music116\/v4\/b7\/e3\/2f\/b7e32fd7-7ca3-edf6-7df8-861bfcfd6f9a\/886449526772.jpg\/1024x1024bb.jpg"
+      },
+      {
+        "artist" : "James Hype & Miggy Dela Rosa",
+        "id" : "1614015063",
+        "notes" : "",
+        "preview" : "https:\/\/music.apple.com\/nl\/album\/ferrari\/1614015061?i=1614015063",
+        "date" : "2022-04-22T16:59:00Z",
+        "title" : "Ferrari",
+        "musicService" : "Apple Music",
+        "artwork" : "https:\/\/is4-ssl.mzstatic.com\/image\/thumb\/Music126\/v4\/ff\/d4\/f4\/ffd4f4da-015f-047d-35d3-460321d86473\/5060203988746_Cover.jpg\/1024x1024bb.jpg"
+      },
+      {
+        "artist" : "Jack Harlow",
+        "id" : "1618136917",
+        "notes" : "",
+        "preview" : "https:\/\/music.apple.com\/nl\/album\/first-class\/1618136433?i=1618136917",
+        "date" : "2022-04-11T21:14:00Z",
+        "title" : "First Class",
+        "musicService" : "Apple Music",
+        "artwork" : "https:\/\/is4-ssl.mzstatic.com\/image\/thumb\/Music116\/v4\/e6\/b8\/83\/e6b88344-8d5d-d353-06bc-3204d87071e6\/075679759252.jpg\/1024x1024bb.jpg"
+      },
+      {
+        "artist" : "$hirak",
+        "id" : "1622181214",
+        "notes" : "",
+        "preview" : "https:\/\/music.apple.com\/nl\/album\/als-je-bij-me-blijft-feat-cristian-d-bilal-wahib-ronnie\/1622181212?i=1622181214&l=en",
+        "date" : "2022-05-14T20:37:50Z",
+        "title" : "Als Je Bij Me Blijft (feat. Cristian D, Bilal Wahib, Ronnie Flex & Boef)",
+        "musicService" : "Apple Music",
+        "artwork" : "https:\/\/is3-ssl.mzstatic.com\/image\/thumb\/Music112\/v4\/ec\/a2\/61\/eca261fb-b622-2b30-797d-d3220710afb9\/196589150127.jpg\/1024x1024bb.jpg"
+      },
+      {
+        "artist" : "Kris Kross Amsterdam, Donnie & Tino Martin",
+        "id" : "1613835083",
+        "notes" : "",
+        "preview" : "https:\/\/music.apple.com\/nl\/album\/vanavond-uit-mn-bol\/1613834662?i=1613835083",
+        "date" : "2022-03-27T20:39:00Z",
+        "title" : "Vanavond (Uit M'n Bol)",
+        "musicService" : "Apple Music",
+        "artwork" : "https:\/\/is4-ssl.mzstatic.com\/image\/thumb\/Music126\/v4\/f1\/fd\/d2\/f1fdd294-f618-e62d-6664-06825966498f\/22UMGIM17243.rgb.jpg\/1024x1024bb.jpg"
+      },
+      {
+        "artist" : "Lauren Spencer-Smith",
+        "id" : "1602237308",
+        "notes" : "",
+        "preview" : "https:\/\/music.apple.com\/nl\/album\/fingers-crossed\/1602237141?i=1602237308",
+        "date" : "2022-01-06T14:40:00Z",
+        "title" : "Fingers Crossed",
+        "musicService" : "Apple Music",
+        "artwork" : "https:\/\/is2-ssl.mzstatic.com\/image\/thumb\/Music116\/v4\/a8\/72\/61\/a8726153-e53f-9f57-fdfa-e032b969c81a\/859752093125_cover.jpg\/1024x1024bb.jpg"
+      },
+      {
+        "artist" : "S10",
+        "id" : "1612026523",
+        "notes" : "",
+        "preview" : "https:\/\/music.apple.com\/nl\/album\/de-diepte\/1612026238?i=1612026523",
+        "date" : "2022-03-03T19:02:00Z",
+        "title" : "De Diepte",
+        "musicService" : "Apple Music",
+        "artwork" : "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Music116\/v4\/1e\/c0\/cc\/1ec0cc2e-b9e2-5ab2-7aac-ae4a93289f6d\/22UMGIM18117.rgb.jpg\/1024x1024bb.jpg"
+      },
+      {
+        "artist" : "Bankzitters",
+        "id" : "1608977827",
+        "notes" : "",
+        "preview" : "https:\/\/music.apple.com\/nl\/album\/je-blik-richting-mij\/1608977826?i=1608977827",
+        "date" : "2022-02-11T19:14:00Z",
+        "title" : "Je Blik Richting Mij",
+        "musicService" : "Apple Music",
+        "artwork" : "https:\/\/is2-ssl.mzstatic.com\/image\/thumb\/Music126\/v4\/1c\/2c\/98\/1c2c98b0-30f3-979b-9b85-2f65fe4bc2a1\/artwork.jpg\/1024x1024bb.jpg"
+      },
+      {
+        "artist" : "Lil Kleine",
+        "id" : "1606723177",
+        "notes" : "",
+        "preview" : "https:\/\/music.apple.com\/nl\/album\/ibiza-stories\/1606722838?i=1606723177",
+        "date" : "2022-01-28T18:21:00Z",
+        "title" : "Ibiza Stories",
+        "musicService" : "Apple Music",
+        "artwork" : "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Music126\/v4\/77\/ad\/ba\/77adbab0-06b3-8e72-bf72-028f8e9b9281\/22UMGIM06026.rgb.jpg\/1024x1024bb.jpg"
+      },
+      {
+        "artist" : "Acraze",
+        "id" : "1579983161",
+        "notes" : "",
+        "preview" : "https:\/\/music.apple.com\/nl\/album\/do-it-to-it-feat-cherish\/1579983158?i=1579983161",
+        "date" : "2022-01-01T14:31:00Z",
+        "title" : "Do It To It (feat. Cherish)",
+        "musicService" : "Apple Music",
+        "artwork" : "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Music125\/v4\/3b\/da\/58\/3bda58c3-4cb9-b30d-b455-035010707df9\/21UMGIM70915.rgb.jpg\/1024x1024bb.jpg"
+      },
+      {
+        "artist" : "Donnie",
+        "id" : "1583547318",
+        "notes" : "",
+        "preview" : "https:\/\/music.apple.com\/nl\/album\/bon-gepakt-feat-rene-froger\/1583547035?i=1583547318",
+        "date" : "2022-01-01T14:31:00Z",
+        "title" : "Bon Gepakt (feat. Rene Froger)",
+        "musicService" : "Apple Music",
+        "artwork" : "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Music115\/v4\/e6\/f5\/30\/e6f5300f-205b-2465-07b6-94a6a7e25b6d\/21UMGIM86441.rgb.jpg\/1024x1024bb.jpg"
+      },
+      {
+        "artist" : "Willy William",
+        "id" : "1607563416",
+        "notes" : "",
+        "preview" : "https:\/\/music.apple.com\/nl\/album\/trompeta\/1607563325?i=1607563416&l=en",
+        "date" : "2022-05-02T17:18:00Z",
+        "title" : "Trompeta",
+        "musicService" : "Apple Music",
+        "artwork" : "https:\/\/is5-ssl.mzstatic.com\/image\/thumb\/Music116\/v4\/a4\/7d\/e7\/a47de75b-06da-58f4-d07e-530ff1d00fbd\/5414165132271.png\/1024x1024bb.jpg"
+      },
+      {
+        "artist" : "GAYLE",
+        "id" : "1576949673",
+        "notes" : "",
+        "preview" : "https:\/\/music.apple.com\/nl\/album\/abcdefu\/1576949671?i=1576949673",
+        "date" : "2022-01-01T14:31:00Z",
+        "title" : "abcdefu",
+        "musicService" : "Apple Music",
+        "artwork" : "https:\/\/is5-ssl.mzstatic.com\/image\/thumb\/Music125\/v4\/a8\/28\/f3\/a828f3eb-74a6-96c9-356f-940da7905f54\/075679774309.jpg\/1024x1024bb.jpg"
+      },
+      {
+        "artist" : "Bilal Wahib",
+        "id" : "1594397797",
+        "notes" : "",
+        "preview" : "https:\/\/music.apple.com\/nl\/album\/streken-van-een-duivel-feat-frenna\/1594397674?i=1594397797",
+        "date" : "2022-01-02T14:35:00Z",
+        "title" : "Streken Van Een Duivel (feat. Frenna)",
+        "musicService" : "Apple Music",
+        "artwork" : "https:\/\/is5-ssl.mzstatic.com\/image\/thumb\/Music116\/v4\/12\/c7\/da\/12c7dad3-0192-8ea4-6e6c-73fef03e2790\/21UM1IM40048.rgb.jpg\/1024x1024bb.jpg"
       },
       {
         "artist" : "Trobi",
@@ -6436,12 +6777,32 @@
         "artwork" : "https:\/\/is2-ssl.mzstatic.com\/image\/thumb\/Music126\/v4\/b3\/31\/f8\/b331f8f9-e6c8-3eef-8ceb-594147ec6831\/22UMGIM19671.rgb.jpg\/1024x1024bb.jpg"
       },
       {
-        "artist" : "Lil Kleine",
-        "id" : "1606723202",
+        "artist" : "FLEMMING",
+        "id" : "1600444510",
         "notes" : "",
-        "preview" : "https:\/\/music.apple.com\/nl\/album\/schaap-citroen-feat-joeyak\/1606722838?i=1606723202",
+        "preview" : "https:\/\/music.apple.com\/nl\/album\/zij-wil-mij\/1600444509?i=1600444510",
+        "date" : "2022-02-19T18:28:00Z",
+        "title" : "Zij Wil Mij",
+        "musicService" : "Apple Music",
+        "artwork" : "https:\/\/is5-ssl.mzstatic.com\/image\/thumb\/Music116\/v4\/f5\/ff\/ec\/f5ffec9d-06df-6bbf-6ad7-987b0f218029\/8717774690475.png\/1024x1024bb.jpg"
+      },
+      {
+        "artist" : "Antoon",
+        "id" : "1608361225",
+        "notes" : "",
+        "preview" : "https:\/\/music.apple.com\/nl\/album\/hallo\/1608361223?i=1608361225",
+        "date" : "2022-02-25T16:15:00Z",
+        "title" : "Hallo",
+        "musicService" : "Apple Music",
+        "artwork" : "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Music116\/v4\/41\/3e\/90\/413e90b4-5be0-acf0-80bf-215d882b229f\/8718521067564.png\/1024x1024bb.jpg"
+      },
+      {
+        "artist" : "Lil Kleine",
+        "id" : "1606723438",
+        "notes" : "",
+        "preview" : "https:\/\/music.apple.com\/nl\/album\/honderd-ruggen\/1606722838?i=1606723438",
         "date" : "2022-01-28T18:21:00Z",
-        "title" : "Schaap & Citroen (feat. JoeyAK)",
+        "title" : "Honderd Ruggen",
         "musicService" : "Apple Music",
         "artwork" : "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Music126\/v4\/77\/ad\/ba\/77adbab0-06b3-8e72-bf72-028f8e9b9281\/22UMGIM06026.rgb.jpg\/1024x1024bb.jpg"
       },
@@ -6456,44 +6817,44 @@
         "artwork" : "https:\/\/is3-ssl.mzstatic.com\/image\/thumb\/Music125\/v4\/cb\/fa\/6e\/cbfa6e39-cf7e-9e8a-812b-9825c8c2d430\/8720205195470.png\/1024x1024bb.jpg"
       },
       {
-        "artist" : "Willy William",
-        "id" : "1607563416",
+        "artist" : "Farruko",
+        "id" : "1573304194",
         "notes" : "",
-        "preview" : "https:\/\/music.apple.com\/nl\/album\/trompeta\/1607563325?i=1607563416&l=en",
-        "date" : "2022-05-02T17:18:00Z",
-        "title" : "Trompeta",
+        "preview" : "https:\/\/music.apple.com\/nl\/album\/pepas\/1573304187?i=1573304194",
+        "date" : "2022-01-01T14:31:00Z",
+        "title" : "Pepas",
         "musicService" : "Apple Music",
-        "artwork" : "https:\/\/is5-ssl.mzstatic.com\/image\/thumb\/Music116\/v4\/a4\/7d\/e7\/a47de75b-06da-58f4-d07e-530ff1d00fbd\/5414165132271.png\/1024x1024bb.jpg"
+        "artwork" : "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Music115\/v4\/66\/bd\/86\/66bd86b2-3dc4-0cbd-d47e-00cc863dd7c4\/886449370535.jpg\/1024x1024bb.jpg"
       },
       {
-        "artist" : "Kris Kross Amsterdam, Donnie & Tino Martin",
-        "id" : "1613835083",
+        "artist" : "Antoon & Big2",
+        "id" : "1610314694",
         "notes" : "",
-        "preview" : "https:\/\/music.apple.com\/nl\/album\/vanavond-uit-mn-bol\/1613834662?i=1613835083",
-        "date" : "2022-03-27T20:39:00Z",
-        "title" : "Vanavond (Uit M'n Bol)",
+        "preview" : "https:\/\/music.apple.com\/nl\/album\/tantoe-lekker\/1610314686?i=1610314694",
+        "date" : "2022-03-17T19:34:00Z",
+        "title" : "Tantoe Lekker",
         "musicService" : "Apple Music",
-        "artwork" : "https:\/\/is4-ssl.mzstatic.com\/image\/thumb\/Music126\/v4\/f1\/fd\/d2\/f1fdd294-f618-e62d-6664-06825966498f\/22UMGIM17243.rgb.jpg\/1024x1024bb.jpg"
+        "artwork" : "https:\/\/is2-ssl.mzstatic.com\/image\/thumb\/Music126\/v4\/20\/96\/d2\/2096d229-fe7d-dc8a-fd42-53101152c209\/8718521067663.png\/1024x1024bb.jpg"
       },
       {
-        "artist" : "Josylvio",
-        "id" : "1608919600",
+        "artist" : "FLEMMING",
+        "id" : "1585337001",
         "notes" : "",
-        "preview" : "https:\/\/music.apple.com\/nl\/album\/zoveel-takkies\/1608919367?i=1608919600",
-        "date" : "2022-02-11T19:14:00Z",
-        "title" : "Zoveel Takkies",
+        "preview" : "https:\/\/music.apple.com\/nl\/album\/amsterdam\/1585337000?i=1585337001",
+        "date" : "2022-01-01T14:31:00Z",
+        "title" : "Amsterdam",
         "musicService" : "Apple Music",
-        "artwork" : "https:\/\/is3-ssl.mzstatic.com\/image\/thumb\/Music116\/v4\/cc\/4b\/a3\/cc4ba3e9-a53a-f098-9343-a513a7774c8f\/22UMGIM11453.rgb.jpg\/1024x1024bb.jpg"
+        "artwork" : "https:\/\/is3-ssl.mzstatic.com\/image\/thumb\/Music115\/v4\/f5\/32\/e5\/f532e511-35ea-a771-24d7-0df82d96e5f9\/8717774690161.png\/1024x1024bb.jpg"
       },
       {
-        "artist" : "Antoon",
-        "id" : "1608361225",
+        "artist" : "Adele",
+        "id" : "1590036021",
         "notes" : "",
-        "preview" : "https:\/\/music.apple.com\/nl\/album\/hallo\/1608361223?i=1608361225",
-        "date" : "2022-02-25T16:15:00Z",
-        "title" : "Hallo",
+        "preview" : "https:\/\/music.apple.com\/nl\/album\/easy-on-me\/1590035691?i=1590036021",
+        "date" : "2022-01-01T14:31:00Z",
+        "title" : "Easy On Me",
         "musicService" : "Apple Music",
-        "artwork" : "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Music116\/v4\/41\/3e\/90\/413e90b4-5be0-acf0-80bf-215d882b229f\/8718521067564.png\/1024x1024bb.jpg"
+        "artwork" : "https:\/\/is3-ssl.mzstatic.com\/image\/thumb\/Music115\/v4\/73\/6d\/7c\/736d7cfb-c79d-c9a9-4170-5e71d008dea1\/886449666430.jpg\/1024x1024bb.jpg"
       },
       {
         "artist" : "Lil Kleine",
@@ -6506,14 +6867,34 @@
         "artwork" : "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Music126\/v4\/77\/ad\/ba\/77adbab0-06b3-8e72-bf72-028f8e9b9281\/22UMGIM06026.rgb.jpg\/1024x1024bb.jpg"
       },
       {
-        "artist" : "Camila Cabello",
-        "id" : "1610834871",
+        "artist" : "Lil Kleine",
+        "id" : "1606723202",
         "notes" : "",
-        "preview" : "https:\/\/music.apple.com\/nl\/album\/bam-bam-feat-ed-sheeran\/1610834866?i=1610834871",
-        "date" : "2022-04-05T19:40:00Z",
-        "title" : "Bam Bam (feat. Ed Sheeran)",
+        "preview" : "https:\/\/music.apple.com\/nl\/album\/schaap-citroen-feat-joeyak\/1606722838?i=1606723202",
+        "date" : "2022-01-28T18:21:00Z",
+        "title" : "Schaap & Citroen (feat. JoeyAK)",
         "musicService" : "Apple Music",
-        "artwork" : "https:\/\/is5-ssl.mzstatic.com\/image\/thumb\/Music116\/v4\/b7\/e3\/2f\/b7e32fd7-7ca3-edf6-7df8-861bfcfd6f9a\/886449526772.jpg\/1024x1024bb.jpg"
+        "artwork" : "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Music126\/v4\/77\/ad\/ba\/77adbab0-06b3-8e72-bf72-028f8e9b9281\/22UMGIM06026.rgb.jpg\/1024x1024bb.jpg"
+      },
+      {
+        "artist" : "Zoë Tauran",
+        "id" : "1620468349",
+        "notes" : "",
+        "preview" : "https:\/\/music.apple.com\/nl\/album\/solo-feat-bilal-wahib\/1620468345?i=1620468349&l=en",
+        "date" : "2022-05-06T18:18:00Z",
+        "title" : "Solo (feat. Bilal Wahib)",
+        "musicService" : "Apple Music",
+        "artwork" : "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Music122\/v4\/32\/cf\/11\/32cf1117-66b5-df8a-176c-a270eba7d113\/22UMGIM43057.rgb.jpg\/1024x1024bb.jpg"
+      },
+      {
+        "artist" : "Donnie & Mart Hoogkamer",
+        "id" : "1609497995",
+        "notes" : "",
+        "preview" : "https:\/\/music.apple.com\/nl\/album\/bieber-van-de-kroeg\/1609497994?i=1609497995",
+        "date" : "2022-03-25T21:36:00Z",
+        "title" : "Bieber Van De Kroeg",
+        "musicService" : "Apple Music",
+        "artwork" : "https:\/\/is2-ssl.mzstatic.com\/image\/thumb\/Music126\/v4\/6c\/f1\/07\/6cf107ea-ec65-fbbe-9310-e0b8be39dbe1\/8717774690604.png\/1024x1024bb.jpg"
       },
       {
         "artist" : "Kris Kross Amsterdam, Antoon & Sigourney K",
@@ -6526,24 +6907,44 @@
         "artwork" : "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Music116\/v4\/71\/e1\/eb\/71e1ebda-861d-6a53-5044-b200ead6b2b1\/8718521066796.png\/1024x1024bb.jpg"
       },
       {
-        "artist" : "Lil Kleine",
-        "id" : "1606723187",
+        "artist" : "Harry Styles",
+        "id" : "1615585008",
         "notes" : "",
-        "preview" : "https:\/\/music.apple.com\/nl\/album\/jongens-van-plein-feat-joeyak\/1606722838?i=1606723187",
+        "preview" : "https:\/\/music.apple.com\/nl\/album\/as-it-was\/1615584999?i=1615585008",
+        "date" : "2022-04-01T18:03:00Z",
+        "title" : "As It Was",
+        "musicService" : "Apple Music",
+        "artwork" : "https:\/\/is2-ssl.mzstatic.com\/image\/thumb\/Music126\/v4\/2a\/19\/fb\/2a19fb85-2f70-9e44-f2a9-82abe679b88e\/886449990061.jpg\/1024x1024bb.jpg"
+      },
+      {
+        "artist" : "Lil Kleine",
+        "id" : "1606723198",
+        "notes" : "",
+        "preview" : "https:\/\/music.apple.com\/nl\/album\/bosmuis\/1606722838?i=1606723198",
         "date" : "2022-01-28T18:21:00Z",
-        "title" : "Jongens Van Plein (feat. JoeyAK)",
+        "title" : "Bosmuis",
         "musicService" : "Apple Music",
         "artwork" : "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Music126\/v4\/77\/ad\/ba\/77adbab0-06b3-8e72-bf72-028f8e9b9281\/22UMGIM06026.rgb.jpg\/1024x1024bb.jpg"
       },
       {
-        "artist" : "Jack Harlow",
-        "id" : "1618136917",
+        "artist" : "Antoon",
+        "id" : "1610314695",
         "notes" : "",
-        "preview" : "https:\/\/music.apple.com\/nl\/album\/first-class\/1618136433?i=1618136917",
-        "date" : "2022-04-11T21:14:00Z",
-        "title" : "First Class",
+        "preview" : "https:\/\/music.apple.com\/nl\/album\/hotelschool\/1610314686?i=1610314695",
+        "date" : "2022-03-06T19:36:00Z",
+        "title" : "Hotelschool",
         "musicService" : "Apple Music",
-        "artwork" : "https:\/\/is4-ssl.mzstatic.com\/image\/thumb\/Music116\/v4\/e6\/b8\/83\/e6b88344-8d5d-d353-06bc-3204d87071e6\/075679759252.jpg\/1024x1024bb.jpg"
+        "artwork" : "https:\/\/is2-ssl.mzstatic.com\/image\/thumb\/Music126\/v4\/20\/96\/d2\/2096d229-fe7d-dc8a-fd42-53101152c209\/8718521067663.png\/1024x1024bb.jpg"
+      },
+      {
+        "artist" : "Josylvio",
+        "id" : "1608919600",
+        "notes" : "",
+        "preview" : "https:\/\/music.apple.com\/nl\/album\/zoveel-takkies\/1608919367?i=1608919600",
+        "date" : "2022-02-11T19:14:00Z",
+        "title" : "Zoveel Takkies",
+        "musicService" : "Apple Music",
+        "artwork" : "https:\/\/is3-ssl.mzstatic.com\/image\/thumb\/Music116\/v4\/cc\/4b\/a3\/cc4ba3e9-a53a-f098-9343-a513a7774c8f\/22UMGIM11453.rgb.jpg\/1024x1024bb.jpg"
       },
       {
         "artist" : "Cristian D",
@@ -6554,6 +6955,66 @@
         "title" : "Amsterdam (feat. $hirak, Brysa & Ashafar)",
         "musicService" : "Apple Music",
         "artwork" : "https:\/\/is5-ssl.mzstatic.com\/image\/thumb\/Music126\/v4\/30\/d4\/09\/30d40921-b072-6f6f-45ed-f93ce709f3be\/22UMGIM02095.rgb.jpg\/1024x1024bb.jpg"
+      },
+      {
+        "artist" : "Imagine Dragons, JID & League of Legends",
+        "id" : "1591640885",
+        "notes" : "",
+        "preview" : "https:\/\/music.apple.com\/nl\/album\/enemy-from-the-series-arcane-league-of-legends\/1591640884?i=1591640885",
+        "date" : "2022-01-12T19:10:00Z",
+        "title" : "Enemy (From the series \"Arcane League of Legends\")",
+        "musicService" : "Apple Music",
+        "artwork" : "https:\/\/is3-ssl.mzstatic.com\/image\/thumb\/Music126\/v4\/76\/77\/08\/767708a7-ec93-3b3d-3bac-40086e5a265c\/21UM1IM29634.rgb.jpg\/1024x1024bb.jpg"
+      },
+      {
+        "artist" : "Lijpe",
+        "id" : "1605734741",
+        "notes" : "",
+        "preview" : "https:\/\/music.apple.com\/nl\/album\/was-er-nooit\/1605734740?i=1605734741",
+        "date" : "2022-01-21T20:55:00Z",
+        "title" : "Was Er Nooit",
+        "musicService" : "Apple Music",
+        "artwork" : "https:\/\/is2-ssl.mzstatic.com\/image\/thumb\/Music116\/v4\/7b\/19\/c8\/7b19c8f6-034e-a1f3-2b46-ed98b453ee5b\/22UMGIM05711.rgb.jpg\/1024x1024bb.jpg"
+      },
+      {
+        "artist" : "Elton John & Dua Lipa",
+        "id" : "1578986673",
+        "notes" : "",
+        "preview" : "https:\/\/music.apple.com\/nl\/album\/cold-heart-pnau-remix\/1578986656?i=1578986673",
+        "date" : "2022-01-01T14:31:00Z",
+        "title" : "Cold Heart (PNAU Remix)",
+        "musicService" : "Apple Music",
+        "artwork" : "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Music125\/v4\/ec\/2f\/92\/ec2f929f-e7ea-b291-42d7-75081bd808a1\/21UMGIM68484.rgb.jpg\/1024x1024bb.jpg"
+      },
+      {
+        "artist" : "Cristian D, Bilal Wahib & LA$$A",
+        "id" : "1611859850",
+        "notes" : "",
+        "preview" : "https:\/\/music.apple.com\/nl\/album\/1234\/1611859841?i=1611859850",
+        "date" : "2022-03-14T19:17:00Z",
+        "title" : "1234",
+        "musicService" : "Apple Music",
+        "artwork" : "https:\/\/is4-ssl.mzstatic.com\/image\/thumb\/Music126\/v4\/56\/23\/88\/56238824-008b-f8f4-3906-e8667dd2681b\/190296224355.jpg\/1024x1024bb.jpg"
+      },
+      {
+        "artist" : "Tiësto & Ava Max",
+        "id" : "1590438674",
+        "notes" : "",
+        "preview" : "https:\/\/music.apple.com\/nl\/album\/the-motto\/1590438335?i=1590438674",
+        "date" : "2022-01-10T12:09:00Z",
+        "title" : "The Motto",
+        "musicService" : "Apple Music",
+        "artwork" : "https:\/\/is4-ssl.mzstatic.com\/image\/thumb\/Music126\/v4\/d4\/46\/bc\/d446bcf7-e633-ab67-a2fe-35a95ca74a6c\/075679766038.jpg\/1024x1024bb.jpg"
+      },
+      {
+        "artist" : "Lil Kleine",
+        "id" : "1606723187",
+        "notes" : "",
+        "preview" : "https:\/\/music.apple.com\/nl\/album\/jongens-van-plein-feat-joeyak\/1606722838?i=1606723187",
+        "date" : "2022-01-28T18:21:00Z",
+        "title" : "Jongens Van Plein (feat. JoeyAK)",
+        "musicService" : "Apple Music",
+        "artwork" : "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Music126\/v4\/77\/ad\/ba\/77adbab0-06b3-8e72-bf72-028f8e9b9281\/22UMGIM06026.rgb.jpg\/1024x1024bb.jpg"
       }
     ]
   }
