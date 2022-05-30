@@ -503,14 +503,14 @@
                     "id": 0,
                     "title": "Mail",
                     "url": "mailto:chartyourmusic@icloud.com",
-                    "imageName": "person",
+                    "imageName": "mail",
                     "color": 0
                 },
                 {
                     "id": 1,
                     "title": "Twitter",
                     "url": "twitter://user?screen_name=chartyourmusic",
-                    "imageName": "person",
+                    "imageName": "message",
                     "color": 0
                 },
                 {
