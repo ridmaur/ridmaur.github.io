@@ -331,7 +331,7 @@
                 {
                     "id": 0,
                     "title": "What is the difference between the Home and Charts tab?",
-                    "text": "The Home tab shows totals for collections, charts, entries and chart entries. It also shows, for each collection, details like date and current number 1 entry of the most recent chart. Tap on a collection row to easily navigate to the most recent chart in that collection. The Charts tab gives you full access to all collections from where you can navigate to all charts within the collection and discover more details on the chart itself as well as on the individual entries in the chart."
+                    "text": "The **Home** tab shows totals for collections, charts, entries and chart entries. It also shows, for each collection, details like date and current number 1 entry of the most recent chart. Tap on a collection row to easily navigate to the most recent chart in that collection. The **Charts** tab gives you full access to all collections from where you can navigate to all charts within the collection and discover more details on the chart itself as well as on the individual entries in the chart."
                 },
                 {
                     "id": 1,
@@ -341,17 +341,17 @@
                 {
                     "id": 2,
                     "title": "Can the app remind me of creating new charts?",
-                    "text": "You can receive daily, weekly or monthly notifications to create a chart for a collection. To do so, follow steps to edit a collection. In the Edit Collection sheet, turn Show Reminders on. Select Daily, Weekly or Monthly. Specify date and time. Tap Save to save changes."
+                    "text": "You can receive daily, weekly or monthly notifications to create a chart for a collection. To do so, follow steps to edit a collection. In the **Edit Collection** sheet, turn **Show Reminders** on. Select **Daily**, **Weekly** or **Monthly**. Specify date and time. Tap **Save** to save changes."
                 },
                 {
                     "id": 3,
                     "title": "What is the purpose of archiving a collection?",
-                    "text": "Archiving a collection closes a collection for changes. You will not be able to add new charts or modify existing charts. You might typically do that at the end of the year for example. To archive a collection, follow steps to edit a collection. In the Edit Collection sheet, turn Archive on. Tap Save to save changes."
+                    "text": "Archiving a collection closes a collection for changes. You will not be able to add new charts or modify existing charts. You might typically do that at the end of the year for example. To archive a collection, follow steps to edit a collection. In the **Edit Collection** sheet, toggle **Archive** on. Tap **Save** to save changes."
                 },
                 {
                     "id": 4,
                     "title": "How can I view and search for entries in a collection?",
-                    "text": "Tap on Charts in the tab bar. Tap on the collection you want to view. Tap on header (with date of the collection). In the Entries Overview for the collection, tap on the buttons to sort entries on Total points, Number of nr. 1 positions, Highest position, Number of chart entries in Ascending or Descending order. Drag down to reveal the Search field and type any text to search for entries."
+                    "text": "Tap on **Charts** in the tab bar. Tap on the collection you want to view. Tap on header (with date of the collection). In the **Entries Overview** for the collection, tap on the buttons to sort entries on **Total points**, **Number of nr. 1 positions**, **Highest position**, **Number of chart entries** in **Ascending** or **Descending order**. Drag down to reveal the **Search** field and type any text to search for entries."
                 },
                 {
                     "id": 5,
@@ -361,7 +361,7 @@
                 {
                     "id": 6,
                     "title": "How do I determine the order of charts in a collection?",
-                    "text": "Charts in a collection are ordered by chart date in descending order. You can change the order by modifying the chart date of a chart. To do this, follow steps to edit a chart. In Edit Chart screen, modify the Date of Chart. Tap Save to save changes."
+                    "text": "Charts in a collection are ordered by chart date in descending order. You can change the order by modifying the chart date of a chart. To do this, follow steps to edit a chart. In **Edit Chart** screen, modify the **Date of Chart**. Tap **Save** to save changes."
                 },
                 {
                     "id": 7,
@@ -480,7 +480,7 @@
                 {
                     "id": 4,
                     "title": "MusicThread",
-                    "text": "A **now plMusicThread is a website to create and share lists of music. Integrated with the service using MusicThread's API."
+                    "text": "[MusicThread](https://musicthread.app) is a website to create and share lists of music. Integrated with this service using MusicThread's API."
                 },
                 {
                     "id": 5,
