@@ -1,0 +1,556 @@
+{
+    "releaseNotes": {
+        "id": 1,
+        "version": "1.1.0",
+        "title": "Big update",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo sconsequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+    },
+    "headerItems": [
+        {
+            "id": 5,
+            "title": "Welcome to Chart Your Music",
+            "imageName": "rectangle.stack",
+            "color": 0,
+            "supportPages": [
+                {
+                    "id": 0,
+                    "title": "Organize",
+                    "subtitle": "Organize your charts in collections. E.g. My Albums 2021.",
+                    "imageURL": "https://ridmaur.github.io/chartyourmusic/supporter/images/collections_white.png",
+                    "darkImageURL": "https://ridmaur.github.io/chartyourmusic/supporter/images/collections_black.png"
+                },
+                {
+                    "id": 1,
+                    "title": "Sequence",
+                    "subtitle": "Create charts in a collection, daily, weekly, unordered… Whatever you prefer.",
+                    "imageURL": "https://ridmaur.github.io/chartyourmusic/supporter/images/charts_white.png",
+                    "darkImageURL": "https://ridmaur.github.io/chartyourmusic/supporter/images/charts_black.png"
+                },
+                {
+                    "id": 2,
+                    "title": "Rank Entries",
+                    "subtitle": "Rank music entries in a chart in line with you musical taste.",
+                    "imageURL": "https://ridmaur.github.io/chartyourmusic/supporter/images/rankentries_white.png",
+                    "darkImageURL": "https://ridmaur.github.io/chartyourmusic/supporter/images/rankentries_black.png"
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "title": "What's New",
+            "imageName": "rectangle.stack",
+            "color": 0,
+            "supportPages": [
+                {
+                    "id": 0,
+                    "title": "Refreshed User Interface",
+                    "subtitle": "Artwork is made much more prominent in every screen of the app. Complete redesign of iPad sidebar.",
+                    "imageURL": "https://ridmaur.github.io/chartyourmusic/supporter/images/refreshedui_white.png",
+                    "darkImageURL": "https://ridmaur.github.io/chartyourmusic/supporter/images/refreshedui_black.png"
+                },
+                {
+                    "id": 1,
+                    "title": "Import, Export, Share",
+                    "subtitle": "Import example collections or collections from others. Import editorial notes. Export your collections. Share your charts with MusicThread.",
+                    "imageURL": "https://ridmaur.github.io/chartyourmusic/supporter/images/importexport_white.png",
+                    "darkImageURL": "https://ridmaur.github.io/chartyourmusic/supporter/images/importexport_black.png"
+                },
+                {
+                    "id": 2,
+                    "title": "Improved Support",
+                    "subtitle": "Get started with the app through sample collections, in-app on-boarding, support, faqs, etc.",
+                    "imageURL": "https://ridmaur.github.io/chartyourmusic/supporter/images/improvedsupport_white.png",
+                    "darkImageURL": "https://ridmaur.github.io/chartyourmusic/supporter/images/improvedsupport_black.png"
+                }
+            ]
+        }
+    ],
+    "highlightedSections": [
+        {
+            "id": 0,
+            "title": "The Basics",
+            "items": [
+                {
+                    "id": 0,
+                    "title": "Understand Concepts",
+                    "subtitle": "What are collections, charts,…",
+                    "imageName": "rectangle.stack",
+                    "color": 0,
+                    "supportPages": [
+                        {
+                            "id": 0,
+                            "title": "Collections",
+                            "subtitle": "The unique music collection you want to chart over time. E.g. Best Tracks of 2021, or Old Disco Hits 1983.",
+                            "imageURL": "https://ridmaur.github.io/chartyourmusic/supporter/images/collections_white.png",
+                            "darkImageURL": "https://ridmaur.github.io/chartyourmusic/supporter/images/collections_black.png"
+                        },
+                        {
+                            "id": 1,
+                            "title": "Charts",
+                            "subtitle": "The charts that make up the collection, e.g. Week 1, January 3, August.  You can have as many charts as part of a collection as you want. You determine the interval of charts within a collection: daily, weekly, monthly, irregularly or none at all…",
+                            "imageURL": "https://ridmaur.github.io/chartyourmusic/supporter/images/charts_white.png",
+                            "darkImageURL": "https://ridmaur.github.io/chartyourmusic/supporter/images/charts_black.png"
+                        },
+                        {
+                            "id": 2,
+                            "title": "Chart",
+                            "subtitle": "In a chart you rank your favorite entries according to your musical preference at that moment…",
+                            "imageURL": "https://ridmaur.github.io/chartyourmusic/supporter/images/chart_white.png",
+                            "darkImageURL": "https://ridmaur.github.io/chartyourmusic/supporter/images/chart_black.png"
+                        },
+                        {
+                            "id": 3,
+                            "title": "Entries",
+                            "subtitle": "The tracks / albums that are part of your collection. E.g. The Weekend - Blinding Lights, or Radiohead - OK Computer",
+                            "imageURL": "https://ridmaur.github.io/chartyourmusic/supporter/images/entrydetail_white.png",
+                            "darkImageURL": "https://ridmaur.github.io/chartyourmusic/supporter/images//entrydetail_black.png"
+                        },
+                        {
+                            "id": 4,
+                            "title": "Chart Entries",
+                            "subtitle": "The combination of a chart with an entry, specifying the position of an entry in the chart.",
+                            "imageURL": "https://ridmaur.github.io/chartyourmusic/supporter/images/chart_white.png",
+                            "darkImageURL": "https://ridmaur.github.io/chartyourmusic/supporter/images/chart_black.png"
+                        }
+                    ]
+                },
+                {
+                    "id": 1,
+                    "title": "Getting Started",
+                    "subtitle": "Steps to get started",
+                    "imageName": "1.circle",
+                    "color": 0,
+                    "supportPages": [
+                        {
+                            "id": 0,
+                            "title": "Select Your Music Service",
+                            "subtitle": "Before you start creating your own collections, charts, entries, etc. ensure you have selected the integration with a music service you are subscribed to (e.g. Apple Music or Spotify) if any. If not, select iTunes.",
+                            "videoURL": "https://ridmaur.github.io/chartyourmusic/supporter/videos/musicservice_white.mp4",
+                            "darkVideoURL": "https://ridmaur.github.io/chartyourmusic/supporter/videos/musicservice_black.mp4"
+                        },
+                        {
+                            "id": 1,
+                            "title": "Create Your First Collection",
+                            "subtitle": "Tap on **Charts** in the tab bar. In **Collections**, tap **+** in the navigation bar. Specify your collections details in the **Add Collection** sheet. Click **Save**.",
+                            "videoURL": "https://ridmaur.github.io/chartyourmusic/supporter/videos/createcollection_white.mp4",
+                            "darkVideoURL": "https://ridmaur.github.io/chartyourmusic/supporter/videos/createcollection_black.mp4"
+                        },
+                        {
+                            "id": 2,
+                            "title": "Create Your First Chart",
+                            "subtitle": "Tap on your collection (identified by its title). In your collection, tap **+** in the navigation bar. Specify your chart details in the **Add Chart** sheet and click **Save**.",
+                            "videoURL": "https://ridmaur.github.io/chartyourmusic/supporter/videos/createchart_white.mp4",
+                            "darkVideoURL": "https://ridmaur.github.io/chartyourmusic/supporter/videos/createchart_black.mp4"
+                        },
+                        {
+                            "id": 3,
+                            "title": "Create Your First Entries",
+                            "subtitle": "Tap on your chart. In your chart, tap on **+** and select **Search Entry…**. Enter search criteria and press **search**. From the list of results, tap on the specific entry you want to add to your chart. In the details screen, tap **+ Add Entry** to add the entry to your chart. Repeat to add more entries. Click **Cancel**, **Done** when finished.",
+                            "videoURL": "https://ridmaur.github.io/chartyourmusic/supporter/videos/searchentry_white.mp4",
+                            "darkVideoURL": "https://ridmaur.github.io/chartyourmusic/supporter/videos/searchentry_black.mp4"
+                        },
+                        {
+                            "id": 4,
+                            "title": "Moving or Deleting Entries",
+                            "subtitle": "Tap on **↔︎** button to enable ranking view. Your chart view changes so you can delete and move entries. Drag entries up or down using the handle of an entry. Click on **-** to remove an entry from the chart (alternatively you can swipte from right to left, even when not in ranking view). Tap **⇅** when finished ranking your chart.",
+                            "videoURL": "https://ridmaur.github.io/chartyourmusic/supporter/videos/movedeleteentry_white.mp4",
+                            "darkVideoURL": "https://ridmaur.github.io/chartyourmusic/supporter/videos/movedeleteentry_black.mp4"
+                        },
+                        {
+                            "id": 5,
+                            "title": "Locking A Chart",
+                            "subtitle": "When finished with your chart, swipe to right to lock it so all entries become part of calculating total points, number of entries, etc.. You can only lock a chart when entries in the chart are equal to the number of entries you defined for charts in your collection.",
+                            "videoURL": "https://ridmaur.github.io/chartyourmusic/supporter/videos/lockchart_white.mp4",
+                            "darkVideoURL": "https://ridmaur.github.io/chartyourmusic/supporter/videos/lockchart_black.mp4"
+                        },
+                        {
+                            "id": 6,
+                            "title": "Create Your Second Chart",
+                            "subtitle": "Repeat earlier steps to create a new chart in the collection. Toggle **Duplicate Entries** on to automatically copy over all the entries from the previous chart.",
+                            "videoURL": "https://ridmaur.github.io/chartyourmusic/supporter/videos/secondchart_white.mp4",
+                            "darkVideoURL": "https://ridmaur.github.io/chartyourmusic/supporter/videos/secondchart_black.mp4"
+                        },
+                        {
+                            "id": 7,
+                            "title": "Pick Existing Entries",
+                            "subtitle": "You can pick any entry in a collection not part of the current chart. Select **Pick Entry** and select entry from list or search for entry. Pick the one you want to add.",
+                            "videoURL": "https://ridmaur.github.io/chartyourmusic/supporter/videos/pickentry_white.mp4",
+                            "darkVideoURL": "https://ridmaur.github.io/chartyourmusic/supporter/videos/pickentry_black.mp4"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "title": "How To",
+            "items": [
+                {
+                    "id": 0,
+                    "title": "View Or Edit…",
+                    "subtitle": "…collections, charts, entries.",
+                    "imageName": "pencil.circle",
+                    "color": 0,
+                    "supportPages": [
+                        {
+                            "id": 0,
+                            "title": "View or Edit A Collection",
+                            "subtitle": "Tap on **Charts** in tab bar. Tap on the collection you want to view or modify. Tap on the header (with the date of the collection). You will see the Entries Overview screen where you can rank and search for all entries in the collection. Tap on **Edit** to modify collection details.",
+                            "videoURL": "https://ridmaur.github.io/chartyourmusic/supporter/videos/vieweditcollection_white.mp4",
+                            "darkVideoURL": "https://ridmaur.github.io/chartyourmusic/supporter/videos/vieweditcollection_black.mp4"
+                        },
+                        {
+                            "id": 1,
+                            "title": "View or Edit A Chart",
+                            "subtitle": "Tap on **Charts** in the tab bar. Tap your collection. Tap your chart. Tap on header (with the date of the chart). You will see the **Chart Details** screen with an overview of movers in the chart. Tap on **Edit (pencil)** to modify chart details",
+                            "videoURL": "https://ridmaur.github.io/chartyourmusic/supporter/videos/vieweditchart_white.mp4",
+                            "darkVideoURL": "https://ridmaur.github.io/chartyourmusic/supporter/videos/vieweditchart_black.mp4"
+                        },
+                        {
+                            "id": 2,
+                            "title": "View or Edit An Entry",
+                            "subtitle": "Tap on an entry in a chart or in the entries overview. You will see the **Entry Details** screen with an overview of total points, etc. Tap on **Edit (pencil)** to modify entry details.",
+                            "videoURL": "https://ridmaur.github.io/chartyourmusic/supporter/videos/vieweditentry_white.mp4",
+                            "darkVideoURL": "https://ridmaur.github.io/chartyourmusic/supporter/videos/vieweditentry_black.mp4"
+                        }
+                    ]
+                },
+                {
+                    "id": 1,
+                    "title": "Change Look and Feel…",
+                    "subtitle": "…of your charts.",
+                    "imageName": "eyedropper.full",
+                    "color": 0,
+                    "supportPages": [
+                        {
+                            "id": 0,
+                            "title": "Positions In A Chart",
+                            "subtitle": "In the **Edit Collection** sheet, unfold **Look & Feel**. Modify the colour for a position: Tap on the **colour button** at the right, select your preferred colour using the colour picker and tap **x** to leave the picker. Repeat this for other positions. Tap **Save** to save your changes.",
+                            "videoURL": "https://ridmaur.github.io/chartyourmusic/supporter/videos/positioncolors_white.mp4",
+                            "darkVideoURL": "https://ridmaur.github.io/chartyourmusic/supporter/videos/positioncolors_black.mp4"
+                        },
+                        {
+                            "id": 1,
+                            "title": "Fast Movers",
+                            "subtitle": "You can specify Fast Movers by defining the percentage of change. Tap **Save** to save changes.",
+                            "videoURL": "https://ridmaur.github.io/chartyourmusic/supporter/videos/fastmovers_white.mp4",
+                            "darkVideoURL": "https://ridmaur.github.io/chartyourmusic/supporter/videos/fastmovers_black.mp4"
+                        },
+                        {
+                            "id": 2,
+                            "title": "Artist or Title",
+                            "subtitle": "Depending on what you think is more important for your collection, you can define whether your entries are displayed as **Artist** followed by **Title**, or **Title** followed by **Artist**. Tap **Save** to save changes.",
+                            "videoURL": "https://ridmaur.github.io/chartyourmusic/supporter/videos/artisttitle_white.mp4",
+                            "darkVideoURL": "https://ridmaur.github.io/chartyourmusic/supporter/videos/artisttitle_black.mp4"
+                        },
+                        {
+                            "id": 3,
+                            "title": "Number of Entries in a Chart",
+                            "subtitle": "For a collection you can define the number of entries for each chart in that collection. This number will be used to validate whether a chart can be locked and to calculate (total) points. E.g. if the number of entries is 10, then the entry at the number 1 position in a chart gets 10 points and the entry at the number 10 position gets 1 point. To define the number of entries, follow steps to edit a collection. In the **Edit Collection** sheet, specify the number of entries (default 10, minimum 1, maximum 50). Tap **Save** to save changes.",
+                            "videoURL": "https://ridmaur.github.io/chartyourmusic/supporter/videos/numberofentries_white.mp4",
+                            "darkVideoURL": "https://ridmaur.github.io/chartyourmusic/supporter/videos/numberofentries_black.mp4"
+                        }
+                    ]
+                },
+                {
+                    "id": 2,
+                    "title": "Get Details & Insights…",
+                    "subtitle": "…of your entries, charts, collections.",
+                    "imageName": "info.circle",
+                    "color": 0,
+                    "supportPages": [
+                        {
+                            "id": 0,
+                            "title": "Entry Details",
+                            "subtitle": "You can view details of an entry by navigating to an entry from either within a chart or from the **Entry Overview** of a collection. The **Entry Details** screen show numbers for chart entries (in how many charts the entry is listed in, Nr. 1 Positions (how often the entry has reached the number 1 position), Highest Position (what has been the highest position for the entry across charts) and Total Points (the total points the entry has collected across charts.",
+                            "videoURL": "https://ridmaur.github.io/chartyourmusic/supporter/videos/entrydetails_white.mp4",
+                            "darkVideoURL": "https://ridmaur.github.io/chartyourmusic/supporter/videos/entrydetails_black.mp4"
+                        },
+                        {
+                            "id": 1,
+                            "title": "Chart Details",
+                            "subtitle": "Follow steps to view or edit a chart. In **Chart Details**, tap on **Up** to see a list of entries that moved up in the chart, **Equal** to see a list of entries that did not move in the chart, **Down** to see a list of entries that moved down in the chart, **Intro** to see a list of entries that are new in the chart, **Outro** to see a list of entries that disappeared from the chart. Through a tap you can also toggle lock/unlock status of the chart.",
+                            "videoURL": "https://ridmaur.github.io/chartyourmusic/supporter/videos/chartdetails_white.mp4",
+                            "darkVideoURL": "https://ridmaur.github.io/chartyourmusic/supporter/videos/chartdetails_black.mp4"
+                        },
+                        {
+                            "id": 2,
+                            "title": "Collection Details",
+                            "subtitle": "Tap on the collection you want to view or modify. Tap on the header (with the date of the collection). You will see the **Entries Overview** screen where you can rank and search for all entries in the collection.",
+                            "videoURL": "https://ridmaur.github.io/chartyourmusic/supporter/videos/collectiondetails_white.mp4",
+                            "darkVideoURL": "https://ridmaur.github.io/chartyourmusic/supporter/videos/collectiondetails_black.mp4"
+                        }
+                    ]
+                },
+                {
+                    "id": 3,
+                    "title": "Share, Import and Export…",
+                    "subtitle": "…your charts or collections.",
+                    "imageName": "square.and.arrow.up.on.square",
+                    "color": 0,
+                    "supportPages": [
+                        {
+                            "id": 0,
+                            "title": "Share Your Chart",
+                            "subtitle": "You can share your chart using the iOS sharing functionality. Tap on Charts in tab bar. Tap on your collection. Tap on the specific chart. Tap on the header (with the date of the chart). In Chart Details screen, tap on the Share button. What gets shared depends on the app you select.",
+                            "videoURL": "https://ridmaur.github.io/chartyourmusic/supporter/videos/sharechart_white.mp4",
+                            "darkVideoURL": "https://ridmaur.github.io/chartyourmusic/supporter/videos/sharechart_black.mp4"
+                        },
+                        {
+                            "id": 1,
+                            "title": "Create A Playlist",
+                            "subtitle": "When Apple Music or Spotify is configured as a music service, you can create a playlist from a chart. Tap on Charts in tab bar. Tap on your collection. Tap on the specific chart. Tap on the header (with the date  of the chart). In Chart Details screen, tap on the Playlist button.",
+                            "videoURL": "https://ridmaur.github.io/chartyourmusic/supporter/videos/createplaylist_white.mp4",
+                            "darkVideoURL": "https://ridmaur.github.io/chartyourmusic/supporter/videos/createplaylist_black.mp4"
+                        },
+                        {
+                            "id": 2,
+                            "title": "Create A Thread",
+                            "subtitle": "When you have authenticated with MusicThread, you can share your chart as a thread. Go to your chart and tap the header. In the Chart Detail screen, tap the elipsis button and tap Create Thread… Fill in the details in the MusicThread sheet and submit your thread.",
+                            "videoURL": "https://ridmaur.github.io/chartyourmusic/supporter/videos/createthread_white.mp4",
+                            "darkVideoURL": "https://ridmaur.github.io/chartyourmusic/supporter/videos/createthread_black.mp4"
+                        },
+                        {
+                            "id": 3,
+                            "title": "Import Playlists",
+                            "subtitle": "In a collection, tap on the Import button. A sheet will display your playlists from the configured music service. Select a playlist and all the tracks from the playlist that do not exist yet in the collection will be added.",
+                            "videoURL": "https://ridmaur.github.io/chartyourmusic/supporter/videos/importplaylists_white.mp4",
+                            "darkVideoURL": "https://ridmaur.github.io/chartyourmusic/supporter/videos/importplaylists_black.mp4"
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "faqSections": [
+        {
+            "id": 0,
+            "title": "Frequently Asked Questions",
+            "hasDetailPage": true,
+            "items": [
+                {
+                    "id": 0,
+                    "title": "What is the difference between the Home and Charts tab?",
+                    "text": "The Home tab shows totals for collections, charts, entries and chart entries. It also shows, for each collection, details like date and current number 1 entry of the most recent chart. Tap on a collection row to easily navigate to the most recent chart in that collection. The Charts tab gives you full access to all collections from where you can navigate to all charts within the collection and discover more details on the chart itself as well as on the individual entries in the chart."
+                },
+                {
+                    "id": 1,
+                    "title": "What types of collections does the app support?",
+                    "text": "A collection can be a **sequence** of charts or just a **unordered** collection of charts. With a sequence, charts are ordered based on their chart date, and that date is used to calculate the previous position(s) of an entry. With no sequence configured for the collection, there is no order and/or relation between the charts in a collection. You could use this option if, for example, you want to collect charts from various sources (think end-of-year lists) as part of a collection. See the OOR21 collection for an example."
+                },
+                {
+                    "id": 2,
+                    "title": "Can the app remind me of creating new charts?",
+                    "text": "You can receive daily, weekly or monthly notifications to create a chart for a collection. To do so, follow steps to edit a collection. In the Edit Collection sheet, turn Show Reminders on. Select Daily, Weekly or Monthly. Specify date and time. Tap Save to save changes."
+                },
+                {
+                    "id": 3,
+                    "title": "What is the purpose of archiving a collection?",
+                    "text": "Archiving a collection closes a collection for changes. You will not be able to add new charts or modify existing charts. You might typically do that at the end of the year for example. To archive a collection, follow steps to edit a collection. In the Edit Collection sheet, turn Archive on. Tap Save to save changes."
+                },
+                {
+                    "id": 4,
+                    "title": "How can I view and search for entries in a collection?",
+                    "text": "Tap on Charts in the tab bar. Tap on the collection you want to view. Tap on header (with date of the collection). In the Entries Overview for the collection, tap on the buttons to sort entries on Total points, Number of nr. 1 positions, Highest position, Number of chart entries in Ascending or Descending order. Drag down to reveal the Search field and type any text to search for entries."
+                },
+                {
+                    "id": 5,
+                    "title": "How can I define a specific period for which I want to view entries in a collection?",
+                    "text": "In the **Edit Collection** sheet, toggle **Define Overview Period** on. Define start date and end date for the period. Tap **Save**. You can now easily toggle between a view showing entries for the specified period (**Period**) or all entries (**All**) with the calendar button on the left side of the toolbar."
+                },
+                {
+                    "id": 6,
+                    "title": "How do I determine the order of charts in a collection?",
+                    "text": "Charts in a collection are ordered by chart date in descending order. You can change the order by modifying the chart date of a chart. To do this, follow steps to edit a chart. In Edit Chart screen, modify the Date of Chart. Tap Save to save changes."
+                },
+                {
+                    "id": 7,
+                    "title": "What does locking a chart mean?",
+                    "text": "You want to lock a chart when you have completed the chart with all entries ranked, reflecting your musical taste for the chart. When locked, you are protected from making accidental changes. Also, a locked chart (and as such the chart entries) will be taken into account for calculating total points, number of chart entries, highest position, etc.. Note that you can only lock a chart when the number of entries in the chart conform to the number of entries defined for charts in the collection."
+                },
+                {
+                    "id": 16,
+                    "title": "How can I delete a collection?",
+                    "text": "You can only delete an individual chart if it doesn't contain any chart entries. If so, swipe left on the specific chart in the chart list to delete the chart."
+                },
+                {
+                    "id": 8,
+                    "title": "How can I delete a chart?",
+                    "text": "You can only delete a collection if it doesn't contain any charts. If so, swipe left on the specific collection in the collection list to delete the collection. Alternatively, in **Settings**, **Manage Collections**, you can delete one or more collections rapidly and definitely (so even if it contains charts and/or entries). Only do this when you are absolutely sure, as this action is irreversible."
+                },
+                {
+                    "id": 9,
+                    "title": "How can I delete an entry?",
+                    "text": "You can only delete an individual entry if the entry is not part of any chart in the collection (i.e. there are no chart entries with a reference to the entry). To figure out which entries are not part of any chart in a collection, type `FindZeroIds` in the **Search** field in the **Entry Overview** screen."
+                },
+                {
+                    "id": 10,
+                    "title": "What does rebuilding a collection do?",
+                    "text": "Rebuilding a collection deletes orphan entries (entries that are not part of any chart in the collection) and rebuild the Spotlight index for a collection."
+                },
+                {
+                    "id": 11,
+                    "title": "How can I update an entry?",
+                    "text": "You can update an entry by clicking on the Update button in the Edit Entry sheet. Note that the current artist and title of the entry will be used to search for updated music entries. Select any of the offered updated results to update your entry."
+                },
+                {
+                    "id": 12,
+                    "title": "How can I listen to an entry?",
+                    "text": "In a chart, long press on the artwork of an entry in a chart. You will see a visual indication. To stop listening, press once more on the artwork or navigate away from the entry. In the **Entry Detail** screen, tap the **Play** button in the navigation bar. Tap the **Stop** button to stop listening to the entry. You can also use the native music service player to stop listening to the entry. Note: The app doesn't have a in-built music player; it invokes the native music service player. As a result, buttons and visualisations might not properly reflect the status of listening to an entry. Note: For (chart) entries that do have a reference to a Spotify track / album, ensure you have a device available for Spotify to interact with. Or simply stated: have Spotify running somewhere on a device near you."
+                },
+                {
+                    "id": 13,
+                    "title": "Can I add notes, subtitles?",
+                    "text": "You can add notes to a collection, chart and entry. To do so, follow the steps to edit a collection, chart or entry. When a note is added to a collection, chart or entry, you will see a pencil icon next to the title. For an entry, notes are also displayed at the bottom of the Entry Details screen. A chart also supports subtitles. Again, you can edit a subtitle by following the steps to edit a chart. The subtitle is displayed below the title in the Chart Details screen. If you use the Apple Music service integration you can quickly add Apple Music's editorial notes when available."
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "title": "Acknowledgements",
+            "hasDetailPage": true,
+            "items": [
+                {
+                    "id": 1,
+                    "title": "Hacking with Swift",
+                    "text": "Paul Hudson does a fantastic job educating simply anyone interested in Swift, SwiftUI with his [Hacking With Swift](https://www.hackingwithswift.com/) initiative. Whether its is 100 days of Swift, 100 days of SwiftUI or his Ultimate Portfolio App (which I used as an overall guidance for Chart Your Music), it is all phenomenal material brought to you in a very inspiring way with his two dogs as entertaining sidekicks."
+                },
+                {
+                    "id": 2,
+                    "title": "Donny Wals",
+                    "text": "From the same country as from where I originate, Donny Wals’ [website](https://donnywals.com/) says he loves learning and sharing knowledge. His material has been instrumental in understanding the idiosyncrasies (I always wanted to use this word…) of Swift(UI) combined with Core Data and CloudKit. Also, if you want to understand Combine (still relevant despite upcoming changes announced at WWDC21) then his material is invaluable."
+                },
+                {
+                    "id": 3,
+                    "title": "Big Mountain Studio",
+                    "text": "Mark Moeykens is the owner of [Big Mountain Studio](https://www.bigmountainstudio.com/) and creator of Mastery books that explain how to handle data, animations and views in SwiftUI in a very visual way and with a ton of great examples. Whether it is for reference (SwiftUI Views Mastery) or explaining concepts from start to finish (Combine Mastery in SwiftUI), his books are great educational material."
+                },
+                {
+                    "id": 4,
+                    "title": "SwiftUI Weekly / Swift with Majid",
+                    "text": "Curated collection of interesting [links](https://swiftwithmajid.com/) from Majid Jabrayilov.  Together with his website Swift with Majid he shares a wealth of information on interesting topics."
+                },
+                {
+                    "id": 5,
+                    "title": "SwiftLee",
+                    "text": "A weekly [blog](https://www.avanderlee.com/) about Swift, iOS, and Xcode Tips & Tricks from Antoine van der Lee, developer at WeTransfer. Again, an invaluable source of information. And b.t.w. he also developed [RocketSim](https://www.rocketsim.app/), a macOS tool to enhance the iOS simulator."
+                },
+                {
+                    "id": 6,
+                    "title": "DesignCode.io",
+                    "text": "Meng To has produced [ton of materials around design and developer topics](https://designcode.io/). His specific courses on SwiftUI are excellent material, focusing specifically on user interface and user experience. Great content for inspiration."
+                },
+                {
+                    "id": 7,
+                    "title": "sarunw",
+                    "text": "The [blog](https://sarunw.com) is about sharing tips and tricks, tools, and problems found along the way. Wat triggers me are his daily [tweets](https://twitter.com/sarunw) pointing to these tips, tricks, etc.. Everyday you learn something new!"
+                },
+                {
+                    "id": 8,
+                    "title": "Best-in-Class iOS App",
+                    "text": "The [Best-in-Class iOS App](https://www.bestinclassiosapp.com) is is a living, breathing document that's continually updated by Jordan Morgan."
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "title": "Contributions",
+            "hasDetailPage": true,
+            "items": [
+                {
+                    "id": 0,
+                    "title": "SpotifyAPI",
+                    "text": "A [Swift library](https://peter-schorn.github.io/SpotifyAPI/index.html) for the Spotify web API."
+                },
+                {
+                    "id": 1,
+                    "title": "Supporter",
+                    "text": "A [Swift framework](https://goodsnooze.gumroad.com/l/supporter) for building in-app support."
+                },
+                {
+                    "id": 2,
+                    "title": "KeychainAcces",
+                    "text": "A simple [Swift wrapper](https://github.com/kishikawakatsumi/KeychainAccess) for Keychain access."
+                },
+                {
+                    "id": 3,
+                    "title": "SwimplyPlayIndicator",
+                    "text": "A **now playing** [animated indicator](https://github.com/docterd/SwimplyPlayIndicator) for SwiftUI."
+                },
+                {
+                    "id": 4,
+                    "title": "MusicThread",
+                    "text": "A **now plMusicThread is a website to create and share lists of music. Integrated with the service using MusicThread's API."
+                },
+                {
+                    "id": 5,
+                    "title": "TagField",
+                    "text": "A [tagfield implementation](https://github.com/changemin/TagField.git) for SwiftUI."
+                },
+                {
+                    "id": 6,
+                    "title": "WhatsNewKit",
+                    "text": "A [Swift Package](https://github.com/SvenTiigi/WhatsNewKit) to easily showcase your new app features."
+                }
+            ]
+        }
+    ],
+    "contactSections": [
+        {
+            "id": 0,
+            "title": "Feedback",
+            "items": [{
+                    "id": 0,
+                    "title": "Mail",
+                    "url": "mailto:chartyourmusic@icloud.com",
+                    "imageName": "person",
+                    "color": 0
+                },
+                {
+                    "id": 1,
+                    "title": "Twitter",
+                    "url": "twitter://user?screen_name=chartyourmusic",
+                    "imageName": "person",
+                    "color": 0
+                },
+                {
+                    "id": 2,
+                    "title": "Website",
+                    "url": "https://www.chartyourmusic.com",
+                    "imageName": "globe",
+                    "color": 0
+                }
+
+            ]
+        }
+    ],
+    "changelogItems": [
+        {
+            "id": 0,
+            "version": "Version 1.1",
+            "date": "6 June 2022",
+            "notes": [
+                {
+                    "id": 0,
+                    "releaseNote": "Updates to the overall UI."
+                },
+                {
+                    "id": 1,
+                    "releaseNote": "Support for import and export of collections, editorial notes, sharing your charts with MusicThread."
+                },
+                {
+                    "id": 2,
+                    "releaseNote": "Improved in-ap on-boarding and support."
+                },
+                {
+                    "id": 3,
+                    "releaseNote": "Updated to use MusicKit for Apple Music integration."
+                },
+                {
+                    "id": 4,
+                    "releaseNote": "Support for large number of new iOS 15 features."
+                }
+            ]
+        }
+    ]
+}
