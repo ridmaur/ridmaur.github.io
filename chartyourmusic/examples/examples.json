@@ -28,7 +28,7 @@
 		"title": "Apple Music Top 10 NL",
 		"description": "Most popular Apple Music tracks in the Netherlands up until June 8, 2022…",
 		"imageUrl": "https://ridmaur.github.io/chartyourmusic/examples/images/CYM-AppleMusicTop10NL-AppleMusic.jpeg",
-		"musicService": "Spotify",
+		"musicService": "Apple Music",
 		"url": "https://ridmaur.github.io/chartyourmusic/examples/CYM-AppleMusicTop10NL-AppleMusic.json"
 	},
 	{
