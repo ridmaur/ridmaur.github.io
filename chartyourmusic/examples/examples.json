@@ -1,6 +1,6 @@
 [
 	{
-		"id": 4,
+		"id": 1,
 		"title": "Apple Music Song Chart Collection",
 		"description": "Initial example collection available with first release of the app… If you do have Apple Music or Spotify subscription, you might better enable that music service in Settings and then pick an example collections for that selected music service…",
 		"imageUrl": "https://ridmaur.github.io/chartyourmusic/examples/images/4.jpeg",
@@ -8,7 +8,7 @@
 		"url": "https://ridmaur.github.io/chartyourmusic/examples/CYM-iTunes.json"
 	},
 	{
-		"id": 6,
+		"id": 2,
 		"title": "Fake Collection",
 		"description": "A collection of fake entries, created to be in compliance with Apple's App Store guidelines for displaying previews of the app. None of the tracks exist, neither do the artists…",
 		"imageUrl": "https://ridmaur.github.io/chartyourmusic/examples/images/6.jpeg",
@@ -16,35 +16,27 @@
 		"url": "https://ridmaur.github.io/chartyourmusic/examples/CYM-Fake.json"
 	},	
 	{
-		"id": 5,
-		"title": "Spotify Top 10",
-		"description": "First 10 days in 2022 of the most popular streams in the Netherlands…",
-		"imageUrl": "https://ridmaur.github.io/chartyourmusic/examples/images/5.jpeg",
-		"musicService": "Spotify",
-		"url": "https://whatever.nl"
-	},
-	{
-		"id": 1,
-		"title": "Disco Tracks 1983-1984",
-		"description": "Two years of charts with the best disco tracks from disco temple Cartouche, Utrecht and from radio shows like And The Beat Goes On and Ben Liebrand's In The Mix…",
-		"imageUrl": "https://ridmaur.github.io/chartyourmusic/examples/images/1.png",
-		"musicService": "Apple Music",
-		"url": "https://whatever.nl"
-	},
-	{
-		"id": 2,
-		"title": "Dance Tracks 2003-2004",
-		"description": "Absolute smashing dance music from 2003 and (partially) 2004, combined with trendy top tracks. Mostly inspired by legend dance radion station ID&T…",
-		"imageUrl": "https://ridmaur.github.io/chartyourmusic/examples/images/2.png",
-		"musicService": "Apple Music",
-		"url": "https://whatever.nl"
-	},
-	{
 		"id": 3,
+		"title": "Spotify Top 10 NL",
+		"description": "Most popular Spotify streams in the Netherlands up until June 8, 2022…",
+		"imageUrl": "https://ridmaur.github.io/chartyourmusic/examples/images/CYM-SpotifyTop10NL-Spotify.jpeg",
+		"musicService": "Spotify",
+		"url": "https://ridmaur.github.io/chartyourmusic/examples/CYM-SpotifyTop10NL-Spotify.json"
+	},
+	{
+		"id": 4,
+		"title": "Apple Music Top 10 NL",
+		"description": "Most popular Apple Music tracks in the Netherlands up until June 8, 2022…",
+		"imageUrl": "https://ridmaur.github.io/chartyourmusic/examples/images/CYM-AppleMusicTop10NL-AppleMusic.jpeg",
+		"musicService": "Spotify",
+		"url": "https://ridmaur.github.io/chartyourmusic/examples/CYM-AppleMusicTop10NL-AppleMusic.json"
+	},
+	{
+		"id": 5,
 		"title": "OOR 2021",
-		"description": "The best albums of 2021 according to music journalists in the Netherlands and collected by the Dutch infamous music magazine OOR. A collection without a sequence… ",
-		"imageUrl": "https://ridmaur.github.io/chartyourmusic/examples/images/3.png",
+		"description": "The best albums of 2021 according to music journalists in the Netherlands and collected by the Dutch infamous music magazine OOR. An typical example of a collection of end-of-year lists with no apparent sequence… ",
+		"imageUrl": "https://ridmaur.github.io/chartyourmusic/examples/images/CYM-OOR21.png",
 		"musicService": "Apple Music",
-		"url": "https://whatever.nl"
+		"url": "https://ridmaur.github.io/chartyourmusic/examples/CYM-OOR21.json"
 	}
 ]
