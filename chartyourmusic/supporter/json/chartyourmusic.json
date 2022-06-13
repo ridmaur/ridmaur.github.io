@@ -320,7 +320,7 @@
                         {
                             "id": 4,
                             "title": "Import / Export Collections",
-                            "subtitle": "From **Settings** > **Manage Collections** you can import example collections, collections from your local device or available connected storages, or from a URL. When you select one or more collections, you can export these to a file. Collections are saved in JSON format",
+                            "subtitle": "From **Settings** > **Manage Collections** you can import example collections, collections from your local device or available connected storages, or from a URL. When you select one or more collections, you can export these to a file. Collections are saved in JSON format.",
                             "imageURL": "https://ridmaur.github.io/chartyourmusic/supporter/images/importexport_white.png",
                             "darkImageURL": "https://ridmaur.github.io/chartyourmusic/supporter/images/importexport_black.png"
                         }
