@@ -1,0 +1,104 @@
+[
+    {
+      "charts" : [
+        {
+          "locked" : false,
+          "title" : "Test Chart",
+          "notes" : "Lots of great music to go in here",
+          "subtitle" : "Just testing",
+          "chartEntries" : [
+            {
+              "entryId" : "1344432410",
+              "currentPosition" : 1
+            },
+            {
+              "entryId" : "1444896016",
+              "currentPosition" : 2
+            },
+            {
+              "entryId" : "1286229826",
+              "currentPosition" : 3
+            },
+            {
+              "entryId" : "1286230358",
+              "currentPosition" : 4
+            },
+            {
+              "entryId" : "1286229828",
+              "currentPosition" : 5
+            }
+          ],
+          "date" : "2022-06-10T19:32:36Z"
+        }
+      ],
+      "orderArtistTitle" : true,
+      "archived" : false,
+      "sequence" : true,
+      "notes" : "This is my first test",
+      "title" : "Test",
+      "nrOfEntries" : 10,
+      "date" : "2022-06-10T19:31:52Z",
+      "entries" : [
+        {
+          "artist" : "Four Tet",
+          "id" : "1286229828",
+          "notes" : "",
+          "preview" :
+   "https:\/\/audio-ssl.itunes.apple.com\/itunes-assets\/AudioPreview128\/v4\/9f\/b8\/40\/9fb8403d-da5b-83bf-e954-9c06a4a75c94\/mzaf_4894046727799844957.plus.aac.p.m4a",
+          "date" : "2022-06-10T19:32:36Z",
+          "title" : "Love Cry",
+          "musicService" : "iTunes",
+          "artwork" :
+   "https:\/\/is3-ssl.mzstatic.com\/image\/thumb\/Music128\/v4\/a3\/f1\/79\/a3f17926-28ca-c3a2-6487-77595e677376\/5034202025450_cover.jpg\/1024x1024bb.jpg"
+        },
+        {
+          "artist" : "Bicep",
+          "id" : "1344432410",
+          "notes" : "",
+          "preview" :
+   "https:\/\/audio-ssl.itunes.apple.com\/itunes-assets\/AudioPreview115\/v4\/99\/21\/25\/9921253f-b132-a5a7-8144-bf24b8ded59c\/mzaf_7906818312158864054.plus.aac.p.m4a",
+          "date" : "2022-06-10T19:32:36Z",
+          "title" : "Opal",
+          "musicService" : "iTunes",
+          "artwork" :
+   "https:\/\/is5-ssl.mzstatic.com\/image\/thumb\/Music118\/v4\/bd\/25\/d1\/bd25d18d-e0c4-e7c8-8870-ce2854e13180\/5054429132717.png\/1024x1024bb.jpg"
+        },
+        {
+          "artist" : "Eric Prydz",
+          "id" : "1444896016",
+          "notes" : "",
+          "preview" :
+   "https:\/\/audio-ssl.itunes.apple.com\/itunes-assets\/AudioPreview115\/v4\/2c\/a8\/bf\/2ca8bf4a-031e-2750-bf3f-42d73fe1a2e6\/mzaf_3037219933227777272.plus.aac.p.m4a",
+          "date" : "2022-06-10T19:32:36Z",
+          "title" : "Opus",
+          "musicService" : "iTunes",
+          "artwork" :
+   "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Music128\/v4\/57\/77\/35\/5777351d-ae86-0ab6-7899-823ce215d4cb\/00602547589774.rgb.jpg\/1024x1024bb.jpg"
+        },
+        {
+          "artist" : "Four Tet",
+          "id" : "1286230358",
+          "notes" : "",
+          "preview" :
+   "https:\/\/audio-ssl.itunes.apple.com\/itunes-assets\/AudioPreview118\/v4\/fe\/4d\/55\/fe4d55cf-5cc8-07cd-69c9-d3c24b113f61\/mzaf_7750450622432255340.plus.aac.p.m4a",
+          "date" : "2022-06-10T19:32:36Z",
+          "title" : "Plastic People",
+          "musicService" : "iTunes",
+          "artwork" :
+   "https:\/\/is3-ssl.mzstatic.com\/image\/thumb\/Music128\/v4\/a3\/f1\/79\/a3f17926-28ca-c3a2-6487-77595e677376\/5034202025450_cover.jpg\/1024x1024bb.jpg"
+        },
+        {
+          "artist" : "Four Tet",
+          "id" : "1286229826",
+          "notes" : "",
+          "preview" :
+   "https:\/\/audio-ssl.itunes.apple.com\/itunes-assets\/AudioPreview128\/v4\/00\/20\/c2\/0020c2e2-c6dd-14a7-04a9-40294483f51b\/mzaf_7302951272451656306.plus.aac.p.m4a",
+          "date" : "2022-06-10T19:32:36Z",
+          "title" : "Angel Echoes",
+          "musicService" : "iTunes",
+          "artwork" :
+   "https:\/\/is3-ssl.mzstatic.com\/image\/thumb\/Music128\/v4\/a3\/f1\/79\/a3f17926-28ca-c3a2-6487-77595e677376\/5034202025450_cover.jpg\/1024x1024bb.jpg"
+        }
+      ]
+    }
+  ]
