@@ -14,20 +14,34 @@
             "supportPages": [
                 {
                     "id": 0,
+                    "title": "What",
+                    "subtitle": "With Chart Your Music you will be able to create collections of charts (e.g. Top 40 2020, Best Albums 2000) of the music you love and then create charts ranking your songs, albums, tracks, either daily, weekly, monthly, unordered. Over time, Chart Your Music will become your musical diary.",
+                    "imageURL": "https://ridmaur.github.io/chartyourmusic/supporter/images/appicon.png",
+                    "darkImageURL": "https://ridmaur.github.io/chartyourmusic/supporter/images/appicon.png"
+                },
+                {
+                    "id": 1,
+                    "title": "Who",
+                    "subtitle": "This app is for music lovers that need more than the yearly 'what did I listen to' lists of Apple Music and Spotify. Be in control of your own charts, not solely determined by (accidental) listening behaviour but carefully curated by you.",
+                    "imageURL": "https://ridmaur.github.io/chartyourmusic/supporter/images/promobanner.png",
+                    "darkImageURL": "https://ridmaur.github.io/chartyourmusic/supporter/images/promobanner.png"
+                },
+                {
+                    "id": 2,
                     "title": "Organize",
                     "subtitle": "Organize your charts in collections. E.g. *My Albums 2021*.",
                     "imageURL": "https://ridmaur.github.io/chartyourmusic/supporter/images/collections_white.png",
                     "darkImageURL": "https://ridmaur.github.io/chartyourmusic/supporter/images/collections_black.png"
                 },
                 {
-                    "id": 1,
+                    "id": 3,
                     "title": "Sequence",
                     "subtitle": "Create charts in a collection, daily, weekly, unordered… Whatever you prefer.",
                     "imageURL": "https://ridmaur.github.io/chartyourmusic/supporter/images/charts_white.png",
                     "darkImageURL": "https://ridmaur.github.io/chartyourmusic/supporter/images/charts_black.png"
                 },
                 {
-                    "id": 2,
+                    "id": 4,
                     "title": "Rank Entries",
                     "subtitle": "Rank music entries in a chart in line with you musical taste.",
                     "imageURL": "https://ridmaur.github.io/chartyourmusic/supporter/images/rankentries_white.png",
@@ -548,11 +562,11 @@
                 },
                 {
                     "id": 1,
-                    "releaseNote": "Support for import and export of collections, editorial notes, sharing your charts with MusicThread."
+                    "releaseNote": "Support for import and export of collections, import of editorial notes for entries, sharing charts with MusicThread."
                 },
                 {
                     "id": 2,
-                    "releaseNote": "Improved in-ap on-boarding and support."
+                    "releaseNote": "Improved in-app on-boarding and support."
                 },
                 {
                     "id": 3,
