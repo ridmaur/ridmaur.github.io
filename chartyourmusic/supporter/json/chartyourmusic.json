@@ -42,7 +42,7 @@
                 },
                 {
                     "id": 4,
-                    "title": "Rank Entries",
+                    "title": "Rank",
                     "subtitle": "Rank music entries in a chart in line with you musical taste.",
                     "imageURL": "https://ridmaur.github.io/chartyourmusic/supporter/images/rankentries_white.png",
                     "darkImageURL": "https://ridmaur.github.io/chartyourmusic/supporter/images/rankentries_black.png"
