@@ -108,21 +108,21 @@
                         {
                             "id": 2,
                             "title": "Chart",
-                            "subtitle": "In a chart you rank your favorite entries according to your musical preference at that moment…",
+                            "subtitle": "In each chart you rank your favorite entries according to your musical preference at that moment…",
                             "imageURL": "https://ridmaur.github.io/chartyourmusic/supporter/images/chart_white.png",
                             "darkImageURL": "https://ridmaur.github.io/chartyourmusic/supporter/images/chart_black.png"
                         },
                         {
                             "id": 3,
                             "title": "Entries",
-                            "subtitle": "The tracks / songs / albums that are part of your collection and can be ranked in a chart. E.g. The Weekend - Blinding Lights, or Radiohead - OK Computer",
+                            "subtitle": "The tracks / songs / albums that are part of your collection and can be ranked in a chart. E.g. *The Weekend - Blinding Lights*, or *Radiohead - OK Computer*",
                             "imageURL": "https://ridmaur.github.io/chartyourmusic/supporter/images/entrydetail_white.png",
                             "darkImageURL": "https://ridmaur.github.io/chartyourmusic/supporter/images//entrydetail_black.png"
                         },
                         {
                             "id": 4,
                             "title": "Chart Entries",
-                            "subtitle": "The combination of an entry in a chart, specifying the position of an entry in the chart.",
+                            "subtitle": "The unique combination of an entry in a chart, specifying the position of an entry in the chart, e.g. the entry *Beyoncé - Naughty Girl* in chart *Week 19*",
                             "imageURL": "https://ridmaur.github.io/chartyourmusic/supporter/images/chart_white.png",
                             "darkImageURL": "https://ridmaur.github.io/chartyourmusic/supporter/images/chart_black.png"
                         }
