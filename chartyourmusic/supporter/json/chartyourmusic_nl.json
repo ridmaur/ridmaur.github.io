@@ -2,20 +2,20 @@
     "releaseNotes": {
         "id": 1,
         "version": "1.1.0",
-        "title": "Big update",
-        "description": "This is the first big update for Chart Your Music containing updates to the overall UI, support for import and export of collections, import of Apple Music editorial notes, sharing your charts with MusicThread, improved in-ap on-boarding and support, new  MusicKit for Apple Music integration, and support for large number of new iOS 15 features."
+        "title": "Grote update",
+        "description": "Dit is de eerste grote update voor Chart Your Music met updates voor de algemene UI, ondersteuning voor het importeren en exporteren van collecties, importeren van Apple Music redactionele aantekeningen, het delen van je charts met MusicThread, verbeterde in-ap on-boarding en ondersteuning, nieuwe MusicKit voor Apple Music integratie, en ondersteuning voor een groot aantal nieuwe iOS 15 functies."
     },
     "headerItems": [
         {
             "id": 5,
-            "title": "Welcome to Chart Your Music",
+            "title": "Welkom bij Chart Your Music",
             "imageName": "rectangle.stack",
             "color": 0,
             "supportPages": [
                 {
                     "id": 0,
                     "title": "What",
-                    "subtitle": "With Chart Your Music you will be able to create collections of charts (e.g. Top 40 2020, Best Albums 2000) of the music you love and then create charts ranking your songs, albums, tracks, either daily, weekly, monthly, unordered. Over time, Chart Your Music will become your musical diary.",
+                    "subtitle": "Met Chart Your Music kun je verzamelingen van hitlijsten (bijv. Top 40 2020, Beste Albums 2000) maken van de muziek waar je van houdt en vervolgens hitlijsten maken met de nummers, albums, tracks, dagelijks, wekelijks, maandelijks, ongeordend. Na verloop van tijd zal Chart Your Music je muzikale dagboek worden.",
                     "imageURL": "https://ridmaur.github.io/chartyourmusic/supporter/images/appicon.png",
                     "darkImageURL": "https://ridmaur.github.io/chartyourmusic/supporter/images/appicon.png"
                 },
