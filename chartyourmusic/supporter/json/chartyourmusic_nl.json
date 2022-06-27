@@ -197,7 +197,7 @@
         },
         {
             "id": 1,
-            "title": "Hoe,
+            "title": "Hoe",
             "items": [
                 {
                     "id": 0,
@@ -312,7 +312,7 @@
                         },
                         {
                             "id": 1,
-                            "title": "Creëer een Afspeellijst,
+                            "title": "Creëer een Afspeellijst",
                             "subtitle": "Wanneer Apple Music of Spotify als muziekdienst is geconfigureerd, kunt u een afspeellijst maken van een lijst. Tik op **Lijsten** in de tabbalk. Tik op uw verzameling. Tik op de specifieke lijst. Tik op de koptekst (met de datum van de grafiek). In het scherm **Lijst Details**, tik je op **...** en vervolgens op **Maak Afspeellijst…***. Een afspeellijst met de titel *CYM: verzameling naam - lijst name* wordt gecreëerd.",
                             "videoURL": "https://ridmaur.github.io/chartyourmusic/supporter/videos/createplaylist_white.mp4",
                             "darkVideoURL": "https://ridmaur.github.io/chartyourmusic/supporter/videos/createplaylist_black.mp4"
@@ -580,3 +580,4 @@
         }
     ]
 }
+
