@@ -14,36 +14,36 @@
             "supportPages": [
                 {
                     "id": 0,
-                    "title": "What",
+                    "title": "Wat",
                     "subtitle": "Met Chart Your Music kun je verzamelingen van hitlijsten (bijv. Top 40 2020, Beste Albums 2000) maken van de muziek waar je van houdt en vervolgens hitlijsten maken met de nummers, albums, tracks, dagelijks, wekelijks, maandelijks, ongeordend. Na verloop van tijd zal Chart Your Music je muzikale dagboek worden.",
                     "imageURL": "https://ridmaur.github.io/chartyourmusic/supporter/images/appicon.png",
                     "darkImageURL": "https://ridmaur.github.io/chartyourmusic/supporter/images/appicon.png"
                 },
                 {
                     "id": 1,
-                    "title": "Who",
-                    "subtitle": "This app is for music lovers that need more than the yearly 'what did I listen to' lists of Apple Music and Spotify. Be in control of your own charts, not solely determined by (accidental) listening behaviour but carefully curated by you.",
+                    "title": "Wie",
+                    "subtitle": "Deze app is voor muziekliefhebbers die meer nodig hebben dan de jaarlijkse 'waar heb ik naar geluisterd' lijstjes van Apple Music en Spotify. Wees de baas over je eigen hitlijsten, niet alleen bepaald door (toevallig) luistergedrag maar zorgvuldig door jou samengesteld.",
                     "imageURL": "https://ridmaur.github.io/chartyourmusic/supporter/images/promobanner.png",
                     "darkImageURL": "https://ridmaur.github.io/chartyourmusic/supporter/images/promobanner.png"
                 },
                 {
                     "id": 2,
-                    "title": "Organize",
-                    "subtitle": "Organize your charts in collections. E.g. *My Albums 2021*.",
+                    "title": "Organiseer",
+                    "subtitle": "Organiseer uw lijsten in verzamelingen. Bijv. *Mijn Albums 2021*.",
                     "imageURL": "https://ridmaur.github.io/chartyourmusic/supporter/images/collections_white.png",
                     "darkImageURL": "https://ridmaur.github.io/chartyourmusic/supporter/images/collections_black.png"
                 },
                 {
                     "id": 3,
-                    "title": "Sequence",
-                    "subtitle": "Create charts in a collection, daily, weekly, unordered… Whatever you prefer.",
+                    "title": "Volgorde",
+                    "subtitle": "Maak lijsten in een verzameling, dagelijks, wekelijks, ongeordend... Wat u maar verkiest.",
                     "imageURL": "https://ridmaur.github.io/chartyourmusic/supporter/images/charts_white.png",
                     "darkImageURL": "https://ridmaur.github.io/chartyourmusic/supporter/images/charts_black.png"
                 },
                 {
                     "id": 4,
-                    "title": "Rank",
-                    "subtitle": "Rank music entries in a chart in line with you musical taste.",
+                    "title": "Rangschik",
+                    "subtitle": "Rangschik items in een lijst volgens je muzikale smaak.",
                     "imageURL": "https://ridmaur.github.io/chartyourmusic/supporter/images/rankentries_white.png",
                     "darkImageURL": "https://ridmaur.github.io/chartyourmusic/supporter/images/rankentries_black.png"
                 }
