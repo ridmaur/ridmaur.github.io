@@ -90,7 +90,7 @@
                     "subtitle" : "Que sont les collections, les Listes,…",
                     "imageName" : "rectangle.stack",
                     "color" : 0,
-                    "SupportPages" : [
+                    "supportPages" : [
                         {
                             "id" : 0,
                             "title" : "Collections",
@@ -134,7 +134,7 @@
                     "subtitle" : "Étapes pour commencer",
                     "imageName" : "1.circle",
                     "color" : 0,
-                    "SupportPages" : [
+                    "supportPages" : [
                         {
                             "id" : 0,
                             "title" : "Sélectionne ton service de musique",
@@ -302,7 +302,7 @@
                     "subtitle" : "…tes Listes ou tes collections.",
                     "imageName" : "square.and.arrow.up.on.square",
                     "color" : 0,
-                    "SupportPages" : [
+                    "supportPages" : [
                         {
                             "id" : 0,
                             "title" : "Partage ton tableau",
