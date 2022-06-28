@@ -209,7 +209,7 @@
                         {
                             "id": 0,
                             "title": "Ver o editar una colección",
-                            "subtitle": "Pulsa sobre **Colecciones** en la barra de pestañas. Toca en la colección que quieras ver o modificar. Toca en la cabecera (con la fecha de la colección). Verás la pantalla de **Resumen de entradas** donde puedes clasificar y buscar todas las entradas de la colección. Toca en **...* y luego en **Editar** para modificar los detalles de la colección",
+                            "subtitle": "Pulsa sobre **Colecciones** en la barra de pestañas. Toca en la colección que quieras ver o modificar. Toca en la cabecera (con la fecha de la colección). Verás la pantalla de **Resumen de entradas** donde puedes clasificar y buscar todas las entradas de la colección. Toca en **...** y luego en **Editar** para modificar los detalles de la colección",
                             "videoURL": "https://ridmaur.github.io/chartyourmusic/supporter/videos/vieweditcollection_white.mp4",
                             "darkVideoURL": "https://ridmaur.github.io/chartyourmusic/supporter/videos/vieweditcollection_black.mp4"
                         },
@@ -306,28 +306,28 @@
                         {
                             "id": 0,
                             "title": "Comparte tu lista",
-                            "subtitle": "Puedes compartir tu lista utilizando la función de compartir de iOS. Pulsa en **listass** en la barra de pestañas. Pulsa en tu colección. Toca en la lista específica. Pulsa en la cabecera (con la fecha de la lista). En la pantalla de **Detalles del listas**, pulsa en **...***, y luego en **Compartir**. Lo que se comparte depende de la aplicación que selecciones",
+                            "subtitle": "Puedes compartir tu lista utilizando la función de compartir de iOS. Pulsa en **listass** en la barra de pestañas. Pulsa en tu colección. Toca en la lista específica. Pulsa en la cabecera (con la fecha de la lista). En la pantalla de **Detalles del listas**, pulsa en **…**, y luego en **Compartir**. Lo que se comparte depende de la aplicación que selecciones",
                             "videoURL": "https://ridmaur.github.io/chartyourmusic/supporter/videos/sharechart_white.mp4",
                             "darkVideoURL": "https://ridmaur.github.io/chartyourmusic/supporter/videos/sharechart_black.mp4"
                         },
                         {
                             "id": 1,
                             "title": "Crear una lista de reproducción",
-                            "subtitle": "Cuando Apple Music o Spotify están configurados como servicio de música, puedes crear una lista de reproducción a partir de una lista. Toca en **Listas de reproducción** en la barra de pestañas. Toca en tu colección. Toca en la lista específica. Pulsa en la cabecera (con la fecha de la lista). En la pantalla **Detalles de la carta**, pulsa en **...**, y luego en **Crear lista de reproducción...***. Se creará una lista de reproducción titulada *CYM: nombre de la colección - nombre del listas*",
+                            "subtitle": "Cuando Apple Music o Spotify están configurados como servicio de música, puedes crear una lista de reproducción a partir de una lista. Toca en **Listas de reproducción** en la barra de pestañas. Toca en tu colección. Toca en la lista específica. Pulsa en la cabecera (con la fecha de la lista). En la pantalla **Detalles de la carta**, pulsa en **…**, y luego en **Crear lista de reproducción...***. Se creará una lista de reproducción titulada *CYM: nombre de la colección - nombre del listas*",
                             "videoURL": "https://ridmaur.github.io/chartyourmusic/supporter/videos/createplaylist_white.mp4",
                             "darkVideoURL": "https://ridmaur.github.io/chartyourmusic/supporter/videos/createplaylist_black.mp4"
                         },
                         {
                             "id": 2,
                             "title": "Crear un hilo",
-                            "subtitle": "Cuando te hayas autentificado con MusicThread, podrás compartir tu lista como un hilo. Ve a tu lista y toca la cabecera. En la pantalla de **Detalles de la lista**, toca en **...** y luego en **Crear hilo...**. Rellena los detalles en la hoja **Hilo Musical** y envía tu hilo",
+                            "subtitle": "Cuando te hayas autentificado con MusicThread, podrás compartir tu lista como un hilo. Ve a tu lista y toca la cabecera. En la pantalla de **Detalles de la lista**, toca en **…** y luego en **Crear hilo...**. Rellena los detalles en la hoja **Hilo Musical** y envía tu hilo",
                             "videoURL": "https://ridmaur.github.io/chartyourmusic/supporter/videos/createthread_white.mp4",
                             "darkVideoURL": "https://ridmaur.github.io/chartyourmusic/supporter/videos/createthread_black.mp4"
                         },
                         {
                             "id": 3,
                             "title": "Importar listas de reproducción",
-                            "subtitle": "En **Vista general de items*, pulsa en **...*, y luego en **Importar**. Una hoja mostrará tus listas de reproducción del servicio de música configurado. Selecciona una lista de reproducción y se añadirán todas las pistas de la lista de reproducción que aún no existan en la colección.",
+                            "subtitle": "En **Vista general de items*, pulsa en **...**, y luego en **Importar**. Una hoja mostrará tus listas de reproducción del servicio de música configurado. Selecciona una lista de reproducción y se añadirán todas las pistas de la lista de reproducción que aún no existan en la colección.",
                             "videoURL": "https://ridmaur.github.io/chartyourmusic/supporter/videos/importplaylists_white.mp4",
                             "darkVideoURL": "https://ridmaur.github.io/chartyourmusic/supporter/videos/importplaylists_black.mp4"
                         },
