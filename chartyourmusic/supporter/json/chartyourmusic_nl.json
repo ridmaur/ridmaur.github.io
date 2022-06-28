@@ -3,7 +3,7 @@
         "id": 1,
         "version": "1.1.0",
         "title": "Grote update",
-        "description": "Dit is de eerste grote update voor Chart Your Music met updates voor de algemene UI, ondersteuning voor het importeren en exporteren van collecties, importeren van Apple Music redactionele aantekeningen, het delen van je charts met MusicThread, verbeterde in-ap on-boarding en ondersteuning, nieuwe MusicKit voor Apple Music integratie, en ondersteuning voor een groot aantal nieuwe iOS 15 functies."
+        "description": "Dit is de eerste grote update voor Chart Your Music met updates voor de algemene UI, ondersteuning voor het importeren en exporteren van verzamelingen, importeren van Apple Music redactionele aantekeningen, het delen van je charts met MusicThread, verbeterde in-ap on-boarding en ondersteuning, nieuwe MusicKit voor Apple Music integratie, en ondersteuning voor een groot aantal nieuwe iOS 15 functies."
     },
     "headerItems": [
         {
@@ -36,7 +36,7 @@
                 {
                     "id": 3,
                     "title": "Volgorde",
-                    "subtitle": "Maak lijsten in een verzameling, dagelijks, wekelijks, ongeordend... Hoe je het wilt.",
+                    "subtitle": "Maak lijsten in een verzameling, dagelijks, wekelijks, ongeordend… Hoe je het wilt.",
                     "imageURL": "https://ridmaur.github.io/chartyourmusic/supporter/images/charts_white.png",
                     "darkImageURL": "https://ridmaur.github.io/chartyourmusic/supporter/images/charts_black.png"
                 },
@@ -65,7 +65,7 @@
                 {
                     "id": 1,
                     "title": "Importeren, Exporteren, Delen",
-                    "subtitle": "Importeer voorbeeld collecties of collecties van anderen. Redactionele aantekeningen importeren. Exporteer uw verzamelingen. Deel uw hitlijsten met [MusicThread](https://musicthread.app).",
+                    "subtitle": "Importeer voorbeeld verzamelingen of verzamelingen van anderen. Redactionele aantekeningen importeren. Exporteer uw verzamelingen. Deel uw hitlijsten met [MusicThread](https://musicthread.app).",
                     "imageURL": "https://ridmaur.github.io/chartyourmusic/supporter/images/importexport_white.png",
                     "darkImageURL": "https://ridmaur.github.io/chartyourmusic/supporter/images/importexport_black.png"
                 },
@@ -138,7 +138,7 @@
                         {
                             "id": 0,
                             "title": "Selecteer je muziekdienst",
-                            "subtitle": "Voordat je begint met het maken van je eigen collecties, lijsten, items, enz. zorg ervoor dat je de integratie met een muziekdienst waarop je bent geabonneerd hebt geselecteerd (bijv. Apple Music of Spotify). Heb je geen abonnement, selecteer dan iTunes.",
+                            "subtitle": "Voordat je begint met het maken van je eigen verzamelingen, lijsten, items, enz. zorg ervoor dat je de integratie met een muziekdienst waarop je bent geabonneerd hebt geselecteerd (bijv. Apple Music of Spotify). Heb je geen abonnement, selecteer dan iTunes.",
                             "videoURL": "https://ridmaur.github.io/chartyourmusic/supporter/videos/musicservice_white.mp4",
                             "darkVideoURL": "https://ridmaur.github.io/chartyourmusic/supporter/videos/musicservice_black.mp4"
                         },
@@ -159,7 +159,7 @@
                         {
                             "id": 3,
                             "title": "Creëer Je Eerste Items",
-                            "subtitle": "Tik op uw lijst. Tik in je lijst op **+** en selecteer **Zoek item...**. Voer de zoekcriteria in en druk op **zoeken**. Uit de lijst met resultaten, tikt je op het specifieke item dat je wilt toevoegen aan je lijst. In het detailscherm, tikt je op **+Item toevoegen** om het item aan je lijst toe te voegen. Herhaal dit om meer items toe te voegen. Tik op **Cancel**, **Done** wanneer je klaar bent.",
+                            "subtitle": "Tik op uw lijst. Tik in je lijst op **+** en selecteer **Zoek item…**. Voer de zoekcriteria in en druk op **zoeken**. Uit de lijst met resultaten, tikt je op het specifieke item dat je wilt toevoegen aan je lijst. In het detailscherm, tikt je op **+Item toevoegen** om het item aan je lijst toe te voegen. Herhaal dit om meer items toe te voegen. Tik op **Cancel**, **Done** wanneer je klaar bent.",
                             "videoURL": "https://ridmaur.github.io/chartyourmusic/supporter/videos/searchentry_white.mp4",
                             "darkVideoURL": "https://ridmaur.github.io/chartyourmusic/supporter/videos/searchentry_black.mp4"
                         },
@@ -209,7 +209,7 @@
                         {
                             "id": 0,
                             "title": "Bekijk of Wijzig een Verzameling",
-                            "subtitle": "Tik op **Lijsten** in de tabbalk. Tik op de lijst die je wilt bekijken of wijzigen. Tik op de koptekst (met de datum van de verzameling). Je ziet het scherm **Overzicht Items** waar je alle item in de verzameling kunt rangschikken en opzoeken. Tik op **...* en vervolgens op **Wijzig…** om de details van de collectie te wijzigen.",
+                            "subtitle": "Tik op **Lijsten** in de tabbalk. Tik op de lijst die je wilt bekijken of wijzigen. Tik op de koptekst (met de datum van de verzameling). Je ziet het scherm **Overzicht Items** waar je alle item in de verzameling kunt rangschikken en opzoeken. Tik op **…* en vervolgens op **Wijzig…** om de details van de collectie te wijzigen.",
                             "videoURL": "https://ridmaur.github.io/chartyourmusic/supporter/videos/vieweditcollection_white.mp4",
                             "darkVideoURL": "https://ridmaur.github.io/chartyourmusic/supporter/videos/vieweditcollection_black.mp4"
                         },
@@ -252,7 +252,7 @@
                         },
                         {
                             "id": 2,
-                            "title": "Artiet of Titel",
+                            "title": "Artiest of Titel",
                             "subtitle": "Afhankelijk van wat je relevanter vindt voor je verzameling, kan je bepalen of items worden weergegeven als **Artiest** gevolgd door **Titel**, of **Titel** gevolgd door **Artiest**. Tik op **Bewaar** om de wijzigingen op te slaan.",
                             "videoURL": "https://ridmaur.github.io/chartyourmusic/supporter/videos/artisttitle_white.mp4",
                             "darkVideoURL": "https://ridmaur.github.io/chartyourmusic/supporter/videos/artisttitle_black.mp4"
@@ -283,7 +283,7 @@
                         {
                             "id": 1,
                             "title": "Lijst Details",
-                            "subtitle": "Volg de stappen om een lijst te bekijken of te wijzigen. In **Item Details**, tikt je op **Omhoog** om een overzicht te zien van items die zijn gestegen in de lijst, **Gelijk** om een overzicht te zien van items die niet van positie zijn gewijzigd in de lijst, **Omlaag** om een overzicht te zien van items die zijn gedaald in de lijst, **Intro** om een overzicht te zien van items die nieuw zijn in de lijst, **Outro** om een overzicht te zien van items die zijn verdwenen uit de lijst. Met een tik kunt u ook de status van de lijst vergrendelen/ontgrendelen.",
+                            "subtitle": "Volg de stappen om een lijst te bekijken of te wijzigen. In **Lijst Details**, tikt je op **Omhoog** om een overzicht te zien van items die zijn gestegen in de lijst, **Gelijk** om een overzicht te zien van items die niet van positie zijn gewijzigd in de lijst, **Omlaag** om een overzicht te zien van items die zijn gedaald in de lijst, **Intro** om een overzicht te zien van items die nieuw zijn in de lijst, **Outro** om een overzicht te zien van items die zijn verdwenen uit de lijst. Met een tik kunt u ook de status van de lijst vergrendelen/ontgrendelen.",
                             "videoURL": "https://ridmaur.github.io/chartyourmusic/supporter/videos/chartdetails_white.mp4",
                             "darkVideoURL": "https://ridmaur.github.io/chartyourmusic/supporter/videos/chartdetails_black.mp4"
                         },
@@ -306,28 +306,28 @@
                         {
                             "id": 0,
                             "title": "Deel je Lijst",
-                            "subtitle": "Je kunt je lijst delen met behulp van de iOS deelfunctie. Tik op **Lijsten** in de tabbalk. Tik op je verzameling. Tik op de specifieke lijst. Tik op de koptekst (met de datum van de lijst). In het scherm **Details Lijst**, tik je op **...*** en vervolgens op **Deel…**. Wat gedeeld wordt, hangt af van de app die je selecteert.",
+                            "subtitle": "Je kunt je lijst delen met behulp van de iOS deelfunctie. Tik op **Lijsten** in de tabbalk. Tik op je verzameling. Tik op de specifieke lijst. Tik op de koptekst (met de datum van de lijst). In het scherm **Details Lijst**, tik je op **…*** en vervolgens op **Deel…**. Wat gedeeld wordt, hangt af van de app die je selecteert.",
                             "videoURL": "https://ridmaur.github.io/chartyourmusic/supporter/videos/sharechart_white.mp4",
                             "darkVideoURL": "https://ridmaur.github.io/chartyourmusic/supporter/videos/sharechart_black.mp4"
                         },
                         {
                             "id": 1,
                             "title": "Creëer een Afspeellijst",
-                            "subtitle": "Wanneer Apple Music of Spotify als muziekdienst is geconfigureerd, kunt u een afspeellijst maken van een lijst. Tik op **Lijsten** in de tabbalk. Tik op uw verzameling. Tik op de specifieke lijst. Tik op de koptekst (met de datum van de grafiek). In het scherm **Lijst Details**, tik je op **...** en vervolgens op **Maak Afspeellijst…***. Een afspeellijst met de titel *CYM: verzameling naam - lijst name* wordt gecreëerd.",
+                            "subtitle": "Wanneer Apple Music of Spotify als muziekdienst is geconfigureerd, kunt u een afspeellijst maken van een lijst. Tik op **Lijsten** in de tabbalk. Tik op uw verzameling. Tik op de specifieke lijst. Tik op de koptekst (met de datum van de grafiek). In het scherm **Lijst Details**, tik je op **…** en vervolgens op **Maak Afspeellijst…***. Een afspeellijst met de titel *CYM: verzameling naam - lijst name* wordt gecreëerd.",
                             "videoURL": "https://ridmaur.github.io/chartyourmusic/supporter/videos/createplaylist_white.mp4",
                             "darkVideoURL": "https://ridmaur.github.io/chartyourmusic/supporter/videos/createplaylist_black.mp4"
                         },
                         {
                             "id": 2,
                             "title": "Creëer een Thread",
-                            "subtitle": "Wanneer je je hebt geauthenticeerd met MusicThread, kunt je je lijst delen als een thread. Ga naar lijst en tik op de koptekst. In het **Lijst Detail** scherm, tikt je op de **...** en vervolgens op **Maak Thread…**. Vul de gegevens in op het **MusicThread**-blad en verstuur je thread.",
+                            "subtitle": "Wanneer je je hebt geauthenticeerd met MusicThread, kunt je je lijst delen als een thread. Ga naar lijst en tik op de koptekst. In het **Lijst Detail** scherm, tikt je op de **…** en vervolgens op **Maak Thread…**. Vul de gegevens in op het **MusicThread**-blad en verstuur je thread.",
                             "videoURL": "https://ridmaur.github.io/chartyourmusic/supporter/videos/createthread_white.mp4",
                             "darkVideoURL": "https://ridmaur.github.io/chartyourmusic/supporter/videos/createthread_black.mp4"
                         },
                         {
                             "id": 3,
                             "title": "Importeer Afspeellijsten",
-                            "subtitle": "In het **Items Overzicht** scherm, tik op **...* en vervolgens op **Importeer Afspeellijsten…**. Een blad toont je de afspeellijsten van de geconfigureerde muziekdienst. Selecteer een afspeellijst en alle nummers uit de afspeellijst die nog niet in de verzameling voorkomen, worden toegevoegd.",
+                            "subtitle": "In het **Items Overzicht** scherm, tik op **…* en vervolgens op **Importeer Afspeellijsten…**. Een blad toont je de afspeellijsten van de geconfigureerde muziekdienst. Selecteer een afspeellijst en alle nummers uit de afspeellijst die nog niet in de verzameling voorkomen, worden toegevoegd.",
                             "videoURL": "https://ridmaur.github.io/chartyourmusic/supporter/videos/importplaylists_white.mp4",
                             "darkVideoURL": "https://ridmaur.github.io/chartyourmusic/supporter/videos/importplaylists_black.mp4"
                         },
@@ -351,78 +351,78 @@
             "items": [
                 {
                     "id": 0,
-                    "title": "What is the difference between the Home and Charts tab?",
-                    "text": "The **Home** tab shows totals for collections, charts, entries and chart entries. It also shows, for each collection, details like date and current number 1 entry of the most recent chart. Tap on a collection row to easily navigate to the most recent chart in that collection. The **Charts** tab gives you full access to all collections from where you can navigate to all charts within the collection and discover more details on the chart itself as well as on the individual entries in the chart."
+                    "title": "Wat is het verschil tussen het tabblad Home en het tabblad Charts?",
+                    "text": "Het **Home** tabblad toont totalen voor verzamelingen, grafieken, inzendingen en lijsten. Het toont ook, voor elke verzameling, details zoals datum en het huidige nummer 1 item van de meest recente lijst. Tik op een verzameling om eenvoudig naar de meest recente lijst in die verzameling te navigeren. De **Lijsten** tab geeft u volledige toegang tot alle verzamelingen van waaruit u kunt navigeren naar alle lijsten binnen de verzameling en meer details kunt ontdekken over de lijst zelf en over de individuele items in de lijst."
                 },
                 {
                     "id": 1,
-                    "title": "What types of collections does the app support?",
-                    "text": "A collection can be a **sequence** of charts or just a **unordered** collection of charts. With a sequence, charts are ordered based on their chart date, and that date is used to calculate the previous position(s) of an entry. With no sequence configured for the collection, there is no order and/or relation between the charts in a collection. You could use this option if, for example, you want to collect charts from various sources (think end-of-year lists) as part of a collection. See the OOR21 collection for an example."
+                    "title": "Welke soorten verzamelingen ondersteunt de app?",
+                    "text": "Een verzameling kan een **reeks** van lijsten zijn of gewoon een **ongeordende** verzameling van lijst. Met een reek, worden lijsten geordend op basis van hun datum, en die datum wordt gebruikt om de vorige positie(s) van een item te berekenen. Als er geen volgorde is ingesteld voor de verzameling, is er geen volgorde en/of relatie tussen de lijsten in een collectie. Je kan deze optie  gebruiken als je bijvoorbeeld lijsten uit verschillende bronnen (denk aan eindejaarslijsten) wilt verzamelen als onderdeel van een verzameling. Zie de OOR21 verzameling voor een voorbeeld."
                 },
                 {
                     "id": 2,
-                    "title": "Can the app remind me of creating new charts?",
-                    "text": "You can receive daily, weekly or monthly notifications to create a chart for a collection. To do so, follow steps to edit a collection. In the **Edit Collection** sheet, turn **Show Reminders** on. Select **Daily**, **Weekly** or **Monthly**. Specify date and time. Tap **Save** to save changes."
+                    "title": "Kan de app mij herinneren aan het maken van nieuwe lijsten?"",
+                    "text": "Je kunt dagelijks, wekelijks of maandelijks meldingen ontvangen om een lijst voor een verzameling te maken. Volg hiervoor de stappen voor het bewerken van een lijst. In het blad **Wijzig Verzameling**, schakel je **Toon Herinneringen** in. Selecteer **Dagelijks**, **Wekelijks** of **Maandelijks**. Geef datum en tijd op. Tik op **Bewaar** om de wijzigingen op te slaan."
                 },
                 {
                     "id": 3,
-                    "title": "What is the purpose of archiving a collection?",
-                    "text": "Archiving a collection closes a collection for changes. You will not be able to add new charts or modify existing charts. You might typically do that at the end of the year for example. To archive a collection, follow steps to edit a collection. In the **Edit Collection** sheet, toggle **Archive** on. Tap **Save** to save changes."
+                    "title": "Wat is het doel van het archiveren van een verzameling?",
+                    "text": "Het archiveren van een verzameling sluit een verzameling voor wijzigingen. Je kunt dan geen nieuwe lijsten meer toevoegen of bestaande lijsten wijzigen. Dat zou je bijvoorbeeld typisch aan het eind van het jaar kunnen doen. Om een lijst te archiveren, volg je de stappen om een lijst te bewerken. In het blad **Wijzig Verzameling** schakel je **Archiveer** in. Tik op **Bewaar** om de wijzigingen op te slaan."
                 },
                 {
                     "id": 4,
-                    "title": "How can I view and search for entries in a collection?",
-                    "text": "Tap on **Charts** in the tab bar. Tap on the collection you want to view. Tap on header (with date of the collection). In the **Entries Overview** for the collection, tap on the buttons to sort entries on **Total points**, **Number of nr. 1 positions**, **Highest position**, **Number of chart entries** in **Ascending** or **Descending order**. Drag down to reveal the **Search** field and type any text to search for entries."
+                    "title": "Hoe kan ik items in een verzameling bekijken en doorzoeken?",
+                    "text": "Tik op **Lijsten** in de tabbalk. Tik op de verzameling die je wilt bekijken. Tik op de kop (met datum van de verzameling). In het **Items Overzicht** voor de verzameling, raak je de knoppen aan om de items te sorteren op **Totaal aantal punten**, **Aantal nr. 1 posities**, **Hoogste positie**, **Aantal noteringen** in **Oplopend** of **Aflopend** volgorde. Sleep naar beneden om het **Zoek** veld te openen en typ een willekeurige tekst om items te zoeken."
                 },
                 {
                     "id": 5,
-                    "title": "How can I define a specific period for which I want to rank entries in a collection?",
-                    "text": "In the **Edit Collection** sheet, toggle **Define Overview Period** on. Define start date and end date for the period. Tap **Save**. You can now easily toggle between a view showing entries for the specified period (**Period**) or all entries (**All**) using the calendar button on the left side of the toolbar."
+                    "title": "Hoe kan ik een specifieke periode definiëren waarvoor ik items in een verzameling wil rangschikken?",
+                    "text": "Schakel in het blad **Wijzig Verzameling** **Definiëer Overzicht Period** in. Definieer **Start Datum** en **Eind Datum** voor de periode. Tik op **Bewaar**. Je kunt nu gemakkelijk wisselen tussen een overzicht met items voor de opgegeven periode (**Periode**) of alle items (**Alle**) met de kalenderknop links op de werkbalk."
                 },
                 {
                     "id": 6,
-                    "title": "How do I determine the order of charts in a collection?",
-                    "text": "Charts in a collection are ordered by chart date in descending order. You can change the order by modifying the chart date of a chart. To do this, follow steps to edit a chart. In **Edit Chart** screen, modify the **Date of Chart**. Tap **Save** to save changes."
+                    "title": "Hoe bepaal ik de volgorde van lijsten in een verzameling?",
+                    "text": "Lijsten in een verzameling worden geordend op datum in aflopende volgorde. Je kunt de volgorde veranderen door de datum van een grafiek te wijzigen. Volg hiertoe de stappen om een lijst te bewerken. In het scherm **Wijzig Lijst** wijzig je de **Datum  Lijst**. Tik op **Bewaar** om de wijzigingen op te slaan."
                 },
                 {
                     "id": 7,
-                    "title": "What does locking a chart mean?",
-                    "text": "You want to lock a chart when you have completed the chart with all entries ranked, reflecting your musical taste for the chart. When locked, you are protected from making accidental changes. Also, a locked chart (and as such the chart entries) will be taken into account for calculating total points, number of chart entries, highest position, etc.. Note that you can only lock a chart when the number of entries in the chart conform to the number of entries defined for charts in the collection."
+                    "title": "Wat betekent het vergrendelen van een grafiek?",
+                    "text": "Je wilt een kaart vergrendelen als je de kaart voltooid hebt met alle items gerangschikt conform je muzikale smaak. Als je een lijst vergrendeld hebt, ben je beschermd tegen het per ongeluk aanbrengen van wijzigingen. Ook wordt met een vergrendelde lijst (en als zodanig de items) rekening gehouden bij de berekening van het totaal aantal punten, het aantal noteringen, de hoogste positie, enz. Merk op dat je een lijst pas kunt vergrendelen als het aantal items in de kaart overeenkomt met het aantal items dat voor lijsten in de verzameling is gedefinieerd."
                 },
                 {
                     "id": 16,
-                    "title": "How can I delete a collection?",
-                    "text": "You can only delete a collection if it doesn't contain any charts. If so, swipe left on the specific collection in the collection list to delete the collection. Alternatively, in **Settings**, **Manage Collections**, you can delete one or more collections rapidly and definitely (so even if it contains charts and/or entries). Only do this when you are absolutely sure, as this action is irreversible. "
+                    "title": "Hoe kan ik een verzameling verwijderen?",
+                    "text": "Je kunt een verzameling alleen verwijderen als ze geen lijsten bevat. Als dat zo is, veeg dan naar links over de specifieke verzameling in de lijst van verzamelingen om de verzameling te verwijderen. Als alternatief kun je in **Instellingen**, **Beheer Verzamelingen**, snel en definitief één of meerdere verzamelingen verwijderen (dus ook als ze lijsten en/of items bevat). Doe dit alleen als je absoluut zeker bent, want deze actie is onomkeerbaar. "
                 },
                 {
                     "id": 8,
-                    "title": "How can I delete a chart?",
-                    "text": "You can only delete an individual chart if it doesn't contain any chart entries. If so, swipe left on the specific chart in the chart list to delete the chart."
+                    "title": "Hoe kan ik een lijst verwijderen?",
+                    "text": "Je kunt een individuele lijst alleen verwijderen als de lijst geen items bevat. Zo ja, veeg dan naar links over de specifieke lijst in om deze te verwijderen."
                 },
                 {
                     "id": 9,
-                    "title": "How can I delete an entry?",
-                    "text": "You can only delete an individual entry if the entry is not part of any chart in the collection (i.e. there are no chart entries with a reference to the entry). To search for entries that are not part of any chart in a collection, type `FindOrphans` in the **Search** field in the **Entry Overview** screen."
+                    "title": "Hoe kan ik een item verwijderen?",
+                    "text": "Je kunt een individueel item alleen verwijderen als het item geen deel uitmaakt van een lijst in de verzameling (d.w.z. er zijn geen noteringen met een verwijzing naar het item). Om items te zoeken die geen deel uitmaken van een lijst in een verzameling, typ je `FindOrphans` in het **Zoek** veld in het **Item Overzicht** scherm."
                 },
                 {
                     "id": 10,
-                    "title": "What does rebuilding a collection do?",
-                    "text": "Rebuilding a collection deletes orphan entries (entries that are not part of any chart in the collection) and rebuilds the Spotlight index for a collection."
+                    "title": "Wat doet het opnieuw opbouwen van een verzameling?",
+                    "text": "Een verzameling opnieuw opbouwen verwijdert items die geen deel uitmaken van een lijst in de verzameling (items zonder noteringen) en bouwt de Spotlight index voor een verzameling opnieuw op."
                 },
                 {
                     "id": 11,
-                    "title": "How can I update an entry?",
-                    "text": "You can update an entry by clicking on **Update** in the **Edit Entry** sheet. Note that the current artist and title of the entry will be used to search for updated music entries. Select any of the suggeated updated results to update your entry."
+                    "title": "Hoe kan ik een item bijwerken?",
+                    "text": "Je kunt een item bijwerken door op **Werk Bij** te tikken in het **Wijzig Item** blad. Merk op dat de huidige artiest en titel van het item gebruikt worden om bijgewerkte muziekitems te zoeken. Kies één van de gesuggereerde bijgewerkte resultaten om je item bij te werken."
                 },
                 {
                     "id": 12,
-                    "title": "How can I listen to an entry?",
-                    "text": "In a chart, long press on the artwork of an entry in a chart. You will see a visual indication. To stop listening, press once more on the artwork. In the **Entry Detail** screen, tap **Play**  in the navigation bar. Tap  **Stop** to stop listening to the entry. You can also use the native music service player to stop listening to the entry. Note: The app doesn't have a in-built music player; it invokes the native music service player. As a result, buttons and visualisations might not properly reflect the status of listening to an entry. Note: For (chart) entries that do have a reference to a Spotify track / album, ensure you have a device available for Spotify to interact with. Or simply stated: have Spotify running somewhere on a device near you."
+                    "title": "Hoe kan ik naar een item luisteren?",
+                    "text": "In een lijst kun je lang drukken op de afbeelding van een item. Je ziet een visuele aanwijzing. Om het luisteren te stoppen, druk je nogmaals op de afbeelding. In het **Item Detail** scherm, raak je **Play** aan in de navigatiebalk. Tik op **Stop** om te stoppen met luisteren naar het item. Je kunt ook de eigen muziekdienst speler gebruiken om te stoppen met luisteren naar het item. Opmerking: De app heeft geen ingebouwde muziekspeler; de app roept de eigen speler van de muziekdienst aan. Daardoor kan het zijn dat knoppen en visualisaties de status van het luisteren naar een item niet goed weergeven. Opmerking: Voor items die naar een Spotify nummer / album verwijzen, moet je ervoor zorgen dat je een toestel beschikbaar hebt waarmee Spotify kan communiceren. Of eenvoudig gezegd: zorg dat Spotify ergens actief is op een apparaat."
                 },
                 {
                     "id": 13,
-                    "title": "Can I add notes, subtitles?",
-                    "text": "You can add notes to a collection, chart and entry. To do so, follow the steps to edit a collection, chart or entry. When a note is added to a collection, chart or entry, you will see a pencil icon next to the title. For an entry, notes are also displayed at the bottom of the Entry Details screen. A chart also supports subtitles. Again, you can edit a subtitle by following the steps to edit a chart. The subtitle is displayed below the title in the Chart Details screen. If you use the Apple Music service integration you can quickly add Apple Music's editorial notes when available."
+                    "title": "Kan ik notities, ondertitels toevoegen?",
+                    "text": "Je kunt notities toevoegen aan een verzameling, lijst en item. Volg daarvoor de stappen om een verzameling, lijst of item te bewerken. Als je een notitie toevoegt aan een verzameling, lijst of item, zie je een potlood-icoon naast de titel. Bij een item worden notities ook onderaan het scherm **Details Item** getoond. Een lijst ondersteunt ook ondertitels. Ook hier kun je een ondertitel bewerken door de stappen voor het bewerken van een lijst te volgen. De ondertitel wordt onder de titel in het scherm **Details** van de lijst getoond. Als je de integratie met Apple Music  gebruikt, kun je snel de redactionele notities van Apple Music toevoegen indien deze beschikbaar zijn."
                 }
             ]
         },
@@ -558,23 +558,23 @@
             "notes": [
                 {
                     "id": 0,
-                    "releaseNote": "Updates to the overall UI."
+                    "releaseNote": "Updates voor de algemene gebruikersinterface."
                 },
                 {
                     "id": 1,
-                    "releaseNote": "Support for import and export of collections, import of editorial notes for entries, sharing charts with MusicThread."
+                    "releaseNote": "Ondersteuning voor import en export van verzamelingen, import van redactionele notities voor items, delen van lijsten met MusicThread."
                 },
                 {
                     "id": 2,
-                    "releaseNote": "Improved in-app on-boarding and support."
+                    "releaseNote": "Verbeterde in-app on-boarding en ondersteuning."
                 },
                 {
                     "id": 3,
-                    "releaseNote": "Updated to use MusicKit for Apple Music integration."
+                    "releaseNote": "UBijgewerkt om MusicKit te gebruiken voor Apple Music integratie."
                 },
                 {
                     "id": 4,
-                    "releaseNote": "Support for large number of new iOS 15 features."
+                    "releaseNote": "Ondersteuning voor een groot aantal nieuwe iOS 15 functies."
                 }
             ]
         }

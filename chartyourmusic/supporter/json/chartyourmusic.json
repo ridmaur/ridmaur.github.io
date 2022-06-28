@@ -115,14 +115,14 @@
                         {
                             "id": 3,
                             "title": "Entries",
-                            "subtitle": "The tracks / songs / albums that are part of your collection and can be ranked in a chart. E.g. *The Weekend - Blinding Lights*, or *Radiohead - OK Computer*",
+                            "subtitle": "The tracks / songs / albums that are part of your collection and can be ranked in a chart. E.g. *The Weekend - Blinding Lights*, or *Radiohead - OK Computer*.",
                             "imageURL": "https://ridmaur.github.io/chartyourmusic/supporter/images/entrydetail_white.png",
                             "darkImageURL": "https://ridmaur.github.io/chartyourmusic/supporter/images//entrydetail_black.png"
                         },
                         {
                             "id": 4,
                             "title": "Chart Entries",
-                            "subtitle": "The unique combination of an entry in a chart, specifying the position of an entry in the chart, e.g. the entry *Beyoncé - Naughty Girl* in chart *Week 19*",
+                            "subtitle": "The unique combination of an entry in a chart, specifying the position of an entry in the chart, e.g. the entry *Beyoncé - Naughty Girl* in chart *Week 19*.",
                             "imageURL": "https://ridmaur.github.io/chartyourmusic/supporter/images/chart_white.png",
                             "darkImageURL": "https://ridmaur.github.io/chartyourmusic/supporter/images/chart_black.png"
                         }
@@ -145,28 +145,28 @@
                         {
                             "id": 1,
                             "title": "Create Your First Collection",
-                            "subtitle": "Tap on **Charts** in the tab bar. In **Collections**, tap **+** in the navigation bar. Specify your collections details in the **Add Collection** sheet. Click **Save**.",
+                            "subtitle": "Tap on **Charts** in the tab bar. In **Collections**, tap **+** in the navigation bar. Specify your collection details in the **Add Collection** sheet. Tap **Save**.",
                             "videoURL": "https://ridmaur.github.io/chartyourmusic/supporter/videos/createcollection_white.mp4",
                             "darkVideoURL": "https://ridmaur.github.io/chartyourmusic/supporter/videos/createcollection_black.mp4"
                         },
                         {
                             "id": 2,
                             "title": "Create Your First Chart",
-                            "subtitle": "Tap on your collection (identified by its title). In your collection, tap **+** in the navigation bar. Specify your chart details in the **Add Chart** sheet and click **Save**.",
+                            "subtitle": "Tap on your collection (identified by its title). In your collection, tap **+** in the navigation bar. Specify your chart details in the **Add Chart** sheet and tap **Save**.",
                             "videoURL": "https://ridmaur.github.io/chartyourmusic/supporter/videos/createchart_white.mp4",
                             "darkVideoURL": "https://ridmaur.github.io/chartyourmusic/supporter/videos/createchart_black.mp4"
                         },
                         {
                             "id": 3,
                             "title": "Create Your First Entries",
-                            "subtitle": "Tap on your chart. In your chart, tap on **+** and select **Search Entry…**. Enter search criteria and press **search**. From the list of results, tap on the specific entry you want to add to your chart. In the details screen, tap **+ Add Entry** to add the entry to your chart. Repeat to add more entries. Click **Cancel**, **Done** when finished.",
+                            "subtitle": "Tap on your chart. In your chart, tap on **+** and select **Search Entry…**. Enter search criteria and press **search**. From the list of results, tap on the specific entry you want to add to your chart. In the details screen, tap **+ Add Entry** to add the entry to your chart. Repeat to add more entries. Tap **Cancel**, **Done** when finished.",
                             "videoURL": "https://ridmaur.github.io/chartyourmusic/supporter/videos/searchentry_white.mp4",
                             "darkVideoURL": "https://ridmaur.github.io/chartyourmusic/supporter/videos/searchentry_black.mp4"
                         },
                         {
                             "id": 4,
                             "title": "Moving or Deleting Entries",
-                            "subtitle": "Tap on **↔︎**. Your chart view changes so you can delete and move entries. Drag entries up or down using the handle of an entry. Click on **-** to remove an entry from the chart (alternatively you can swipe from right to left, even when not in ranking view). Tap **⇅** when finished ranking your chart.",
+                            "subtitle": "Tap on **↔︎**. Your chart view changes so you can delete and move entries. Drag entries up or down using the handle of an entry. Tap on **-** to remove an entry from the chart (alternatively you can swipe from right to left, even when not in ranking view). Tap **⇅** when finished ranking your chart.",
                             "videoURL": "https://ridmaur.github.io/chartyourmusic/supporter/videos/movedeleteentry_white.mp4",
                             "darkVideoURL": "https://ridmaur.github.io/chartyourmusic/supporter/videos/movedeleteentry_black.mp4"
                         },
@@ -209,7 +209,7 @@
                         {
                             "id": 0,
                             "title": "View or Edit A Collection",
-                            "subtitle": "Tap on **Charts** in tab bar. Tap on the collection you want to view or modify. Tap on the header (with the date of the collection). You will see the **Entries Overview** screen where you can rank and search for all entries in the collection. Tap on **...* and then **Edit** to modify collection details.",
+                            "subtitle": "Tap on **Charts** in tab bar. Tap on the collection you want to view or modify. Tap on the header (with the date of the collection). You will see the **Entries Overview** screen where you can rank and search for all entries in the collection. Tap on **…* and then **Edit** to modify collection details.",
                             "videoURL": "https://ridmaur.github.io/chartyourmusic/supporter/videos/vieweditcollection_white.mp4",
                             "darkVideoURL": "https://ridmaur.github.io/chartyourmusic/supporter/videos/vieweditcollection_black.mp4"
                         },
@@ -276,7 +276,7 @@
                         {
                             "id": 0,
                             "title": "Entry Details",
-                            "subtitle": "You can view details of an entry by navigating to an entry from either within a chart or from the **Entry Overview** of a collection. The **Entry Details** screen show numbers for chart entries (in how many charts the entry is listed in, Nr. 1 Positions (how often the entry has reached the number 1 position), Highest Position (what has been the highest position for the entry across charts) and Total Points (the total points the entry has collected across charts).",
+                            "subtitle": "You can view details of an entry by navigating to an entry from either within a chart or from the **Entry Overview** of a collection. The **Entry Details** screen show numbers for chart entries (in how many charts the entry is listed in), Nr. 1 Positions (how often the entry has reached the number 1 position), Highest Position (what has been the highest position for the entry across charts) and Total Points (the total points the entry has collected across charts).",
                             "videoURL": "https://ridmaur.github.io/chartyourmusic/supporter/videos/entrydetails_white.mp4",
                             "darkVideoURL": "https://ridmaur.github.io/chartyourmusic/supporter/videos/entrydetails_black.mp4"
                         },
@@ -306,28 +306,28 @@
                         {
                             "id": 0,
                             "title": "Share Your Chart",
-                            "subtitle": "You can share your chart using the iOS sharing functionality. Tap on **Charts** in tab bar. Tap on your collection. Tap on the specific chart. Tap on the header (with the date of the chart). In **Chart Details** screen, tap on **...***, then on **Share**. What gets shared depends on the app you select.",
+                            "subtitle": "You can share your chart using the iOS sharing functionality. Tap on **Charts** in tab bar. Tap on your collection. Tap on the specific chart. Tap on the header (with the date of the chart). In **Chart Details** screen, tap on **…***, then on **Share**. What gets shared depends on the app you select.",
                             "videoURL": "https://ridmaur.github.io/chartyourmusic/supporter/videos/sharechart_white.mp4",
                             "darkVideoURL": "https://ridmaur.github.io/chartyourmusic/supporter/videos/sharechart_black.mp4"
                         },
                         {
                             "id": 1,
                             "title": "Create A Playlist",
-                            "subtitle": "When Apple Music or Spotify is configured as a music service, you can create a playlist from a chart. Tap on **Charts** in tab bar. Tap on your collection. Tap on the specific chart. Tap on the header (with the date  of the chart). In **Chart Details** screen, tap on **...**, then on **Create Playlist…***. A playlist titled *CYM: collection name - chart name*.",
+                            "subtitle": "When Apple Music or Spotify is configured as a music service, you can create a playlist from a chart. Tap on **Charts** in tab bar. Tap on your collection. Tap on the specific chart. Tap on the header (with the date  of the chart). In **Chart Details** screen, tap on **…**, then on **Create Playlist…***. A playlist titled *CYM: collection name - chart name* will be created.",
                             "videoURL": "https://ridmaur.github.io/chartyourmusic/supporter/videos/createplaylist_white.mp4",
                             "darkVideoURL": "https://ridmaur.github.io/chartyourmusic/supporter/videos/createplaylist_black.mp4"
                         },
                         {
                             "id": 2,
                             "title": "Create A Thread",
-                            "subtitle": "When you have authenticated with MusicThread, you can share your chart as a thread. Go to your chart and tap the header. In the **Chart Detail** screen, tap the **...** and then on **Create Thread…**. Fill in the details in the **MusicThread** sheet and submit your thread.",
+                            "subtitle": "When you have authenticated with MusicThread, you can share your chart as a thread. Go to your chart and tap the header. In the **Chart Detail** screen, tap the **…** and then on **Create Thread…**. Fill in the details in the **MusicThread** sheet and submit your thread.",
                             "videoURL": "https://ridmaur.github.io/chartyourmusic/supporter/videos/createthread_white.mp4",
                             "darkVideoURL": "https://ridmaur.github.io/chartyourmusic/supporter/videos/createthread_black.mp4"
                         },
                         {
                             "id": 3,
                             "title": "Import Playlists",
-                            "subtitle": "In a collection, tap on **Import**. A sheet will display your playlists from the configured music service. Select a playlist and all the tracks from the playlist that do not exist yet in the collection will be added.",
+                            "subtitle": "In  **Items Overview*, tap on **…*, then on **Import**. A sheet will display your playlists from the configured music service. Select a playlist and all the tracks from the playlist that do not exist yet in the collection will be added.",
                             "videoURL": "https://ridmaur.github.io/chartyourmusic/supporter/videos/importplaylists_white.mp4",
                             "darkVideoURL": "https://ridmaur.github.io/chartyourmusic/supporter/videos/importplaylists_black.mp4"
                         },
@@ -412,7 +412,7 @@
                 {
                     "id": 11,
                     "title": "How can I update an entry?",
-                    "text": "You can update an entry by clicking on **Update** in the **Edit Entry** sheet. Note that the current artist and title of the entry will be used to search for updated music entries. Select any of the suggeated updated results to update your entry."
+                    "text": "You can update an entry by tapping on **Update** in the **Edit Entry** sheet. Note that the current artist and title of the entry will be used to search for updated music entries. Select any of the suggeated updated results to update your entry."
                 },
                 {
                     "id": 12,
