@@ -79,16 +79,16 @@
             ]
         }
     ],
-    "sezioni evidenziate": [
+    "highlightedSections": [
         {
             "id": 0,
             "title": "Le basi",
-            "elementi": [
+            "items": [
                 {
                     "id": 0,
                     "title": "Comprendere i concetti",
                     "subtitle": "Cosa sono le raccolte, i lizza,…",
-                    "nomeimmagine": "rectangle.stack",
+                    "imageName": "rectangle.stack",
                     "color": 0,
                     "supportPages": [
                         {
@@ -132,7 +132,7 @@
                     "id": 1,
                     "title": "Iniziare",
                     "subtitle": "Passi per iniziare",
-                    "nomeimmagine": "1.circle",
+                    "imageName": "1.circle",
                     "color": 0,
                     "supportPages": [
                         {
@@ -198,7 +198,7 @@
         {
             "id": 1,
             "title": "Come fare",
-            "elementi": [
+            "items": [
                 {
                     "id": 0,
                     "title": "Visualizza o modifica…",
@@ -300,7 +300,7 @@
                     "id": 3,
                     "title": "Condividi, importa ed esporta…",
                     "subtitle": "…i tuoi lizza o le tue collezioni",
-                    "nomeimmagine": "square.and.arrow.up.on.square",
+                    "imageName": "square.and.arrow.up.on.square",
                     "color": 0,
                     "supportPages": [
                         {
@@ -327,7 +327,7 @@
                         {
                             "id": 3,
                             "title": "Importazione di playlist",
-                            "subtitle": "Nella **Panoramica degli elementi*, tocca su **…*, quindi su **Importa**. Un foglio mostrerà le tue playlist dal servizio musicale configurato. Seleziona una playlist e tutti i brani della playlist che non esistono ancora nella raccolta verranno aggiunti.",
+                            "subtitle": "Nella **Panoramica degli items*, tocca su **…*, quindi su **Importa**. Un foglio mostrerà le tue playlist dal servizio musicale configurato. Seleziona una playlist e tutti i brani della playlist che non esistono ancora nella raccolta verranno aggiunti.",
                             "videoURL": "https://ridmaur.github.io/chartyourmusic/supporter/videos/importplaylists_white.mp4",
                             "darkVideoURL": "https://ridmaur.github.io/chartyourmusic/supporter/videos/importplaylists_black.mp4"
                         },
@@ -348,7 +348,7 @@
             "id": 0,
             "title": "Domande frequenti",
             "hasDetailPage": true,
-            "elementi": [
+            "items": [
                 {
                     "id": 0,
                     "title": "Qual è la differenza tra la scheda Home e la scheda lizza?",
@@ -372,7 +372,7 @@
                 {
                     "id": 4,
                     "title": "Come posso visualizzare e cercare le voci di una raccolta?",
-                    "testo": "Tocca **Lizza** nella barra delle schede. Tocca la raccolta che vuoi visualizzare. Tocca l'intestazione (con la data della raccolta). Nella **Riepilogo voci** della raccolta, tocca i pulsanti per ordinare le voci in base a **Punti totali**, **Numero di posizioni nr. 1**, **Posizione più alta**, **Numero di voci del Lista** in **ordine crescente** o **ordine decrescente**. Trascina verso il basso per visualizzare il campo **Ricerca** e digita un testo qualsiasi per cercare le voci."
+                    "text": "Tocca **Lizza** nella barra delle schede. Tocca la raccolta che vuoi visualizzare. Tocca l'intestazione (con la data della raccolta). Nella **Riepilogo voci** della raccolta, tocca i pulsanti per ordinare le voci in base a **Punti totali**, **Numero di posizioni nr. 1**, **Posizione più alta**, **Numero di voci del Lista** in **ordine crescente** o **ordine decrescente**. Trascina verso il basso per visualizzare il campo **Ricerca** e digita un testo qualsiasi per cercare le voci."
                 },
                 {
                     "id": 5,
@@ -402,7 +402,7 @@
                 {
                     "id": 9,
                     "title": "Come posso eliminare una voce?",
-                    "testo": "Puoi eliminare una voce individuale solo se la voce non fa parte di nessun Lista della collezione (cioè non ci sono voci del Lista con un riferimento alla voce). Per cercare le voci che non fanno parte di alcun Lista in una raccolta, digita `FindOrphans` nel campo **Ricerca** della schermata **Riassunto voci**."
+                    "text": "Puoi eliminare una voce individuale solo se la voce non fa parte di nessun Lista della collezione (cioè non ci sono voci del Lista con un riferimento alla voce). Per cercare le voci che non fanno parte di alcun Lista in una raccolta, digita `FindOrphans` nel campo **Ricerca** della schermata **Riassunto voci**."
                 },
                 {
                     "id": 10,
@@ -417,7 +417,7 @@
                 {
                     "id": 12,
                     "title": "Come posso ascoltare una voce?",
-                    "testo": "In un Lista, premi a lungo sull'opera d'arte di una voce in un Lista. Vedrai un'indicazione visiva. Per interrompere l'ascolto, premi ancora una volta sull'immagine. Nella schermata **Dettaglio voce**, tocca **Play** nella barra di navigazione. Tocca **Stop** per interrompere l'ascolto della voce. Puoi anche utilizzare il lettore del servizio musicale nativo per interrompere l'ascolto della voce. Nota: l'applicazione non dispone di un lettore musicale integrato, ma richiama il lettore del servizio musicale nativo. Di conseguenza, i pulsanti e le visualizzazioni potrebbero non riflettere correttamente lo stato di ascolto di una voce. Nota: per le voci (grafiche) che fanno riferimento a un brano/album di Spotify, assicurati di avere un dispositivo con cui Spotify possa interagire. O più semplicemente: fai in modo che Spotify sia in esecuzione da qualche parte su un dispositivo vicino a te."
+                    "text": "In un Lista, premi a lungo sull'opera d'arte di una voce in un Lista. Vedrai un'indicazione visiva. Per interrompere l'ascolto, premi ancora una volta sull'immagine. Nella schermata **Dettaglio voce**, tocca **Play** nella barra di navigazione. Tocca **Stop** per interrompere l'ascolto della voce. Puoi anche utilizzare il lettore del servizio musicale nativo per interrompere l'ascolto della voce. Nota: l'applicazione non dispone di un lettore musicale integrato, ma richiama il lettore del servizio musicale nativo. Di conseguenza, i pulsanti e le visualizzazioni potrebbero non riflettere correttamente lo stato di ascolto di una voce. Nota: per le voci (grafiche) che fanno riferimento a un brano/album di Spotify, assicurati di avere un dispositivo con cui Spotify possa interagire. O più semplicemente: fai in modo che Spotify sia in esecuzione da qualche parte su un dispositivo vicino a te."
                 },
                 {
                     "id": 13,
@@ -525,7 +525,7 @@
         {
             "id": 0,
             "title": "Feedback",
-            "elementi": [{
+            "items": [{
                     "id": 0,
                     "title": "Mail",
                     "url": "mailto:chartyourmusic@icloud.com",
@@ -543,7 +543,7 @@
                     "id": 2,
                     "title": "Sito web",
                     "url": "https://www.chartyourmusic.com",
-                    "nomeimmagine": "globe",
+                    "imageName": "globe",
                     "color": 0
                 }
 
@@ -554,7 +554,7 @@
         {
             "id": 0,
             "version": "Versione 1.1",
-            "data": "6 giugno 2022",
+            "data": "28 giugno 2022",
             "note": [
                 {
                     "id": 0,

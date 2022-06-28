@@ -83,7 +83,7 @@
         {
             "id": 0,
             "title": "Lo básico",
-            "elementos": [
+            "items": [
                 {
                     "id": 0,
                     "title": "Entender los conceptos",
@@ -198,7 +198,7 @@
         {
             "id": 1,
             "title": "Cómo hacer",
-            "artículos": [
+            "items": [
                 {
                     "id": 0,
                     "title": "Ver o editar...",
@@ -327,7 +327,7 @@
                         {
                             "id": 3,
                             "title": "Importar listas de reproducción",
-                            "subtitle": "En **Vista general de elementos*, pulsa en **...*, y luego en **Importar**. Una hoja mostrará tus listas de reproducción del servicio de música configurado. Selecciona una lista de reproducción y se añadirán todas las pistas de la lista de reproducción que aún no existan en la colección.",
+                            "subtitle": "En **Vista general de items*, pulsa en **...*, y luego en **Importar**. Una hoja mostrará tus listas de reproducción del servicio de música configurado. Selecciona una lista de reproducción y se añadirán todas las pistas de la lista de reproducción que aún no existan en la colección.",
                             "videoURL": "https://ridmaur.github.io/chartyourmusic/supporter/videos/importplaylists_white.mp4",
                             "darkVideoURL": "https://ridmaur.github.io/chartyourmusic/supporter/videos/importplaylists_black.mp4"
                         },
@@ -348,7 +348,7 @@
             "id": 0,
             "title": "Preguntas frecuentes",
             "hasDetailPage": true,
-            "elementos": [
+            "items": [
                 {
                     "id": 0,
                     "title": "¿Cuál es la diferencia entre la pestaña Home y Listas?",
@@ -554,7 +554,7 @@
         {
             "id": 0,
             "version": "version 1.1",
-            "fecha": "6 de junio de 2022",
+            "fecha": "28 de junio de 2022",
             "notas": [
                 {
                     "id": 0,

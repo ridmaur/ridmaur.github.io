@@ -79,7 +79,7 @@
             ]
         }
     ],
-    " highlightedSections " : [
+    "highlightedSections" : [
         {
             "id" : 0,
             "title" : "L'essentiel",
@@ -554,7 +554,7 @@
         {
             "id" : 0,
             "version" : "Version 1.1",
-            "date" : "6 juin 2022",
+            "date" : "28 juin 2022",
             "notes" : [
                 {
                     "id" : 0,
