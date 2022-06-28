@@ -152,14 +152,14 @@
                         {
                             "id": 2,
                             "title": "Crea tu primera lista",
-                            "subtitle": "Toca en tu colección (identificada por su title). En tu colección, toca **+** en la barra de navegación. Especifica los detalles de tu lista en la hoja **Añadir gráfico** y pulsa **Guardar**",
+                            "subtitle": "Toca en tu colección (identificada por su title). En tu colección, toca **+** en la barra de navegación. Especifica los detalles de tu lista en la hoja **Añadir listas** y pulsa **Guardar**",
                             "videoURL": "https://ridmaur.github.io/chartyourmusic/supporter/videos/createchart_white.mp4",
                             "darkVideoURL": "https://ridmaur.github.io/chartyourmusic/supporter/videos/createchart_black.mp4"
                         },
                         {
                             "id": 3,
                             "title": "Crea tus primeras entradas",
-                            "subtitle": "Toca en tu lista. En tu lista, pulsa sobre **+** y selecciona **Buscar entrada...**. Introduce los criterios de búsqueda y pulsa **buscar**. En la lista de resultados, pulsa sobre la entrada específica que quieras añadir a tu gráfico. En la pantalla de detalles, pulsa **+ Añadir entrada** para añadir la entrada a tu lista. Repite la operación para añadir más entradas. Toca **Cancelar**, **Hecho** cuando hayas terminado",
+                            "subtitle": "Toca en tu lista. En tu lista, pulsa sobre **+** y selecciona **Buscar entrada...**. Introduce los criterios de búsqueda y pulsa **buscar**. En la lista de resultados, pulsa sobre la entrada específica que quieras añadir a tu listas. En la pantalla de detalles, pulsa **+ Añadir entrada** para añadir la entrada a tu lista. Repite la operación para añadir más entradas. Toca **Cancelar**, **Hecho** cuando hayas terminado",
                             "videoURL": "https://ridmaur.github.io/chartyourmusic/supporter/videos/searchentry_white.mp4",
                             "darkVideoURL": "https://ridmaur.github.io/chartyourmusic/supporter/videos/searchentry_black.mp4"
                         },
@@ -216,7 +216,7 @@
                         {
                             "id": 1,
                             "title": "Ver o editar una lista",
-                            "subtitle": "Toca en **Gráficos** en la barra de pestañas. Toca tu colección. Toca tu lista. Pulsa en la cabecera (con la fecha de la lista). Verás la pantalla **Detalles del gráfico** con un resumen de los movimientos del gráfico. Toca en **Editar (lápiz)** para modificar los detalles de la lista",
+                            "subtitle": "Toca en **listass** en la barra de pestañas. Toca tu colección. Toca tu lista. Pulsa en la cabecera (con la fecha de la lista). Verás la pantalla **Detalles del listas** con un resumen de los movimientos del listas. Toca en **Editar (lápiz)** para modificar los detalles de la lista",
                             "videoURL": "https://ridmaur.github.io/chartyourmusic/supporter/videos/vieweditchart_white.mp4",
                             "darkVideoURL": "https://ridmaur.github.io/chartyourmusic/supporter/videos/vieweditchart_black.mp4"
                         },
@@ -283,7 +283,7 @@
                         {
                             "id": 1,
                             "title": "Detalles de la lista",
-                            "subtitle": "Sigue los pasos para ver o editar una lista. En **Detalles del gráfico**, pulsa en **Subir** para ver una lista de entradas que subieron en el gráfico, **Igualar** para ver una lista de entradas que no se movieron en el gráfico, **Bajar** para ver una lista de entradas que bajaron en el gráfico, **Intro** para ver una lista de entradas que son nuevas en el gráfico, **Outro** para ver una lista de entradas que desaparecieron del gráfico. Mediante un toque también puedes alternar el estado de bloqueo/desbloqueo de la lista",
+                            "subtitle": "Sigue los pasos para ver o editar una lista. En **Detalles del listas**, pulsa en **Subir** para ver una lista de entradas que subieron en el listas, **Igualar** para ver una lista de entradas que no se movieron en el listas, **Bajar** para ver una lista de entradas que bajaron en el listas, **Intro** para ver una lista de entradas que son nuevas en el listas, **Outro** para ver una lista de entradas que desaparecieron del listas. Mediante un toque también puedes alternar el estado de bloqueo/desbloqueo de la lista",
                             "videoURL": "https://ridmaur.github.io/chartyourmusic/supporter/videos/chartdetails_white.mp4",
                             "darkVideoURL": "https://ridmaur.github.io/chartyourmusic/supporter/videos/chartdetails_black.mp4"
                         },
@@ -306,14 +306,14 @@
                         {
                             "id": 0,
                             "title": "Comparte tu lista",
-                            "subtitle": "Puedes compartir tu lista utilizando la función de compartir de iOS. Pulsa en **Gráficos** en la barra de pestañas. Pulsa en tu colección. Toca en la lista específica. Pulsa en la cabecera (con la fecha de la lista). En la pantalla de **Detalles del gráfico**, pulsa en **...***, y luego en **Compartir**. Lo que se comparte depende de la aplicación que selecciones",
+                            "subtitle": "Puedes compartir tu lista utilizando la función de compartir de iOS. Pulsa en **listass** en la barra de pestañas. Pulsa en tu colección. Toca en la lista específica. Pulsa en la cabecera (con la fecha de la lista). En la pantalla de **Detalles del listas**, pulsa en **...***, y luego en **Compartir**. Lo que se comparte depende de la aplicación que selecciones",
                             "videoURL": "https://ridmaur.github.io/chartyourmusic/supporter/videos/sharechart_white.mp4",
                             "darkVideoURL": "https://ridmaur.github.io/chartyourmusic/supporter/videos/sharechart_black.mp4"
                         },
                         {
                             "id": 1,
                             "title": "Crear una lista de reproducción",
-                            "subtitle": "Cuando Apple Music o Spotify están configurados como servicio de música, puedes crear una lista de reproducción a partir de una lista. Toca en **Listas de reproducción** en la barra de pestañas. Toca en tu colección. Toca en la lista específica. Pulsa en la cabecera (con la fecha de la lista). En la pantalla **Detalles de la carta**, pulsa en **...**, y luego en **Crear lista de reproducción...***. Se creará una lista de reproducción titulada *CYM: nombre de la colección - nombre del gráfico*",
+                            "subtitle": "Cuando Apple Music o Spotify están configurados como servicio de música, puedes crear una lista de reproducción a partir de una lista. Toca en **Listas de reproducción** en la barra de pestañas. Toca en tu colección. Toca en la lista específica. Pulsa en la cabecera (con la fecha de la lista). En la pantalla **Detalles de la carta**, pulsa en **...**, y luego en **Crear lista de reproducción...***. Se creará una lista de reproducción titulada *CYM: nombre de la colección - nombre del listas*",
                             "videoURL": "https://ridmaur.github.io/chartyourmusic/supporter/videos/createplaylist_white.mp4",
                             "darkVideoURL": "https://ridmaur.github.io/chartyourmusic/supporter/videos/createplaylist_black.mp4"
                         },
@@ -352,17 +352,17 @@
                 {
                     "id": 0,
                     "title": "¿Cuál es la diferencia entre la pestaña Home y Listas?",
-                    "text": "La pestaña **Inicio** muestra los totales de las colecciones, los gráficos, las entradas y los registros de los gráficos. También muestra, para cada colección, detalles como la fecha y la entrada número 1 de la lista más reciente. Toca en la fila de una colección para navegar fácilmente a la lista más reciente de esa colección. La pestaña **Gráficos** te da acceso completo a todas las colecciones, desde donde puedes navegar a todos los gráficos de la colección y descubrir más detalles sobre el propio gráfico, así como sobre las entradas individuales del gráfico."
+                    "text": "La pestaña **Inicio** muestra los totales de las colecciones, los listass, las entradas y los registros de los listass. También muestra, para cada colección, detalles como la fecha y la entrada número 1 de la lista más reciente. Toca en la fila de una colección para navegar fácilmente a la lista más reciente de esa colección. La pestaña **listass** te da acceso completo a todas las colecciones, desde donde puedes navegar a todos los listass de la colección y descubrir más detalles sobre el propio listas, así como sobre las entradas individuales del listas."
                 },
                 {
                     "id": 1,
                     "title": "¿Qué tipos de colecciones admite la aplicación?",
-                    "text": "Una colección puede ser una **secuencia** de listas o simplemente una **colección desordenada** de listas. Con una secuencia, los gráficos se ordenan en función de la fecha de su lista, y esa fecha se utiliza para calcular la posición o posiciones anteriores de una entrada. Sin una secuencia configurada para la colección, no hay orden y/o relación entre los gráficos de una colección. Podrías utilizar esta opción si, por ejemplo, quieres recopilar gráficos de varias fuentes (piensa en listas de fin de año) como parte de una colección. Consulta la colección OOR21 para ver un ejemplo."
+                    "text": "Una colección puede ser una **secuencia** de listas o simplemente una **colección desordenada** de listas. Con una secuencia, los listass se ordenan en función de la fecha de su lista, y esa fecha se utiliza para calcular la posición o posiciones anteriores de una entrada. Sin una secuencia configurada para la colección, no hay orden y/o relación entre los listass de una colección. Podrías utilizar esta opción si, por ejemplo, quieres recopilar listass de varias fuentes (piensa en listas de fin de año) como parte de una colección. Consulta la colección OOR21 para ver un ejemplo."
                 },
                 {
                     "id": 2,
                     "title": "¿Puede la aplicación recordarme la creación de nuevas listas?",
-                    "text": "Puedes recibir notificaciones diarias, semanales o mensuales para crear un gráfico para una colección: Puedes recibir notificaciones diarias, semanales o mensuales para crear una lista para una colección. Para ello, sigue los pasos para editar una colección. En la hoja **Editar colección**, activa **Mostrar recordatorios**. Selecciona **Diario**, **Semanal** o **Mensual**. Especifica la fecha y la hora. Pulsa **Guardar** para guardar los cambios"
+                    "text": "Puedes recibir notificaciones diarias, semanales o mensuales para crear un listas para una colección: Puedes recibir notificaciones diarias, semanales o mensuales para crear una lista para una colección. Para ello, sigue los pasos para editar una colección. En la hoja **Editar colección**, activa **Mostrar recordatorios**. Selecciona **Diario**, **Semanal** o **Mensual**. Especifica la fecha y la hora. Pulsa **Guardar** para guardar los cambios"
                 },
                 {
                     "id": 3,
@@ -382,12 +382,12 @@
                 {
                     "id": 6,
                     "title": "¿Cómo puedo determinar el orden de las listas en una colección?",
-                    "text": "Los gráficos de una colección se ordenan por fecha de la lista en orden descendente. Puedes cambiar el orden modificando la fecha de la lista de un gráfico. Para ello, sigue los pasos para editar una lista. En la pantalla **Editar gráfico**, modifica la **Fecha del gráfico**. Pulsa **Guardar** para guardar los cambios."
+                    "text": "Los listass de una colección se ordenan por fecha de la lista en orden descendente. Puedes cambiar el orden modificando la fecha de la lista de un listas. Para ello, sigue los pasos para editar una lista. En la pantalla **Editar listas**, modifica la **Fecha del listas**. Pulsa **Guardar** para guardar los cambios."
                 },
                 {
                     "id": 7,
                     "title": "¿Qué significa bloquear una lista?",
-                    "text": "Quieres bloquear una lista cuando hayas completado la lista con todas las entradas clasificadas, reflejando tu gusto musical por la lista. Cuando se bloquea, estás protegido de hacer cambios accidentales. Además, una lista bloqueada (y como tal las entradas de la lista) se tendrá en cuenta para calcular los puntos totales, el número de entradas de la lista, la posición más alta, etc. Ten en cuenta que sólo puedes bloquear un gráfico cuando el número de entradas del mismo se ajuste al número de entradas definido para los gráficos de la colección."
+                    "text": "Quieres bloquear una lista cuando hayas completado la lista con todas las entradas clasificadas, reflejando tu gusto musical por la lista. Cuando se bloquea, estás protegido de hacer cambios accidentales. Además, una lista bloqueada (y como tal las entradas de la lista) se tendrá en cuenta para calcular los puntos totales, el número de entradas de la lista, la posición más alta, etc. Ten en cuenta que sólo puedes bloquear un listas cuando el número de entradas del mismo se ajuste al número de entradas definido para los listass de la colección."
                 },
                 {
                     "id": 16,
@@ -397,7 +397,7 @@
                 {
                     "id": 8,
                     "title": "¿Cómo puedo eliminar una lista?",
-                    "text": "Sólo puedes eliminar un gráfico individual si no contiene ninguna entrada de gráfico. Si es así, desliza el dedo hacia la izquierda sobre el gráfico específico en la lista de gráficos para eliminar el gráfico."
+                    "text": "Sólo puedes eliminar un listas individual si no contiene ninguna entrada de listas. Si es así, desliza el dedo hacia la izquierda sobre el listas específico en la lista de listass para eliminar el listas."
                 },
                 {
                     "id": 9,
@@ -554,8 +554,8 @@
         {
             "id": 0,
             "version": "version 1.1",
-            "fecha": "28 de junio de 2022",
-            "notas": [
+            "date": "28 de junio de 2022",
+            "notss": [
                 {
                     "id": 0,
                     "releaseNote": "Actualizaciones de la interfaz de usuario general."

@@ -554,8 +554,8 @@
         {
             "id": 0,
             "version": "Versione 1.1",
-            "data": "28 giugno 2022",
-            "note": [
+            "date": "28 giugno 2022",
+            "notea": [
                 {
                     "id": 0,
                     "releaseNote": "Aggiornamenti all'interfaccia utente generale."
