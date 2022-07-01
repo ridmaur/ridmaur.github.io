@@ -21,7 +21,7 @@
 		"description": "Most popular Spotify streams in the Netherlands up until June 30, 2022…",
 		"imageUrl": "https://ridmaur.github.io/chartyourmusic/examples/images/CYM-SpotifyTop10NL-Spotify.jpeg",
 		"musicService": "Spotify",
-		"url": "https://ridmaur.github.io/chartyourmusic/examples/CYM-SpotifyTop10NL2022H1.json.json"
+		"url": "https://ridmaur.github.io/chartyourmusic/examples/CYM-SpotifyTop10NL2022H1.json"
 	},
 	{
 		"id": 4,
