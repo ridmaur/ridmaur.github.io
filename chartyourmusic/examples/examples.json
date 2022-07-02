@@ -18,7 +18,7 @@
 	{
 		"id": 3,
 		"title": "Spotify Top 10 NL",
-		"description": "Most popular Spotify streams in the Netherlands up until June 30, 2022…",
+		"description": "Collection of most popular daily Spotify streams in the Netherlands up until June 30, 2022…",
 		"imageUrl": "https://ridmaur.github.io/chartyourmusic/examples/images/CYM-SpotifyTop10NL-Spotify.jpeg",
 		"musicService": "Spotify",
 		"url": "https://ridmaur.github.io/chartyourmusic/examples/CYM-SpotifyTop10NL2022H1.json.json"
@@ -26,7 +26,7 @@
 	{
 		"id": 4,
 		"title": "Apple Music Top 10 NL",
-		"description": "Most popular Apple Music tracks in the Netherlands up until June 30, 2022…",
+		"description": "Collection of most popular daily Apple Music tracks in the Netherlands up until June 30, 2022…",
 		"imageUrl": "https://ridmaur.github.io/chartyourmusic/examples/images/CYM-AppleMusicTop10NL-AppleMusic.jpeg",
 		"musicService": "Apple Music",
 		"url": "https://ridmaur.github.io/chartyourmusic/examples/CYM-AppleMusicTop10NL2022H1.json"
