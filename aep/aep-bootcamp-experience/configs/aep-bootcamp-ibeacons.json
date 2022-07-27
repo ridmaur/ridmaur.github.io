@@ -1,0 +1,15 @@
+{
+    "ibeacons": [
+        {
+            "uuid": "B9407F30-F5F8-466E-AFF9-25556B57FE6D",
+            "major": 5667,
+            "minor": 16426,
+            "identifier": "beacon.ridm.blue",
+            "title": "RIdM-Beacon-Blue",
+            "location": "essenlaan23",
+            "orchestration": {
+                "eventID": "9fa190c20368bdf8c9ca9623bfb5ccdea62f1dadfad7dc71659aaae176c57cc8"
+            }
+        }
+    ]
+}
