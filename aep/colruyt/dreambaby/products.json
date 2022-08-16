@@ -1,0 +1,188 @@
+{
+    "products": [
+        {
+            "category": "goodies",
+            "imageUrl": "https://bootcamp.aepdemo.net/content/dam/aep-bootcamp-experience/goodies/LIBRETA-Adobe.jpg",
+            "name": "Adobe Notebook",
+            "interaction": "productAddToCart",
+            "external": "",
+            "event": {
+                "eventCategory": "Bootcamp",
+                "eventDescription": "",
+                "eventSubject": "",
+                "eventSubjectUrl": "",
+                "eventType": "productAddToCart"
+            },
+            "productListItem": {
+                "SKU": "Adobe Notebook",
+                "productAddMethod": "Mobile",
+                "priceTotal": 25,
+                "product": "https://bootcamp.aepdemo.net/content/dam/aep-bootcamp-experience/goodies/LIBRETA-Adobe.jpg"
+            },
+            "page": {
+                "trackName": "adobe-tote-bag"
+            }
+        },
+        {
+            "category": "goodies",
+            "imageUrl": "https://bootcamp.aepdemo.net/content/dam/aep-bootcamp-experience/goodies/DisenosMochilaB_goodies.jpg",
+            "name": "Adobe Backpack",
+            "interaction": "productAddToCart",
+            "external": "",
+            "event": {
+                "eventCategory": "Bootcamp",
+                "eventDescription": "",
+                "eventSubject": "",
+                "eventSubjectUrl": "",
+                "eventType": "productAddToCart"
+            },
+            "productListItem": {
+                "SKU": "Adobe Baclpack",
+                "productAddMethod": "Mobile",
+                "priceTotal": 25,
+                "product": "https://bootcamp.aepdemo.net/content/dam/aep-bootcamp-experience/goodies/DisenosMochilaB_goodies.jpg"
+            },
+            "page": {
+                "trackName": "adobe-tote-bag"
+            }
+        },
+        {
+            "category": "goodies",
+            "imageUrl": "https://bootcamp.aepdemo.net/content/dam/aep-bootcamp-experience/goodies/bootcamp-sweden-goodie.png",
+            "name": "Adobe Tote bag",
+            "interaction": "productAddToCart",
+            "external": "",
+            "event": {
+                "eventCategory": "Bootcamp",
+                "eventDescription": "",
+                "eventSubject": "",
+                "eventSubjectUrl": "",
+                "eventType": "productAddToCart"
+            },
+            "productListItem": {
+                "SKU": "Adobe Tote bag",
+                "productAddMethod": "Mobile",
+                "priceTotal": 25,
+                "product": "https://bootcamp.aepdemo.net/content/dam/aep-bootcamp-experience/goodies/bootcamp-sweden-goodie.png"
+            },
+            "page": {
+                "trackName": "adobe-tote-bag"
+            }
+        },
+        {
+            "category": "goodies",
+            "imageUrl": "https://bootcamp.aepdemo.net/content/dam/aep-bootcamp-experience/goodies/Coffee%20to%20go.jpg",
+            "name": "Coffee to Go",
+            "interaction": "productAddToCart",
+            "external": "",
+            "event": {
+                "eventCategory": "Bootcamp",
+                "eventDescription": "",
+                "eventSubject": "",
+                "eventSubjectUrl": "",
+                "eventType": "productAddToCart"
+            },
+            "productListItem": {
+                "SKU": "Coffee to Go",
+                "productAddMethod": "Mobile",
+                "priceTotal": 20,
+                "product": "https://bootcamp.aepdemo.net/content/dam/aep-bootcamp-experience/goodies/Coffee%20to%20go.jpg"
+            },
+            "page": {
+                "trackName": "food-cofee-to-go"
+            }
+        },
+        {
+            "category": "goodies",
+            "imageUrl": "https://bootcamp.aepdemo.net/content/dam/aep-bootcamp-experience/goodies/Beach%20blanket%20tan.jpg",
+            "name": "Beach blanket Tan",
+            "interaction": "productAddToCart",
+            "external": "",
+            "event": {
+                "eventCategory": "Bootcamp",
+                "eventDescription": "",
+                "eventSubject": "",
+                "eventSubjectUrl": "",
+                "eventType": "productAddToCart"
+            },
+            "productListItem": {
+                "SKU": "Beach blanket Tan",
+                "productAddMethod": "Mobile",
+                "priceTotal": 10,
+                "product": "https://bootcamp.aepdemo.net/content/dam/aep-bootcamp-experience/goodies/Beach%20blanket%20tan.jpg"
+            },
+            "page": {
+                "trackName": "beach-blanket-tan"
+            }
+        },
+        {
+            "category": "goodies",
+            "imageUrl": "https://bootcamp.aepdemo.net/content/dam/aep-bootcamp-experience/goodies/Beach%20blanket%20tan%20and%20grey.jpg",
+            "name": "Beach blanket Tan and Grey",
+            "interaction": "productAddToCart",
+            "external": "",
+            "event": {
+                "eventCategory": "Bootcamp",
+                "eventDescription": "",
+                "eventSubject": "",
+                "eventSubjectUrl": "",
+                "eventType": "productAddToCart"
+            },
+            "productListItem": {
+                "SKU": "Beach blanket Tan and Grey",
+                "productAddMethod": "Mobile",
+                "priceTotal": 15,
+                "product": "https://bootcamp.aepdemo.net/content/dam/aep-bootcamp-experience/goodies/Beach%20blanket%20tan%20and%20grey.jpg"
+            },
+            "page": {
+                "trackName": "beach-blanket-tan-grey"
+            }
+        },
+        {
+            "category": "goodies",
+            "imageUrl": "https://bootcamp.aepdemo.net/content/dam/aep-bootcamp-experience/goodies/Beach%20blanket%20grey.jpg",
+            "name": "Beach blanket Grey",
+            "interaction": "productAddToCart",
+            "external": "",
+            "event": {
+                "eventCategory": "Bootcamp",
+                "eventDescription": "",
+                "eventSubject": "",
+                "eventSubjectUrl": "",
+                "eventType": "productAddToCart"
+            },
+            "productListItem": {
+                "SKU": "Beach blanket Grey",
+                "productAddMethod": "Mobile",
+                "priceTotal": 50,
+                "product": "https://bootcamp.aepdemo.net/content/dam/aep-bootcamp-experience/goodies/Beach%20blanket%20grey.jpg"
+            },
+            "page": {
+                "trackName": "beach-blanket-grey"
+            }
+        },
+        {
+            "category": "goodies",
+            "imageUrl": "https://bootcamp.aepdemo.net/content/dam/aep-bootcamp-experience/goodies/give-me-a-break.png",
+            "name": "Buy Me a Break",
+            "interaction": "productAddToCart",
+            "external": "",
+            "event": {
+                "eventCategory": "Bootcamp",
+                "eventDescription": "",
+                "eventSubject": "",
+                "eventSubjectUrl": "",
+                "eventType": "productAddToCart"
+            },
+            "productListItem": {
+                "SKU": "Buy Me a Break",
+                "productAddMethod": "Mobile",
+                "priceTotal": 50,
+                "product": "https://bootcamp.aepdemo.net/content/dam/aep-bootcamp-experience/goodies/give-me-a-break.png"
+            },
+            "page": {
+                "trackName": "buy-me-a-break"
+            }
+        }
+    ]
+}
