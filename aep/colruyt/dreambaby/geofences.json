@@ -1,23 +1,61 @@
 {
     "geofences": [
         {
-            "id": "hotel.kapellerput",
-            "name": "Hotel Kapellerput",
+            "id": "aalst",
+            "name": "Aalst",
             "regionMetadata": {
-                "category": "Bootcamp",
-                "city": "Heeze",
-                "country": "Netherlands",
-                "countryCode": "NL"
+                "category": "Dreambaby",
+                "city": "Aalst",
+                "country": "Belgium",
+                "countryCode": "BE"
             },
             "orchestration": {
                 "eventID": "17fb018e736332302b56227d4477227b8d771b301b51ac57dea7d803c31733ca"
             }
         },
         {
-            "id": "meewis.home",
-            "name": "meewis - home",
+            "id": "bree",
+            "name": "Bree",
             "regionMetadata": {
-                "category": "Bootcamp",
+                "category": "Dreambaby",
+                "city": "Bree",
+                "country": "Belgium",
+                "countryCode": "BE"
+            },
+            "orchestration": {
+                "eventID": "17fb018e736332302b56227d4477227b8d771b301b51ac57dea7d803c31733ca"
+            }
+        },,
+        {
+            "id": "Brugge",
+            "name": "Brugge",
+            "regionMetadata": {
+                "category": "Dreambaby",
+                "city": "Aalst",
+                "country": "Belgium",
+                "countryCode": "BE"
+            },
+            "orchestration": {
+                "eventID": "17fb018e736332302b56227d4477227b8d771b301b51ac57dea7d803c31733ca"
+            }
+        },,
+        {
+            "id": "charleroi",
+            "name": "Charleroi",
+            "regionMetadata": {
+                "category": "Dreambaby",
+                "city": "Charleroi",
+                "country": "Belgium",
+                "countryCode": "BE"
+            },
+            "orchestration": {
+                "eventID": "17fb018e736332302b56227d4477227b8d771b301b51ac57dea7d803c31733ca"
+            }
+        },,        {
+            "id": "halle",
+            "name": "Halle",
+            "regionMetadata": {
+                "category": "Dreambaby",
                 "city": "Halle",
                 "country": "Belgium",
                 "countryCode": "BE"
@@ -27,52 +65,52 @@
             }
         },
         {
-            "id": "vanoosterhout.home",
-            "name": "vanoosterhout - home",
+            "id": "herstal",
+            "name": " Herstal",
             "regionMetadata": {
-                "category": "Bootcamp",
-                "city": "Oosterhout",
-                "country": "The Netherlands",
-                "countryCode": "NL"
+                "category": "Dreambaby",
+                "city": "Herstal",
+                "country": "Belgium",
+                "countryCode": "BE"
             },
             "orchestration": {
                 "eventID": "17fb018e736332302b56227d4477227b8d771b301b51ac57dea7d803c31733ca"
             }
         },
         {
-            "id": "bootcamp.nordics",
-            "name": "Radisson Blu Royal Park Hotel",
+            "id": "mechelen",
+            "name": "Mechelen",
             "regionMetadata": {
-                "category": "Bootcamp",
-                "city": "Solna",
-                "country": "Sweden",
-                "countryCode": "SE"
+                "category": "Dreambaby",
+                "city": "Mechelen",
+                "country": "Belgium",
+                "countryCode": "BE"
             },
             "orchestration": {
                 "eventID": "17fb018e736332302b56227d4477227b8d771b301b51ac57dea7d803c31733ca"
             }
         },
         {
-            "id": "bootcamp.france",
-            "name": "Château de Méry sur Oise",
+            "id": "namen",
+            "name": "Namen",
             "regionMetadata": {
-                "category": "Bootcamp",
-                "city": "Méry-sur-Oise",
-                "country": "France",
-                "countryCode": "FR"
+                "category": "Dreambaby",
+                "city": "Namen",
+                "country": "Belgium",
+                "countryCode": "BE"
             },
             "orchestration": {
                 "eventID": "17fb018e736332302b56227d4477227b8d771b301b51ac57dea7d803c31733ca"
             }
         },
         {
-            "id": "bootcamp.spain",
-            "name": "Parador de Segovia",
+            "id": "waterloo",
+            "name": "Waterloo",
             "regionMetadata": {
-                "category": "Bootcamp",
-                "city": "Segovia",
-                "country": "Spain",
-                "countryCode": "ES"
+                "category": "Dreambaby",
+                "city": "Waterloo",
+                "country": "Belgium",
+                "countryCode": "BE"
             },
             "orchestration": {
                 "eventID": "17fb018e736332302b56227d4477227b8d771b301b51ac57dea7d803c31733ca"
