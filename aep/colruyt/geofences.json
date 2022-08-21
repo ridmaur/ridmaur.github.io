@@ -1,0 +1,120 @@
+{
+    "geofences": [
+        {
+            "id": "aalst",
+            "name": "Aalst",
+            "regionMetadata": {
+                "category": "Colruyt",
+                "city": "Aalst",
+                "country": "Belgium",
+                "countryCode": "BE"
+            },
+            "orchestration": {
+                "eventID": "1b0a8e1e1c83985f78e19948abe5859e37334c4d3679e50505f8c4aa7434d123"
+            }
+        },
+        {
+            "id": "bree",
+            "name": "Bree",
+            "regionMetadata": {
+                "category": "Colruyt",
+                "city": "Bree",
+                "country": "Belgium",
+                "countryCode": "BE"
+            },
+            "orchestration": {
+                "eventID": "1b0a8e1e1c83985f78e19948abe5859e37334c4d3679e50505f8c4aa7434d123"
+            }
+        },
+        {
+            "id": "Brugge",
+            "name": "Brugge",
+            "regionMetadata": {
+                "category": "Colruyt",
+                "city": "Aalst",
+                "country": "Belgium",
+                "countryCode": "BE"
+            },
+            "orchestration": {
+                "eventID": "1b0a8e1e1c83985f78e19948abe5859e37334c4d3679e50505f8c4aa7434d123"
+            }
+        },
+        {
+            "id": "charleroi",
+            "name": "Charleroi",
+            "regionMetadata": {
+                "category": "Colruyt",
+                "city": "Charleroi",
+                "country": "Belgium",
+                "countryCode": "BE"
+            },
+            "orchestration": {
+                "eventID": "1b0a8e1e1c83985f78e19948abe5859e37334c4d3679e50505f8c4aa7434d123"
+            }
+        },        {
+            "id": "halle",
+            "name": "Halle",
+            "regionMetadata": {
+                "category": "Colruyt",
+                "city": "Halle",
+                "country": "Belgium",
+                "countryCode": "BE"
+            },
+            "orchestration": {
+                "eventID": "1b0a8e1e1c83985f78e19948abe5859e37334c4d3679e50505f8c4aa7434d123"
+            }
+        },
+        {
+            "id": "herstal",
+            "name": " Herstal",
+            "regionMetadata": {
+                "category": "Colruyt",
+                "city": "Herstal",
+                "country": "Belgium",
+                "countryCode": "BE"
+            },
+            "orchestration": {
+                "eventID": "1b0a8e1e1c83985f78e19948abe5859e37334c4d3679e50505f8c4aa7434d123"
+            }
+        },
+        {
+            "id": "mechelen",
+            "name": "Mechelen",
+            "regionMetadata": {
+                "category": "Colruyt",
+                "city": "Mechelen",
+                "country": "Belgium",
+                "countryCode": "BE"
+            },
+            "orchestration": {
+                "eventID": "1b0a8e1e1c83985f78e19948abe5859e37334c4d3679e50505f8c4aa7434d123"
+            }
+        },
+        {
+            "id": "namen",
+            "name": "Namen",
+            "regionMetadata": {
+                "category": "Colruyt",
+                "city": "Namen",
+                "country": "Belgium",
+                "countryCode": "BE"
+            },
+            "orchestration": {
+                "eventID": "1b0a8e1e1c83985f78e19948abe5859e37334c4d3679e50505f8c4aa7434d123"
+            }
+        },
+        {
+            "id": "waterloo",
+            "name": "Waterloo",
+            "regionMetadata": {
+                "category": "Colruyt",
+                "city": "Waterloo",
+                "country": "Belgium",
+                "countryCode": "BE"
+            },
+            "orchestration": {
+                "eventID": "1b0a8e1e1c83985f78e19948abe5859e37334c4d3679e50505f8c4aa7434d123"
+            }
+        }
+    ]
+}
