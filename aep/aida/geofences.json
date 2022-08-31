@@ -2,7 +2,7 @@
     "geofences": [
         {
             "id": "aarhus",
-            "name": "Port of Aarhus",
+            "name": "Aarhus",
             "regionMetadata": {
                 "category": "AIDA",
                 "city": "Aarhus",
@@ -15,7 +15,7 @@
         },
         {
             "id": "ajaccio",
-            "name": "Port of Corsica",
+            "name": "Ajaccio",
             "regionMetadata": {
                 "category": "AIDA",
                 "city": "Ajaccio",
@@ -28,7 +28,7 @@
         },
         {
             "id": "barcelona",
-            "name": "Port of Barcelona",
+            "name": "Barcelona",
             "regionMetadata": {
                 "category": "AIDA",
                 "city": "Barcelona",
@@ -41,7 +41,7 @@
         },
         {
             "id": "copenhagen",
-            "name": "Port of Copenhagen",
+            "name": "Copenhagen",
             "regionMetadata": {
                 "category": "AIDA",
                 "city": "Copenhagen",
@@ -54,7 +54,7 @@
         },
         {
             "id": "kiel",
-            "name": "Port of Kiell",
+            "name": "Kiel",
             "regionMetadata": {
                 "category": "AIDA",
                 "city": "Kiel",
@@ -67,7 +67,7 @@
         },
         {
             "id": "kristiansand",
-            "name": "Port of Kristiansand",
+            "name": "Kristiansand",
             "regionMetadata": {
                 "category": "AIDA",
                 "city": "Kristiansand",
@@ -80,7 +80,7 @@
         },
         {
             "id": "laspezia",
-            "name": "Port of Florence",
+            "name": "La Spezia",
             "regionMetadata": {
                 "category": "AIDA",
                 "city": "La Spezia",
@@ -93,10 +93,10 @@
         },
         {
             "id": "mallorca",
-            "name": "Port of Mallorca",
+            "name": "Mallorca",
             "regionMetadata": {
                 "category": "AIDA",
-                "city": "Palma de Mallorca",
+                "city": "Mallorca",
                 "country": "Spain",
                 "countryCode": "ES"
             },
@@ -106,7 +106,7 @@
         },
         {
             "id": "oslo",
-            "name": "Port of Oslo",
+            "name": "Oslo",
             "regionMetadata": {
                 "category": "AIDA",
                 "city": "Oslo",
@@ -119,7 +119,7 @@
         },
         {
             "id": "rome",
-            "name": "Port of Rome (Civitavecchia)",
+            "name": "Rome",
             "regionMetadata": {
                 "category": "AIDA",
                 "city": "Civitavecchia",
@@ -132,7 +132,7 @@
         },
         {
             "id": "stockholm",
-            "name": "Port of Stockholm",
+            "name": "Stockholm",
             "regionMetadata": {
                 "category": "AIDA",
                 "city": "Stockholm",
@@ -145,7 +145,7 @@
         },
         {
             "id": "visby",
-            "name": "Port of Visby",
+            "name": "Visby",
             "regionMetadata": {
                 "category": "AIDA",
                 "city": "Visby",
@@ -158,7 +158,7 @@
         },
         {
             "id": "warnemunde",
-            "name": "Port of Warnemünde",
+            "name": "Warnemünde",
             "regionMetadata": {
                 "category": "AIDA",
                 "city": "Warnemünde",
