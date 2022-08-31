@@ -1,81 +1,172 @@
 {
     "geofences": [
         {
-            "id": "hotel.kapellerput",
-            "name": "Hotel Kapellerput",
+            "id": "aarhus",
+            "name": "Port of Aarhus",
             "regionMetadata": {
-                "category": "Bootcamp",
-                "city": "Heeze",
-                "country": "Netherlands",
-                "countryCode": "NL"
+                "category": "AIDA",
+                "city": "Aarhus",
+                "country": "Norway",
+                "countryCode": "NO"
             },
             "orchestration": {
-                "eventID": "17fb018e736332302b56227d4477227b8d771b301b51ac57dea7d803c31733ca"
+                "eventID": "bbefedd7af0eb5d2fe7d8a39be09cbe064706d37a75d8a1fab3cfa02ef720c6b"
             }
         },
         {
-            "id": "meewis.home",
-            "name": "meewis - home",
+            "id": "ajaccio",
+            "name": "Port of Corsica",
             "regionMetadata": {
-                "category": "Bootcamp",
-                "city": "Halle",
-                "country": "Belgium",
-                "countryCode": "BE"
-            },
-            "orchestration": {
-                "eventID": "17fb018e736332302b56227d4477227b8d771b301b51ac57dea7d803c31733ca"
-            }
-        },
-        {
-            "id": "vanoosterhout.home",
-            "name": "vanoosterhout - home",
-            "regionMetadata": {
-                "category": "Bootcamp",
-                "city": "Oosterhout",
-                "country": "The Netherlands",
-                "countryCode": "NL"
-            },
-            "orchestration": {
-                "eventID": "17fb018e736332302b56227d4477227b8d771b301b51ac57dea7d803c31733ca"
-            }
-        },
-        {
-            "id": "bootcamp.nordics",
-            "name": "Radisson Blu Royal Park Hotel",
-            "regionMetadata": {
-                "category": "Bootcamp",
-                "city": "Solna",
-                "country": "Sweden",
-                "countryCode": "SE"
-            },
-            "orchestration": {
-                "eventID": "17fb018e736332302b56227d4477227b8d771b301b51ac57dea7d803c31733ca"
-            }
-        },
-        {
-            "id": "bootcamp.france",
-            "name": "Château de Méry sur Oise",
-            "regionMetadata": {
-                "category": "Bootcamp",
-                "city": "Méry-sur-Oise",
+                "category": "AIDA",
+                "city": "Ajaccio",
                 "country": "France",
                 "countryCode": "FR"
             },
             "orchestration": {
-                "eventID": "17fb018e736332302b56227d4477227b8d771b301b51ac57dea7d803c31733ca"
+                "eventID": "bbefedd7af0eb5d2fe7d8a39be09cbe064706d37a75d8a1fab3cfa02ef720c6b"
             }
         },
         {
-            "id": "bootcamp.spain",
-            "name": "Parador de Segovia",
+            "id": "barcelona",
+            "name": "Port of Barcelona",
             "regionMetadata": {
-                "category": "Bootcamp",
-                "city": "Segovia",
+                "category": "AIDA",
+                "city": "Barcelona",
                 "country": "Spain",
                 "countryCode": "ES"
             },
             "orchestration": {
-                "eventID": "17fb018e736332302b56227d4477227b8d771b301b51ac57dea7d803c31733ca"
+                "eventID": "bbefedd7af0eb5d2fe7d8a39be09cbe064706d37a75d8a1fab3cfa02ef720c6b"
+            }
+        },
+        {
+            "id": "copenhagen",
+            "name": "Port of Copenhagen",
+            "regionMetadata": {
+                "category": "AIDA",
+                "city": "Copenhagen",
+                "country": "Denmark",
+                "countryCode": "DK"
+            },
+            "orchestration": {
+                "eventID": "bbefedd7af0eb5d2fe7d8a39be09cbe064706d37a75d8a1fab3cfa02ef720c6b"
+            }
+        },
+        {
+            "id": "kiel",
+            "name": "Port of Kiell",
+            "regionMetadata": {
+                "category": "AIDA",
+                "city": "Kiel",
+                "country": "Germany",
+                "countryCode": "DE"
+            },
+            "orchestration": {
+                "eventID": "bbefedd7af0eb5d2fe7d8a39be09cbe064706d37a75d8a1fab3cfa02ef720c6b"
+            }
+        },
+        {
+            "id": "kristiansand",
+            "name": "Port of Kristiansand",
+            "regionMetadata": {
+                "category": "AIDA",
+                "city": "Kristiansand",
+                "country": "Norway",
+                "countryCode": "NO"
+            },
+            "orchestration": {
+                "eventID": "bbefedd7af0eb5d2fe7d8a39be09cbe064706d37a75d8a1fab3cfa02ef720c6b"
+            }
+        },
+        {
+            "id": "laspezia",
+            "name": "Port of Florence",
+            "regionMetadata": {
+                "category": "AIDA",
+                "city": "La Spezia",
+                "country": "Italy",
+                "countryCode": "IT"
+            },
+            "orchestration": {
+                "eventID": "bbefedd7af0eb5d2fe7d8a39be09cbe064706d37a75d8a1fab3cfa02ef720c6b"
+            }
+        },
+        {
+            "id": "mallorca",
+            "name": "Port of Mallorca",
+            "regionMetadata": {
+                "category": "AIDA",
+                "city": "Palma de Mallorca",
+                "country": "Spain",
+                "countryCode": "ES"
+            },
+            "orchestration": {
+                "eventID": "bbefedd7af0eb5d2fe7d8a39be09cbe064706d37a75d8a1fab3cfa02ef720c6b"
+            }
+        },
+        {
+            "id": "oslo",
+            "name": "Port of Oslo",
+            "regionMetadata": {
+                "category": "AIDA",
+                "city": "Oslo",
+                "country": "Norway",
+                "countryCode": "NO"
+            },
+            "orchestration": {
+                "eventID": "bbefedd7af0eb5d2fe7d8a39be09cbe064706d37a75d8a1fab3cfa02ef720c6b"
+            }
+        },
+        {
+            "id": "rome",
+            "name": "Port of Rome (Civitavecchia)",
+            "regionMetadata": {
+                "category": "AIDA",
+                "city": "Civitavecchia",
+                "country": "Italy",
+                "countryCode": "IT"
+            },
+            "orchestration": {
+                "eventID": "bbefedd7af0eb5d2fe7d8a39be09cbe064706d37a75d8a1fab3cfa02ef720c6b"
+            }
+        },
+        {
+            "id": "stockholm",
+            "name": "Port of Stockholm",
+            "regionMetadata": {
+                "category": "AIDA",
+                "city": "Stockholm",
+                "country": "Sweden",
+                "countryCode": "SV"
+            },
+            "orchestration": {
+                "eventID": "bbefedd7af0eb5d2fe7d8a39be09cbe064706d37a75d8a1fab3cfa02ef720c6b"
+            }
+        },
+        {
+            "id": "visby",
+            "name": "Port of Visby",
+            "regionMetadata": {
+                "category": "AIDA",
+                "city": "Visby",
+                "country": "Sweden",
+                "countryCode": "SV"
+            },
+            "orchestration": {
+                "eventID": "bbefedd7af0eb5d2fe7d8a39be09cbe064706d37a75d8a1fab3cfa02ef720c6b"
+            }
+        },
+        {
+            "id": "warnemunde",
+            "name": "Port of Warnemünde",
+            "regionMetadata": {
+                "category": "AIDA",
+                "city": "Warnemünde",
+                "country": "Germany",
+                "countryCode": "DE"
+            },
+            "orchestration": {
+                "eventID": "bbefedd7af0eb5d2fe7d8a39be09cbe064706d37a75d8a1fab3cfa02ef720c6b"
             }
         }
     ]

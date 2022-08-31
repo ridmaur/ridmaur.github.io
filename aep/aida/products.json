@@ -1,187 +1,118 @@
 {
     "products": [
         {
-            "category": "goodies",
-            "imageUrl": "https://bootcamp.aepdemo.net/content/dam/aep-bootcamp-experience/goodies/LIBRETA-Adobe.jpg",
-            "name": "Adobe Notebook",
+            "category": "AIDAcosma",
+            "imageUrl": "https://media.aida.de/v10/fileadmin/user_upload/dam/routenkarten/AIDA_Big_de-DE/BCN07038/BCN07038_de-DE.gif",
+            "name": "Mediterrane Schätze ab Barcelona",
             "interaction": "productAddToCart",
             "external": "",
             "event": {
-                "eventCategory": "Bootcamp",
+                "eventCategory": "AIDA",
                 "eventDescription": "",
                 "eventSubject": "",
                 "eventSubjectUrl": "",
                 "eventType": "productAddToCart"
             },
             "productListItem": {
-                "SKU": "Adobe Notebook",
+                "SKU": "Mediterrane Schätze ab Barcelona",
                 "productAddMethod": "Mobile",
-                "priceTotal": 25,
-                "product": "https://bootcamp.aepdemo.net/content/dam/aep-bootcamp-experience/goodies/LIBRETA-Adobe.jpg"
+                "priceTotal": 549,
+                "product": "https://media.aida.de/v10/fileadmin/user_upload/dam/routenkarten/AIDA_Big_de-DE/BCN07038/BCN07038_de-DE.gif"
             },
             "page": {
-                "trackName": "adobe-tote-bag"
+                "trackName": "mediterrane-schatze-ab-barcelona"
             }
         },
         {
-            "category": "goodies",
-            "imageUrl": "https://bootcamp.aepdemo.net/content/dam/aep-bootcamp-experience/goodies/DisenosMochilaB_goodies.jpg",
-            "name": "Adobe Backpack",
+            "category": "AIDAcosma",
+            "imageUrl": "https://media.aida.de/v10/fileadmin/user_upload/dam/routenkarten/AIDA_Big_de-DE/PMI07082/PMI07082_de-DE.gif",
+            "name": "Mediterrane Schätze ab Mallorca",
             "interaction": "productAddToCart",
             "external": "",
             "event": {
-                "eventCategory": "Bootcamp",
+                "eventCategory": "AIDA",
                 "eventDescription": "",
                 "eventSubject": "",
                 "eventSubjectUrl": "",
                 "eventType": "productAddToCart"
             },
             "productListItem": {
-                "SKU": "Adobe Baclpack",
+                "SKU": "Mediterrane Schätze ab Mallorca",
                 "productAddMethod": "Mobile",
-                "priceTotal": 25,
-                "product": "https://bootcamp.aepdemo.net/content/dam/aep-bootcamp-experience/goodies/DisenosMochilaB_goodies.jpg"
+                "priceTotal": 549,
+                "product": "https://media.aida.de/v10/fileadmin/user_upload/dam/routenkarten/AIDA_Big_de-DE/PMI07082/PMI07082_de-DE.gif"
             },
             "page": {
-                "trackName": "adobe-tote-bag"
+                "trackName": "mediterrane-schatze-ab-mallorca"
             }
         },
         {
-            "category": "goodies",
-            "imageUrl": "https://bootcamp.aepdemo.net/content/dam/aep-bootcamp-experience/goodies/bootcamp-sweden-goodie.png",
-            "name": "Adobe Tote bag",
+            "category": "AIDAnova",
+            "imageUrl": "https://media.aida.de/v10/fileadmin/user_upload/dam/routenkarten/AIDA_Big_de-DE/KEL07262/KEL07262_de-DE.gif",
+            "name": "Dänemark & Norwegen ab Kiel",
             "interaction": "productAddToCart",
             "external": "",
             "event": {
-                "eventCategory": "Bootcamp",
+                "eventCategory": "AIDA",
                 "eventDescription": "",
                 "eventSubject": "",
                 "eventSubjectUrl": "",
                 "eventType": "productAddToCart"
             },
             "productListItem": {
-                "SKU": "Adobe Tote bag",
+                "SKU": "Dänemark & Norwegen ab Kiel",
                 "productAddMethod": "Mobile",
-                "priceTotal": 25,
-                "product": "https://bootcamp.aepdemo.net/content/dam/aep-bootcamp-experience/goodies/bootcamp-sweden-goodie.png"
+                "priceTotal": 549,
+                "product": "https://media.aida.de/v10/fileadmin/user_upload/dam/routenkarten/AIDA_Big_de-DE/KEL07262/KEL07262_de-DE.gif"
             },
             "page": {
-                "trackName": "adobe-tote-bag"
+                "trackName": "danemark-und-norwegen-ab-kiel"
             }
         },
         {
-            "category": "goodies",
-            "imageUrl": "https://bootcamp.aepdemo.net/content/dam/aep-bootcamp-experience/goodies/Coffee%20to%20go.jpg",
-            "name": "Coffee to Go",
+            "category": "AIDAsol",
+            "imageUrl": "https://media.aida.de/v10/fileadmin/user_upload/dam/routenkarten/AIDA_Big_de-DE/HAM05068/HAM05068_de-DE.gif",
+            "name": "Norwegen ab Hamburg 2",
             "interaction": "productAddToCart",
             "external": "",
             "event": {
-                "eventCategory": "Bootcamp",
+                "eventCategory": "AIDA",
                 "eventDescription": "",
                 "eventSubject": "",
                 "eventSubjectUrl": "",
                 "eventType": "productAddToCart"
             },
             "productListItem": {
-                "SKU": "Coffee to Go",
+                "SKU": "Norwegen ab Hamburg 2",
                 "productAddMethod": "Mobile",
-                "priceTotal": 20,
-                "product": "https://bootcamp.aepdemo.net/content/dam/aep-bootcamp-experience/goodies/Coffee%20to%20go.jpg"
+                "priceTotal": 1055,
+                "product": "https://media.aida.de/v10/fileadmin/user_upload/dam/routenkarten/AIDA_Big_de-DE/HAM05068/HAM05068_de-DE.gif"
             },
             "page": {
-                "trackName": "food-cofee-to-go"
+                "trackName": "norwegen-ab-hamburg-2"
             }
         },
         {
-            "category": "goodies",
-            "imageUrl": "https://bootcamp.aepdemo.net/content/dam/aep-bootcamp-experience/goodies/Beach%20blanket%20tan.jpg",
-            "name": "Beach blanket Tan",
+            "category": "AIDAdiva",
+            "imageUrl": "https://media.aida.de/v10/fileadmin/user_upload/dam/routenkarten/AIDA_Big_de-DE/WAR07170/WAR07170_de-DE.gif",
+            "name": "Norwegens Fjorde ab Warnemünde",
             "interaction": "productAddToCart",
             "external": "",
             "event": {
-                "eventCategory": "Bootcamp",
+                "eventCategory": "AIDA",
                 "eventDescription": "",
                 "eventSubject": "",
                 "eventSubjectUrl": "",
                 "eventType": "productAddToCart"
             },
             "productListItem": {
-                "SKU": "Beach blanket Tan",
+                "SKU": "Norwegens Fjorde ab Warnemünde",
                 "productAddMethod": "Mobile",
-                "priceTotal": 10,
-                "product": "https://bootcamp.aepdemo.net/content/dam/aep-bootcamp-experience/goodies/Beach%20blanket%20tan.jpg"
+                "priceTotal": 1670,
+                "product": "https://media.aida.de/v10/fileadmin/user_upload/dam/routenkarten/AIDA_Big_de-DE/WAR07170/WAR07170_de-DE.gif"
             },
             "page": {
-                "trackName": "beach-blanket-tan"
-            }
-        },
-        {
-            "category": "goodies",
-            "imageUrl": "https://bootcamp.aepdemo.net/content/dam/aep-bootcamp-experience/goodies/Beach%20blanket%20tan%20and%20grey.jpg",
-            "name": "Beach blanket Tan and Grey",
-            "interaction": "productAddToCart",
-            "external": "",
-            "event": {
-                "eventCategory": "Bootcamp",
-                "eventDescription": "",
-                "eventSubject": "",
-                "eventSubjectUrl": "",
-                "eventType": "productAddToCart"
-            },
-            "productListItem": {
-                "SKU": "Beach blanket Tan and Grey",
-                "productAddMethod": "Mobile",
-                "priceTotal": 15,
-                "product": "https://bootcamp.aepdemo.net/content/dam/aep-bootcamp-experience/goodies/Beach%20blanket%20tan%20and%20grey.jpg"
-            },
-            "page": {
-                "trackName": "beach-blanket-tan-grey"
-            }
-        },
-        {
-            "category": "goodies",
-            "imageUrl": "https://bootcamp.aepdemo.net/content/dam/aep-bootcamp-experience/goodies/Beach%20blanket%20grey.jpg",
-            "name": "Beach blanket Grey",
-            "interaction": "productAddToCart",
-            "external": "",
-            "event": {
-                "eventCategory": "Bootcamp",
-                "eventDescription": "",
-                "eventSubject": "",
-                "eventSubjectUrl": "",
-                "eventType": "productAddToCart"
-            },
-            "productListItem": {
-                "SKU": "Beach blanket Grey",
-                "productAddMethod": "Mobile",
-                "priceTotal": 50,
-                "product": "https://bootcamp.aepdemo.net/content/dam/aep-bootcamp-experience/goodies/Beach%20blanket%20grey.jpg"
-            },
-            "page": {
-                "trackName": "beach-blanket-grey"
-            }
-        },
-        {
-            "category": "goodies",
-            "imageUrl": "https://bootcamp.aepdemo.net/content/dam/aep-bootcamp-experience/goodies/give-me-a-break.png",
-            "name": "Buy Me a Break",
-            "interaction": "productAddToCart",
-            "external": "",
-            "event": {
-                "eventCategory": "Bootcamp",
-                "eventDescription": "",
-                "eventSubject": "",
-                "eventSubjectUrl": "",
-                "eventType": "productAddToCart"
-            },
-            "productListItem": {
-                "SKU": "Buy Me a Break",
-                "productAddMethod": "Mobile",
-                "priceTotal": 50,
-                "product": "https://bootcamp.aepdemo.net/content/dam/aep-bootcamp-experience/goodies/give-me-a-break.png"
-            },
-            "page": {
-                "trackName": "buy-me-a-break"
+                "trackName": "norwegen-fjorde-ab-warnemunde"
             }
         }
     ]
