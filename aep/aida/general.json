@@ -6,6 +6,13 @@
             "eventID": "1743480f794fedff99a84dbce97ca9ee1b28e3ce38027398b6ff48d2eaa6943f"
         }
     },
+    "testPush": {
+        "name": "Mobile App Test Push",
+        "eventType": "mobileapp.testpush",
+        "orchestration": {
+            "eventID": "ab48ec1f9bb0a4f4045488d1c0d86e8f9d8b5f615b6e5c43df828cc0fd9fb04c"
+        }
+    },
     "decision": {
         "enabled": false
     }
