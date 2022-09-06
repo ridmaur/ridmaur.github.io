@@ -1,4 +1,10 @@
 {
+    "customer": {
+        "name": "AIDA",
+        "logo": "https://carol.cruise-api.aida.de/i18n-bea-icons-misc/de/misc-logo-file-nscm0v-original.svg",
+        "productsType": "Cruises",
+        "productsSystemImage": "cruise"
+    },
     "login": {
         "name": "Mobile App Login",
         "eventType": "mobileapp.login",
