@@ -3,7 +3,7 @@
         "name": "AIDA",
         "logo": "https://seeklogo.com/images/A/aida-cruises-logo-20EA3A1C57-seeklogo.com.png",
         "productsType": "Cruises",
-        "productsSystemImage": "cruise"
+        "productsSystemImage": "ferry"
     },
     "login": {
         "name": "Mobile App Login",
