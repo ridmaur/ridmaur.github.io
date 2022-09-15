@@ -1,0 +1,43 @@
+{
+    "geofences": [
+        {
+            "id": "lcy",
+            "name": "London City Airport",
+            "regionMetadata": {
+                "category": "Luxair",
+                "city": "London",
+                "country": "United Kingdom",
+                "countryCode": "UK"
+            },
+            "orchestration": {
+                "eventID": "bbefedd7af0eb5d2fe7d8a39be09cbe064706d37a75d8a1fab3cfa02ef720c6b"
+            }
+        },
+        {
+            "id": "lux",
+            "name": "Aeroport de Luxembourg",
+            "regionMetadata": {
+                "category": "Luxair",
+                "city": "Luxemburg",
+                "country": "Luxemburg",
+                "countryCode": "LU"
+            },
+            "orchestration": {
+                "eventID": "bbefedd7af0eb5d2fe7d8a39be09cbe064706d37a75d8a1fab3cfa02ef720c6b"
+            }
+        },
+        {
+            "id": "bcn",
+            "name": "Aeroport de Barcelona El Prat",
+            "regionMetadata": {
+                "category": "Luxair",
+                "city": "Barcelona",
+                "country": "Spain",
+                "countryCode": "ES"
+            },
+            "orchestration": {
+                "eventID": "bbefedd7af0eb5d2fe7d8a39be09cbe064706d37a75d8a1fab3cfa02ef720c6b"
+            }
+        }
+    ]
+}
