@@ -1,7 +1,9 @@
 {
     "customer": {
         "name": "Luxair",
-        "logo": "https://www.luxair.lu/modules/proprietary/luxair_styleguide/build/images/logos/logos/logo-luxair.svg",
+        "logo": "https://download.logo.wine/logo/Luxair/Luxair-Logo.wine.png",
+        "logoWidth": 350,
+        "logoHeight": 100,
         "productsType": "Flights",
         "productsSystemImage": "airplane"
     },
