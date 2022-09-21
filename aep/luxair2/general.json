@@ -1,4 +1,10 @@
 {
+    "config": {
+        "tenant": "_adobeamericaspot4",
+        "sandbox": "sandbox04",
+        "datasetMobileAppId": "62f247fd067ec11c077d6b6a",
+        "edgeCollectionMobileDataStreamId": "556ae990-1e76-448b-8e6e-e08b399582fc:dev"
+    },
     "customer": {
         "name": "Luxair",
         "logo": "https://download.logo.wine/logo/Luxair/Luxair-Logo.wine.png",
