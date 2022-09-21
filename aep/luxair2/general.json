@@ -1,0 +1,25 @@
+{
+    "customer": {
+        "name": "Luxair",
+        "logo": "https://www.luxair.lu/modules/proprietary/luxair_styleguide/build/images/logos/logos/logo-luxair.svg",
+        "productsType": "Flights",
+        "productsSystemImage": "airplane"
+    },
+    "login": {
+        "name": "Mobile App Login",
+        "eventType": "mobileapp.login",
+        "orchestration": {
+            "eventID": "1743480f794fedff99a84dbce97ca9ee1b28e3ce38027398b6ff48d2eaa6943f"
+        }
+    },
+    "testPush": {
+        "name": "Mobile App Test Push",
+        "eventType": "mobileapp.testpush",
+        "orchestration": {
+            "eventID": "1f15ec9797a59b50d8e6e5183c37e4c30c844faa48ec267135c2e884221fa2db"
+        }
+    },
+    "decision": {
+        "enabled": false
+    }
+}
