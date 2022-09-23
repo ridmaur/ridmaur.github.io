@@ -8,8 +8,8 @@
     "customer": {
       "name": "Luxair",
       "logo": "https://download.logo.wine/logo/Luxair/Luxair-Logo.wine.png",
-      "productsType": "Products",
-      "productsSystemImage": "cart"
+      "productsType": "Flghts",
+      "productsSystemImage": "airplane"
     },
     "login": {
       "name": "Mobile App Login",
