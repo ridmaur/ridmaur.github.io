@@ -1,118 +1,118 @@
 {
     "products": [
         {
-            "category": "AIDAcosma",
-            "imageUrl": "https://media.aida.de/v10/fileadmin/user_upload/dam/routenkarten/AIDA_Big_de-DE/BCN07038/BCN07038_de-DE.gif",
-            "name": "Mediterrane Schätze ab Barcelona",
+            "category": "medical-imaging",
+            "imageUrl": "https://marketing.webassets.siemens-healthineers.com/a02a302e22f78c23/306bc43bafad/v/f6dc138e4e05/siemens-healthineers-Multitilt_LargeDisplay.jpg",
+            "name": "ARTIS icono",
             "interaction": "productAddToCart",
             "external": "",
             "event": {
-                "eventCategory": "AIDA",
+                "eventCategory": "SH",
                 "eventDescription": "",
                 "eventSubject": "",
                 "eventSubjectUrl": "",
                 "eventType": "productAddToCart"
             },
             "productListItem": {
-                "SKU": "Mediterrane Schätze ab Barcelona",
+                "SKU": "ARTIS icono",
                 "productAddMethod": "Mobile",
-                "priceTotal": 549,
-                "product": "https://media.aida.de/v10/fileadmin/user_upload/dam/routenkarten/AIDA_Big_de-DE/BCN07038/BCN07038_de-DE.gif"
+                "priceTotal": 0,
+                "product": "https://marketing.webassets.siemens-healthineers.com/a02a302e22f78c23/306bc43bafad/v/f6dc138e4e05/siemens-healthineers-Multitilt_LargeDisplay.jpg"
             },
             "page": {
-                "trackName": "mediterrane-schatze-ab-barcelona"
+                "trackName": "artis-icono"
             }
         },
         {
-            "category": "AIDAcosma",
-            "imageUrl": "https://media.aida.de/v10/fileadmin/user_upload/dam/routenkarten/AIDA_Big_de-DE/PMI07082/PMI07082_de-DE.gif",
-            "name": "Mediterrane Schätze ab Mallorca",
+            "category": "medical-imaging",
+            "imageUrl": "https://marketing.webassets.siemens-healthineers.com/042526e0b3c5d51d/d8e5b5b5432e/v/a01bf37884cf/siemens-healthinieers_clinical-specialities_artis_pheno_with_surgical_table-_16_9.jpg",
+            "name": "ARTIS pheno",
             "interaction": "productAddToCart",
             "external": "",
             "event": {
-                "eventCategory": "AIDA",
+                "eventCategory": "SH",
                 "eventDescription": "",
                 "eventSubject": "",
                 "eventSubjectUrl": "",
                 "eventType": "productAddToCart"
             },
             "productListItem": {
-                "SKU": "Mediterrane Schätze ab Mallorca",
+                "SKU": "ARTIS pheno",
                 "productAddMethod": "Mobile",
-                "priceTotal": 549,
-                "product": "https://media.aida.de/v10/fileadmin/user_upload/dam/routenkarten/AIDA_Big_de-DE/PMI07082/PMI07082_de-DE.gif"
+                "priceTotal": 0,
+                "product": "https://marketing.webassets.siemens-healthineers.com/042526e0b3c5d51d/d8e5b5b5432e/v/a01bf37884cf/siemens-healthinieers_clinical-specialities_artis_pheno_with_surgical_table-_16_9.jpg"
             },
             "page": {
-                "trackName": "mediterrane-schatze-ab-mallorca"
+                "trackName": "artis-pheno"
             }
         },
         {
-            "category": "AIDAnova",
-            "imageUrl": "https://media.aida.de/v10/fileadmin/user_upload/dam/routenkarten/AIDA_Big_de-DE/KEL07262/KEL07262_de-DE.gif",
-            "name": "Dänemark & Norwegen ab Kiel",
+            "category": "medical-imaging",
+            "imageUrl": "https://marketing.webassets.siemens-healthineers.com/1800000006836000/daf6fbceb4f8/v/46f036af8800/Artis_Q_Ceiling_Angiography_System_Siemens_Healthineers_16_9_3_1800000006836000.jpg",
+            "name": "Artis Q",
             "interaction": "productAddToCart",
             "external": "",
             "event": {
-                "eventCategory": "AIDA",
+                "eventCategory": "SH",
                 "eventDescription": "",
                 "eventSubject": "",
                 "eventSubjectUrl": "",
                 "eventType": "productAddToCart"
             },
             "productListItem": {
-                "SKU": "Dänemark & Norwegen ab Kiel",
+                "SKU": "Artis Q",
                 "productAddMethod": "Mobile",
-                "priceTotal": 549,
-                "product": "https://media.aida.de/v10/fileadmin/user_upload/dam/routenkarten/AIDA_Big_de-DE/KEL07262/KEL07262_de-DE.gif"
+                "priceTotal": 0,
+                "product": "https://marketing.webassets.siemens-healthineers.com/1800000006836000/daf6fbceb4f8/v/46f036af8800/Artis_Q_Ceiling_Angiography_System_Siemens_Healthineers_16_9_3_1800000006836000.jpg"
             },
             "page": {
-                "trackName": "danemark-und-norwegen-ab-kiel"
+                "trackName": "artis-q"
             }
         },
         {
-            "category": "AIDAsol",
-            "imageUrl": "https://media.aida.de/v10/fileadmin/user_upload/dam/routenkarten/AIDA_Big_de-DE/HAM05068/HAM05068_de-DE.gif",
-            "name": "Norwegen ab Hamburg 2",
+            "category": "point-of-care",
+            "imageUrl": "https://marketing.webassets.siemens-healthineers.com/1800000006558137/e179f627cf40/v/f083a6ad7df7/poc_epoc_host_foreground-16x9_1800000006558137.jpg",
+            "name": "epoc® Blood Analysis System",
             "interaction": "productAddToCart",
             "external": "",
             "event": {
-                "eventCategory": "AIDA",
+                "eventCategory": "SH",
                 "eventDescription": "",
                 "eventSubject": "",
                 "eventSubjectUrl": "",
                 "eventType": "productAddToCart"
             },
             "productListItem": {
-                "SKU": "Norwegen ab Hamburg 2",
+                "SKU": "epoc® Blood Analysis System",
                 "productAddMethod": "Mobile",
-                "priceTotal": 1055,
-                "product": "https://media.aida.de/v10/fileadmin/user_upload/dam/routenkarten/AIDA_Big_de-DE/HAM05068/HAM05068_de-DE.gif"
+                "priceTotal": 0,
+                "product": "https://marketing.webassets.siemens-healthineers.com/1800000006558137/e179f627cf40/v/f083a6ad7df7/poc_epoc_host_foreground-16x9_1800000006558137.jpg"
             },
             "page": {
-                "trackName": "norwegen-ab-hamburg-2"
+                "trackName": "epoc"
             }
         },
         {
-            "category": "AIDAdiva",
-            "imageUrl": "https://media.aida.de/v10/fileadmin/user_upload/dam/routenkarten/AIDA_Big_de-DE/WAR07170/WAR07170_de-DE.gif",
-            "name": "Norwegens Fjorde ab Warnemünde",
+            "category": "molecular-imaging",
+            "imageUrl": "https://marketing.webassets.siemens-healthineers.com/f3fbaad49edd884c/474899b8c457/v/f4fa5e4ac745/siemens-healthineers_symbia-intevo-bold_scanner.jpg",
+            "name": "Symbia Intevo Bold",
             "interaction": "productAddToCart",
             "external": "",
             "event": {
-                "eventCategory": "AIDA",
+                "eventCategory": "SH",
                 "eventDescription": "",
                 "eventSubject": "",
                 "eventSubjectUrl": "",
                 "eventType": "productAddToCart"
             },
             "productListItem": {
-                "SKU": "Norwegens Fjorde ab Warnemünde",
+                "SKU": "Symbia Intevo Bold",
                 "productAddMethod": "Mobile",
-                "priceTotal": 1670,
-                "product": "https://media.aida.de/v10/fileadmin/user_upload/dam/routenkarten/AIDA_Big_de-DE/WAR07170/WAR07170_de-DE.gif"
+                "priceTotal": 0,
+                "product": "https://marketing.webassets.siemens-healthineers.com/f3fbaad49edd884c/474899b8c457/v/f4fa5e4ac745/siemens-healthineers_symbia-intevo-bold_scanner.jpg"
             },
             "page": {
-                "trackName": "norwegen-fjorde-ab-warnemunde"
+                "trackName": "symbia"
             }
         }
     ]
