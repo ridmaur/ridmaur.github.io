@@ -1,38 +1,38 @@
 {
     "config": {
-      "tenant": "_adobeamericaspot4",
-      "sandbox": "sandbox01",
-      "datasetId": "6320695a112f921c07cf95aa",
-      "datastreamId": "e2bbf4ac-43a4-49fe-8016-eaedc0f1f7fa:dev",
-      "showProducts": true,
-      "showPersonalisation": true,
-      "showGeofences": true,
-      "showBeacons": true
+        "tenant": "_adobeamericaspot4",
+        "sandbox": "sandbox01",
+        "datasetId": "6320695a112f921c07cf95aa",
+        "datastreamId": "e2bbf4ac-43a4-49fe-8016-eaedc0f1f7fa:dev",
+        "showProducts": true,
+        "showPersonalisation": true,
+        "showGeofences": true,
+        "showBeacons": true
     },
     "customer": {
-      "name": "Siemens Healthineers",
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Siemens_Healthineers_logo.svg/1280px-Siemens_Healthineers_logo.svg.png",
-      "productsType": "Products",
-      "productsSystemImage": "cart"
+        "name": "Siemens Healthineers",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Siemens_Healthineers_logo.svg/1280px-Siemens_Healthineers_logo.svg.png",
+        "productsType": "Products",
+        "productsSystemImage": "cart"
     },
     "login": {
-      "name": "Mobile App Login",
-      "eventType": "mobileapp.login",
-      "orchestration": {
-        "eventID": "1743480f794fedff99a84dbce97ca9ee1b28e3ce38027398b6ff48d2eaa6943f"
-      }
+        "name": "Mobile App Login",
+        "eventType": "mobileapp.login",
+        "orchestration": {
+            "eventID": "1743480f794fedff99a84dbce97ca9ee1b28e3ce38027398b6ff48d2eaa6943f"
+        }
     },
     "testPush": {
-      "name": "Mobile App Test Push",
-      "eventType": "mobileapp.testpush",
-      "orchestration": {
-        "eventID": "1f15ec9797a59b50d8e6e5183c37e4c30c844faa48ec267135c2e884221fa2db"
-      }
+        "name": "Mobile App Test Push",
+        "eventType": "mobileapp.testpush",
+        "orchestration": {
+            "eventID": "1f15ec9797a59b50d8e6e5183c37e4c30c844faa48ec267135c2e884221fa2db"
+        }
     },
     "decision": {
-      "scope": "eyJ4ZG06YWN0aXZpdHlJZCI6Inhjb3JlOm9mZmVyLWFjdGl2aXR5OjE1Y2Y3N2JmODRjZDQ3MDQiLCJ4ZG06cGxhY2VtZW50SWQiOiJ4Y29yZTpvZmZlci1wbGFjZW1lbnQ6MTU5Yjc3ZTU5YzQ1MmM0ZCJ9"
+        "scope": "eyJ4ZG06YWN0aXZpdHlJZCI6Inhjb3JlOm9mZmVyLWFjdGl2aXR5OjE1Y2Y3N2JmODRjZDQ3MDQiLCJ4ZG06cGxhY2VtZW50SWQiOiJ4Y29yZTpvZmZlci1wbGFjZW1lbnQ6MTU5Yjc3ZTU5YzQ1MmM0ZCJ9"
     },
     "target": {
-      "location": "amsiossa-app"
+        "location": "amsiossa-app"
     }
-  }
+}
