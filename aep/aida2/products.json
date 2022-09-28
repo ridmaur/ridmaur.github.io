@@ -1,0 +1,119 @@
+{
+    "products": [
+        {
+            "category": "AIDAcosma",
+            "imageUrl": "https://media.aida.de/v10/fileadmin/user_upload/dam/routenkarten/AIDA_Big_de-DE/BCN07038/BCN07038_de-DE.gif",
+            "name": "Mediterrane Schätze ab Barcelona",
+            "interaction": "productAddToCart",
+            "external": "",
+            "event": {
+                "eventCategory": "AIDA",
+                "eventDescription": "",
+                "eventSubject": "",
+                "eventSubjectUrl": "",
+                "eventType": "productAddToCart"
+            },
+            "productListItem": {
+                "SKU": "Mediterrane Schätze ab Barcelona",
+                "productAddMethod": "Mobile",
+                "priceTotal": 549,
+                "product": "https://media.aida.de/v10/fileadmin/user_upload/dam/routenkarten/AIDA_Big_de-DE/BCN07038/BCN07038_de-DE.gif"
+            },
+            "page": {
+                "trackName": "mediterrane-schatze-ab-barcelona"
+            }
+        },
+        {
+            "category": "AIDAcosma",
+            "imageUrl": "https://media.aida.de/v10/fileadmin/user_upload/dam/routenkarten/AIDA_Big_de-DE/PMI07082/PMI07082_de-DE.gif",
+            "name": "Mediterrane Schätze ab Mallorca",
+            "interaction": "productAddToCart",
+            "external": "",
+            "event": {
+                "eventCategory": "AIDA",
+                "eventDescription": "",
+                "eventSubject": "",
+                "eventSubjectUrl": "",
+                "eventType": "productAddToCart"
+            },
+            "productListItem": {
+                "SKU": "Mediterrane Schätze ab Mallorca",
+                "productAddMethod": "Mobile",
+                "priceTotal": 549,
+                "product": "https://media.aida.de/v10/fileadmin/user_upload/dam/routenkarten/AIDA_Big_de-DE/PMI07082/PMI07082_de-DE.gif"
+            },
+            "page": {
+                "trackName": "mediterrane-schatze-ab-mallorca"
+            }
+        },
+        {
+            "category": "AIDAnova",
+            "imageUrl": "https://media.aida.de/v10/fileadmin/user_upload/dam/routenkarten/AIDA_Big_de-DE/KEL07262/KEL07262_de-DE.gif",
+            "name": "Dänemark & Norwegen ab Kiel",
+            "interaction": "productAddToCart",
+            "external": "",
+            "event": {
+                "eventCategory": "AIDA",
+                "eventDescription": "",
+                "eventSubject": "",
+                "eventSubjectUrl": "",
+                "eventType": "productAddToCart"
+            },
+            "productListItem": {
+                "SKU": "Dänemark & Norwegen ab Kiel",
+                "productAddMethod": "Mobile",
+                "priceTotal": 549,
+                "product": "https://media.aida.de/v10/fileadmin/user_upload/dam/routenkarten/AIDA_Big_de-DE/KEL07262/KEL07262_de-DE.gif"
+            },
+            "page": {
+                "trackName": "danemark-und-norwegen-ab-kiel"
+            }
+        },
+        {
+            "category": "AIDAsol",
+            "imageUrl": "https://media.aida.de/v10/fileadmin/user_upload/dam/routenkarten/AIDA_Big_de-DE/HAM05068/HAM05068_de-DE.gif",
+            "name": "Norwegen ab Hamburg 2",
+            "interaction": "productAddToCart",
+            "external": "",
+            "event": {
+                "eventCategory": "AIDA",
+                "eventDescription": "",
+                "eventSubject": "",
+                "eventSubjectUrl": "",
+                "eventType": "productAddToCart"
+            },
+            "productListItem": {
+                "SKU": "Norwegen ab Hamburg 2",
+                "productAddMethod": "Mobile",
+                "priceTotal": 1055,
+                "product": "https://media.aida.de/v10/fileadmin/user_upload/dam/routenkarten/AIDA_Big_de-DE/HAM05068/HAM05068_de-DE.gif"
+            },
+            "page": {
+                "trackName": "norwegen-ab-hamburg-2"
+            }
+        },
+        {
+            "category": "AIDAdiva",
+            "imageUrl": "https://media.aida.de/v10/fileadmin/user_upload/dam/routenkarten/AIDA_Big_de-DE/WAR07170/WAR07170_de-DE.gif",
+            "name": "Norwegens Fjorde ab Warnemünde",
+            "interaction": "productAddToCart",
+            "external": "",
+            "event": {
+                "eventCategory": "AIDA",
+                "eventDescription": "",
+                "eventSubject": "",
+                "eventSubjectUrl": "",
+                "eventType": "productAddToCart"
+            },
+            "productListItem": {
+                "SKU": "Norwegens Fjorde ab Warnemünde",
+                "productAddMethod": "Mobile",
+                "priceTotal": 1670,
+                "product": "https://media.aida.de/v10/fileadmin/user_upload/dam/routenkarten/AIDA_Big_de-DE/WAR07170/WAR07170_de-DE.gif"
+            },
+            "page": {
+                "trackName": "norwegen-fjorde-ab-warnemunde"
+            }
+        }
+    ]
+}
