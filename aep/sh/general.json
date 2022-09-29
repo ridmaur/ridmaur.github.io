@@ -7,7 +7,9 @@
         "showProducts": true,
         "showPersonalisation": true,
         "showGeofences": true,
-        "showBeacons": true
+        "showBeacons": true,
+        "ldap": "rmaur",
+        "tms": "AEP Data Collection"
     },
     "customer": {
         "name": "Siemens Healthineers",
