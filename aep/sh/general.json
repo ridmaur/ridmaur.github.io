@@ -36,5 +36,10 @@
     },
     "target": {
         "location": "amsiossa-app"
+    },
+    "map": {
+        "longitute": 51.53056,
+        "latitude": -0.08785,
+        "zoomLevel": 2.5
     }
 }
