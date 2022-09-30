@@ -1,0 +1,64 @@
+{
+    "products": [
+        {
+            "category": "medical-imaging",
+            "url": "https://marketing.webassets.siemens-healthineers.com/a02a302e22f78c23/306bc43bafad/v/f6dc138e4e05/siemens-healthineers-Multitilt_LargeDisplay.jpg",
+            "imageUrl": "https://marketing.webassets.siemens-healthineers.com/a02a302e22f78c23/306bc43bafad/v/f6dc138e4e05/siemens-healthineers-Multitilt_LargeDisplay.jpg",
+            "name": "ARTIS icono",
+            "description": "Whatever...",
+            "sku": "ARTIC icono",
+            "channel": "mobile",
+            "price": 123.44,
+            "currency": "EUR",
+            "trackName": "artis-icono"
+        },
+        {
+            "category": "medical-imaging",
+            "url": "https://marketing.webassets.siemens-healthineers.com/042526e0b3c5d51d/d8e5b5b5432e/v/a01bf37884cf/siemens-healthinieers_clinical-specialities_artis_pheno_with_surgical_table-_16_9.jpg",
+            "imageUrl": "https://marketing.webassets.siemens-healthineers.com/042526e0b3c5d51d/d8e5b5b5432e/v/a01bf37884cf/siemens-healthinieers_clinical-specialities_artis_pheno_with_surgical_table-_16_9.jpg",
+            "name": "ARTIS pheno",
+            "description": "Whatever...",
+            "sku": "ARTIC icono",
+            "channel": "mobile",
+            "price": 123.44,
+            "currency": "EUR",
+            "trackName": "artis-pheno"
+        },
+        {
+            "category": "medical-imaging",
+            "url": "https://marketing.webassets.siemens-healthineers.com/1800000006836000/daf6fbceb4f8/v/46f036af8800/Artis_Q_Ceiling_Angiography_System_Siemens_Healthineers_16_9_3_1800000006836000.jpg",
+            "imageUrl": "https://marketing.webassets.siemens-healthineers.com/1800000006836000/daf6fbceb4f8/v/46f036af8800/Artis_Q_Ceiling_Angiography_System_Siemens_Healthineers_16_9_3_1800000006836000.jpg",
+            "name": "Artis Q",
+            "description": "Whatever",
+            "sku": "ARTIC icono",
+            "channel": "mobile",
+            "price": 123.44,
+            "currency": "EUR",
+            "trackName": "artis-q"
+        },
+        {
+            "category": "point-of-care",
+            "url": "https://marketing.webassets.siemens-healthineers.com/1800000006558137/e179f627cf40/v/f083a6ad7df7/poc_epoc_host_foreground-16x9_1800000006558137.jpg",
+            "imageUrl": "https://marketing.webassets.siemens-healthineers.com/1800000006558137/e179f627cf40/v/f083a6ad7df7/poc_epoc_host_foreground-16x9_1800000006558137.jpg",
+            "name": "epoc® Blood Analysis System",
+            "description": "Whatever...",
+            "sku": "epoc® Blood Analysis System",
+            "channel": "mobile",
+            "price": 123.44,
+            "currency": "EUR",
+            "trackName": "epoc"
+        },
+        {
+            "category": "molecular-imaging",
+            "url": "https://marketing.webassets.siemens-healthineers.com/f3fbaad49edd884c/474899b8c457/v/f4fa5e4ac745/siemens-healthineers_symbia-intevo-bold_scanner.jpg",
+            "imageUrl": "https://marketing.webassets.siemens-healthineers.com/f3fbaad49edd884c/474899b8c457/v/f4fa5e4ac745/siemens-healthineers_symbia-intevo-bold_scanner.jpg",
+            "name": "Symbia Intevo Bold",
+            "description": "Whatever...",
+            "sku": "Symbia Intevo Bold",
+            "channel": "mobile",
+            "price": 123.44,
+            "currency": "EUR",
+            "trackName": "symbia"
+        }
+    ]
+}
