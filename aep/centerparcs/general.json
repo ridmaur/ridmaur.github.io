@@ -1,9 +1,9 @@
 {
     "config": {
         "tenant": "_adobeamericaspot4",
-        "sandbox": "sandbox01",
-        "datasetId": "6320695a112f921c07cf95aa",
-        "datastreamId": "e2bbf4ac-43a4-49fe-8016-eaedc0f1f7fa:dev",
+        "sandbox": "sandbox05",
+        "datasetId": "6295c532bf09111b9be0fa63",
+        "datastreamId": "5a36a806-43b0-48d9-bbf0-e2e86a40a107:dev",
         "showProducts": true,
         "showPersonalisation": true,
         "showGeofences": true,
@@ -12,10 +12,10 @@
         "tms": "AEP Data Collection"
     },
     "customer": {
-        "name": "Siemens Healthineers",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Siemens_Healthineers_logo.svg/1280px-Siemens_Healthineers_logo.svg.png",
-        "productsType": "Products",
-        "productsSystemImage": "cart"
+        "name": "Center Parcs",
+        "logo": "https://brandslogos.com/wp-content/uploads/images/center-parcs-logo.png",
+        "productsType": "Accomodations",
+        "productsSystemImage": "leaf"
     },
     "login": {
         "name": "Mobile App Login",
