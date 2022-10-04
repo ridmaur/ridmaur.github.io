@@ -32,7 +32,7 @@
         }
     },
     "decision": {
-        "scope": "eyJ4ZG06YWN0aXZpdHlJZCI6Inhjb3JlOm9mZmVyLWFjdGl2aXR5OjE1Y2Y3N2JmODRjZDQ3MDQiLCJ4ZG06cGxhY2VtZW50SWQiOiJ4Y29yZTpvZmZlci1wbGFjZW1lbnQ6MTU5Yjc3ZTU5YzQ1MmM0ZCJ9"
+        "scope": ""
     },
     "target": {
         "location": "amsiossa-app"
