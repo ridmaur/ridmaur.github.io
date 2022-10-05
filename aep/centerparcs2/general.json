@@ -34,7 +34,7 @@
     "decision": {
         "activityId": "xcore:offer-activity:15e3d28ae52a8730",
         "placementId": "xcore:offer-placement:15412001ce8214a8",
-        "itemCount": 3
+        "itemCount": 2
     },
     "target": {
         "location": "amsiossa-centerparcs"
