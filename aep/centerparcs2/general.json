@@ -32,7 +32,9 @@
         }
     },
     "decision": {
-        "scope": "eyJ4ZG06YWN0aXZpdHlJZCI6Inhjb3JlOm9mZmVyLWFjdGl2aXR5OjE1NGNlMDIwNGVhNDk0MWQiLCJ4ZG06cGxhY2VtZW50SWQiOiJ4Y29yZTpvZmZlci1wbGFjZW1lbnQ6MTU0MTIwMDFjZTgyMTRhOCJ9"
+        "activityId": "xcore:offer-activity:15e3d28ae52a8730",
+        "placementId": "xcore:offer-placement:15412001ce8214a8",
+        "itemCount": 3
     },
     "target": {
         "location": "amsiossa-centerparcs"
