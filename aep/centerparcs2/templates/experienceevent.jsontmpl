@@ -1,5 +1,5 @@
 {
-    "_adobeamericaspot4": {
+    "$temamt$": {
         "identification": {
             "core": {
                 "ecid": "$ecid$"
@@ -37,7 +37,7 @@
             "quantity": $quantity$,
             "product": "$product",
             "SKU": "$SKU$",
-            "_adobeamericaspot4": {
+            "$tenant$": {
                 "core": {
                     "description": "$description$",
                     "mainCategory": "$mainCategory$",
