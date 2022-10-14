@@ -34,8 +34,8 @@
     "productListItems": [
         {
             "productAddMethod": "mobile",
-            "quantity": $quantity$,
-            "product": "$product",
+            "quantity": 1,
+            "product": "$productURL$",
             "SKU": "$SKU$",
             "$tenant$": {
                 "core": {
