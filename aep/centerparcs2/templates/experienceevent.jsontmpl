@@ -1,5 +1,5 @@
 {
-    "$temamt$": {
+    "$tenant$": {
         "identification": {
             "core": {
                 "ecid": "$ecid$"
