@@ -1,0 +1,75 @@
+{
+    "products": [
+        {
+            "category": "Betaalrekeningen",
+            "url": "https://www.belfius.be/retail/nl/producten/betalen/zichtrekeningen/beats-pulse/index.aspx",
+            "imageUrl": "https://www.belfius.be/retail/nl/Media/Group%201910_tcm_86-241395.png",
+            "name": "Beats Pulse",
+            "description": "Een gratis digitale rekening die u beheert via uw Belfius-app",
+            "sku": "beats-pulse",
+            "channel": "mobile",
+            "price": 0.00,
+            "currency": "EUR",
+            "trackName": "beats-pulse"
+        },{
+            "category": "Betaalrekeningen",
+            "url": "https://www.belfius.be/retail/nl/producten/betalen/zichtrekeningen/beats-new/index.aspx",
+            "imageUrl": "https://www.belfius.be/retail/nl/Media/Group%201910_tcm_86-241395.png",
+            "name": "Beats New",
+            "description": "Een gratis digitale rekening die u beheert via uw Belfius-app",
+            "sku": "beats-pulse",
+            "channel": "mobile",
+            "price": 5.50,
+            "currency": "EUR",
+            "trackName": "beats-new"
+        },
+        {
+            "category": "Betaalrekeningen",
+            "url": "https://www.belfius.be/retail/nl/producten/betalen/zichtrekeningen/beats-star/index.aspx",
+            "imageUrl": "https://www.belfius.be/retail/nl/Media/Group%201910_tcm_86-241395.png",
+            "name": "Beats Star",
+            "description": "Een gratis digitale rekening die u beheert via uw Belfius-app",
+            "sku": "beats-pulse",
+            "channel": "mobile",
+            "price": 7.50,
+            "currency": "EUR",
+            "trackName": "beats-star"
+        },
+        {
+            "category": "Credit Cards",
+            "url": "https://www.belfius.be/retail/nl/producten/betalen/kredietkaarten-prepaidkaarten/mastercard-prepaid/Index.aspx",
+            "imageUrl": "https://www.belfius.be/retail/nl/Media/Rectangle%202147%20(1)s_tcm_86-241364.png",
+            "name": "Mastercard Prepaid",
+            "description": "Raadpleging van de uitgaven en beheer van de limieten via onze apps.",
+            "sku": "masterdard-prepaid",
+            "channel": "mobile",
+            "price": 1.25,
+            "currency": "EUR",
+            "trackName": "mastercard-prepaid"
+        },
+        {
+            "category": "Credit Cards",
+            "url": "https://www.belfius.be/retail/nl/producten/betalen/kredietkaarten-prepaidkaarten/mastercard-new/Index.aspx",
+            "imageUrl": "https://www.belfius.be/retail/nl/Media/Rectangle%202147%20(1)s_tcm_86-241364.png",
+            "name": "Mastercard New",
+            "description": "Raadpleging van de uitgaven en beheer van de limieten via onze apps. Verzekering van aankopen (ook online-aankopen). Verlengde wettelijke garantie van uw aankopen",
+            "sku": "masterdard-new",
+            "channel": "mobile",
+            "price": 1.93,
+            "currency": "EUR",
+            "trackName": "mastercard-new"
+        },
+        {
+            "category": "Credit Cards",
+            "url": "https://www.belfius.be/retail/nl/producten/betalen/kredietkaarten-prepaidkaarten/mastercard-star/Index.aspx",
+            "imageUrl": "https://www.belfius.be/retail/nl/Media/Rectangle%202147%20(1)s_tcm_86-241364.png",
+            "name": "Mastercard Star",
+            "description": "Raadpleging van de uitgaven en beheer van de limieten via onze apps. Verzekering van aankopen (ook online-aankopen). Verlengde wettelijke garantie van uw aankopen. Terugbetaling van uw tickets voor evenementen bij verhindering.  Reisannulatieverzekering",
+            "sku": "masterdard-star",
+            "channel": "mobile",
+            "price": 4.18,
+            "currency": "EUR",
+            "trackName": "mastercard-star"
+        }
+    ]
+}
