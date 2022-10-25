@@ -32,12 +32,12 @@
         }
     },
     "decision": {
-        "activityId": "xcore:offer-activity:15e3d28ae52a8730",
-        "placementId": "xcore:offer-placement:15412001ce8214a8",
+        "activityId": "xcore:offer-activity:15fece626f08bc39",
+        "placementId": "xcore:offer-placement:159b77e59e563871",
         "itemCount": 2
     },
     "target": {
-        "location": "amsiossa-centerparcs"
+        "location": "amsiossa-belfius"
     },
     "map": {
         "latitude": 50.8788411,
