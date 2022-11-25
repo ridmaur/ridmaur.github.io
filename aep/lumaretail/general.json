@@ -1,0 +1,47 @@
+{
+    "config": {
+        "tenant": "_experienceplatform",
+        "sandbox": "aepenablementfy22",
+        "datasetId": "61fe23d0371252194883f129",
+        "datastreamId": "7cee8595-3fe4-4f29-88ab-74cd19e99996",
+        "showProducts": true,
+        "showPersonalisation": true,
+        "showGeofences": true,
+        "showBeacons": true,
+        "ldap": "rmaur",
+        "tms": "AEP Data Collection"
+    },
+    "customer": {
+        "name": "Luma",
+        "logo": "https://contentviewer.s3.amazonaws.com/helium/luma-logo01.png",
+        "productsType": "Products",
+        "productsSystemImage": "cart"
+    },
+    "login": {
+        "name": "Mobile App Login",
+        "eventType": "mobileapp.login",
+        "orchestration": {
+            "eventID": "282e4ef104bcb613dde67fa1f04826a66b160d6900da8e9b07e0e9e6ae09401e"
+        }
+    },
+    "testPush": {
+        "name": "Mobile App Test Push",
+        "eventType": "mobileapp.testpush",
+        "orchestration": {
+            "eventID": "10fec8f239d7469ce73e6f9bbc45d235b62811ab9ff51f44fbcb2d864a808ac6"
+        }
+    },
+    "decision": {
+        "activityId": "xcore:offer-activity:15fece626f08bc39",
+        "placementId": "xcore:offer-placement:159b77e59e563871",
+        "itemCount": 2
+    },
+    "target": {
+        "location": "amsiossa-belfius"
+    },
+    "map": {
+        "latitude": 50.8788411,
+        "longitude": 4.3810915,
+        "zoom": 2
+    }
+}
