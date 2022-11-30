@@ -1,0 +1,18 @@
+{
+    "_adobeamericaspot4": {
+        "identification": {
+            "core": {
+                "email": "$email$",
+                "ecid": "$ecid$"
+            }
+        }
+    },
+    "_experience": {
+        "campaign": {
+            "orchestration": {
+                "eventID": "$eventID$"
+            }
+        }
+    },
+    "eventType": "$eventType$"
+}
