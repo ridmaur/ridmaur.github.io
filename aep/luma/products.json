@@ -13,6 +13,18 @@
             "trackName": "adrienne-trek-jacket"
         },
         {
+            "category": "Women",
+            "url": "https://demo-system-next.s3.amazonaws.com/assets/luma/products/wh09-purple_main.jpeg",
+            "imageUrl": "https://demo-system-next.s3.amazonaws.com/assets/luma/products/wh09-purple_main.jpeg",
+            "name": "Ariel Roll Sleeve Sweatshirt",
+            "description": "Soft, sleek and subtle, the Ariel Roll Sleeve Sweatshirt is a nuanced fitness garment for all occasions. It works equally well as a workout piece or in a casual social setting.",
+            "sku": "ariel-roll-sleeve-sweatshirt",
+            "channel": "mobile",
+            "price": 39.00,
+            "currency": "EUR",
+            "trackName": "ariel-roll-sleeve-sweatshirt"
+        },
+        {
             "category": "Men",
             "url": "https://contentviewer.s3.amazonaws.com/helium/ms01-black_main.jpg",
             "imageUrl": "https://contentviewer.s3.amazonaws.com/helium/ms01-black_main.jpg",
@@ -25,6 +37,18 @@
             "trackName": "aero-daily-fitness-tee"
         },
         {
+            "category": "Men",
+            "url": "https://demo-system-next.s3.amazonaws.com/assets/luma/products/mh12-blue_main.jpeg",
+            "imageUrl": "https://demo-system-next.s3.amazonaws.com/assets/luma/products/mh12-blue_main.jpeg",
+            "name": "Ajax Full-Zip Sweatshirt",
+            "description": "The Ajax Full-Zip Sweatshirt makes the optimal layering or outer piece for archers, golfers, hikers and virtually any other sportsmen. Not only does it have top-notch moisture-wicking abilities, but the tight-weave fabric also prevents pilling from repeated wash-and-wear cycles.",
+            "sku": "ajax-full-zip-sweatshirt",
+            "channel": "mobile",
+            "price": 69.00,
+            "currency": "EUR",
+            "trackName": "ajax-full-zip-sweatshirt"
+        },
+        {
             "category": "Equipment",
             "url": "https://demo-system-next.s3.eu-north-1.amazonaws.com/argon/upload/dev/020ae2af-65f7-4650-9ffe-69b08bac5a32",
             "imageUrl": "https://demo-system-next.s3.eu-north-1.amazonaws.com/argon/upload/dev/020ae2af-65f7-4650-9ffe-69b08bac5a32",
@@ -35,6 +59,18 @@
             "price": 7.50,
             "currency": "EUR",
             "trackName": "affirm-water-bottle"
+        },
+        {
+            "category": "Equipment",
+            "url": "https://demo-system-next.s3.amazonaws.com/assets/luma/products/Clamber_Watch_2.jpeg",
+            "imageUrl": "https://demo-system-next.s3.amazonaws.com/assets/luma/products/Clamber_Watch_2.jpeg",
+            "name": "Clamber Watch",
+            "description": "The flexible, rubberized strap is contoured to conform to your wrist for a comfortable fit all day. The face features an illuminated digital read-out of the current time and stopwatch functions.",
+            "sku": "clamber-watch",
+            "channel": "mobile",
+            "price": 54.00,
+            "currency": "EUR",
+            "trackName": "clamber-watch"
         }
     ]
 }
