@@ -32,12 +32,12 @@
         }
     },
     "decision": {
-        "activityId": "xcore:offer-activity:15fece626f08bc39",
-        "placementId": "xcore:offer-placement:159b77e59e563871",
+        "activityId": "xcore:offer-activity:1630e76a5e23c21b",
+        "placementId": "xcore:offer-placement:14d6a66c71aff0d7",
         "itemCount": 2
     },
     "target": {
-        "location": "amsiossa-belfius"
+        "location": "amsiossa-luma"
     },
     "map": {
         "latitude": 52.37109,
