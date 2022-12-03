@@ -54,7 +54,7 @@
             "imageUrl": "https://demo-system-next.s3.eu-north-1.amazonaws.com/argon/upload/dev/020ae2af-65f7-4650-9ffe-69b08bac5a32",
             "name": "Affirm Water Bottle",
             "description": "You'll stay hydrated with ease with the Affirm Water Bottle by your side or in hand. Measurements on the outside help you keep track of how much you're drinking, while the screw-top lid prevents spills. A metal carabiner clip allows you to attach it to the outside of a backpack or bag for easy access.",
-            "sku": "affirm-water-bottle",
+            "sku": "affirm-water-bottle.",
             "channel": "mobile",
             "price": 7.50,
             "currency": "EUR",
