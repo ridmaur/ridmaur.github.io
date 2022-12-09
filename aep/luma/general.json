@@ -1,9 +1,9 @@
 {
     "config": {
-        "tenant": "_experienceplatform",
-        "sandbox": "aepenablementfy22",
-        "datasetId": "61fe23d0371252194883f129",
-        "datastreamId": "7cee8595-3fe4-4f29-88ab-74cd19e99996",
+        "tenant": "_adobeamericaspot4",
+        "sandbox": "amsiossa",
+        "datasetId": "6391ab3727aeca1c07fff5a6",
+        "datastreamId": "7ce47d4c-4255-47c6-9a08-9901ad97b794",
         "showProducts": true,
         "showPersonalisation": true,
         "showGeofences": true,
@@ -28,12 +28,12 @@
         "name": "Mobile App Test Push",
         "eventType": "mobileapp.testpush",
         "orchestration": {
-            "eventID": "916267ccbd2f46be72ef6ae31b040a6a6bf1c1c6ad6fe050fefa2eeac27a5d9f"
+            "eventID": "d024aba9339877326b7814234970dd7470e06b31274ca7cdec844f02313be66f"
         }
     },
     "decision": {
-        "activityId": "xcore:offer-activity:1630e76a5e23c21b",
-        "placementId": "xcore:offer-placement:14d6a66c71aff0d7",
+        "activityId": "xcore:offer-activity:163768bdc9b9cbc9",
+        "placementId": "xcore:offer-placement:16371e6c29484935",
         "itemCount": 2
     },
     "target": {
