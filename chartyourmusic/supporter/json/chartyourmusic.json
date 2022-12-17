@@ -305,8 +305,8 @@
                     "supportPages": [
                         {
                             "id": 0,
-                            "title": "Share Your Chart",
-                            "subtitle": "You can share your chart using the iOS sharing functionality. Tap on **Charts** in tab bar. Tap on your collection. Tap on the specific chart. Tap on the header (with the date of the chart). In **Chart Details** screen, tap on **…***, then on **Share**. What gets shared depends on the app you select.",
+                            "title": "Share",
+                            "subtitle": "You can share your chart, overview and entry detail using the iOS sharing functionality. Whenever you seen the **Share** button in the top bar, tap on it to share details. You can direcly share to Instagram or share using the iOS Share functionality. Relevant text is copied to the clipboard for further use. What gets shared depends on the app you select.",
                             "videoURL": "https://ridmaur.github.io/chartyourmusic/supporter/videos/sharechart_white.mp4",
                             "darkVideoURL": "https://ridmaur.github.io/chartyourmusic/supporter/videos/sharechart_black.mp4"
                         },

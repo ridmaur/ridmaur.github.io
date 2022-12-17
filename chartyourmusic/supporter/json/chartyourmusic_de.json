@@ -305,8 +305,8 @@
                     "supportPages": [
                         {
                             "id": 0,
-                            "title": "Teile deine Liste",
-                            "subtitle": "Du kannst deine Hitliste mit der iOS Sharing-Funktion teilen. Tippe auf **Listen**. Tippe auf deine Sammlung. Tippe auf die jeweilige Liste. Tippe auf die Kopfzeile (die das Datum der Hitliste enthält). Tippe auf dem Bildschirm **Listen details** auf **…*** und dann auf **Teilen…**. Was geteilt wird, hängt von der App ab, die du ausgewählt hast.",
+                            "title": "Teilen",
+                            "subtitle": "Du kannst dein Chart, deine Übersicht und die Details deines Eintrags mit der iOS Sharing-Funktion teilen. Wann immer du die Schaltfläche **Teilen** in der oberen Leiste siehst, tippe darauf, um Details zu teilen. Du kannst direkt auf Instagram teilen oder die iOS Sharing-Funktion nutzen. Der relevante Text wird zur weiteren Verwendung in die Zwischenablage kopiert. Was geteilt wird, hängt von der App ab, die du ausgewählt hast.",
                             "videoURL": "https://ridmaur.github.io/chartyourmusic/supporter/videos/sharechart_white.mp4",
                             "darkVideoURL": "https://ridmaur.github.io/chartyourmusic/supporter/videos/sharechart_black.mp4"
                         },

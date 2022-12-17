@@ -305,8 +305,8 @@
                     "supportPages": [
                         {
                             "id": 0,
-                            "title": "Comparte tu lista",
-                            "subtitle": "Puedes compartir tu lista utilizando la función de compartir de iOS. Pulsa en **listass** en la barra de pestañas. Pulsa en tu colección. Toca en la lista específica. Pulsa en la cabecera (con la fecha de la lista). En la pantalla de **Detalles del listas**, pulsa en **…**, y luego en **Compartir**. Lo que se comparte depende de la aplicación que selecciones",
+                            "title": "Compartir",
+                            "subtitle": "Puedes compartir tu liste, resumen y detalles de entrada utilizando la función de compartir de iOS. Siempre que veas el botón **Compartir** en la barra superior, tócalo para compartir detalles. Puedes compartirlos directamente en Instagram o mediante la función Compartir de iOS. El texto relevante se copia en el portapapeles para su uso posterior. Lo que se comparte depende de la aplicación que selecciones.",
                             "videoURL": "https://ridmaur.github.io/chartyourmusic/supporter/videos/sharechart_white.mp4",
                             "darkVideoURL": "https://ridmaur.github.io/chartyourmusic/supporter/videos/sharechart_black.mp4"
                         },
