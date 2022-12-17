@@ -1,0 +1,51 @@
+{
+    "$tenant$": {
+        "identification": {
+            "core": {
+                "ecid": "$ecid$"
+            }
+        },
+        "demoEnvironment": {
+            "tms": "$tms$",
+            "ldap": "$ldap$",
+            "brandLogo": "$brandLogo$",
+            "brandName": "$brandName$"
+        }
+    },
+    "eventType": "$eventType$",
+    "_experience": {
+        "campaign": {
+            "orchestration": {
+                "eventID": "$eventID$"
+            }
+        }
+    },
+    "commerce": {
+        "purchases": {
+            "value": 1
+        }
+    },
+    "web": {
+        "webPageDetails": {
+            "name": "$productName$",
+            "siteSection": "$productCategory$"
+        }
+    },
+    "productListItems": [
+        {
+            "productAddMethod": "mobile",
+            "quantity": ,
+            "product": "$product",
+            "SKU": "$SKU$",
+            "$tenant$": {
+                "core": {
+                    "description": "$description$",
+                    "mainCategory": "$mainCategory$",
+                    "imageURL": "$productImageUrl$"
+                }
+            },
+            "name": "$productName$",
+            "productImageUrl": "$productImageUrl$"
+        }
+    ]
+}

@@ -1,0 +1,47 @@
+{
+    "config": {
+        "tenant": "_adobeamericaspot4",
+        "sandbox": "amsiossa",
+        "datasetId": "6391ab3727aeca1c07fff5a6",
+        "datastreamId": "7ce47d4c-4255-47c6-9a08-9901ad97b794",
+        "showProducts": true,
+        "showPersonalisation": true,
+        "showGeofences": true,
+        "showBeacons": true,
+        "ldap": "rmaur",
+        "tms": "AEP Data Collection"
+    },
+    "customer": {
+        "name": "Luma",
+        "logo": "https://contentviewer.s3.amazonaws.com/helium/luma-logo01.png",
+        "productsType": "Products",
+        "productsSystemImage": "cart"
+    },
+    "login": {
+        "name": "Mobile App Login",
+        "eventType": "mobileapp.login",
+        "orchestration": {
+            "eventID": "c14b81d0de85267c75bf36a9c4209a687139f4d5335cafcfd54566e2f6fb4295"
+        }
+    },
+    "testPush": {
+        "name": "Mobile App Test Push",
+        "eventType": "mobileapp.testpush",
+        "orchestration": {
+            "eventID": "d024aba9339877326b7814234970dd7470e06b31274ca7cdec844f02313be66f"
+        }
+    },
+    "decision": {
+        "activityId": "xcore:offer-activity:163768bdc9b9cbc9",
+        "placementId": "xcore:offer-placement:16371e6c29484935",
+        "itemCount": 2
+    },
+    "target": {
+        "location": "amsiossa-luma"
+    },
+    "map": {
+        "latitude": 52.37109,
+        "longitude": 4.8919,
+        "zoom": 2
+    }
+}

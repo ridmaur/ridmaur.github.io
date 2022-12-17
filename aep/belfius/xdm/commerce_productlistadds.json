@@ -1,0 +1,45 @@
+{
+    "productListItems": [
+        {
+            "productAddMethod": "$productAddMethod$",
+            "quantity": 1,
+            "SKU": "$productSKU$",
+            "product": "$productURL$",
+            "$tenant$": {
+                "core": {
+                    "imageURL": "$productImageURL$",
+                    "mainCategory": "$productCategory$",
+                    "description": "$productDescription$"
+                }
+            },
+            "name": "$productName$",
+            "productImageUrl": "$productImageURL$"
+        }
+    ],
+    "commerce": {
+        "productListAdds": {
+            "value": 1
+        }
+    },
+    "eventType": "$eventType$",
+    "_experience": {
+        "campaign": {
+            "orchestration": {
+                "eventID": "$eventID$"
+            }
+        }
+    },
+    "web": {
+        "webPageDetails": {
+            "siteSection": "$productCategory$",
+            "name": "$productName$"
+        }
+    },
+    "_adobeamericaspot4": {
+        "identification": {
+            "core": {
+                "ecid": "$ecid$"
+            }
+        }
+    }
+}

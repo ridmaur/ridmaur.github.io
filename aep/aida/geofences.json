@@ -1,0 +1,173 @@
+{
+    "geofences": [
+        {
+            "id": "aarhus",
+            "name": "Aarhus",
+            "regionMetadata": {
+                "category": "AIDA",
+                "city": "Aarhus",
+                "country": "Norway",
+                "countryCode": "NO"
+            },
+            "orchestration": {
+                "eventID": "bbefedd7af0eb5d2fe7d8a39be09cbe064706d37a75d8a1fab3cfa02ef720c6b"
+            }
+        },
+        {
+            "id": "ajaccio",
+            "name": "Ajaccio",
+            "regionMetadata": {
+                "category": "AIDA",
+                "city": "Ajaccio",
+                "country": "France",
+                "countryCode": "FR"
+            },
+            "orchestration": {
+                "eventID": "bbefedd7af0eb5d2fe7d8a39be09cbe064706d37a75d8a1fab3cfa02ef720c6b"
+            }
+        },
+        {
+            "id": "barcelona",
+            "name": "Barcelona",
+            "regionMetadata": {
+                "category": "AIDA",
+                "city": "Barcelona",
+                "country": "Spain",
+                "countryCode": "ES"
+            },
+            "orchestration": {
+                "eventID": "bbefedd7af0eb5d2fe7d8a39be09cbe064706d37a75d8a1fab3cfa02ef720c6b"
+            }
+        },
+        {
+            "id": "copenhagen",
+            "name": "Copenhagen",
+            "regionMetadata": {
+                "category": "AIDA",
+                "city": "Copenhagen",
+                "country": "Denmark",
+                "countryCode": "DK"
+            },
+            "orchestration": {
+                "eventID": "bbefedd7af0eb5d2fe7d8a39be09cbe064706d37a75d8a1fab3cfa02ef720c6b"
+            }
+        },
+        {
+            "id": "kiel",
+            "name": "Kiel",
+            "regionMetadata": {
+                "category": "AIDA",
+                "city": "Kiel",
+                "country": "Germany",
+                "countryCode": "DE"
+            },
+            "orchestration": {
+                "eventID": "bbefedd7af0eb5d2fe7d8a39be09cbe064706d37a75d8a1fab3cfa02ef720c6b"
+            }
+        },
+        {
+            "id": "kristiansand",
+            "name": "Kristiansand",
+            "regionMetadata": {
+                "category": "AIDA",
+                "city": "Kristiansand",
+                "country": "Norway",
+                "countryCode": "NO"
+            },
+            "orchestration": {
+                "eventID": "bbefedd7af0eb5d2fe7d8a39be09cbe064706d37a75d8a1fab3cfa02ef720c6b"
+            }
+        },
+        {
+            "id": "laspezia",
+            "name": "La Spezia",
+            "regionMetadata": {
+                "category": "AIDA",
+                "city": "La Spezia",
+                "country": "Italy",
+                "countryCode": "IT"
+            },
+            "orchestration": {
+                "eventID": "bbefedd7af0eb5d2fe7d8a39be09cbe064706d37a75d8a1fab3cfa02ef720c6b"
+            }
+        },
+        {
+            "id": "mallorca",
+            "name": "Mallorca",
+            "regionMetadata": {
+                "category": "AIDA",
+                "city": "Mallorca",
+                "country": "Spain",
+                "countryCode": "ES"
+            },
+            "orchestration": {
+                "eventID": "bbefedd7af0eb5d2fe7d8a39be09cbe064706d37a75d8a1fab3cfa02ef720c6b"
+            }
+        },
+        {
+            "id": "oslo",
+            "name": "Oslo",
+            "regionMetadata": {
+                "category": "AIDA",
+                "city": "Oslo",
+                "country": "Norway",
+                "countryCode": "NO"
+            },
+            "orchestration": {
+                "eventID": "bbefedd7af0eb5d2fe7d8a39be09cbe064706d37a75d8a1fab3cfa02ef720c6b"
+            }
+        },
+        {
+            "id": "rome",
+            "name": "Rome",
+            "regionMetadata": {
+                "category": "AIDA",
+                "city": "Civitavecchia",
+                "country": "Italy",
+                "countryCode": "IT"
+            },
+            "orchestration": {
+                "eventID": "bbefedd7af0eb5d2fe7d8a39be09cbe064706d37a75d8a1fab3cfa02ef720c6b"
+            }
+        },
+        {
+            "id": "stockholm",
+            "name": "Stockholm",
+            "regionMetadata": {
+                "category": "AIDA",
+                "city": "Stockholm",
+                "country": "Sweden",
+                "countryCode": "SV"
+            },
+            "orchestration": {
+                "eventID": "bbefedd7af0eb5d2fe7d8a39be09cbe064706d37a75d8a1fab3cfa02ef720c6b"
+            }
+        },
+        {
+            "id": "visby",
+            "name": "Visby",
+            "regionMetadata": {
+                "category": "AIDA",
+                "city": "Visby",
+                "country": "Sweden",
+                "countryCode": "SV"
+            },
+            "orchestration": {
+                "eventID": "bbefedd7af0eb5d2fe7d8a39be09cbe064706d37a75d8a1fab3cfa02ef720c6b"
+            }
+        },
+        {
+            "id": "warnemunde",
+            "name": "Warnemünde",
+            "regionMetadata": {
+                "category": "AIDA",
+                "city": "Warnemünde",
+                "country": "Germany",
+                "countryCode": "DE"
+            },
+            "orchestration": {
+                "eventID": "bbefedd7af0eb5d2fe7d8a39be09cbe064706d37a75d8a1fab3cfa02ef720c6b"
+            }
+        }
+    ]
+}

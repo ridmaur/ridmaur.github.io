@@ -1,0 +1,120 @@
+{
+    "geofences": [
+        {
+            "id": "aalst",
+            "name": "Aalst",
+            "regionMetadata": {
+                "category": "Dreambaby",
+                "city": "Aalst",
+                "country": "Belgium",
+                "countryCode": "BE"
+            },
+            "orchestration": {
+                "eventID": "17fb018e736332302b56227d4477227b8d771b301b51ac57dea7d803c31733ca"
+            }
+        },
+        {
+            "id": "bree",
+            "name": "Bree",
+            "regionMetadata": {
+                "category": "Dreambaby",
+                "city": "Bree",
+                "country": "Belgium",
+                "countryCode": "BE"
+            },
+            "orchestration": {
+                "eventID": "17fb018e736332302b56227d4477227b8d771b301b51ac57dea7d803c31733ca"
+            }
+        },
+        {
+            "id": "Brugge",
+            "name": "Brugge",
+            "regionMetadata": {
+                "category": "Dreambaby",
+                "city": "Aalst",
+                "country": "Belgium",
+                "countryCode": "BE"
+            },
+            "orchestration": {
+                "eventID": "17fb018e736332302b56227d4477227b8d771b301b51ac57dea7d803c31733ca"
+            }
+        },
+        {
+            "id": "charleroi",
+            "name": "Charleroi",
+            "regionMetadata": {
+                "category": "Dreambaby",
+                "city": "Charleroi",
+                "country": "Belgium",
+                "countryCode": "BE"
+            },
+            "orchestration": {
+                "eventID": "17fb018e736332302b56227d4477227b8d771b301b51ac57dea7d803c31733ca"
+            }
+        },        {
+            "id": "halle",
+            "name": "Halle",
+            "regionMetadata": {
+                "category": "Dreambaby",
+                "city": "Halle",
+                "country": "Belgium",
+                "countryCode": "BE"
+            },
+            "orchestration": {
+                "eventID": "17fb018e736332302b56227d4477227b8d771b301b51ac57dea7d803c31733ca"
+            }
+        },
+        {
+            "id": "herstal",
+            "name": " Herstal",
+            "regionMetadata": {
+                "category": "Dreambaby",
+                "city": "Herstal",
+                "country": "Belgium",
+                "countryCode": "BE"
+            },
+            "orchestration": {
+                "eventID": "17fb018e736332302b56227d4477227b8d771b301b51ac57dea7d803c31733ca"
+            }
+        },
+        {
+            "id": "mechelen",
+            "name": "Mechelen",
+            "regionMetadata": {
+                "category": "Dreambaby",
+                "city": "Mechelen",
+                "country": "Belgium",
+                "countryCode": "BE"
+            },
+            "orchestration": {
+                "eventID": "17fb018e736332302b56227d4477227b8d771b301b51ac57dea7d803c31733ca"
+            }
+        },
+        {
+            "id": "namen",
+            "name": "Namen",
+            "regionMetadata": {
+                "category": "Dreambaby",
+                "city": "Namen",
+                "country": "Belgium",
+                "countryCode": "BE"
+            },
+            "orchestration": {
+                "eventID": "17fb018e736332302b56227d4477227b8d771b301b51ac57dea7d803c31733ca"
+            }
+        },
+        {
+            "id": "waterloo",
+            "name": "Waterloo",
+            "regionMetadata": {
+                "category": "Dreambaby",
+                "city": "Waterloo",
+                "country": "Belgium",
+                "countryCode": "BE"
+            },
+            "orchestration": {
+                "eventID": "17fb018e736332302b56227d4477227b8d771b301b51ac57dea7d803c31733ca"
+            }
+        }
+    ]
+}

@@ -1,0 +1,47 @@
+{
+    "config": {
+        "tenant": "_adobeamericaspot4",
+        "sandbox": "sandbox12",
+        "datasetId": "62f247fd067ec11c077d6b6a",
+        "datastreamId": "b72229e5-efd8-4f83-865b-a33b44b3da4b",
+        "showProducts": true,
+        "showPersonalisation": true,
+        "showGeofences": true,
+        "showBeacons": true,
+        "ldap": "rmaur",
+        "tms": "AEP Data Collection"
+    },
+    "customer": {
+        "name": "Belfius",
+        "logo": "https://www.belfius.be/about-us/dam/corporate/press-room/content-images/graphic-charter/en/Belfius_descriptorEN_RGB.png",
+        "productsType": "Products",
+        "productsSystemImage": "creditcard"
+    },
+    "login": {
+        "name": "Mobile App Login",
+        "eventType": "mobileapp.login",
+        "orchestration": {
+            "eventID": "282e4ef104bcb613dde67fa1f04826a66b160d6900da8e9b07e0e9e6ae09401e"
+        }
+    },
+    "testPush": {
+        "name": "Mobile App Test Push",
+        "eventType": "mobileapp.testpush",
+        "orchestration": {
+            "eventID": "10fec8f239d7469ce73e6f9bbc45d235b62811ab9ff51f44fbcb2d864a808ac6"
+        }
+    },
+    "decision": {
+        "activityId": "xcore:offer-activity:15fece626f08bc39",
+        "placementId": "xcore:offer-placement:159b77e59e563871",
+        "itemCount": 2
+    },
+    "target": {
+        "location": "amsiossa-belfius"
+    },
+    "map": {
+        "latitude": 50.8788411,
+        "longitude": 4.3810915,
+        "zoom": 2
+    }
+}
