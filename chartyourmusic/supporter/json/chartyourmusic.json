@@ -306,7 +306,7 @@
                         {
                             "id": 0,
                             "title": "Share",
-                            "subtitle": "You can share your chart, overview and entry detail using the iOS sharing functionality. Whenever you seen the **Share** button in the top bar, tap on it to share details. You can direcly share to Instagram or share using the iOS Share functionality. Relevant text is copied to the clipboard for further use. What gets shared depends on the app you select.",
+                            "subtitle": "You can share your chart, overview and entry detail using the iOS sharing functionality. Whenever you see the **Share** button in the top bar, tap on it to share details. You can direcly share to Instagram or share using the iOS Share functionality. Relevant text is copied to the clipboard for further use. What gets shared depends on the app you select.",
                             "videoURL": "https://ridmaur.github.io/chartyourmusic/supporter/videos/sharechart_white.mp4",
                             "darkVideoURL": "https://ridmaur.github.io/chartyourmusic/supporter/videos/sharechart_black.mp4"
                         },
