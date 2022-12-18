@@ -313,7 +313,7 @@
                         {
                             "id": 1,
                             "title": "Crea una playlist",
-                            "subtitle": "Quando Apple Music o Spotify sono configurati come servizio musicale, puoi creare una playlist da una classifica. Tocca **Lizza** nella barra delle schede. Tocca la tua raccolta. Tocca il Lista specifico. Tocca l'intestazione (con la data del Lista). Nella schermata **Dettagli del Lista**, tocca **…**, quindi **Crea playlist…***. Verrà creata una playlist intitolata *CYM: nome della raccolta - nome del Lista*",
+                            "subtitle": "Quando Apple Music o Spotify sono configurati come servizio musicale, puoi creare una playlist da una classifica. Tocca **Lizza** nella barra delle schede. Tocca la tua raccolta. Tocca il Lista specifico. Tocca l'intestazione (con la data del Lista). Nella schermata **Dettagli del Lista**, tocca **…**, quindi **Crea playlist…**. Verrà creata una playlist intitolata *CYM: nome della raccolta - nome del Lista*",
                             "videoURL": "https://ridmaur.github.io/chartyourmusic/supporter/videos/createplaylist_white.mp4",
                             "darkVideoURL": "https://ridmaur.github.io/chartyourmusic/supporter/videos/createplaylist_black.mp4"
                         },
@@ -327,7 +327,7 @@
                         {
                             "id": 3,
                             "title": "Importazione di playlist",
-                            "subtitle": "Nella **Panoramica degli items*, tocca su **…*, quindi su **Importa**. Un foglio mostrerà le tue playlist dal servizio musicale configurato. Seleziona una playlist e tutti i brani della playlist che non esistono ancora nella raccolta verranno aggiunti.",
+                            "subtitle": "Nella **Panoramica degli items**, tocca su **…**, quindi su **Importa**. Un foglio mostrerà le tue playlist dal servizio musicale configurato. Seleziona una playlist e tutti i brani della playlist che non esistono ancora nella raccolta verranno aggiunti.",
                             "videoURL": "https://ridmaur.github.io/chartyourmusic/supporter/videos/importplaylists_white.mp4",
                             "darkVideoURL": "https://ridmaur.github.io/chartyourmusic/supporter/videos/importplaylists_black.mp4"
                         },

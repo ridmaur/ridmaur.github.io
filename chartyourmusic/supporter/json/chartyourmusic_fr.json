@@ -313,7 +313,7 @@
                         {
                             "id" : 1,
                             "title" : "Créer une liste de lecture",
-                            "subtitle" : "Lorsque Apple Music ou Spotify est configuré comme service musical, tu peux créer une liste de lecture à partir d'un Liste. Tape sur **Listes** dans la barre d'onglets. Tape sur ta collection. Tape sur le Liste spécifique. Tape sur l'en-tête (avec la date du Liste). Dans l'écran **Détails du Liste**, tape sur **…**, puis sur **Créer une liste de lecture…***. Une liste de lecture intitulée *CYM : nom de la collection - nom du Liste* sera créée.",
+                            "subtitle" : "Lorsque Apple Music ou Spotify est configuré comme service musical, tu peux créer une liste de lecture à partir d'un Liste. Tape sur **Listes** dans la barre d'onglets. Tape sur ta collection. Tape sur le Liste spécifique. Tape sur l'en-tête (avec la date du Liste). Dans l'écran **Détails du Liste**, tape sur **…**, puis sur **Créer une liste de lecture…**. Une liste de lecture intitulée *CYM : nom de la collection - nom du Liste* sera créée.",
                             "videoURL" : "https://ridmaur.github.io/chartyourmusic/supporter/videos/createplaylist_white.mp4",
                             "darkVideoURL" : "https://ridmaur.github.io/chartyourmusic/supporter/videos/createplaylist_black.mp4"
                         },
@@ -327,7 +327,7 @@
                         {
                             "id" : 3,
                             "title" : "Importer des listes de lecture",
-                            "subtitle" : "Dans **Survol des éléments*, tape sur **…*, puis sur **Importer**. Une feuille affichera tes listes de lecture du service musical configuré. Sélectionne une liste de lecture et toutes les pistes de la liste de lecture qui n'existent pas encore dans la collection seront ajoutées.",
+                            "subtitle" : "Dans **Survol des éléments**, tape sur **…**, puis sur **Importer**. Une feuille affichera tes listes de lecture du service musical configuré. Sélectionne une liste de lecture et toutes les pistes de la liste de lecture qui n'existent pas encore dans la collection seront ajoutées.",
                             "videoURL" : "https://ridmaur.github.io/chartyourmusic/supporter/videos/importplaylists_white.mp4",
                             "darkVideoURL" : "https://ridmaur.github.io/chartyourmusic/supporter/videos/importplaylists_black.mp4"
                         },

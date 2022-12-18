@@ -313,7 +313,7 @@
                         {
                             "id": 1,
                             "title": "Eine WiedergabeHitliste erstellen",
-                            "subtitle": "Wenn Apple Music oder Spotify als Musikdienst konfiguriert ist, kannst du eine WiedergabeHitliste aus einer Hitliste erstellen. Tippe auf **Listen**. Tippe auf deine Sammlung. Tippe auf die jeweilige Liste. Tippe auf die Kopfzeile (die das Datum der Karte enthält). Tippe auf dem Bildschirm **Listendetails** auf **…** und dann auf **WiedergabeHitliste erstellen…***. Eine WiedergabeHitliste mit dem Titel *CYM: Name der Sammlung - Name der Liste* wird erstellt.",
+                            "subtitle": "Wenn Apple Music oder Spotify als Musikdienst konfiguriert ist, kannst du eine WiedergabeHitliste aus einer Hitliste erstellen. Tippe auf **Listen**. Tippe auf deine Sammlung. Tippe auf die jeweilige Liste. Tippe auf die Kopfzeile (die das Datum der Karte enthält). Tippe auf dem Bildschirm **Listendetails** auf **…** und dann auf **WiedergabeHitliste erstellen…**. Eine WiedergabeHitliste mit dem Titel *CYM: Name der Sammlung - Name der Liste* wird erstellt.",
                             "videoURL": "https://ridmaur.github.io/chartyourmusic/supporter/videos/createplaylist_white.mp4",
                             "darkVideoURL": "https://ridmaur.github.io/chartyourmusic/supporter/videos/createplaylist_black.mp4"
                         },

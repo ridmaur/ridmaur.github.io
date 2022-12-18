@@ -313,7 +313,7 @@
                         {
                             "id": 1,
                             "title": "Creëer een Afspeellijst",
-                            "subtitle": "Wanneer Apple Music of Spotify als muziekdienst is geconfigureerd, kunt u een afspeellijst maken van een lijst. Tik op **Lijsten** in de tabbalk. Tik op uw verzameling. Tik op de specifieke lijst. Tik op de koptekst (met de datum van de grafiek). In het scherm **Lijst Details**, tik je op **…** en vervolgens op **Maak Afspeellijst…***. Een afspeellijst met de titel *CYM: verzameling naam - lijst name* wordt gecreëerd.",
+                            "subtitle": "Wanneer Apple Music of Spotify als muziekdienst is geconfigureerd, kunt u een afspeellijst maken van een lijst. Tik op **Lijsten** in de tabbalk. Tik op je verzameling. Tik op de specifieke lijst. Tik op de koptekst (met de datum van de grafiek). In het scherm **Lijst Details**, tik je op **…** en vervolgens op **Maak Afspeellijst…**. Een afspeellijst met de titel *CYM: verzameling naam - lijst name* wordt gecreëerd.",
                             "videoURL": "https://ridmaur.github.io/chartyourmusic/supporter/videos/createplaylist_white.mp4",
                             "darkVideoURL": "https://ridmaur.github.io/chartyourmusic/supporter/videos/createplaylist_black.mp4"
                         },
@@ -327,7 +327,7 @@
                         {
                             "id": 3,
                             "title": "Importeer Afspeellijsten",
-                            "subtitle": "In het **Items Overzicht** scherm, tik op **…* en vervolgens op **Importeer Afspeellijsten…**. Een blad toont je de afspeellijsten van de geconfigureerde muziekdienst. Selecteer een afspeellijst en alle nummers uit de afspeellijst die nog niet in de verzameling voorkomen, worden toegevoegd.",
+                            "subtitle": "In het **Items Overzicht** scherm, tik op **…** en vervolgens op **Importeer Afspeellijsten…**. Een blad toont je de afspeellijsten van de geconfigureerde muziekdienst. Selecteer een afspeellijst en alle nummers uit de afspeellijst die nog niet in de verzameling voorkomen, worden toegevoegd.",
                             "videoURL": "https://ridmaur.github.io/chartyourmusic/supporter/videos/importplaylists_white.mp4",
                             "darkVideoURL": "https://ridmaur.github.io/chartyourmusic/supporter/videos/importplaylists_black.mp4"
                         },
