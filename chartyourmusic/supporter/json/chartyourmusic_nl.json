@@ -305,15 +305,15 @@
                     "supportPages": [
                         {
                             "id": 0,
-                            "title": "Deel je Lijst",
-                            "subtitle": "Je kunt je lijst delen met behulp van de iOS deelfunctie. Tik op **Lijsten** in de tabbalk. Tik op je verzameling. Tik op de specifieke lijst. Tik op de koptekst (met de datum van de lijst). In het scherm **Details Lijst**, tik je op **…*** en vervolgens op **Deel…**. Wat gedeeld wordt, hangt af van de app die je selecteert.",
+                            "title": "Deel",
+                            "subtitle": "Je kunt je lijst, overzicht en item delen met behulp van de iOS deelfunctionaliteit. Als je de knop **Delen** in de bovenste balk ziet, tik je erop om details te delen. Je kunt direct delen naar Instagram of delen via de iOS deelfunctionaliteit. Relevante tekst wordt gekopieerd naar het klembord voor verder gebruik. Wat gedeeld wordt hangt af van de app die je selecteert.",
                             "videoURL": "https://ridmaur.github.io/chartyourmusic/supporter/videos/sharechart_white.mp4",
                             "darkVideoURL": "https://ridmaur.github.io/chartyourmusic/supporter/videos/sharechart_black.mp4"
                         },
                         {
                             "id": 1,
                             "title": "Creëer een Afspeellijst",
-                            "subtitle": "Wanneer Apple Music of Spotify als muziekdienst is geconfigureerd, kunt u een afspeellijst maken van een lijst. Tik op **Lijsten** in de tabbalk. Tik op uw verzameling. Tik op de specifieke lijst. Tik op de koptekst (met de datum van de grafiek). In het scherm **Lijst Details**, tik je op **…** en vervolgens op **Maak Afspeellijst…***. Een afspeellijst met de titel *CYM: verzameling naam - lijst name* wordt gecreëerd.",
+                            "subtitle": "Wanneer Apple Music of Spotify als muziekdienst is geconfigureerd, kunt u een afspeellijst maken van een lijst. Tik op **Lijsten** in de tabbalk. Tik op je verzameling. Tik op de specifieke lijst. Tik op de koptekst (met de datum van de grafiek). In het scherm **Lijst Details**, tik je op **…** en vervolgens op **Maak Afspeellijst…**. Een afspeellijst met de titel *CYM: verzameling naam - lijst name* wordt gecreëerd.",
                             "videoURL": "https://ridmaur.github.io/chartyourmusic/supporter/videos/createplaylist_white.mp4",
                             "darkVideoURL": "https://ridmaur.github.io/chartyourmusic/supporter/videos/createplaylist_black.mp4"
                         },
@@ -327,7 +327,7 @@
                         {
                             "id": 3,
                             "title": "Importeer Afspeellijsten",
-                            "subtitle": "In het **Items Overzicht** scherm, tik op **…* en vervolgens op **Importeer Afspeellijsten…**. Een blad toont je de afspeellijsten van de geconfigureerde muziekdienst. Selecteer een afspeellijst en alle nummers uit de afspeellijst die nog niet in de verzameling voorkomen, worden toegevoegd.",
+                            "subtitle": "In het **Items Overzicht** scherm, tik op **…** en vervolgens op **Importeer Afspeellijsten…**. Een blad toont je de afspeellijsten van de geconfigureerde muziekdienst. Selecteer een afspeellijst en alle nummers uit de afspeellijst die nog niet in de verzameling voorkomen, worden toegevoegd.",
                             "videoURL": "https://ridmaur.github.io/chartyourmusic/supporter/videos/importplaylists_white.mp4",
                             "darkVideoURL": "https://ridmaur.github.io/chartyourmusic/supporter/videos/importplaylists_black.mp4"
                         },
