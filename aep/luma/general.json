@@ -31,13 +31,11 @@
             "eventID": "d024aba9339877326b7814234970dd7470e06b31274ca7cdec844f02313be66f"
         }
     },
-    "decision": [
-        {
-            "activityId": "xcore:offer-activity:163768bdc9b9cbc9",
-            "placementId": "xcore:offer-placement:16371e6c29484935",
-            "itemCount": 2
-        }
-    ],
+    "decision": {
+        "activityId": "xcore:offer-activity:163768bdc9b9cbc9",
+        "placementId": "xcore:offer-placement:16371e6c29484935",
+        "itemCount": 2
+    },
     "target": {
         "location": "amsiossa-luma"
     },
