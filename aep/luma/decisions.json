@@ -1,0 +1,14 @@
+{
+    "decisions": [
+        {
+            "activityId": "xcore:offer-activity:163768bdc9b9cbc9",
+            "placementId": "xcore:offer-placement:16371e6c29484935",
+            "itemCount": 2
+        },
+        {
+            "activityId": "xcore:offer-activity:163768bdc9b9cbc9",
+            "placementId": "xcore:offer-placement:16371e6c29484935",
+            "itemCount": 1
+        }
+    ]
+}
