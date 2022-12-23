@@ -1,5 +1,10 @@
 {
-    "decisions": [
+    "containerId": "",
+    "accessToken": "",
+    "allowDuplicatesAcrossActivities": true,
+    "allowDuplicatesAcrossPlacements": true,
+    "dryRun": true,
+    "scopes": [
         {
             "activityId": "xcore:offer-activity:163768bdc9b9cbc9",
             "placementId": "xcore:offer-placement:16371e6c29484935",
