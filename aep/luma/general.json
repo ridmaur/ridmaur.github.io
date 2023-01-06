@@ -1,7 +1,7 @@
 {
     "config": {
         "tenant": "_adobeamericaspot4",
-        "sandbox": "amsiossa",
+        "sandbox": "test-sandbox-1",
         "datasetId": "6391ab3727aeca1c07fff5a6",
         "datastreamId": "7ce47d4c-4255-47c6-9a08-9901ad97b794",
         "showProducts": true,
