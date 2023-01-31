@@ -305,15 +305,15 @@
                     "supportPages": [
                         {
                             "id": 0,
-                            "title": "Share",
-                            "subtitle": "You can share your chart, overview and entry detail using the iOS sharing functionality. Whenever you see the **Share** button in the top bar, tap on it to share details. You can direcly share to Instagram or share using the iOS Share functionality. Relevant text is copied to the clipboard for further use. What gets shared depends on the app you select.",
+                            "title": "Share Your Chart",
+                            "subtitle": "You can share your chart using the iOS sharing functionality. Tap on **Charts** in tab bar. Tap on your collection. Tap on the specific chart. Tap on the header (with the date of the chart). In **Chart Details** screen, tap on **…***, then on **Share**. What gets shared depends on the app you select.",
                             "videoURL": "https://ridmaur.github.io/chartyourmusic/supporter/videos/sharechart_white.mp4",
                             "darkVideoURL": "https://ridmaur.github.io/chartyourmusic/supporter/videos/sharechart_black.mp4"
                         },
                         {
                             "id": 1,
                             "title": "Create A Playlist",
-                            "subtitle": "When Apple Music or Spotify is configured as a music service, you can create a playlist from a chart. Tap on **Charts** in tab bar. Tap on your collection. Tap on the specific chart. Tap on the header (with the date  of the chart). In **Chart Details** screen, tap on **…**, then on **Create Playlist…**. A playlist titled *CYM: collection name - chart name* will be created.",
+                            "subtitle": "When Apple Music or Spotify is configured as a music service, you can create a playlist from a chart. Tap on **Charts** in tab bar. Tap on your collection. Tap on the specific chart. Tap on the header (with the date  of the chart). In **Chart Details** screen, tap on **…**, then on **Create Playlist…***. A playlist titled *CYM: collection name - chart name* will be created.",
                             "videoURL": "https://ridmaur.github.io/chartyourmusic/supporter/videos/createplaylist_white.mp4",
                             "darkVideoURL": "https://ridmaur.github.io/chartyourmusic/supporter/videos/createplaylist_black.mp4"
                         },
@@ -327,7 +327,7 @@
                         {
                             "id": 3,
                             "title": "Import Playlists",
-                            "subtitle": "In  **Items Overview**, tap on **…**, then on **Import**. A sheet will display your playlists from the configured music service. Select a playlist and all the tracks from the playlist that do not exist yet in the collection will be added.",
+                            "subtitle": "In  **Items Overview*, tap on **…*, then on **Import**. A sheet will display your playlists from the configured music service. Select a playlist and all the tracks from the playlist that do not exist yet in the collection will be added.",
                             "videoURL": "https://ridmaur.github.io/chartyourmusic/supporter/videos/importplaylists_white.mp4",
                             "darkVideoURL": "https://ridmaur.github.io/chartyourmusic/supporter/videos/importplaylists_black.mp4"
                         },
@@ -423,6 +423,11 @@
                     "id": 13,
                     "title": "Can I add notes, subtitles?",
                     "text": "You can add notes to a collection, chart and entry. To do so, follow the steps to edit a collection, chart or entry. When a note is added to a collection, chart or entry, you will see a pencil icon next to the title. For an entry, notes are also displayed at the bottom of the Entry Details screen. A chart also supports subtitles. Again, you can edit a subtitle by following the steps to edit a chart. The subtitle is displayed below the title in the Chart Details screen. If you use the Apple Music service integration you can quickly add Apple Music's editorial notes when available."
+                },
+                {
+                    "id": 14,
+                    "title": "Can I love, like music?",
+                    "text": "If your music service supports ratings, loves or likes, you can simply love or like an entry by swiping from left to right. You first have to enable this in the settings for for your collection, where you can also select to automatically love, like entries when adding to a collection."
                 }
             ]
         },

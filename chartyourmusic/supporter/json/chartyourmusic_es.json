@@ -305,15 +305,15 @@
                     "supportPages": [
                         {
                             "id": 0,
-                            "title": "Compartir",
-                            "subtitle": "Puedes compartir tu liste, resumen y detalles de entrada utilizando la función de compartir de iOS. Siempre que veas el botón **Compartir** en la barra superior, tócalo para compartir detalles. Puedes compartirlos directamente en Instagram o mediante la función Compartir de iOS. El texto relevante se copia en el portapapeles para su uso posterior. Lo que se comparte depende de la aplicación que selecciones.",
+                            "title": "Comparte tu lista",
+                            "subtitle": "Puedes compartir tu lista utilizando la función de compartir de iOS. Pulsa en **listass** en la barra de pestañas. Pulsa en tu colección. Toca en la lista específica. Pulsa en la cabecera (con la fecha de la lista). En la pantalla de **Detalles del listas**, pulsa en **…**, y luego en **Compartir**. Lo que se comparte depende de la aplicación que selecciones",
                             "videoURL": "https://ridmaur.github.io/chartyourmusic/supporter/videos/sharechart_white.mp4",
                             "darkVideoURL": "https://ridmaur.github.io/chartyourmusic/supporter/videos/sharechart_black.mp4"
                         },
                         {
                             "id": 1,
                             "title": "Crear una lista de reproducción",
-                            "subtitle": "Cuando Apple Music o Spotify están configurados como servicio de música, puedes crear una lista de reproducción a partir de una lista. Toca en **Listas de reproducción** en la barra de pestañas. Toca en tu colección. Toca en la lista específica. Pulsa en la cabecera (con la fecha de la lista). En la pantalla **Detalles de la carta**, pulsa en **…**, y luego en **Crear lista de reproducción...**. Se creará una lista de reproducción titulada *CYM: nombre de la colección - nombre del listas*",
+                            "subtitle": "Cuando Apple Music o Spotify están configurados como servicio de música, puedes crear una lista de reproducción a partir de una lista. Toca en **Listas de reproducción** en la barra de pestañas. Toca en tu colección. Toca en la lista específica. Pulsa en la cabecera (con la fecha de la lista). En la pantalla **Detalles de la carta**, pulsa en **…**, y luego en **Crear lista de reproducción...***. Se creará una lista de reproducción titulada *CYM: nombre de la colección - nombre del listas*",
                             "videoURL": "https://ridmaur.github.io/chartyourmusic/supporter/videos/createplaylist_white.mp4",
                             "darkVideoURL": "https://ridmaur.github.io/chartyourmusic/supporter/videos/createplaylist_black.mp4"
                         },
@@ -327,7 +327,7 @@
                         {
                             "id": 3,
                             "title": "Importar listas de reproducción",
-                            "subtitle": "En **Vista general de items**, pulsa en **...**, y luego en **Importar**. Una hoja mostrará tus listas de reproducción del servicio de música configurado. Selecciona una lista de reproducción y se añadirán todas las pistas de la lista de reproducción que aún no existan en la colección.",
+                            "subtitle": "En **Vista general de items*, pulsa en **...**, y luego en **Importar**. Una hoja mostrará tus listas de reproducción del servicio de música configurado. Selecciona una lista de reproducción y se añadirán todas las pistas de la lista de reproducción que aún no existan en la colección.",
                             "videoURL": "https://ridmaur.github.io/chartyourmusic/supporter/videos/importplaylists_white.mp4",
                             "darkVideoURL": "https://ridmaur.github.io/chartyourmusic/supporter/videos/importplaylists_black.mp4"
                         },
@@ -423,6 +423,11 @@
                     "id": 13,
                     "title": "¿Puedo añadir notas y subtitles?",
                     "text": "Puedes añadir notas a una colección, lista y entrada. Para ello, sigue los pasos para editar una colección, lista o entrada. Cuando se añade una nota a una colección, lista o entrada, verás el icono de un lápiz junto al title. En el caso de una entrada, las notas también se muestran en la parte inferior de la pantalla de Detalles de la entrada. Una lista también admite subtitles. De nuevo, puedes editar un subtitle siguiendo los pasos para editar una lista. El subtitle se muestra debajo del title en la pantalla de Detalles de la lista. Si utilizas la integración del servicio Apple Music, puedes añadir rápidamente las notas editoriales de Apple Music cuando estén disponibles."
+                },
+                {
+                    "id": 14,
+                    "title": "¿Me puede gustar la música?",
+                    "text": "Si tu servicio de música admite clasificaciones, amores o gustos, puedes simplemente gustar una entrada deslizando el dedo de izquierda a derecha. Primero tienes que activar esta opción en los ajustes de tu colección, donde también puedes seleccionar que las entradas te gusten o te gusten automáticamente al añadirlas a una colección."
                 }
             ]
         },

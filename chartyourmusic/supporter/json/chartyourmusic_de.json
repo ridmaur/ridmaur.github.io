@@ -305,15 +305,15 @@
                     "supportPages": [
                         {
                             "id": 0,
-                            "title": "Teilen",
-                            "subtitle": "Du kannst dein Chart, deine Übersicht und die Details deines Eintrags mit der iOS Sharing-Funktion teilen. Wann immer du die Schaltfläche **Teilen** in der oberen Leiste siehst, tippe darauf, um Details zu teilen. Du kannst direkt auf Instagram teilen oder die iOS Sharing-Funktion nutzen. Der relevante Text wird zur weiteren Verwendung in die Zwischenablage kopiert. Was geteilt wird, hängt von der App ab, die du ausgewählt hast.",
+                            "title": "Teile deine Liste",
+                            "subtitle": "Du kannst deine Hitliste mit der iOS Sharing-Funktion teilen. Tippe auf **Listen**. Tippe auf deine Sammlung. Tippe auf die jeweilige Liste. Tippe auf die Kopfzeile (die das Datum der Hitliste enthält). Tippe auf dem Bildschirm **Listen details** auf **…*** und dann auf **Teilen…**. Was geteilt wird, hängt von der App ab, die du ausgewählt hast.",
                             "videoURL": "https://ridmaur.github.io/chartyourmusic/supporter/videos/sharechart_white.mp4",
                             "darkVideoURL": "https://ridmaur.github.io/chartyourmusic/supporter/videos/sharechart_black.mp4"
                         },
                         {
                             "id": 1,
                             "title": "Eine WiedergabeHitliste erstellen",
-                            "subtitle": "Wenn Apple Music oder Spotify als Musikdienst konfiguriert ist, kannst du eine WiedergabeHitliste aus einer Hitliste erstellen. Tippe auf **Listen**. Tippe auf deine Sammlung. Tippe auf die jeweilige Liste. Tippe auf die Kopfzeile (die das Datum der Karte enthält). Tippe auf dem Bildschirm **Listendetails** auf **…** und dann auf **WiedergabeHitliste erstellen…**. Eine WiedergabeHitliste mit dem Titel *CYM: Name der Sammlung - Name der Liste* wird erstellt.",
+                            "subtitle": "Wenn Apple Music oder Spotify als Musikdienst konfiguriert ist, kannst du eine WiedergabeHitliste aus einer Hitliste erstellen. Tippe auf **Listen**. Tippe auf deine Sammlung. Tippe auf die jeweilige Liste. Tippe auf die Kopfzeile (die das Datum der Karte enthält). Tippe auf dem Bildschirm **Listendetails** auf **…** und dann auf **WiedergabeHitliste erstellen…***. Eine WiedergabeHitliste mit dem Titel *CYM: Name der Sammlung - Name der Liste* wird erstellt.",
                             "videoURL": "https://ridmaur.github.io/chartyourmusic/supporter/videos/createplaylist_white.mp4",
                             "darkVideoURL": "https://ridmaur.github.io/chartyourmusic/supporter/videos/createplaylist_black.mp4"
                         },
@@ -423,6 +423,11 @@
                     "id": 13,
                     "title": "Kann ich Notizen und Untertitel hinzufügen?",
                     "text": "YDu kannst einer Sammlung, einer Hitliste und einem Eintrag Notizen hinzufügen. Befolge dazu die Schritte zur Bearbeitung einer Sammlung, Hitliste oder eines Eintrags. Wenn du eine Notiz zu einer Sammlung, einer Hitliste oder einem Eintrag hinzufügst, siehst du neben dem Titel ein Bleistiftsymbol. Für einen Eintrag werden die Notizen auch unten auf dem Bildschirm **Eintrag Details** angezeigt. Eine Hitliste unterstützt auch Untertitel. Auch hier kannst du einen Untertitel bearbeiten, indem du den Schritten zur Bearbeitung einer Hitliste folgst. Der Untertitel wird unterhalb des Titels im **Details** Bildschirm der Hitliste angezeigt. Wenn du die Integration mit Apple Music nutzt, kannst du schnell die redaktionellen Notizen von Apple Music hinzufügen, wenn sie verfügbar sind."
+                },
+                {
+                    "id": 14,
+                    "title": "Kann ich Musik mögen?",
+                    "text": "Wenn dein Musikdienst Bewertungen, Loves oder Likes unterstützt, kannst du einen Eintrag einfach mögen, indem du von links nach rechts wischst. Du musst das erst in den Einstellungen für deine Sammlung aktivieren, wo du auch festlegen kannst, dass du Einträge automatisch lieben oder mögen kannst, wenn du sie zu einer Sammlung hinzufügst."
                 }
             ]
         },

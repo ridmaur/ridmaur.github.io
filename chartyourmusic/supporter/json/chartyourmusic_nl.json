@@ -305,15 +305,15 @@
                     "supportPages": [
                         {
                             "id": 0,
-                            "title": "Deel",
-                            "subtitle": "Je kunt je lijst, overzicht en item delen met behulp van de iOS deelfunctionaliteit. Als je de knop **Delen** in de bovenste balk ziet, tik je erop om details te delen. Je kunt direct delen naar Instagram of delen via de iOS deelfunctionaliteit. Relevante tekst wordt gekopieerd naar het klembord voor verder gebruik. Wat gedeeld wordt hangt af van de app die je selecteert.",
+                            "title": "Deel je Lijst",
+                            "subtitle": "Je kunt je lijst delen met behulp van de iOS deelfunctie. Tik op **Lijsten** in de tabbalk. Tik op je verzameling. Tik op de specifieke lijst. Tik op de koptekst (met de datum van de lijst). In het scherm **Details Lijst**, tik je op **…*** en vervolgens op **Deel…**. Wat gedeeld wordt, hangt af van de app die je selecteert.",
                             "videoURL": "https://ridmaur.github.io/chartyourmusic/supporter/videos/sharechart_white.mp4",
                             "darkVideoURL": "https://ridmaur.github.io/chartyourmusic/supporter/videos/sharechart_black.mp4"
                         },
                         {
                             "id": 1,
                             "title": "Creëer een Afspeellijst",
-                            "subtitle": "Wanneer Apple Music of Spotify als muziekdienst is geconfigureerd, kunt u een afspeellijst maken van een lijst. Tik op **Lijsten** in de tabbalk. Tik op je verzameling. Tik op de specifieke lijst. Tik op de koptekst (met de datum van de grafiek). In het scherm **Lijst Details**, tik je op **…** en vervolgens op **Maak Afspeellijst…**. Een afspeellijst met de titel *CYM: verzameling naam - lijst name* wordt gecreëerd.",
+                            "subtitle": "Wanneer Apple Music of Spotify als muziekdienst is geconfigureerd, kunt u een afspeellijst maken van een lijst. Tik op **Lijsten** in de tabbalk. Tik op uw verzameling. Tik op de specifieke lijst. Tik op de koptekst (met de datum van de grafiek). In het scherm **Lijst Details**, tik je op **…** en vervolgens op **Maak Afspeellijst…***. Een afspeellijst met de titel *CYM: verzameling naam - lijst name* wordt gecreëerd.",
                             "videoURL": "https://ridmaur.github.io/chartyourmusic/supporter/videos/createplaylist_white.mp4",
                             "darkVideoURL": "https://ridmaur.github.io/chartyourmusic/supporter/videos/createplaylist_black.mp4"
                         },
@@ -327,7 +327,7 @@
                         {
                             "id": 3,
                             "title": "Importeer Afspeellijsten",
-                            "subtitle": "In het **Items Overzicht** scherm, tik op **…** en vervolgens op **Importeer Afspeellijsten…**. Een blad toont je de afspeellijsten van de geconfigureerde muziekdienst. Selecteer een afspeellijst en alle nummers uit de afspeellijst die nog niet in de verzameling voorkomen, worden toegevoegd.",
+                            "subtitle": "In het **Items Overzicht** scherm, tik op **…* en vervolgens op **Importeer Afspeellijsten…**. Een blad toont je de afspeellijsten van de geconfigureerde muziekdienst. Selecteer een afspeellijst en alle nummers uit de afspeellijst die nog niet in de verzameling voorkomen, worden toegevoegd.",
                             "videoURL": "https://ridmaur.github.io/chartyourmusic/supporter/videos/importplaylists_white.mp4",
                             "darkVideoURL": "https://ridmaur.github.io/chartyourmusic/supporter/videos/importplaylists_black.mp4"
                         },
@@ -423,6 +423,11 @@
                     "id": 13,
                     "title": "Kan ik notities, ondertitels toevoegen?",
                     "text": "Je kunt notities toevoegen aan een verzameling, lijst en item. Volg daarvoor de stappen om een verzameling, lijst of item te bewerken. Als je een notitie toevoegt aan een verzameling, lijst of item, zie je een potlood-icoon naast de titel. Bij een item worden notities ook onderaan het scherm **Details Item** getoond. Een lijst ondersteunt ook ondertitels. Ook hier kun je een ondertitel bewerken door de stappen voor het bewerken van een lijst te volgen. De ondertitel wordt onder de titel in het scherm **Details** van de lijst getoond. Als je de integratie met Apple Music  gebruikt, kun je snel de redactionele notities van Apple Music toevoegen indien deze beschikbaar zijn."
+                },
+                {
+                    "id": 14,
+                    "title": "Kan ik muziek \'liken\'?",
+                    "text": "Als je muziekdienst ratings, loves of likes ondersteunt, kun je een item eenvoudig liken door van links naar rechts te vegen. Je moet dit eerst inschakelen in de instellingen voor je verzameling, waar je ook kunt kiezen voor automatisch liken van items bij het toevoegen aan een verzameling."
                 }
             ]
         },

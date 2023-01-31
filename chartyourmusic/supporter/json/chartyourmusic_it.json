@@ -305,15 +305,15 @@
                     "supportPages": [
                         {
                             "id": 0,
-                            "title": "Condividi",
-                            "subtitle": "Puoi condividere il tuo grafico, la panoramica e i dettagli della voce utilizzando la funzionalità di condivisione di iOS. Ogni volta che vedi il pulsante **Condividi** nella barra superiore, toccalo per condividere i dettagli. Puoi condividere direttamente su Instagram o tramite la funzionalità di condivisione di iOS. Il testo rilevante viene copiato negli appunti per essere utilizzato successivamente. Ciò che viene condiviso dipende dall'app selezionata.",
+                            "title": "Condividi il tuo Lista",
+                            "subtitle": "Puoi condividere il tuo Lista utilizzando la funzionalità di condivisione di iOS. Tocca **Lizza** nella barra delle schede. Tocca la tua raccolta. Tocca il Lista specifico. Tocca l'intestazione (con la data del Lista). Nella schermata **Dettagli del Lista**, tocca **…*** e poi **Condividi**. Ciò che viene condiviso dipende dall'app selezionata",
                             "videoURL": "https://ridmaur.github.io/chartyourmusic/supporter/videos/sharechart_white.mp4",
                             "darkVideoURL": "https://ridmaur.github.io/chartyourmusic/supporter/videos/sharechart_black.mp4"
                         },
                         {
                             "id": 1,
                             "title": "Crea una playlist",
-                            "subtitle": "Quando Apple Music o Spotify sono configurati come servizio musicale, puoi creare una playlist da una classifica. Tocca **Lizza** nella barra delle schede. Tocca la tua raccolta. Tocca il Lista specifico. Tocca l'intestazione (con la data del Lista). Nella schermata **Dettagli del Lista**, tocca **…**, quindi **Crea playlist…**. Verrà creata una playlist intitolata *CYM: nome della raccolta - nome del Lista*",
+                            "subtitle": "Quando Apple Music o Spotify sono configurati come servizio musicale, puoi creare una playlist da una classifica. Tocca **Lizza** nella barra delle schede. Tocca la tua raccolta. Tocca il Lista specifico. Tocca l'intestazione (con la data del Lista). Nella schermata **Dettagli del Lista**, tocca **…**, quindi **Crea playlist…***. Verrà creata una playlist intitolata *CYM: nome della raccolta - nome del Lista*",
                             "videoURL": "https://ridmaur.github.io/chartyourmusic/supporter/videos/createplaylist_white.mp4",
                             "darkVideoURL": "https://ridmaur.github.io/chartyourmusic/supporter/videos/createplaylist_black.mp4"
                         },
@@ -327,7 +327,7 @@
                         {
                             "id": 3,
                             "title": "Importazione di playlist",
-                            "subtitle": "Nella **Panoramica degli items**, tocca su **…**, quindi su **Importa**. Un foglio mostrerà le tue playlist dal servizio musicale configurato. Seleziona una playlist e tutti i brani della playlist che non esistono ancora nella raccolta verranno aggiunti.",
+                            "subtitle": "Nella **Panoramica degli items*, tocca su **…*, quindi su **Importa**. Un foglio mostrerà le tue playlist dal servizio musicale configurato. Seleziona una playlist e tutti i brani della playlist che non esistono ancora nella raccolta verranno aggiunti.",
                             "videoURL": "https://ridmaur.github.io/chartyourmusic/supporter/videos/importplaylists_white.mp4",
                             "darkVideoURL": "https://ridmaur.github.io/chartyourmusic/supporter/videos/importplaylists_black.mp4"
                         },
@@ -423,6 +423,11 @@
                     "id": 13,
                     "title": "Posso aggiungere note e sottotitoli?",
                     "text": "Puoi aggiungere note a una raccolta, a un Lista e a una voce. Per farlo, segui i passaggi per modificare una raccolta, un Lista o una voce. Quando viene aggiunta una nota a una raccolta, a un Lista o a una voce, vedrai l'icona di una matita accanto al title. Per una voce, le note sono visualizzate anche nella parte inferiore della schermata Dettagli voce. Un Lista supporta anche i sottotitoli. Anche in questo caso, puoi modificare un subtitle seguendo la procedura di modifica di un Lista. Il subtitle viene visualizzato sotto il title nella schermata Dettagli Lista. Se utilizzi l'integrazione del servizio Apple Music, puoi aggiungere rapidamente le note editoriali di Apple Music, quando disponibili."
+                },
+                {
+                    "id": 14,
+                    "titolo": "Mi piace la musica?",
+                    "testo": "Se il tuo servizio musicale supporta le valutazioni, gli amori o i "mi piace", puoi semplicemente mettere "mi piace" a una voce scorrendo il dito da sinistra a destra. Devi prima attivarlo nelle impostazioni della tua raccolta, dove puoi anche scegliere di mettere automaticamente "mi piace" alle voci che aggiungi a una raccolta".
                 }
             ]
         },
