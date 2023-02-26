@@ -428,6 +428,11 @@
                     "id": 14,
                     "title": "Kann ich Musik mögen?",
                     "text": "Wenn dein Musikdienst Bewertungen, Loves oder Likes unterstützt, kannst du einen Eintrag einfach mögen, indem du von links nach rechts wischst. Du musst das erst in den Einstellungen für deine Sammlung aktivieren, wo du auch festlegen kannst, dass du Einträge automatisch lieben oder mögen kannst, wenn du sie zu einer Sammlung hinzufügst."
+                },
+                {
+                    "id": 15,
+                    "title": "Kann ich Kunstwerke aktualisieren?",
+                    "text": "Das Artwork wird automatisch von dem ausgewählten Musikdienst abgerufen. Bei einem leeren Eintrag oder wenn du das Artwork überschreiben möchtest, kannst du beim Bearbeiten eines Eintrags lange auf die Schaltfläche Aktualisieren tippen. Ein Hinweisdialog ermöglicht es dir, einen Link des Artworks als jpg/jpeg oder png zu setzen."
                 }
             ]
         },

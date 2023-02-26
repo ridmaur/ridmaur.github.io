@@ -428,6 +428,11 @@
                     "id" : 14,
                     "title" : "Est-ce que je peux aimer la musique?",
                     "text" : "Si ton service musical prend en charge les évaluations, les amours ou les likes, tu peux simplement aimer une entrée en la faisant glisser de gauche à droite. Tu dois d'abord activer cette fonction dans les paramètres de ta collection, où tu peux aussi choisir d'aimer automatiquement les entrées lorsque tu les ajoutes à une collection."
+                },
+                {
+                    "id" : 15,
+                    "title" : "Puis-je mettre à jour l'œuvre d'art ?",
+                    "text" : "L'artwork est automatiquement récupéré auprès du service musical sélectionné. Pour une entrée vide, ou si tu veux remplacer l'illustration, tu peux appuyer longuement sur le bouton Mettre à jour lorsque tu modifies une entrée. Une boîte de dialogue d'alerte te permet d'établir un lien vers une illustration jpg/jpeg ou png."
                 }
             ]
         },

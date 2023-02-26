@@ -428,6 +428,11 @@
                     "id": 14,
                     "title": "Can I love, like music?",
                     "text": "If your music service supports ratings, loves or likes, you can simply love or like an entry by swiping from left to right. You first have to enable this in the settings for for your collection, where you can also select to automatically love, like entries when adding to a collection."
+                },
+                {
+                    "id": 15,
+                    "title": "Can I update artwork?",
+                    "text": "Artwork is automatically retrieved from the selected music service. For a blank entry, or in case you want to override the artwork, you can long tap the Update button when editing an entry. An alert dialog allow you to link to artwork jpg/jpeg or png."
                 }
             ]
         },

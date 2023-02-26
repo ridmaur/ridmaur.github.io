@@ -428,6 +428,11 @@
                     "id": 14,
                     "title": "Kan ik muziek 'liken'?",
                     "text": "Als je muziekdienst ratings, loves of likes ondersteunt, kun je een item eenvoudig liken door van links naar rechts te vegen. Je moet dit eerst inschakelen in de instellingen voor je verzameling, waar je ook kunt kiezen voor automatisch liken van items bij het toevoegen aan een verzameling."
+                },
+                {
+                    "id": 15,
+                    "title": "Kan ik artwork bijwerken?",
+                    "text": "Artwork wordt automatisch opgehaald bij de geselecteerde muziekdienst. Voor een lege vermelding, of voor het geval je het artwork wilt overschrijven, kun je tijdens het bewerken van een vermelding lang op de knop Bijwerken tikken. Via een waarschuwingsdialoog kun je linken naar een artwork jpg/jpeg of png."
                 }
             ]
         },

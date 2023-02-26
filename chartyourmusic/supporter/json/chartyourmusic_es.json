@@ -428,6 +428,11 @@
                     "id": 14,
                     "title": "¿Me puede gustar la música?",
                     "text": "Si tu servicio de música admite clasificaciones, amores o gustos, puedes simplemente gustar una entrada deslizando el dedo de izquierda a derecha. Primero tienes que activar esta opción en los ajustes de tu colección, donde también puedes seleccionar que las entradas te gusten o te gusten automáticamente al añadirlas a una colección."
+                },
+                {
+                    "id": 15,
+                    "title": "¿Puedo actualizar el material gráfico?",
+                    "text": "Las ilustraciones se obtienen automáticamente del servicio de música seleccionado. Para una entrada en blanco, o en caso de que quieras anular la ilustración, puedes pulsar prolongadamente el botón Actualizar al editar una entrada. Un cuadro de diálogo de alerta te permite enlazar a una ilustración jpg/jpeg o png."
                 }
             ]
         },
