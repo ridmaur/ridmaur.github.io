@@ -10,7 +10,7 @@
         "showBeacons": true,
         "ldap": "rmaur",
         "tms": "AEP Data Collection",
-        "emailDomain": "adobetest.com"
+        "emailDomain": "example.com"
     },
     "customer": {
         "name": "Luma",
