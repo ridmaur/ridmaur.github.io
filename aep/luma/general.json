@@ -9,7 +9,8 @@
         "showGeofences": true,
         "showBeacons": true,
         "ldap": "rmaur",
-        "tms": "AEP Data Collection"
+        "tms": "AEP Data Collection",
+        "emailDomain": "adobetest.com"
     },
     "customer": {
         "name": "Luma",
