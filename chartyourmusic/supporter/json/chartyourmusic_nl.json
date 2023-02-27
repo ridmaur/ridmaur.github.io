@@ -432,7 +432,7 @@
                 {
                     "id": 15,
                     "title": "Kan ik artwork bijwerken?",
-                    "text": "Artwork wordt automatisch opgehaald bij de geselecteerde muziekdienst. Voor een lege vermelding, of voor het geval je het artwork wilt overschrijven, kun je tijdens het bewerken van een vermelding lang op de knop Bijwerken tikken. Via een waarschuwingsdialoog kun je linken naar een artwork jpg/jpeg of png."
+                    "text": "Artwork wordt automatisch opgehaald bij de geselecteerde muziekdienst. Voor een lege vermelding, of voor het geval je het artwork wilt overschrijven, kun je tijdens het bewerken van een vermelding lang op de knop **Bijwerken** tikken. Via een waarschuwingsdialoog kun je linken naar een artwork jpg/jpeg of png."
                 }
             ]
         },
