@@ -432,7 +432,7 @@
                 {
                     "id": 15,
                     "title": "Kann ich Kunstwerke aktualisieren?",
-                    "text": "Das Artwork wird automatisch von dem ausgewählten Musikdienst abgerufen. Bei einem leeren Eintrag oder wenn du das Artwork überschreiben möchtest, kannst du beim Bearbeiten eines Eintrags lange auf die Schaltfläche Aktualisieren tippen. Ein Hinweisdialog ermöglicht es dir, einen Link des Artworks als jpg/jpeg oder png zu setzen."
+                    "text": "Das Artwork wird automatisch von dem ausgewählten Musikdienst abgerufen. Bei einem leeren Eintrag oder wenn du das Artwork überschreiben möchtest, kannst du beim Bearbeiten eines Eintrags lange auf die Schaltfläche **Aktualisieren** tippen. Ein Hinweisdialog ermöglicht es dir, einen Link des Artworks als jpg/jpeg oder png zu setzen."
                 }
             ]
         },
