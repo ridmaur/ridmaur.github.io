@@ -1,0 +1,23 @@
+{
+    "containerId": "4fcd6362-1132-32e5-b895-1a11cead8d0f",
+    "accessToken": "eyJhbGciOiJSUzI1NiIsIng1dSI6Imltc19uYTEta2V5LWF0LTEuY2VyIiwia2lkIjoiaW1zX25hMS1rZXktYXQtMSIsIml0dCI6ImF0In0.eyJpZCI6IjE2Nzg3ODE0MjYyNjJfMDY1Y2E2YzUtMTQ3Ny00ZGVkLThlYTktYjU5ZmZhOWUyY2U4X2V3MSIsInR5cGUiOiJhY2Nlc3NfdG9rZW4iLCJjbGllbnRfaWQiOiJkYjcyYzVjYWZiMzQ0ODJlYWViMTQyOTJlZmQ4MDM2MCIsInVzZXJfaWQiOiIxMTdCMzMxMjYyMUUzRTQzMEE0OTVGQjBAdGVjaGFjY3QuYWRvYmUuY29tIiwic3RhdGUiOiJ7XCJzZXNzaW9uXCI6XCJodHRwczovL2ltcy1uYTEuYWRvYmVsb2dpbi5jb20vaW1zL3Nlc3Npb24vdjEvTnpjNFkyRXhPR0l0Wm1FM1lpMDBaR1ZtTFdJd05XRXROekkwTkRnMk9EZG1OR0V4TFMweE1UZENNek14TWpZeU1VVXpSVFF6TUVFME9UVkdRakJBZEdWamFHRmpZM1F1WVdSdlltVXVZMjl0XCJ9IiwiYXMiOiJpbXMtbmExIiwiYWFfaWQiOiIxMTdCMzMxMjYyMUUzRTQzMEE0OTVGQjBAdGVjaGFjY3QuYWRvYmUuY29tIiwiY3RwIjozLCJmZyI6IlhJWElVTE40SFBON01QNEtFTVFWWlBRQTJZPT09PT09IiwibW9pIjoiNDRjYThlZDciLCJleHBpcmVzX2luIjoiODY0MDAwMDAiLCJzY29wZSI6Im9wZW5pZCxzZXNzaW9uLEFkb2JlSUQscmVhZF9vcmdhbml6YXRpb25zLGFkZGl0aW9uYWxfaW5mby5wcm9qZWN0ZWRQcm9kdWN0Q29udGV4dCIsImNyZWF0ZWRfYXQiOiIxNjc4NzgxNDI2MjYyIn0.PO5zbLoi2vxSm4Olg7ri7zVFcYTLK8g0OBSEkuUCIAGKIcF7j7qOXcJwoHebNH2hWCyaK1CxXyZEZFq4LZ0ecTTO4bgiVhHbpC5EJSTr1ZOJCnPIVpSB4pzkf-EdTu9JeVZfajsCDa_dtyKCrlvuPhBEFWqJs8bakLnqG40BGenv90Wm0Piox46k4JxBpD9VBHTyuYD-wokcST1vK2_9n9XYNdj1TAAc8iFH2ELOQOdTqUCvJrbgjZJcuXIX5YAMKWNHvOPyxNncDhdscnjUQ3aKIwuOQUnr2Whz6UuS4dUDJDU1EaeSZXtIktDuloo8Vo4-gYdQyCgpNvvuGzd1Wg",
+    "apiKey": "db72c5cafb34482eaeb14292efd80360",
+    "orgId": "6BB915785DE67ED10A495E68@AdobeOrg",
+    "allowDuplicatesAcrossActivities": true,
+    "allowDuplicatesAcrossPlacements": true,
+    "dryRun": true,
+    "scopes": [
+        {
+            "name": "Amsiossa - Luma Push Notification Decision",
+            "activityId": "xcore:offer-activity:163768bdc9b9cbc9",
+            "placementId": "xcore:offer-placement:16371e6c29484935",
+            "itemCount": 2
+        },
+        {
+            "name": "Amsiossa - Luma Another Push Notification Decision",
+            "activityId": "xcore:offer-activity:16483b8375bac939",
+            "placementId": "xcore:offer-placement:16371e6c29484935",
+            "itemCount": 1
+        }
+    ]
+}

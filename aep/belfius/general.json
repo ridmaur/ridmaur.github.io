@@ -1,9 +1,9 @@
 {
     "config": {
-        "tenant": "_adobeamericaspot4",
-        "sandbox": "sandbox12",
+        "tenant": "_experienceplatform",
+        "sandbox": "belfius",
         "datasetId": "62f247fd067ec11c077d6b6a",
-        "datastreamId": "b72229e5-efd8-4f83-865b-a33b44b3da4b",
+        "datastreamId": "f3c47f2a-c484-4908-87a5-a82b55039e22",
         "showProducts": true,
         "showPersonalisation": true,
         "showGeofences": true,
@@ -37,7 +37,7 @@
         "itemCount": 2
     },
     "target": {
-        "location": "amsiossa-belfius"
+        "location": "mmeewis_belfius"
     },
     "map": {
         "latitude": 50.8788411,
