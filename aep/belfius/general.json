@@ -31,11 +31,6 @@
             "eventID": "10fec8f239d7469ce73e6f9bbc45d235b62811ab9ff51f44fbcb2d864a808ac6"
         }
     },
-    "decision": {
-        "activityId": "xcore:offer-activity:15fece626f08bc39",
-        "placementId": "xcore:offer-placement:159b77e59e563871",
-        "itemCount": 2
-    },
     "target": {
         "location": "mmeewis_belfius"
     },
