@@ -6,6 +6,7 @@
         "datastreamId": "7ce47d4c-4255-47c6-9a08-9901ad97b794",
         "showProducts": true,
         "showPersonalisation": true,
+        "showPersonalisationDirect": false,
         "showGeofences": true,
         "showBeacons": true,
         "ldap": "rmaur",
