@@ -9,6 +9,7 @@
         "showGeofences": true,
         "showBeacons": true,
         "ldap": "rmaur",
+        "emailDomain": "example.com",
         "tms": "AEP Data Collection"
     },
     "customer": {
