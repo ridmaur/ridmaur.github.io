@@ -33,6 +33,7 @@
             "identifier": "beacon.ridm.ice",
             "title": "RIdM-Ice-Beacon",
             "location": "Office, Essenlaan 23, Woerden",
+            "category": "MeMyselfAndI",
             "status": "unknown",
             "symbol": "circle.slash",
             "orchestration": {
