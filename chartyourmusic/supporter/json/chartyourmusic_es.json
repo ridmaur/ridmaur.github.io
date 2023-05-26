@@ -433,6 +433,11 @@
                     "id": 15,
                     "title": "¿Puedo actualizar el material gráfico?",
                     "text": "Las ilustraciones se obtienen automáticamente del servicio de música seleccionado. Para una entrada en blanco, o en caso de que quieras anular la ilustración, puedes pulsar prolongadamente el botón **Actualizar** al editar una entrada. Un cuadro de diálogo de alerta te permite enlazar a una ilustración jpg/jpeg o png."
+                },
+                {
+                    "id": 16,
+                    "title": "¿Puedo obtener más detalles sobre el artista, el álbum o la canción?",
+                    "text": "Cuando estés en los detalles de una entrada, toca el icono del ojo para ver toda la información relacionada con la entrada disponible en Genius."
                 }
             ]
         },

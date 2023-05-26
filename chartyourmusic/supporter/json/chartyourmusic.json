@@ -433,6 +433,11 @@
                     "id": 15,
                     "title": "Can I update artwork?",
                     "text": "Artwork is automatically retrieved from the selected music service. For a blank entry, or in case you want to override the artwork, you can long tap the **Update** button when editing an entry. An alert dialog allow you to link to artwork jpg/jpeg or png."
+                },
+                {
+                    "id": 16,
+                    "title": "Can I get more details about artist, album, song?",
+                    "text": "When in the details of an entry, tap the eye icon to see all information related to the entry as available on Genius."
                 }
             ]
         },

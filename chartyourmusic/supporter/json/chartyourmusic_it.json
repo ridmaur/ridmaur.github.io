@@ -433,6 +433,11 @@
                     "id": 15,
                     "titolo": "Posso aggiornare le opere d'arte?",
                     "testo": "L'artwork viene recuperato automaticamente dal servizio musicale selezionato. Per una voce vuota o nel caso in cui tu voglia modificare l'artwork, puoi toccare a lungo il pulsante **Aggiorna** quando modifichi una voce. Una finestra di dialogo di avviso ti permette di collegarti a un artwork jpg/jpeg o png."
+                },
+                {
+                    "id": 16,
+                    "titolo": "Posso avere maggiori dettagli su artista, album, canzone?",
+                    "testo": "Quando sei nei dettagli di una voce, tocca l'icona dell'occhio per vedere tutte le informazioni relative alla voce disponibili su Genius"
                 }
             ]
         },
