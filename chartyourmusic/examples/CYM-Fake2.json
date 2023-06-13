@@ -1,0 +1,1718 @@
+[
+  {
+    "charts" : [
+      {
+        "locked" : true,
+        "title" : "Week 4",
+        "notes" : "",
+        "subtitle" : "",
+        "chartEntries" : [
+          {
+            "entryId" : "14",
+            "currentPosition" : 1
+          },
+          {
+            "entryId" : "10",
+            "currentPosition" : 2
+          },
+          {
+            "entryId" : "01",
+            "currentPosition" : 3
+          },
+          {
+            "entryId" : "02",
+            "currentPosition" : 4
+          },
+          {
+            "entryId" : "05",
+            "currentPosition" : 5
+          },
+          {
+            "entryId" : "06",
+            "currentPosition" : 6
+          },
+          {
+            "entryId" : "13",
+            "currentPosition" : 7
+          },
+          {
+            "entryId" : "15",
+            "currentPosition" : 8
+          },
+          {
+            "entryId" : "11",
+            "currentPosition" : 9
+          },
+          {
+            "entryId" : "08",
+            "currentPosition" : 10
+          }
+        ],
+        "date" : "2023-01-28T06:10:00Z"
+      },
+      {
+        "locked" : true,
+        "title" : "Week 3",
+        "notes" : "",
+        "subtitle" : "",
+        "chartEntries" : [
+          {
+            "entryId" : "10",
+            "currentPosition" : 1
+          },
+          {
+            "entryId" : "05",
+            "currentPosition" : 2
+          },
+          {
+            "entryId" : "13",
+            "currentPosition" : 3
+          },
+          {
+            "entryId" : "01",
+            "currentPosition" : 4
+          },
+          {
+            "entryId" : "02",
+            "currentPosition" : 5
+          },
+          {
+            "entryId" : "14",
+            "currentPosition" : 6
+          },
+          {
+            "entryId" : "07",
+            "currentPosition" : 7
+          },
+          {
+            "entryId" : "06",
+            "currentPosition" : 8
+          },
+          {
+            "entryId" : "11",
+            "currentPosition" : 9
+          },
+          {
+            "entryId" : "08",
+            "currentPosition" : 10
+          }
+        ],
+        "date" : "2023-01-21T06:05:00Z"
+      },
+      {
+        "locked" : true,
+        "title" : "Week 2",
+        "notes" : "This chart is based on complete fictitious entries. As this is the second chart in the collection, you can see the changes from the previous (first) chart. This chart is unlocked. You will only be able to lock it if the amount of entries conforms to what is defined for the collection (e.g. 5 for this sample collection).",
+        "subtitle" : "Second week of the year…",
+        "chartEntries" : [
+          {
+            "entryId" : "13",
+            "currentPosition" : 1
+          },
+          {
+            "entryId" : "01",
+            "currentPosition" : 2
+          },
+          {
+            "entryId" : "02",
+            "currentPosition" : 3
+          },
+          {
+            "entryId" : "10",
+            "currentPosition" : 4
+          },
+          {
+            "entryId" : "14",
+            "currentPosition" : 5
+          },
+          {
+            "entryId" : "05",
+            "currentPosition" : 6
+          },
+          {
+            "entryId" : "07",
+            "currentPosition" : 7
+          },
+          {
+            "entryId" : "09",
+            "currentPosition" : 8
+          },
+          {
+            "entryId" : "06",
+            "currentPosition" : 9
+          },
+          {
+            "entryId" : "12",
+            "currentPosition" : 10
+          }
+        ],
+        "date" : "2023-01-14T00:00:00Z"
+      },
+      {
+        "locked" : true,
+        "title" : "Week 1",
+        "notes" : "This chart is based on complete fictitious entries. As this is the first chart in the collection, all entries are seen as new entries. This chart is locked, which means its entries will be taken into account when doing calculations.",
+        "subtitle" : "Initial chart for this collection; i.e. the first day.",
+        "chartEntries" : [
+          {
+            "entryId" : "13",
+            "currentPosition" : 1
+          },
+          {
+            "entryId" : "05",
+            "currentPosition" : 2
+          },
+          {
+            "entryId" : "01",
+            "currentPosition" : 3
+          },
+          {
+            "entryId" : "10",
+            "currentPosition" : 4
+          },
+          {
+            "entryId" : "11",
+            "currentPosition" : 5
+          },
+          {
+            "entryId" : "02",
+            "currentPosition" : 6
+          },
+          {
+            "entryId" : "09",
+            "currentPosition" : 7
+          },
+          {
+            "entryId" : "14",
+            "currentPosition" : 8
+          },
+          {
+            "entryId" : "04",
+            "currentPosition" : 9
+          },
+          {
+            "entryId" : "07",
+            "currentPosition" : 10
+          }
+        ],
+        "date" : "2023-01-07T00:00:00Z"
+      }
+    ],
+    "orderArtistTitle" : false,
+    "archived" : false,
+    "sequence" : true,
+    "notes" : "",
+    "title" : "Best Tracks",
+    "nrOfEntries" : 10,
+    "date" : "2023-01-01T00:00:00Z",
+    "entries" : [
+      {
+        "artist" : "Loosen Up",
+        "id" : "05",
+        "notes" : "To listen to music, tap Play. In the chart itself, long press the artwork.",
+        "preview" : "",
+        "date" : "2022-01-02T00:00:00Z",
+        "title" : "Best Hits",
+        "musicService" : "iTunes",
+        "artwork" : "https:\/\/ridmaur.github.io\/chartyourmusic\/examples\/covers\/05.jpeg"
+      },
+      {
+        "artist" : "Gaby Farahmand",
+        "id" : "13",
+        "notes" : "To listen to music, tap Play. In the chart itself, long press the artwork.",
+        "preview" : "",
+        "date" : "2022-01-02T00:00:00Z",
+        "title" : "BLURR",
+        "musicService" : "iTunes",
+        "artwork" : "https:\/\/ridmaur.github.io\/chartyourmusic\/examples\/covers\/13.jpeg"
+      },
+      {
+        "artist" : "Zinaz",
+        "id" : "08",
+        "notes" : "",
+        "preview" : "",
+        "date" : "2022-01-02T00:00:00Z",
+        "title" : "Back To Black",
+        "musicService" : "iTunes",
+        "artwork" : "https:\/\/ridmaur.github.io\/chartyourmusic\/examples\/covers\/08.jpeg"
+      },
+      {
+        "artist" : "Ariana Grande",
+        "id" : "1537477069",
+        "notes" : "",
+        "preview" : "https:\/\/audio-ssl.itunes.apple.com\/itunes-assets\/AudioPreview116\/v4\/4b\/46\/1e\/4b461ecb-6e26-cc80-0a11-e61a008e7363\/mzaf_18287149748935113510.plus.aac.p.m4a",
+        "date" : "2022-01-01T00:00:00Z",
+        "title" : "Positions",
+        "musicService" : "iTunes",
+        "artwork" : "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Music125\/v4\/c3\/3e\/7c\/c33e7c35-7185-6431-3f3d-89d652ecad1d\/source\/1024x1024bb.jpg"
+      },
+      {
+        "artist" : "Ali Zhuang",
+        "id" : "14",
+        "notes" : "To listen to music, tap Play. In the chart itself, long press the artwork.",
+        "preview" : "",
+        "date" : "2022-01-02T00:00:00Z",
+        "title" : "In My Loop",
+        "musicService" : "iTunes",
+        "artwork" : "https:\/\/ridmaur.github.io\/chartyourmusic\/examples\/covers\/14.jpeg"
+      },
+      {
+        "artist" : "J. Lil Woods",
+        "id" : "06",
+        "notes" : "To listen to music, tap Play. In the chart itself, long press the artwork.",
+        "preview" : "",
+        "date" : "2022-01-02T00:00:00Z",
+        "title" : "Tape",
+        "musicService" : "iTunes",
+        "artwork" : "https:\/\/ridmaur.github.io\/chartyourmusic\/examples\/covers\/06.jpeg"
+      },
+      {
+        "artist" : "Tigos",
+        "id" : "04",
+        "notes" : "To listen to music, tap Play. In the chart itself, long press the artwork.",
+        "preview" : "",
+        "date" : "2022-01-02T00:00:00Z",
+        "title" : "Never Gonna Dance Again",
+        "musicService" : "iTunes",
+        "artwork" : "https:\/\/ridmaur.github.io\/chartyourmusic\/examples\/covers\/04.jpeg"
+      },
+      {
+        "artist" : "Taylor Swift",
+        "id" : "1544268298",
+        "notes" : "To listen to music, tap Play. In the chart itself, long press the artwork.",
+        "preview" : "https:\/\/audio-ssl.itunes.apple.com\/itunes-assets\/AudioPreview124\/v4\/a9\/c5\/72\/a9c57243-052c-d9de-7afc-295f18f25943\/mzaf_10548991393987520472.plus.aac.p.m4a",
+        "date" : "2022-01-02T00:00:00Z",
+        "title" : "willow",
+        "musicService" : "iTunes",
+        "artwork" : "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Music124\/v4\/ae\/63\/26\/ae6326c9-cb10-e35b-bf66-a61095160f8e\/source\/1024x1024bb.jpg"
+      },
+      {
+        "artist" : "Tones & I",
+        "id" : "1475930045",
+        "notes" : "To listen to music, tap Play. In the chart itself, long press the artwork.",
+        "preview" : "https:\/\/audio-ssl.itunes.apple.com\/itunes-assets\/AudioPreview123\/v4\/59\/be\/f4\/59bef446-a655-e94b-cd62-232c378bad75\/mzaf_18358551816850900248.plus.aac.p.m4a",
+        "date" : "2022-01-01T00:00:00Z",
+        "title" : "Dance Monkey",
+        "musicService" : "iTunes",
+        "artwork" : "https:\/\/is5-ssl.mzstatic.com\/image\/thumb\/Music123\/v4\/cc\/80\/a9\/cc80a9c5-ed29-ad40-cfa5-424edee956bb\/source\/1024x1024bb.jpg"
+      },
+      {
+        "artist" : "Justin Bieber",
+        "id" : "1544839502",
+        "notes" : "To listen to music, tap Play. In the chart itself, long press the artwork.",
+        "preview" : "https:\/\/audio-ssl.itunes.apple.com\/itunes-assets\/AudioPreview114\/v4\/ab\/fa\/74\/abfa74d2-5a9d-c841-5b53-a0d06845735b\/mzaf_6736270161373416226.plus.aac.p.m4a",
+        "date" : "2022-01-02T00:00:00Z",
+        "title" : "Anyone",
+        "musicService" : "iTunes",
+        "artwork" : "https:\/\/is2-ssl.mzstatic.com\/image\/thumb\/Music124\/v4\/18\/c9\/38\/18c938e3-b8ae-2391-680b-09cf0e8984ec\/source\/1024x1024bb.jpg"
+      },
+      {
+        "artist" : "Sandra Collins",
+        "id" : "15",
+        "notes" : "To listen to music, tap Play. In the chart itself, long press the artwork.",
+        "preview" : "",
+        "date" : "2022-01-02T00:00:00Z",
+        "title" : "The Fifth Element",
+        "musicService" : "iTunes",
+        "artwork" : "https:\/\/ridmaur.github.io\/chartyourmusic\/examples\/covers\/15.jpeg"
+      },
+      {
+        "artist" : "The Weeknd",
+        "id" : "1499378607",
+        "notes" : "To listen to music, tap Play. In the chart itself, long press the artwork.",
+        "preview" : "https:\/\/audio-ssl.itunes.apple.com\/itunes-assets\/AudioPreview123\/v4\/00\/23\/d3\/0023d3cf-28fa-5c68-ff5f-fa8ecd213f0e\/mzaf_8438152034316872349.plus.aac.p.m4a",
+        "date" : "2022-01-01T00:00:00Z",
+        "title" : "Blinding Lights",
+        "musicService" : "iTunes",
+        "artwork" : "https:\/\/is3-ssl.mzstatic.com\/image\/thumb\/Music124\/v4\/e1\/c3\/a0\/e1c3a0e5-b91d-c808-eda8-d3aa451c932a\/source\/1024x1024bb.jpg"
+      },
+      {
+        "artist" : "24kGoldn, Justin Bieber, J Balvin & iann dior",
+        "id" : "1538192889",
+        "notes" : "To listen to music, tap Play. In the chart itself, long press the artwork.",
+        "preview" : "",
+        "date" : "2022-01-01T00:00:00Z",
+        "title" : "Mood",
+        "musicService" : "iTunes",
+        "artwork" : "https:\/\/is2-ssl.mzstatic.com\/image\/thumb\/Music124\/v4\/a4\/ec\/f4\/a4ecf452-0e11-917d-9229-4eb0919a2d25\/source\/1024x1024bb.jpg"
+      },
+      {
+        "artist" : "Nine Lable Presents",
+        "id" : "09",
+        "notes" : "To listen to music, tap Play. In the chart itself, long press the artwork.",
+        "preview" : "",
+        "date" : "2022-01-02T00:00:00Z",
+        "title" : "Gone",
+        "musicService" : "iTunes",
+        "artwork" : "https:\/\/ridmaur.github.io\/chartyourmusic\/examples\/covers\/09.jpeg"
+      },
+      {
+        "artist" : "Ed Sheeran",
+        "id" : "1545341251",
+        "notes" : "To listen to music, tap Play. In the chart itself, long press the artwork.",
+        "preview" : "https:\/\/audio-ssl.itunes.apple.com\/itunes-assets\/AudioPreview124\/v4\/04\/4c\/26\/044c2653-0664-64f9-9cb9-6f91a3f13e10\/mzaf_10942793995860665506.plus.aac.p.m4a",
+        "date" : "2022-01-01T00:00:00Z",
+        "title" : "Afterglow",
+        "musicService" : "iTunes",
+        "artwork" : "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Music114\/v4\/d7\/1b\/6b\/d71b6bc9-baea-edc1-3d68-2d796d5e5ed4\/source\/1024x1024bb.jpg"
+      },
+      {
+        "artist" : "Sand",
+        "id" : "10",
+        "notes" : "To listen to music, tap Play. In the chart itself, long press the artwork.",
+        "preview" : "",
+        "date" : "2022-01-02T00:00:00Z",
+        "title" : "Dunes",
+        "musicService" : "iTunes",
+        "artwork" : "https:\/\/ridmaur.github.io\/chartyourmusic\/examples\/covers\/10.jpeg"
+      },
+      {
+        "artist" : "Unsung Hero",
+        "id" : "12",
+        "notes" : "To listen to music, tap Play. In the chart itself, long press the artwork.",
+        "preview" : "",
+        "date" : "2022-01-02T00:00:00Z",
+        "title" : "The Most Wanted Album Of The Year",
+        "musicService" : "iTunes",
+        "artwork" : "https:\/\/ridmaur.github.io\/chartyourmusic\/examples\/covers\/12.jpeg"
+      },
+      {
+        "artist" : "Various Artists",
+        "id" : "03",
+        "notes" : "To listen to music, tap Play. In the chart itself, long press the artwork.",
+        "preview" : "",
+        "date" : "2022-01-02T00:00:00Z",
+        "title" : "Take A Breath vol. 6",
+        "musicService" : "iTunes",
+        "artwork" : "https:\/\/ridmaur.github.io\/chartyourmusic\/examples\/covers\/03.jpeg"
+      },
+      {
+        "artist" : "K.D. Craig",
+        "id" : "01",
+        "notes" : "To listen to music, tap Play. In the chart itself, long press the artwork.",
+        "preview" : "",
+        "date" : "2022-01-02T00:00:00Z",
+        "title" : "Bloom Bloom",
+        "musicService" : "iTunes",
+        "artwork" : "https:\/\/ridmaur.github.io\/chartyourmusic\/examples\/covers\/01.jpeg"
+      },
+      {
+        "artist" : "Amelie Nouton",
+        "id" : "02",
+        "notes" : "To listen to music, tap Play. In the chart itself, long press the artwork.",
+        "preview" : "",
+        "date" : "2022-01-02T00:00:00Z",
+        "title" : "Face into u",
+        "musicService" : "iTunes",
+        "artwork" : "https:\/\/ridmaur.github.io\/chartyourmusic\/examples\/covers\/02.jpeg"
+      },
+      {
+        "artist" : "Olimpae Records",
+        "id" : "07",
+        "notes" : "To listen to music, tap Play. In the chart itself, long press the artwork.",
+        "preview" : "",
+        "date" : "2022-01-02T00:00:00Z",
+        "title" : "New Synthwave",
+        "musicService" : "iTunes",
+        "artwork" : "https:\/\/ridmaur.github.io\/chartyourmusic\/examples\/covers\/07.jpeg"
+      },
+      {
+        "artist" : "Jessica Wolovitz",
+        "id" : "11",
+        "notes" : "",
+        "preview" : "",
+        "date" : "2022-01-02T00:00:00Z",
+        "title" : "Enough",
+        "musicService" : "iTunes",
+        "artwork" : "https:\/\/ridmaur.github.io\/chartyourmusic\/examples\/covers\/11.jpeg"
+      }
+    ]
+  },
+  {
+    "charts" : [
+      {
+        "locked" : false,
+        "title" : "Week 4",
+        "notes" : "",
+        "subtitle" : "",
+        "chartEntries" : [
+          {
+            "entryId" : "01",
+            "currentPosition" : 1
+          },
+          {
+            "entryId" : "14",
+            "currentPosition" : 2
+          },
+          {
+            "entryId" : "10",
+            "currentPosition" : 3
+          },
+          {
+            "entryId" : "02",
+            "currentPosition" : 4
+          },
+          {
+            "entryId" : "05",
+            "currentPosition" : 5
+          },
+          {
+            "entryId" : "06",
+            "currentPosition" : 6
+          },
+          {
+            "entryId" : "13",
+            "currentPosition" : 7
+          },
+          {
+            "entryId" : "07",
+            "currentPosition" : 8
+          },
+          {
+            "entryId" : "11",
+            "currentPosition" : 9
+          },
+          {
+            "entryId" : "08",
+            "currentPosition" : 10
+          }
+        ],
+        "date" : "2023-01-27T06:10:00Z"
+      },
+      {
+        "locked" : true,
+        "title" : "Week 3",
+        "notes" : "",
+        "subtitle" : "",
+        "chartEntries" : [
+          {
+            "entryId" : "10",
+            "currentPosition" : 1
+          },
+          {
+            "entryId" : "05",
+            "currentPosition" : 2
+          },
+          {
+            "entryId" : "13",
+            "currentPosition" : 3
+          },
+          {
+            "entryId" : "01",
+            "currentPosition" : 4
+          },
+          {
+            "entryId" : "02",
+            "currentPosition" : 5
+          },
+          {
+            "entryId" : "14",
+            "currentPosition" : 6
+          },
+          {
+            "entryId" : "07",
+            "currentPosition" : 7
+          },
+          {
+            "entryId" : "06",
+            "currentPosition" : 8
+          },
+          {
+            "entryId" : "11",
+            "currentPosition" : 9
+          },
+          {
+            "entryId" : "08",
+            "currentPosition" : 10
+          }
+        ],
+        "date" : "2023-01-21T06:05:00Z"
+      },
+      {
+        "locked" : true,
+        "title" : "Week 2",
+        "notes" : "This chart is based on complete fictitious entries. As this is the second chart in the collection, you can see the changes from the previous (first) chart. This chart is unlocked. You will only be able to lock it if the amount of entries conforms to what is defined for the collection (e.g. 5 for this sample collection).",
+        "subtitle" : "Second week of the year…",
+        "chartEntries" : [
+          {
+            "entryId" : "13",
+            "currentPosition" : 1
+          },
+          {
+            "entryId" : "01",
+            "currentPosition" : 2
+          },
+          {
+            "entryId" : "02",
+            "currentPosition" : 3
+          },
+          {
+            "entryId" : "10",
+            "currentPosition" : 4
+          },
+          {
+            "entryId" : "14",
+            "currentPosition" : 5
+          },
+          {
+            "entryId" : "05",
+            "currentPosition" : 6
+          },
+          {
+            "entryId" : "07",
+            "currentPosition" : 7
+          },
+          {
+            "entryId" : "09",
+            "currentPosition" : 8
+          },
+          {
+            "entryId" : "06",
+            "currentPosition" : 9
+          },
+          {
+            "entryId" : "12",
+            "currentPosition" : 10
+          }
+        ],
+        "date" : "2023-01-14T00:00:00Z"
+      },
+      {
+        "locked" : true,
+        "title" : "Week 1",
+        "notes" : "This chart is based on complete fictitious entries. As this is the first chart in the collection, all entries are seen as new entries. This chart is locked, which means its entries will be taken into account when doing calculations.",
+        "subtitle" : "Initial chart for this collection; i.e. the first day.",
+        "chartEntries" : [
+          {
+            "entryId" : "13",
+            "currentPosition" : 1
+          },
+          {
+            "entryId" : "05",
+            "currentPosition" : 2
+          },
+          {
+            "entryId" : "01",
+            "currentPosition" : 3
+          },
+          {
+            "entryId" : "10",
+            "currentPosition" : 4
+          },
+          {
+            "entryId" : "11",
+            "currentPosition" : 5
+          },
+          {
+            "entryId" : "02",
+            "currentPosition" : 6
+          },
+          {
+            "entryId" : "09",
+            "currentPosition" : 7
+          },
+          {
+            "entryId" : "14",
+            "currentPosition" : 8
+          },
+          {
+            "entryId" : "04",
+            "currentPosition" : 9
+          },
+          {
+            "entryId" : "07",
+            "currentPosition" : 10
+          }
+        ],
+        "date" : "2023-01-07T00:00:00Z"
+      }
+    ],
+    "orderArtistTitle" : false,
+    "archived" : false,
+    "sequence" : true,
+    "notes" : "",
+    "title" : "Top 10 2023",
+    "nrOfEntries" : 10,
+    "date" : "2023-01-01T00:00:00Z",
+    "entries" : [
+      {
+        "artist" : "J. Lil Woods",
+        "id" : "06",
+        "notes" : "To listen to music, tap Play. In the chart itself, long press the artwork.",
+        "preview" : "",
+        "date" : "2022-01-02T00:00:00Z",
+        "title" : "Tape",
+        "musicService" : "iTunes",
+        "artwork" : "https:\/\/ridmaur.github.io\/chartyourmusic\/examples\/covers\/06.jpeg"
+      },
+      {
+        "artist" : "24kGoldn, Justin Bieber, J Balvin & iann dior",
+        "id" : "1538192889",
+        "notes" : "To listen to music, tap Play. In the chart itself, long press the artwork.",
+        "preview" : "",
+        "date" : "2022-01-01T00:00:00Z",
+        "title" : "Mood",
+        "musicService" : "iTunes",
+        "artwork" : "https:\/\/is2-ssl.mzstatic.com\/image\/thumb\/Music124\/v4\/a4\/ec\/f4\/a4ecf452-0e11-917d-9229-4eb0919a2d25\/source\/1024x1024bb.jpg"
+      },
+      {
+        "artist" : "Olimpae Records",
+        "id" : "07",
+        "notes" : "To listen to music, tap Play. In the chart itself, long press the artwork.",
+        "preview" : "",
+        "date" : "2022-01-02T00:00:00Z",
+        "title" : "New Synthwave",
+        "musicService" : "iTunes",
+        "artwork" : "https:\/\/ridmaur.github.io\/chartyourmusic\/examples\/covers\/07.jpeg"
+      },
+      {
+        "artist" : "Tigos",
+        "id" : "04",
+        "notes" : "To listen to music, tap Play. In the chart itself, long press the artwork.",
+        "preview" : "",
+        "date" : "2022-01-02T00:00:00Z",
+        "title" : "Never Gonna Dance Again",
+        "musicService" : "iTunes",
+        "artwork" : "https:\/\/ridmaur.github.io\/chartyourmusic\/examples\/covers\/04.jpeg"
+      },
+      {
+        "artist" : "Nine Lable Presents",
+        "id" : "09",
+        "notes" : "To listen to music, tap Play. In the chart itself, long press the artwork.",
+        "preview" : "",
+        "date" : "2022-01-02T00:00:00Z",
+        "title" : "Gone",
+        "musicService" : "iTunes",
+        "artwork" : "https:\/\/ridmaur.github.io\/chartyourmusic\/examples\/covers\/09.jpeg"
+      },
+      {
+        "artist" : "Jessica Wolovitz",
+        "id" : "11",
+        "notes" : "",
+        "preview" : "",
+        "date" : "2022-01-02T00:00:00Z",
+        "title" : "Enough",
+        "musicService" : "iTunes",
+        "artwork" : "https:\/\/ridmaur.github.io\/chartyourmusic\/examples\/covers\/11.jpeg"
+      },
+      {
+        "artist" : "Loosen Up",
+        "id" : "05",
+        "notes" : "To listen to music, tap Play. In the chart itself, long press the artwork.",
+        "preview" : "",
+        "date" : "2022-01-02T00:00:00Z",
+        "title" : "Best Hits",
+        "musicService" : "iTunes",
+        "artwork" : "https:\/\/ridmaur.github.io\/chartyourmusic\/examples\/covers\/05.jpeg"
+      },
+      {
+        "artist" : "Taylor Swift",
+        "id" : "1544268298",
+        "notes" : "To listen to music, tap Play. In the chart itself, long press the artwork.",
+        "preview" : "https:\/\/audio-ssl.itunes.apple.com\/itunes-assets\/AudioPreview124\/v4\/a9\/c5\/72\/a9c57243-052c-d9de-7afc-295f18f25943\/mzaf_10548991393987520472.plus.aac.p.m4a",
+        "date" : "2022-01-02T00:00:00Z",
+        "title" : "willow",
+        "musicService" : "iTunes",
+        "artwork" : "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Music124\/v4\/ae\/63\/26\/ae6326c9-cb10-e35b-bf66-a61095160f8e\/source\/1024x1024bb.jpg"
+      },
+      {
+        "artist" : "Ed Sheeran",
+        "id" : "1545341251",
+        "notes" : "To listen to music, tap Play. In the chart itself, long press the artwork.",
+        "preview" : "https:\/\/audio-ssl.itunes.apple.com\/itunes-assets\/AudioPreview124\/v4\/04\/4c\/26\/044c2653-0664-64f9-9cb9-6f91a3f13e10\/mzaf_10942793995860665506.plus.aac.p.m4a",
+        "date" : "2022-01-01T00:00:00Z",
+        "title" : "Afterglow",
+        "musicService" : "iTunes",
+        "artwork" : "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Music114\/v4\/d7\/1b\/6b\/d71b6bc9-baea-edc1-3d68-2d796d5e5ed4\/source\/1024x1024bb.jpg"
+      },
+      {
+        "artist" : "Unsung Hero",
+        "id" : "12",
+        "notes" : "To listen to music, tap Play. In the chart itself, long press the artwork.",
+        "preview" : "",
+        "date" : "2022-01-02T00:00:00Z",
+        "title" : "The Most Wanted Album Of The Year",
+        "musicService" : "iTunes",
+        "artwork" : "https:\/\/ridmaur.github.io\/chartyourmusic\/examples\/covers\/12.jpeg"
+      },
+      {
+        "artist" : "Tones & I",
+        "id" : "1475930045",
+        "notes" : "To listen to music, tap Play. In the chart itself, long press the artwork.",
+        "preview" : "https:\/\/audio-ssl.itunes.apple.com\/itunes-assets\/AudioPreview123\/v4\/59\/be\/f4\/59bef446-a655-e94b-cd62-232c378bad75\/mzaf_18358551816850900248.plus.aac.p.m4a",
+        "date" : "2022-01-01T00:00:00Z",
+        "title" : "Dance Monkey",
+        "musicService" : "iTunes",
+        "artwork" : "https:\/\/is5-ssl.mzstatic.com\/image\/thumb\/Music123\/v4\/cc\/80\/a9\/cc80a9c5-ed29-ad40-cfa5-424edee956bb\/source\/1024x1024bb.jpg"
+      },
+      {
+        "artist" : "Sand",
+        "id" : "10",
+        "notes" : "To listen to music, tap Play. In the chart itself, long press the artwork.",
+        "preview" : "",
+        "date" : "2022-01-02T00:00:00Z",
+        "title" : "Dunes",
+        "musicService" : "iTunes",
+        "artwork" : "https:\/\/ridmaur.github.io\/chartyourmusic\/examples\/covers\/10.jpeg"
+      },
+      {
+        "artist" : "Gaby Farahmand",
+        "id" : "13",
+        "notes" : "To listen to music, tap Play. In the chart itself, long press the artwork.",
+        "preview" : "",
+        "date" : "2022-01-02T00:00:00Z",
+        "title" : "BLURR",
+        "musicService" : "iTunes",
+        "artwork" : "https:\/\/ridmaur.github.io\/chartyourmusic\/examples\/covers\/13.jpeg"
+      },
+      {
+        "artist" : "Zinaz",
+        "id" : "08",
+        "notes" : "",
+        "preview" : "",
+        "date" : "2022-01-02T00:00:00Z",
+        "title" : "Back To Black",
+        "musicService" : "iTunes",
+        "artwork" : "https:\/\/ridmaur.github.io\/chartyourmusic\/examples\/covers\/08.jpeg"
+      },
+      {
+        "artist" : "Justin Bieber",
+        "id" : "1544839502",
+        "notes" : "To listen to music, tap Play. In the chart itself, long press the artwork.",
+        "preview" : "https:\/\/audio-ssl.itunes.apple.com\/itunes-assets\/AudioPreview114\/v4\/ab\/fa\/74\/abfa74d2-5a9d-c841-5b53-a0d06845735b\/mzaf_6736270161373416226.plus.aac.p.m4a",
+        "date" : "2022-01-02T00:00:00Z",
+        "title" : "Anyone",
+        "musicService" : "iTunes",
+        "artwork" : "https:\/\/is2-ssl.mzstatic.com\/image\/thumb\/Music124\/v4\/18\/c9\/38\/18c938e3-b8ae-2391-680b-09cf0e8984ec\/source\/1024x1024bb.jpg"
+      },
+      {
+        "artist" : "Ariana Grande",
+        "id" : "1537477069",
+        "notes" : "",
+        "preview" : "https:\/\/audio-ssl.itunes.apple.com\/itunes-assets\/AudioPreview116\/v4\/4b\/46\/1e\/4b461ecb-6e26-cc80-0a11-e61a008e7363\/mzaf_18287149748935113510.plus.aac.p.m4a",
+        "date" : "2022-01-01T00:00:00Z",
+        "title" : "Positions",
+        "musicService" : "iTunes",
+        "artwork" : "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Music125\/v4\/c3\/3e\/7c\/c33e7c35-7185-6431-3f3d-89d652ecad1d\/source\/1024x1024bb.jpg"
+      },
+      {
+        "artist" : "Sandra Collins",
+        "id" : "15",
+        "notes" : "To listen to music, tap Play. In the chart itself, long press the artwork.",
+        "preview" : "",
+        "date" : "2022-01-02T00:00:00Z",
+        "title" : "The Fifth Element",
+        "musicService" : "iTunes",
+        "artwork" : "https:\/\/ridmaur.github.io\/chartyourmusic\/examples\/covers\/15.jpeg"
+      },
+      {
+        "artist" : "Various Artists",
+        "id" : "03",
+        "notes" : "To listen to music, tap Play. In the chart itself, long press the artwork.",
+        "preview" : "",
+        "date" : "2022-01-02T00:00:00Z",
+        "title" : "Take A Breath vol. 6",
+        "musicService" : "iTunes",
+        "artwork" : "https:\/\/ridmaur.github.io\/chartyourmusic\/examples\/covers\/03.jpeg"
+      },
+      {
+        "artist" : "K.D. Craig",
+        "id" : "01",
+        "notes" : "To listen to music, tap Play. In the chart itself, long press the artwork.",
+        "preview" : "",
+        "date" : "2022-01-02T00:00:00Z",
+        "title" : "Bloom Bloom",
+        "musicService" : "iTunes",
+        "artwork" : "https:\/\/ridmaur.github.io\/chartyourmusic\/examples\/covers\/01.jpeg"
+      },
+      {
+        "artist" : "Ali Zhuang",
+        "id" : "14",
+        "notes" : "To listen to music, tap Play. In the chart itself, long press the artwork.",
+        "preview" : "",
+        "date" : "2022-01-02T00:00:00Z",
+        "title" : "In My Loop",
+        "musicService" : "iTunes",
+        "artwork" : "https:\/\/ridmaur.github.io\/chartyourmusic\/examples\/covers\/14.jpeg"
+      },
+      {
+        "artist" : "The Weeknd",
+        "id" : "1499378607",
+        "notes" : "To listen to music, tap Play. In the chart itself, long press the artwork.",
+        "preview" : "https:\/\/audio-ssl.itunes.apple.com\/itunes-assets\/AudioPreview123\/v4\/00\/23\/d3\/0023d3cf-28fa-5c68-ff5f-fa8ecd213f0e\/mzaf_8438152034316872349.plus.aac.p.m4a",
+        "date" : "2022-01-01T00:00:00Z",
+        "title" : "Blinding Lights",
+        "musicService" : "iTunes",
+        "artwork" : "https:\/\/is3-ssl.mzstatic.com\/image\/thumb\/Music124\/v4\/e1\/c3\/a0\/e1c3a0e5-b91d-c808-eda8-d3aa451c932a\/source\/1024x1024bb.jpg"
+      },
+      {
+        "artist" : "Amelie Nouton",
+        "id" : "02",
+        "notes" : "To listen to music, tap Play. In the chart itself, long press the artwork.",
+        "preview" : "",
+        "date" : "2022-01-02T00:00:00Z",
+        "title" : "Face into u",
+        "musicService" : "iTunes",
+        "artwork" : "https:\/\/ridmaur.github.io\/chartyourmusic\/examples\/covers\/02.jpeg"
+      }
+    ]
+  },
+  {
+    "charts" : [
+      {
+        "locked" : true,
+        "title" : "Week 4",
+        "notes" : "",
+        "subtitle" : "",
+        "chartEntries" : [
+          {
+            "entryId" : "14",
+            "currentPosition" : 1
+          },
+          {
+            "entryId" : "10",
+            "currentPosition" : 2
+          },
+          {
+            "entryId" : "01",
+            "currentPosition" : 3
+          },
+          {
+            "entryId" : "02",
+            "currentPosition" : 4
+          },
+          {
+            "entryId" : "05",
+            "currentPosition" : 5
+          },
+          {
+            "entryId" : "06",
+            "currentPosition" : 6
+          },
+          {
+            "entryId" : "13",
+            "currentPosition" : 7
+          },
+          {
+            "entryId" : "07",
+            "currentPosition" : 8
+          },
+          {
+            "entryId" : "11",
+            "currentPosition" : 9
+          },
+          {
+            "entryId" : "08",
+            "currentPosition" : 10
+          }
+        ],
+        "date" : "2023-01-21T06:10:00Z"
+      },
+      {
+        "locked" : true,
+        "title" : "Week 3",
+        "notes" : "",
+        "subtitle" : "",
+        "chartEntries" : [
+          {
+            "entryId" : "10",
+            "currentPosition" : 1
+          },
+          {
+            "entryId" : "05",
+            "currentPosition" : 2
+          },
+          {
+            "entryId" : "13",
+            "currentPosition" : 3
+          },
+          {
+            "entryId" : "01",
+            "currentPosition" : 4
+          },
+          {
+            "entryId" : "02",
+            "currentPosition" : 5
+          },
+          {
+            "entryId" : "14",
+            "currentPosition" : 6
+          },
+          {
+            "entryId" : "07",
+            "currentPosition" : 7
+          },
+          {
+            "entryId" : "06",
+            "currentPosition" : 8
+          },
+          {
+            "entryId" : "11",
+            "currentPosition" : 9
+          },
+          {
+            "entryId" : "08",
+            "currentPosition" : 10
+          }
+        ],
+        "date" : "2023-01-21T06:05:00Z"
+      },
+      {
+        "locked" : true,
+        "title" : "Week 2",
+        "notes" : "This chart is based on complete fictitious entries. As this is the second chart in the collection, you can see the changes from the previous (first) chart. This chart is unlocked. You will only be able to lock it if the amount of entries conforms to what is defined for the collection (e.g. 5 for this sample collection).",
+        "subtitle" : "Second week of the year…",
+        "chartEntries" : [
+          {
+            "entryId" : "13",
+            "currentPosition" : 1
+          },
+          {
+            "entryId" : "01",
+            "currentPosition" : 2
+          },
+          {
+            "entryId" : "02",
+            "currentPosition" : 3
+          },
+          {
+            "entryId" : "10",
+            "currentPosition" : 4
+          },
+          {
+            "entryId" : "14",
+            "currentPosition" : 5
+          },
+          {
+            "entryId" : "05",
+            "currentPosition" : 6
+          },
+          {
+            "entryId" : "07",
+            "currentPosition" : 7
+          },
+          {
+            "entryId" : "09",
+            "currentPosition" : 8
+          },
+          {
+            "entryId" : "06",
+            "currentPosition" : 9
+          },
+          {
+            "entryId" : "12",
+            "currentPosition" : 10
+          }
+        ],
+        "date" : "2023-01-14T00:00:00Z"
+      },
+      {
+        "locked" : true,
+        "title" : "Week 1",
+        "notes" : "This chart is based on complete fictitious entries. As this is the first chart in the collection, all entries are seen as new entries. This chart is locked, which means its entries will be taken into account when doing calculations.",
+        "subtitle" : "Initial chart for this collection; i.e. the first day.",
+        "chartEntries" : [
+          {
+            "entryId" : "13",
+            "currentPosition" : 1
+          },
+          {
+            "entryId" : "05",
+            "currentPosition" : 2
+          },
+          {
+            "entryId" : "01",
+            "currentPosition" : 3
+          },
+          {
+            "entryId" : "10",
+            "currentPosition" : 4
+          },
+          {
+            "entryId" : "11",
+            "currentPosition" : 5
+          },
+          {
+            "entryId" : "02",
+            "currentPosition" : 6
+          },
+          {
+            "entryId" : "09",
+            "currentPosition" : 7
+          },
+          {
+            "entryId" : "14",
+            "currentPosition" : 8
+          },
+          {
+            "entryId" : "04",
+            "currentPosition" : 9
+          },
+          {
+            "entryId" : "07",
+            "currentPosition" : 10
+          }
+        ],
+        "date" : "2023-01-07T00:00:00Z"
+      }
+    ],
+    "orderArtistTitle" : false,
+    "archived" : false,
+    "sequence" : true,
+    "notes" : "",
+    "title" : "Another Collection",
+    "nrOfEntries" : 10,
+    "date" : "2023-01-01T00:00:00Z",
+    "entries" : [
+      {
+        "artist" : "Taylor Swift",
+        "id" : "1544268298",
+        "notes" : "To listen to music, tap Play. In the chart itself, long press the artwork.",
+        "preview" : "https:\/\/audio-ssl.itunes.apple.com\/itunes-assets\/AudioPreview124\/v4\/a9\/c5\/72\/a9c57243-052c-d9de-7afc-295f18f25943\/mzaf_10548991393987520472.plus.aac.p.m4a",
+        "date" : "2022-01-02T00:00:00Z",
+        "title" : "willow",
+        "musicService" : "iTunes",
+        "artwork" : "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Music124\/v4\/ae\/63\/26\/ae6326c9-cb10-e35b-bf66-a61095160f8e\/source\/1024x1024bb.jpg"
+      },
+      {
+        "artist" : "Unsung Hero",
+        "id" : "12",
+        "notes" : "To listen to music, tap Play. In the chart itself, long press the artwork.",
+        "preview" : "",
+        "date" : "2022-01-02T00:00:00Z",
+        "title" : "The Most Wanted Album Of The Year",
+        "musicService" : "iTunes",
+        "artwork" : "https:\/\/ridmaur.github.io\/chartyourmusic\/examples\/covers\/12.jpeg"
+      },
+      {
+        "artist" : "Tigos",
+        "id" : "04",
+        "notes" : "To listen to music, tap Play. In the chart itself, long press the artwork.",
+        "preview" : "",
+        "date" : "2022-01-02T00:00:00Z",
+        "title" : "Never Gonna Dance Again",
+        "musicService" : "iTunes",
+        "artwork" : "https:\/\/ridmaur.github.io\/chartyourmusic\/examples\/covers\/04.jpeg"
+      },
+      {
+        "artist" : "Sand",
+        "id" : "10",
+        "notes" : "To listen to music, tap Play. In the chart itself, long press the artwork.",
+        "preview" : "",
+        "date" : "2022-01-02T00:00:00Z",
+        "title" : "Dunes",
+        "musicService" : "iTunes",
+        "artwork" : "https:\/\/ridmaur.github.io\/chartyourmusic\/examples\/covers\/10.jpeg"
+      },
+      {
+        "artist" : "Amelie Nouton",
+        "id" : "02",
+        "notes" : "To listen to music, tap Play. In the chart itself, long press the artwork.",
+        "preview" : "",
+        "date" : "2022-01-02T00:00:00Z",
+        "title" : "Face into u",
+        "musicService" : "iTunes",
+        "artwork" : "https:\/\/ridmaur.github.io\/chartyourmusic\/examples\/covers\/02.jpeg"
+      },
+      {
+        "artist" : "J. Lil Woods",
+        "id" : "06",
+        "notes" : "To listen to music, tap Play. In the chart itself, long press the artwork.",
+        "preview" : "",
+        "date" : "2022-01-02T00:00:00Z",
+        "title" : "Tape",
+        "musicService" : "iTunes",
+        "artwork" : "https:\/\/ridmaur.github.io\/chartyourmusic\/examples\/covers\/06.jpeg"
+      },
+      {
+        "artist" : "Loosen Up",
+        "id" : "05",
+        "notes" : "To listen to music, tap Play. In the chart itself, long press the artwork.",
+        "preview" : "",
+        "date" : "2022-01-02T00:00:00Z",
+        "title" : "Best Hits",
+        "musicService" : "iTunes",
+        "artwork" : "https:\/\/ridmaur.github.io\/chartyourmusic\/examples\/covers\/05.jpeg"
+      },
+      {
+        "artist" : "Zinaz",
+        "id" : "08",
+        "notes" : "",
+        "preview" : "",
+        "date" : "2022-01-02T00:00:00Z",
+        "title" : "Back To Black",
+        "musicService" : "iTunes",
+        "artwork" : "https:\/\/ridmaur.github.io\/chartyourmusic\/examples\/covers\/08.jpeg"
+      },
+      {
+        "artist" : "Justin Bieber",
+        "id" : "1544839502",
+        "notes" : "To listen to music, tap Play. In the chart itself, long press the artwork.",
+        "preview" : "https:\/\/audio-ssl.itunes.apple.com\/itunes-assets\/AudioPreview114\/v4\/ab\/fa\/74\/abfa74d2-5a9d-c841-5b53-a0d06845735b\/mzaf_6736270161373416226.plus.aac.p.m4a",
+        "date" : "2022-01-02T00:00:00Z",
+        "title" : "Anyone",
+        "musicService" : "iTunes",
+        "artwork" : "https:\/\/is2-ssl.mzstatic.com\/image\/thumb\/Music124\/v4\/18\/c9\/38\/18c938e3-b8ae-2391-680b-09cf0e8984ec\/source\/1024x1024bb.jpg"
+      },
+      {
+        "artist" : "Ed Sheeran",
+        "id" : "1545341251",
+        "notes" : "To listen to music, tap Play. In the chart itself, long press the artwork.",
+        "preview" : "https:\/\/audio-ssl.itunes.apple.com\/itunes-assets\/AudioPreview124\/v4\/04\/4c\/26\/044c2653-0664-64f9-9cb9-6f91a3f13e10\/mzaf_10942793995860665506.plus.aac.p.m4a",
+        "date" : "2022-01-01T00:00:00Z",
+        "title" : "Afterglow",
+        "musicService" : "iTunes",
+        "artwork" : "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Music114\/v4\/d7\/1b\/6b\/d71b6bc9-baea-edc1-3d68-2d796d5e5ed4\/source\/1024x1024bb.jpg"
+      },
+      {
+        "artist" : "K.D. Craig",
+        "id" : "01",
+        "notes" : "To listen to music, tap Play. In the chart itself, long press the artwork.",
+        "preview" : "",
+        "date" : "2022-01-02T00:00:00Z",
+        "title" : "Bloom Bloom",
+        "musicService" : "iTunes",
+        "artwork" : "https:\/\/ridmaur.github.io\/chartyourmusic\/examples\/covers\/01.jpeg"
+      },
+      {
+        "artist" : "Ariana Grande",
+        "id" : "1537477069",
+        "notes" : "",
+        "preview" : "https:\/\/audio-ssl.itunes.apple.com\/itunes-assets\/AudioPreview116\/v4\/4b\/46\/1e\/4b461ecb-6e26-cc80-0a11-e61a008e7363\/mzaf_18287149748935113510.plus.aac.p.m4a",
+        "date" : "2022-01-01T00:00:00Z",
+        "title" : "Positions",
+        "musicService" : "iTunes",
+        "artwork" : "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Music125\/v4\/c3\/3e\/7c\/c33e7c35-7185-6431-3f3d-89d652ecad1d\/source\/1024x1024bb.jpg"
+      },
+      {
+        "artist" : "Various Artists",
+        "id" : "03",
+        "notes" : "To listen to music, tap Play. In the chart itself, long press the artwork.",
+        "preview" : "",
+        "date" : "2022-01-02T00:00:00Z",
+        "title" : "Take A Breath vol. 6",
+        "musicService" : "iTunes",
+        "artwork" : "https:\/\/ridmaur.github.io\/chartyourmusic\/examples\/covers\/03.jpeg"
+      },
+      {
+        "artist" : "Olimpae Records",
+        "id" : "07",
+        "notes" : "To listen to music, tap Play. In the chart itself, long press the artwork.",
+        "preview" : "",
+        "date" : "2022-01-02T00:00:00Z",
+        "title" : "New Synthwave",
+        "musicService" : "iTunes",
+        "artwork" : "https:\/\/ridmaur.github.io\/chartyourmusic\/examples\/covers\/07.jpeg"
+      },
+      {
+        "artist" : "Tones & I",
+        "id" : "1475930045",
+        "notes" : "To listen to music, tap Play. In the chart itself, long press the artwork.",
+        "preview" : "https:\/\/audio-ssl.itunes.apple.com\/itunes-assets\/AudioPreview123\/v4\/59\/be\/f4\/59bef446-a655-e94b-cd62-232c378bad75\/mzaf_18358551816850900248.plus.aac.p.m4a",
+        "date" : "2022-01-01T00:00:00Z",
+        "title" : "Dance Monkey",
+        "musicService" : "iTunes",
+        "artwork" : "https:\/\/is5-ssl.mzstatic.com\/image\/thumb\/Music123\/v4\/cc\/80\/a9\/cc80a9c5-ed29-ad40-cfa5-424edee956bb\/source\/1024x1024bb.jpg"
+      },
+      {
+        "artist" : "The Weeknd",
+        "id" : "1499378607",
+        "notes" : "To listen to music, tap Play. In the chart itself, long press the artwork.",
+        "preview" : "https:\/\/audio-ssl.itunes.apple.com\/itunes-assets\/AudioPreview123\/v4\/00\/23\/d3\/0023d3cf-28fa-5c68-ff5f-fa8ecd213f0e\/mzaf_8438152034316872349.plus.aac.p.m4a",
+        "date" : "2022-01-01T00:00:00Z",
+        "title" : "Blinding Lights",
+        "musicService" : "iTunes",
+        "artwork" : "https:\/\/is3-ssl.mzstatic.com\/image\/thumb\/Music124\/v4\/e1\/c3\/a0\/e1c3a0e5-b91d-c808-eda8-d3aa451c932a\/source\/1024x1024bb.jpg"
+      },
+      {
+        "artist" : "Ali Zhuang",
+        "id" : "14",
+        "notes" : "To listen to music, tap Play. In the chart itself, long press the artwork.",
+        "preview" : "",
+        "date" : "2022-01-02T00:00:00Z",
+        "title" : "In My Loop",
+        "musicService" : "iTunes",
+        "artwork" : "https:\/\/ridmaur.github.io\/chartyourmusic\/examples\/covers\/14.jpeg"
+      },
+      {
+        "artist" : "Gaby Farahmand",
+        "id" : "13",
+        "notes" : "To listen to music, tap Play. In the chart itself, long press the artwork.",
+        "preview" : "",
+        "date" : "2022-01-02T00:00:00Z",
+        "title" : "BLURR",
+        "musicService" : "iTunes",
+        "artwork" : "https:\/\/ridmaur.github.io\/chartyourmusic\/examples\/covers\/13.jpeg"
+      },
+      {
+        "artist" : "Sandra Collins",
+        "id" : "15",
+        "notes" : "To listen to music, tap Play. In the chart itself, long press the artwork.",
+        "preview" : "",
+        "date" : "2022-01-02T00:00:00Z",
+        "title" : "The Fifth Element",
+        "musicService" : "iTunes",
+        "artwork" : "https:\/\/ridmaur.github.io\/chartyourmusic\/examples\/covers\/15.jpeg"
+      },
+      {
+        "artist" : "Nine Lable Presents",
+        "id" : "09",
+        "notes" : "To listen to music, tap Play. In the chart itself, long press the artwork.",
+        "preview" : "",
+        "date" : "2022-01-02T00:00:00Z",
+        "title" : "Gone",
+        "musicService" : "iTunes",
+        "artwork" : "https:\/\/ridmaur.github.io\/chartyourmusic\/examples\/covers\/09.jpeg"
+      },
+      {
+        "artist" : "Jessica Wolovitz",
+        "id" : "11",
+        "notes" : "",
+        "preview" : "",
+        "date" : "2022-01-02T00:00:00Z",
+        "title" : "Enough",
+        "musicService" : "iTunes",
+        "artwork" : "https:\/\/ridmaur.github.io\/chartyourmusic\/examples\/covers\/11.jpeg"
+      },
+      {
+        "artist" : "24kGoldn, Justin Bieber, J Balvin & iann dior",
+        "id" : "1538192889",
+        "notes" : "To listen to music, tap Play. In the chart itself, long press the artwork.",
+        "preview" : "",
+        "date" : "2022-01-01T00:00:00Z",
+        "title" : "Mood",
+        "musicService" : "iTunes",
+        "artwork" : "https:\/\/is2-ssl.mzstatic.com\/image\/thumb\/Music124\/v4\/a4\/ec\/f4\/a4ecf452-0e11-917d-9229-4eb0919a2d25\/source\/1024x1024bb.jpg"
+      }
+    ]
+  },
+  {
+    "charts" : [
+      {
+        "locked" : false,
+        "title" : "Week 4",
+        "notes" : "",
+        "subtitle" : "",
+        "chartEntries" : [
+          {
+            "entryId" : "07",
+            "currentPosition" : 1
+          },
+          {
+            "entryId" : "14",
+            "currentPosition" : 2
+          },
+          {
+            "entryId" : "10",
+            "currentPosition" : 3
+          },
+          {
+            "entryId" : "01",
+            "currentPosition" : 4
+          },
+          {
+            "entryId" : "02",
+            "currentPosition" : 5
+          },
+          {
+            "entryId" : "05",
+            "currentPosition" : 6
+          },
+          {
+            "entryId" : "06",
+            "currentPosition" : 7
+          },
+          {
+            "entryId" : "13",
+            "currentPosition" : 8
+          },
+          {
+            "entryId" : "11",
+            "currentPosition" : 9
+          },
+          {
+            "entryId" : "08",
+            "currentPosition" : 10
+          }
+        ],
+        "date" : "2023-01-22T06:10:00Z"
+      },
+      {
+        "locked" : true,
+        "title" : "Week 3",
+        "notes" : "",
+        "subtitle" : "",
+        "chartEntries" : [
+          {
+            "entryId" : "10",
+            "currentPosition" : 1
+          },
+          {
+            "entryId" : "05",
+            "currentPosition" : 2
+          },
+          {
+            "entryId" : "13",
+            "currentPosition" : 3
+          },
+          {
+            "entryId" : "01",
+            "currentPosition" : 4
+          },
+          {
+            "entryId" : "02",
+            "currentPosition" : 5
+          },
+          {
+            "entryId" : "14",
+            "currentPosition" : 6
+          },
+          {
+            "entryId" : "07",
+            "currentPosition" : 7
+          },
+          {
+            "entryId" : "06",
+            "currentPosition" : 8
+          },
+          {
+            "entryId" : "11",
+            "currentPosition" : 9
+          },
+          {
+            "entryId" : "08",
+            "currentPosition" : 10
+          }
+        ],
+        "date" : "2023-01-21T06:05:00Z"
+      },
+      {
+        "locked" : true,
+        "title" : "Week 2",
+        "notes" : "This chart is based on complete fictitious entries. As this is the second chart in the collection, you can see the changes from the previous (first) chart. This chart is unlocked. You will only be able to lock it if the amount of entries conforms to what is defined for the collection (e.g. 5 for this sample collection).",
+        "subtitle" : "Second week of the year…",
+        "chartEntries" : [
+          {
+            "entryId" : "13",
+            "currentPosition" : 1
+          },
+          {
+            "entryId" : "01",
+            "currentPosition" : 2
+          },
+          {
+            "entryId" : "02",
+            "currentPosition" : 3
+          },
+          {
+            "entryId" : "10",
+            "currentPosition" : 4
+          },
+          {
+            "entryId" : "14",
+            "currentPosition" : 5
+          },
+          {
+            "entryId" : "05",
+            "currentPosition" : 6
+          },
+          {
+            "entryId" : "07",
+            "currentPosition" : 7
+          },
+          {
+            "entryId" : "09",
+            "currentPosition" : 8
+          },
+          {
+            "entryId" : "06",
+            "currentPosition" : 9
+          },
+          {
+            "entryId" : "12",
+            "currentPosition" : 10
+          }
+        ],
+        "date" : "2023-01-14T00:00:00Z"
+      },
+      {
+        "locked" : true,
+        "title" : "Week 1",
+        "notes" : "This chart is based on complete fictitious entries. As this is the first chart in the collection, all entries are seen as new entries. This chart is locked, which means its entries will be taken into account when doing calculations.",
+        "subtitle" : "Initial chart for this collection; i.e. the first day.",
+        "chartEntries" : [
+          {
+            "entryId" : "13",
+            "currentPosition" : 1
+          },
+          {
+            "entryId" : "05",
+            "currentPosition" : 2
+          },
+          {
+            "entryId" : "01",
+            "currentPosition" : 3
+          },
+          {
+            "entryId" : "10",
+            "currentPosition" : 4
+          },
+          {
+            "entryId" : "11",
+            "currentPosition" : 5
+          },
+          {
+            "entryId" : "02",
+            "currentPosition" : 6
+          },
+          {
+            "entryId" : "09",
+            "currentPosition" : 7
+          },
+          {
+            "entryId" : "14",
+            "currentPosition" : 8
+          },
+          {
+            "entryId" : "04",
+            "currentPosition" : 9
+          },
+          {
+            "entryId" : "07",
+            "currentPosition" : 10
+          }
+        ],
+        "date" : "2023-01-07T00:00:00Z"
+      }
+    ],
+    "orderArtistTitle" : false,
+    "archived" : false,
+    "sequence" : true,
+    "notes" : "",
+    "title" : "My Favorite Albums",
+    "nrOfEntries" : 10,
+    "date" : "2023-01-01T00:00:00Z",
+    "entries" : [
+      {
+        "artist" : "J. Lil Woods",
+        "id" : "06",
+        "notes" : "To listen to music, tap Play. In the chart itself, long press the artwork.",
+        "preview" : "",
+        "date" : "2022-01-02T00:00:00Z",
+        "title" : "Tape",
+        "musicService" : "iTunes",
+        "artwork" : "https:\/\/ridmaur.github.io\/chartyourmusic\/examples\/covers\/06.jpeg"
+      },
+      {
+        "artist" : "Tones & I",
+        "id" : "1475930045",
+        "notes" : "To listen to music, tap Play. In the chart itself, long press the artwork.",
+        "preview" : "https:\/\/audio-ssl.itunes.apple.com\/itunes-assets\/AudioPreview123\/v4\/59\/be\/f4\/59bef446-a655-e94b-cd62-232c378bad75\/mzaf_18358551816850900248.plus.aac.p.m4a",
+        "date" : "2022-01-01T00:00:00Z",
+        "title" : "Dance Monkey",
+        "musicService" : "iTunes",
+        "artwork" : "https:\/\/is5-ssl.mzstatic.com\/image\/thumb\/Music123\/v4\/cc\/80\/a9\/cc80a9c5-ed29-ad40-cfa5-424edee956bb\/source\/1024x1024bb.jpg"
+      },
+      {
+        "artist" : "Ed Sheeran",
+        "id" : "1545341251",
+        "notes" : "To listen to music, tap Play. In the chart itself, long press the artwork.",
+        "preview" : "https:\/\/audio-ssl.itunes.apple.com\/itunes-assets\/AudioPreview124\/v4\/04\/4c\/26\/044c2653-0664-64f9-9cb9-6f91a3f13e10\/mzaf_10942793995860665506.plus.aac.p.m4a",
+        "date" : "2022-01-01T00:00:00Z",
+        "title" : "Afterglow",
+        "musicService" : "iTunes",
+        "artwork" : "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Music114\/v4\/d7\/1b\/6b\/d71b6bc9-baea-edc1-3d68-2d796d5e5ed4\/source\/1024x1024bb.jpg"
+      },
+      {
+        "artist" : "K.D. Craig",
+        "id" : "01",
+        "notes" : "To listen to music, tap Play. In the chart itself, long press the artwork.",
+        "preview" : "",
+        "date" : "2022-01-02T00:00:00Z",
+        "title" : "Bloom Bloom",
+        "musicService" : "iTunes",
+        "artwork" : "https:\/\/ridmaur.github.io\/chartyourmusic\/examples\/covers\/01.jpeg"
+      },
+      {
+        "artist" : "Loosen Up",
+        "id" : "05",
+        "notes" : "To listen to music, tap Play. In the chart itself, long press the artwork.",
+        "preview" : "",
+        "date" : "2022-01-02T00:00:00Z",
+        "title" : "Best Hits",
+        "musicService" : "iTunes",
+        "artwork" : "https:\/\/ridmaur.github.io\/chartyourmusic\/examples\/covers\/05.jpeg"
+      },
+      {
+        "artist" : "Sand",
+        "id" : "10",
+        "notes" : "To listen to music, tap Play. In the chart itself, long press the artwork.",
+        "preview" : "",
+        "date" : "2022-01-02T00:00:00Z",
+        "title" : "Dunes",
+        "musicService" : "iTunes",
+        "artwork" : "https:\/\/ridmaur.github.io\/chartyourmusic\/examples\/covers\/10.jpeg"
+      },
+      {
+        "artist" : "Olimpae Records",
+        "id" : "07",
+        "notes" : "To listen to music, tap Play. In the chart itself, long press the artwork.",
+        "preview" : "",
+        "date" : "2022-01-02T00:00:00Z",
+        "title" : "New Synthwave",
+        "musicService" : "iTunes",
+        "artwork" : "https:\/\/ridmaur.github.io\/chartyourmusic\/examples\/covers\/07.jpeg"
+      },
+      {
+        "artist" : "Tigos",
+        "id" : "04",
+        "notes" : "To listen to music, tap Play. In the chart itself, long press the artwork.",
+        "preview" : "",
+        "date" : "2022-01-02T00:00:00Z",
+        "title" : "Never Gonna Dance Again",
+        "musicService" : "iTunes",
+        "artwork" : "https:\/\/ridmaur.github.io\/chartyourmusic\/examples\/covers\/04.jpeg"
+      },
+      {
+        "artist" : "Ali Zhuang",
+        "id" : "14",
+        "notes" : "To listen to music, tap Play. In the chart itself, long press the artwork.",
+        "preview" : "",
+        "date" : "2022-01-02T00:00:00Z",
+        "title" : "In My Loop",
+        "musicService" : "iTunes",
+        "artwork" : "https:\/\/ridmaur.github.io\/chartyourmusic\/examples\/covers\/14.jpeg"
+      },
+      {
+        "artist" : "Gaby Farahmand",
+        "id" : "13",
+        "notes" : "To listen to music, tap Play. In the chart itself, long press the artwork.",
+        "preview" : "",
+        "date" : "2022-01-02T00:00:00Z",
+        "title" : "BLURR",
+        "musicService" : "iTunes",
+        "artwork" : "https:\/\/ridmaur.github.io\/chartyourmusic\/examples\/covers\/13.jpeg"
+      },
+      {
+        "artist" : "Various Artists",
+        "id" : "03",
+        "notes" : "To listen to music, tap Play. In the chart itself, long press the artwork.",
+        "preview" : "",
+        "date" : "2022-01-02T00:00:00Z",
+        "title" : "Take A Breath vol. 6",
+        "musicService" : "iTunes",
+        "artwork" : "https:\/\/ridmaur.github.io\/chartyourmusic\/examples\/covers\/03.jpeg"
+      },
+      {
+        "artist" : "The Weeknd",
+        "id" : "1499378607",
+        "notes" : "To listen to music, tap Play. In the chart itself, long press the artwork.",
+        "preview" : "https:\/\/audio-ssl.itunes.apple.com\/itunes-assets\/AudioPreview123\/v4\/00\/23\/d3\/0023d3cf-28fa-5c68-ff5f-fa8ecd213f0e\/mzaf_8438152034316872349.plus.aac.p.m4a",
+        "date" : "2022-01-01T00:00:00Z",
+        "title" : "Blinding Lights",
+        "musicService" : "iTunes",
+        "artwork" : "https:\/\/is3-ssl.mzstatic.com\/image\/thumb\/Music124\/v4\/e1\/c3\/a0\/e1c3a0e5-b91d-c808-eda8-d3aa451c932a\/source\/1024x1024bb.jpg"
+      },
+      {
+        "artist" : "Zinaz",
+        "id" : "08",
+        "notes" : "",
+        "preview" : "",
+        "date" : "2022-01-02T00:00:00Z",
+        "title" : "Back To Black",
+        "musicService" : "iTunes",
+        "artwork" : "https:\/\/ridmaur.github.io\/chartyourmusic\/examples\/covers\/08.jpeg"
+      },
+      {
+        "artist" : "Taylor Swift",
+        "id" : "1544268298",
+        "notes" : "To listen to music, tap Play. In the chart itself, long press the artwork.",
+        "preview" : "https:\/\/audio-ssl.itunes.apple.com\/itunes-assets\/AudioPreview124\/v4\/a9\/c5\/72\/a9c57243-052c-d9de-7afc-295f18f25943\/mzaf_10548991393987520472.plus.aac.p.m4a",
+        "date" : "2022-01-02T00:00:00Z",
+        "title" : "willow",
+        "musicService" : "iTunes",
+        "artwork" : "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Music124\/v4\/ae\/63\/26\/ae6326c9-cb10-e35b-bf66-a61095160f8e\/source\/1024x1024bb.jpg"
+      },
+      {
+        "artist" : "Jessica Wolovitz",
+        "id" : "11",
+        "notes" : "",
+        "preview" : "",
+        "date" : "2022-01-02T00:00:00Z",
+        "title" : "Enough",
+        "musicService" : "iTunes",
+        "artwork" : "https:\/\/ridmaur.github.io\/chartyourmusic\/examples\/covers\/11.jpeg"
+      },
+      {
+        "artist" : "24kGoldn, Justin Bieber, J Balvin & iann dior",
+        "id" : "1538192889",
+        "notes" : "To listen to music, tap Play. In the chart itself, long press the artwork.",
+        "preview" : "",
+        "date" : "2022-01-01T00:00:00Z",
+        "title" : "Mood",
+        "musicService" : "iTunes",
+        "artwork" : "https:\/\/is2-ssl.mzstatic.com\/image\/thumb\/Music124\/v4\/a4\/ec\/f4\/a4ecf452-0e11-917d-9229-4eb0919a2d25\/source\/1024x1024bb.jpg"
+      },
+      {
+        "artist" : "Amelie Nouton",
+        "id" : "02",
+        "notes" : "To listen to music, tap Play. In the chart itself, long press the artwork.",
+        "preview" : "",
+        "date" : "2022-01-02T00:00:00Z",
+        "title" : "Face into u",
+        "musicService" : "iTunes",
+        "artwork" : "https:\/\/ridmaur.github.io\/chartyourmusic\/examples\/covers\/02.jpeg"
+      },
+      {
+        "artist" : "Sandra Collins",
+        "id" : "15",
+        "notes" : "To listen to music, tap Play. In the chart itself, long press the artwork.",
+        "preview" : "",
+        "date" : "2022-01-02T00:00:00Z",
+        "title" : "The Fifth Element",
+        "musicService" : "iTunes",
+        "artwork" : "https:\/\/ridmaur.github.io\/chartyourmusic\/examples\/covers\/15.jpeg"
+      },
+      {
+        "artist" : "Justin Bieber",
+        "id" : "1544839502",
+        "notes" : "To listen to music, tap Play. In the chart itself, long press the artwork.",
+        "preview" : "https:\/\/audio-ssl.itunes.apple.com\/itunes-assets\/AudioPreview114\/v4\/ab\/fa\/74\/abfa74d2-5a9d-c841-5b53-a0d06845735b\/mzaf_6736270161373416226.plus.aac.p.m4a",
+        "date" : "2022-01-02T00:00:00Z",
+        "title" : "Anyone",
+        "musicService" : "iTunes",
+        "artwork" : "https:\/\/is2-ssl.mzstatic.com\/image\/thumb\/Music124\/v4\/18\/c9\/38\/18c938e3-b8ae-2391-680b-09cf0e8984ec\/source\/1024x1024bb.jpg"
+      },
+      {
+        "artist" : "Nine Lable Presents",
+        "id" : "09",
+        "notes" : "To listen to music, tap Play. In the chart itself, long press the artwork.",
+        "preview" : "",
+        "date" : "2022-01-02T00:00:00Z",
+        "title" : "Gone",
+        "musicService" : "iTunes",
+        "artwork" : "https:\/\/ridmaur.github.io\/chartyourmusic\/examples\/covers\/09.jpeg"
+      },
+      {
+        "artist" : "Ariana Grande",
+        "id" : "1537477069",
+        "notes" : "",
+        "preview" : "https:\/\/audio-ssl.itunes.apple.com\/itunes-assets\/AudioPreview116\/v4\/4b\/46\/1e\/4b461ecb-6e26-cc80-0a11-e61a008e7363\/mzaf_18287149748935113510.plus.aac.p.m4a",
+        "date" : "2022-01-01T00:00:00Z",
+        "title" : "Positions",
+        "musicService" : "iTunes",
+        "artwork" : "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Music125\/v4\/c3\/3e\/7c\/c33e7c35-7185-6431-3f3d-89d652ecad1d\/source\/1024x1024bb.jpg"
+      },
+      {
+        "artist" : "Unsung Hero",
+        "id" : "12",
+        "notes" : "To listen to music, tap Play. In the chart itself, long press the artwork.",
+        "preview" : "",
+        "date" : "2022-01-02T00:00:00Z",
+        "title" : "The Most Wanted Album Of The Year",
+        "musicService" : "iTunes",
+        "artwork" : "https:\/\/ridmaur.github.io\/chartyourmusic\/examples\/covers\/12.jpeg"
+      }
+    ]
+  }
+]
