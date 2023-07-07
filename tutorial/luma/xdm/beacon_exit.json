@@ -1,0 +1,44 @@
+{
+    "eventType": "$eventType$",
+    "placeContext": {
+        "geo": {
+            "_schema": {
+                "longitude": 0,
+                "latitude": 0
+            }
+        },
+        "POIinteraction": {
+            "poiDetail": {
+                "name": "$beaconName$",
+                "locatingType": "$beacon$",
+                "poiID": "$beaconID$"
+            },
+            "poiEntries": {
+                "value": 0
+            },
+            "poiExits": {
+                "value": 1
+            }
+        }
+    },
+    "web": {
+        "webPageDetails": {
+            "name": "$beaconName$",
+            "siteSection": ""
+        }
+    },
+    "_experience": {
+        "campaign": {
+            "orchestration": {
+                "eventID": "$eventID$"
+            }
+        }
+    },
+    "_adobeamericaspot4": {
+        "identification": {
+            "core": {
+                "ecid": "$ecid$"
+            }
+        }
+    }
+}
