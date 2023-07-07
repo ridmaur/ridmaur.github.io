@@ -433,6 +433,11 @@
                     "id" : 15,
                     "title" : "Puis-je mettre à jour l'œuvre d'art ?",
                     "text" : "L'artwork est automatiquement récupéré auprès du service musical sélectionné. Pour une entrée vide, ou si tu veux remplacer l'illustration, tu peux appuyer longuement sur le bouton **Mettre à jour** lorsque tu modifies une entrée. Une boîte de dialogue d'alerte te permet d'établir un lien vers une illustration jpg/jpeg ou png."
+                },
+                {
+                    "id" : 17,
+                    "title" : "Puis-je obtenir plus de détails sur l'artiste, l'album, la chanson ?",
+                    "text" : "Lorsque vous êtes dans les détails d'une entrée, appuyez sur l'icône de l'œil pour voir toutes les informations liées à l'entrée telles qu'elles sont disponibles sur Genius."
                 }
             ]
         },
