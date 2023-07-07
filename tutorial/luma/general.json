@@ -2,15 +2,15 @@
     "config": {
         "tenant": "_adobeamericaspot4",
         "sandbox": "test-sandbox-1",
-        "datasetId": "6391ab3727aeca1c07fff5a6",
-        "datastreamId": "7ce47d4c-4255-47c6-9a08-9901ad97b794",
+        "datasetId": "64a53ee35141a01c72d8f794",
+        "datastreamId": "1feb48cc-03f1-4606-b394-5eecb1ca117b",
         "showProducts": true,
         "showPersonalisation": true,
         "showPersonalisationDirect": false,
         "showGeofences": true,
         "showBeacons": true,
         "ldap": "rmaur",
-        "emailDomain": "example.com",
+        "emailDomain": "adobe.com",
         "tms": "AEP Data Collection"
     },
     "customer": {
