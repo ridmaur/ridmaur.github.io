@@ -10,7 +10,8 @@
             "description": "You're out of excuses not to run, lift, or play when you own a pair of the Orestes Fitness Short. You won't complain about the high-performance polyester wicking fabric, reflective safety trim or seamless built-in comfort brief, either.",
             "imageUrl": "https://luma.enablementadobe.com/content/dam/luma/en/products/men/bottoms/shirts/msh08-black_main.jpg",
             "url": "https://luma.enablementadobe.com/content/luma/us/en/products/men/bottoms/shorts/orestes-fitness-short.html#LLMSH32-32",
-            "stockQuantity": 0
+            "stockQuantity": 0,
+            "featured": true
         },
         {
             "sku": "LLMP08",
@@ -70,7 +71,8 @@
             "description": "Guys who love yoga love this all-purpose yoga pant. Designed for yoga, gym and lounge, the Cronus Yoga Pant is a loose-fitting, classic-style pant made from a lightweight blend of cotton, recycled polyester and a touch of Spandex for the stretch factor.",
             "imageUrl": "https://luma.enablementadobe.com/content/dam/luma/en/products/men/bottoms/pants/mp12-black_main.jpg",
             "url": "https://luma.enablementadobe.com/content/luma/us/en/products/men/bottoms/pants/cronus-yoga-pant.html#LLMP12.1-32",
-            "stockQuantity": 0
+            "stockQuantity": 0,
+            "featured": true
         },
         {
             "sku": "LLMSH09",
@@ -178,7 +180,8 @@
             "description": "The Ajax Full-Zip Sweatshirt makes the optimal layering or outer piece for archers, golfers, hikers and virtually any other sportsmen. Not only does it have top-notch moisture-wicking abilities, but the tight-weave fabric also prevents pilling from repeated wash-and-wear cycles.",
             "imageUrl": "https://luma.enablementadobe.com/content/dam/luma/en/products/men/tops/hoodies-&-sweatshirts/mh12-green_main.jpg",
             "url": "https://luma.enablementadobe.com/content/luma/us/en/products/men/tops/hoodies_sweatshirts/ajax-full-zip-sweatshirt.html#LLMH12.3-S",
-            "stockQuantity": 25
+            "stockQuantity": 25,
+            "featured": true
         },
         {
             "sku": "LLMH13",
@@ -226,7 +229,8 @@
             "description": "The Mars HeatTech™ Jacket defense against winter climes so you can play offense in the park, on the trail or in the deck chair. Great for the ski lodge or stadium, it features a wind- and water-resistant outer shell with a draw-cord hood and deep pockets for storage.",
             "imageUrl": "https://luma.enablementadobe.com/content/dam/luma/en/products/men/tops/jackets/mj10-red_main.jpg",
             "url": "https://luma.enablementadobe.com/content/luma/us/en/products/men/tops/jackets/mars-heattech_-pullover.html#LLMJ10.1-L",
-            "stockQuantity": 0
+            "stockQuantity": 0,
+            "featured": true
         },
         {
             "sku": "LLMJ11",
@@ -274,7 +278,8 @@
             "description": "Solid in color and construction, the 100% cotton-weave Sinbad Fitness Tank moves with you as you press, hold, crunch and stride your way to the ultimate you.",
             "imageUrl": "https://luma.enablementadobe.com/content/dam/luma/en/products/men/tops/tanks/mt09-blue_main.jpg",
             "url": "https://luma.enablementadobe.com/content/luma/us/en/products/men/tops/tanks/sinbad-fitness-tank.html#LLMT09.1-XL",
-            "stockQuantity": 20
+            "stockQuantity": 20,
+            "featured": true
         },
         {
             "sku": "LLMT10",
@@ -322,7 +327,8 @@
             "description": "Soft and lightweight, the Logan HeatTec™ Tee gets you through the long haul in total comfort. It boasts superior sweat-wicking performance to keep skin dry and cool, and strategic flat-lock seams to resist chafing.",
             "imageUrl": "https://luma.enablementadobe.com/content/dam/luma/en/products/men/tops/tees/ms10-blue_main.jpg",
             "url": "https://luma.enablementadobe.com/content/luma/us/en/products/men/tops/tees/logan-heattec_-tee.html#LLMS10.1-M",
-            "stockQuantity": 5
+            "stockQuantity": 5,
+            "featured": true
         },
         {
             "sku": "LLMS01",
@@ -430,7 +436,8 @@
             "description": "The Compete Track Tote holds a host of exercise supplies with ease. Stash your towel, jacket and street shoes inside. Tuck water bottles in easy-access external spaces. Perfect for trips to gym or yoga studio, with dual top handles for convenience to and from.",
             "imageUrl": "https://luma.enablementadobe.com/content/dam/luma/en/products/gear/bags/wb02-green-0.jpg",
             "url": "https://luma.enablementadobe.com/content/luma/us/en/products/gear/bags/compete-track-tote.html#24-WB02",
-            "stockQuantity": 22
+            "stockQuantity": 22,
+            "featured": true
         },
         {
             "sku": "24-WB04",
@@ -466,7 +473,8 @@
             "description": "With more room than it appears, the Endeavor Daytrip Backpack will hold a whole day's worth of books, binders and gym clothes. The spacious main compartment includes a dedicated laptop sleeve. Two other compartments offer extra storage space.",
             "imageUrl": "https://luma.enablementadobe.com/content/dam/luma/en/products/gear/bags/wb06-red-0.jpg",
             "url": "https://luma.enablementadobe.com/content/luma/us/en/products/gear/bags/endeavor-daytrip-backpack.html#24-WB06",
-            "stockQuantity": 0
+            "stockQuantity": 0,
+            "featured": true
         },
         {
             "sku": "Luma-24-MB02",
@@ -490,7 +498,8 @@
             "description": "Everything you need for a trip to the gym will fit inside this surprisingly spacious Voyage Yoga Bag. Stock it with a water bottle, change of clothes, pair of shoes, and even a few beauty products. Fits inside a locker and zips shut for security.",
             "imageUrl": "https://luma.enablementadobe.com/content/dam/luma/en/products/gear/bags/wb01-black-0.jpg",
             "url": "https://luma.enablementadobe.com/content/luma/us/en/products/gear/bags/voyage-yoga-bag.html#Luma-24-WB01",
-            "stockQuantity": 0
+            "stockQuantity": 0,
+            "featured": true
         },
         {
             "sku": "Luma-24-WB03",
@@ -550,7 +559,8 @@
             "description": "Forget fancy machines and costly memberships - the Harmony Lumaflex™ Stength Band Kit is all you need for an amazing workout. The kit has everything you need for a range of strengthening and toning exercises.",
             "imageUrl": "https://luma.enablementadobe.com/content/dam/luma/en/products/gear/fitness-equipment/ug03-bk-0.jpg",
             "url": "https://luma.enablementadobe.com/content/luma/us/en/products/gear/fitness/harmony-lumaflex-strength-band-kit.html#24-UG03",
-            "stockQuantity": 5
+            "stockQuantity": 5,
+            "featured": true
         },
         {
             "sku": "24-UG04",
@@ -610,7 +620,8 @@
             "description": "A well-rounded yoga workout takes more than a mat. The Sprite Yoga Companion Kit helps stock your studio with the basics you need for a full-range workout. The kit is composed of four best-selling Luma Sprite accessories in one easy bundle: statis ball, foam block, yoga strap, and foam roller. Choose sizes and colors and leave the rest to us",
             "imageUrl": "https://luma.enablementadobe.com/content/dam/luma/en/products/gear/fitness-equipment/luma-yoga-kit-2.jpg",
             "url": "https://luma.enablementadobe.com/content/luma/us/en/products/gear/fitness/sprite-yoga-companion-kit.html#24-WG080",
-            "stockQuantity": 0
+            "stockQuantity": 0,
+            "featured": true
         },
         {
             "sku": "24-WG084",
@@ -742,7 +753,8 @@
             "description": "The flexible, rubberized strap is contoured to conform to your wrist for a comfortable fit all day. The face features an illuminated digital read-out of the current time and stopwatch functions.",
             "imageUrl": "https://luma.enablementadobe.com/content/dam/luma/en/products/gear/watches/Clamber_Watch_2.jpg",
             "url": "https://luma.enablementadobe.com/content/luma/us/en/products/gear/watches/clamber-watch.html#24-WG03",
-            "stockQuantity": 5
+            "stockQuantity": 5,
+            "featured": true
         },
         {
             "sku": "24-WG09",
@@ -814,7 +826,8 @@
             "description": "Invigorate your yoga practice with this Deirdre Relaxed-Fit Capri, designed to let you move without strain or restriction.",
             "imageUrl": "https://luma.enablementadobe.com/content/dam/luma/en/products/women/bottoms/pants/wp12-gray_main.jpg",
             "url": "https://luma.enablementadobe.com/content/luma/us/en/products/women/bottoms/pants/deirdre-relaxed-fit-capri.html#LLWP12.1-28",
-            "stockQuantity": 0
+            "stockQuantity": 0,
+            "featured": true
         },
         {
             "sku": "LLWP13.1-28",
@@ -874,7 +887,8 @@
             "description": "A great short with a body-hugging design, the Erika Running Short is perfect for runners who prefer a fitted short rather than the traditional baggy variety.",
             "imageUrl": "https://luma.enablementadobe.com/content/dam/luma/en/products/women/bottoms/shorts/wsh12-purple_main.jpg",
             "url": "https://luma.enablementadobe.com/content/luma/us/en/products/women/bottoms/shorts/erika-running-short.html#LLWSH12.1-32",
-            "stockQuantity": 0
+            "stockQuantity": 0,
+            "featured": true
         },
         {
             "sku": "LLWH03.1-XS",
@@ -910,7 +924,8 @@
             "description": "Being cool is a big part of being comfy, which is why the Lucia Cross-Fit Bra features moisture-wicking technology as well as soft, lightweight fabric.",
             "imageUrl": "https://luma.enablementadobe.com/content/dam/luma/en/products/women/tops/bras-&-tanks/wb05-black_main.jpg",
             "url": "https://luma.enablementadobe.com/content/luma/us/en/products/women/tops/bras_tanks/lucia-cross-fit-bra.html#LLWB05.1-XS",
-            "stockQuantity": 3
+            "stockQuantity": 3,
+            "featured": true
         },
         {
             "sku": "LLWB05.3-L",
@@ -1006,7 +1021,8 @@
             "description": "The Daphne Hoodie is an attractive yet rugged layering or outer piece, especially for chilly days en route the studio, doing yardwork or enjoying outdoor recreation.",
             "imageUrl": "https://luma.enablementadobe.com/content/dam/luma/en/products/women/tops/hoodies-&-sweatshirts/wh06-purple_main.jpg",
             "url": "https://luma.enablementadobe.com/content/luma/us/en/products/women/tops/hoodies/daphne-full-zip-hoodie.html#LLWH06.1-XS",
-            "stockQuantity": 0
+            "stockQuantity": 0,
+            "featured": true
         },
         {
             "sku": "LLWH07",
@@ -1090,7 +1106,8 @@
             "description": "On colder-than-comfortable mornings, you'll love warming up in the Juno All-Ways Performanc Jacket, designed to compete with wind and chill. Built-in Cocona™ technology aids evaporation, while a special zip placket and stand-up collar keep your neck protected.",
             "imageUrl": " https://luma.enablementadobe.com/content/dam/luma/en/products/women/tops/jackets/wj06-purple_main.jpg",
             "url": "https://luma.enablementadobe.com/content/luma/us/en/products/women/tops/jackets/juno-jacket.html#LLWJ06.1-XS",
-            "stockQuantity": 0
+            "stockQuantity": 0,
+            "featured": true
         },
         {
             "sku": "LLWJ08",
@@ -1174,7 +1191,8 @@
             "description": "When you're too far to turn back, thank yourself for choosing the Desiree Fitness Tee. Its ultra-lightweight, ultra-breathable fabric wicks sweat away from your body and helps keeps you cool for the distance.",
             "imageUrl": "https://luma.enablementadobe.com/content/dam/luma/en/products/women/tops/tees/ws05-yellow_main.jpg",
             "url": "https://luma.enablementadobe.com/content/luma/us/en/products/women/tops/tees/desiree-fitness-tee.html#LLWS05.1-XS",
-            "stockQuantity": 12
+            "stockQuantity": 12,
+            "featured": true
         },
         {
             "sku": "LLWS10",
