@@ -17,7 +17,8 @@
         "name": "Luma",
         "logo": "https://contentviewer.s3.amazonaws.com/helium/luma-logo01.png",
         "productsType": "Products",
-        "productsSystemImage": "cart"
+        "productsSystemImage": "cart",
+        "currency": "€"
     },
     "login": {
         "name": "Mobile App Login",
