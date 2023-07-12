@@ -3,7 +3,7 @@
         {
             "sku": "LLMSH08",
             "name": "Orestes Fitness Short",
-            "category": "men:bottoms",
+            "category": "men:bottoms:shorts",
             "color": "black",
             "size": "32",
             "price": 35,
@@ -879,7 +879,7 @@
         {
             "sku": "LLWH03.1-XS",
             "name": "Autumn Pullie",
-            "category": "women:tops",
+            "category": "women:tops:tees",
             "color": "red",
             "size": "xs",
             "price": 57,
