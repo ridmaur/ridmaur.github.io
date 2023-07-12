@@ -417,7 +417,7 @@
         {
             "sku": "24-UB02",
             "name": "Impulse Duffle",
-            "category": "products:gear:bags",
+            "category": "equipment:gear:bags",
             "color": "",
             "size": "",
             "price": 74,
@@ -429,7 +429,7 @@
         {
             "sku": "24-WB02",
             "name": "Compete Track Tote",
-            "category": "products:gear:bags",
+            "category": "equipment:gear:bags",
             "color": "",
             "size": "",
             "price": 32,
@@ -442,7 +442,7 @@
         {
             "sku": "24-WB04",
             "name": "Push It Messenger Bag",
-            "category": "products:gear:bags",
+            "category": "equipment:gear:bags",
             "color": "",
             "size": "",
             "price": 45,
@@ -454,7 +454,7 @@
         {
             "sku": "24-WB05",
             "name": "Savvy Shoulder Tote",
-            "category": "products:gear:bags",
+            "category": "equipment:gear:bags",
             "color": "",
             "size": "",
             "price": 24,
@@ -466,7 +466,7 @@
         {
             "sku": "24-WB06",
             "name": "Endeavor Daytrip Backpack",
-            "category": "products:gear:bags",
+            "category": "equipment:gear:bags",
             "color": "",
             "size": "",
             "price": 33,
@@ -479,7 +479,7 @@
         {
             "sku": "Luma-24-MB02",
             "name": "Fusion Backpack",
-            "category": "products:gear:bags",
+            "category": "equipment:gear:bags",
             "color": "",
             "size": "",
             "price": 59,
@@ -491,7 +491,7 @@
         {
             "sku": "Luma-24-WB01",
             "name": "Voyage Yoga Bag",
-            "category": "products:gear:bags",
+            "category": "equipment:gear:bags",
             "color": "black",
             "size": "",
             "price": 32,
@@ -504,7 +504,7 @@
         {
             "sku": "Luma-24-WB03",
             "name": "Driven Backpack",
-            "category": "products:gear:bags",
+            "category": "equipment:gear:bags",
             "color": "",
             "size": "",
             "price": 36,
@@ -516,7 +516,7 @@
         {
             "sku": "Luma-24-WB07",
             "name": "Overnight Duffle",
-            "category": "products:gear:bags",
+            "category": "equipment:gear:bags",
             "color": "",
             "size": "",
             "price": 45,
@@ -528,7 +528,7 @@
         {
             "sku": "24-UG01",
             "name": "Quest Lumaflex Band",
-            "category": "products:gear:fitness",
+            "category": "equipment:gear:fitness",
             "color": "",
             "size": "",
             "price": 19,
@@ -540,7 +540,7 @@
         {
             "sku": "24-UG02",
             "name": "Pursuit Lumaflex Tone Band",
-            "category": "products:gear:fitness",
+            "category": "equipment:gear:fitness",
             "color": "",
             "size": "",
             "price": 16,
@@ -552,7 +552,7 @@
         {
             "sku": "24-UG03",
             "name": "Harmony Lumaflex Strength Band Kit",
-            "category": "products:gear:fitness",
+            "category": "equipment:gear:fitness",
             "color": "",
             "size": "",
             "price": 22,
@@ -565,7 +565,7 @@
         {
             "sku": "24-UG04",
             "name": "Zing Jump Rope",
-            "category": "products:gear:fitness",
+            "category": "equipment:gear:fitness",
             "color": "",
             "size": "",
             "price": 12,
@@ -577,7 +577,7 @@
         {
             "sku": "24-UG05",
             "name": "Go-Get'r Pushup Grips",
-            "category": "products:gear:fitness",
+            "category": "equipment:gear:fitness",
             "color": "",
             "size": "",
             "price": 19,
@@ -589,7 +589,7 @@
         {
             "sku": "24-UG06",
             "name": "Affirm Water Bottle",
-            "category": "products:gear:fitness",
+            "category": "equipment:gear:fitness",
             "color": "",
             "size": "",
             "price": 7,
@@ -601,7 +601,7 @@
         {
             "sku": "24-UG07",
             "name": "Dual Handle Cardio Ball",
-            "category": "products:gear:fitness",
+            "category": "equipment:gear:fitness",
             "color": "",
             "size": "",
             "price": 12,
@@ -613,7 +613,7 @@
         {
             "sku": "24-WG080",
             "name": "Sprite Yoga Companion Kit",
-            "category": "products:gear:fitness",
+            "category": "equipment:gear:fitness",
             "color": "",
             "size": "",
             "price": 61,
@@ -626,7 +626,7 @@
         {
             "sku": "24-WG084",
             "name": "Sprite Foam Yoga Brick",
-            "category": "products:gear:fitness",
+            "category": "equipment:gear:fitness",
             "color": "",
             "size": "",
             "price": 5,
@@ -638,7 +638,7 @@
         {
             "sku": "24-WG088",
             "name": "Sprite Foam Roller",
-            "category": "products:gear:fitness",
+            "category": "equipment:gear:fitness",
             "color": "",
             "size": "",
             "price": 19,
@@ -650,7 +650,7 @@
         {
             "sku": "Luma-24-WG085",
             "name": "Sprite Yoga Straps",
-            "category": "products:gear:fitness",
+            "category": "equipment:gear:fitness",
             "color": "",
             "size": "",
             "price": 52,
@@ -662,7 +662,7 @@
         {
             "sku": "24-MG01",
             "name": "Endurance Watch",
-            "category": "products:gear:watches",
+            "category": "equipment:gear:watches",
             "color": "",
             "size": "",
             "price": 49,
@@ -674,7 +674,7 @@
         {
             "sku": "24-MG02",
             "name": "Dash Digital Watch",
-            "category": "products:gear:watches",
+            "category": "equipment:gear:watches",
             "color": "",
             "size": "",
             "price": 92,
@@ -686,7 +686,7 @@
         {
             "sku": "24-MG03",
             "name": "Summit Watch",
-            "category": "products:gear:watches",
+            "category": "equipment:gear:watches",
             "color": "",
             "size": "",
             "price": 54,
@@ -698,7 +698,7 @@
         {
             "sku": "24-MG04",
             "name": "Aim Analog Watch",
-            "category": "products:gear:watches",
+            "category": "equipment:gear:watches",
             "color": "",
             "size": "",
             "price": 45,
@@ -710,7 +710,7 @@
         {
             "sku": "24-MG05",
             "name": "Cruise Dual Analog Watch",
-            "category": "products:gear:watches",
+            "category": "equipment:gear:watches",
             "color": "",
             "size": "",
             "price": 55,
@@ -722,7 +722,7 @@
         {
             "sku": "24-WG01",
             "name": "Bolo Sport Watch",
-            "category": "products:gear:watches",
+            "category": "equipment:gear:watches",
             "color": "",
             "size": "",
             "price": 49,
@@ -734,7 +734,7 @@
         {
             "sku": "24-WG02",
             "name": "Didi Sport Watch",
-            "category": "products:gear:watches",
+            "category": "equipment:gear:watches",
             "color": "",
             "size": "",
             "price": 99,
@@ -746,7 +746,7 @@
         {
             "sku": "24-WG03",
             "name": "Clamber Watch",
-            "category": "products:gear:watches",
+            "category": "equipment:gear:watches",
             "color": "",
             "size": "",
             "price": 54,
@@ -759,7 +759,7 @@
         {
             "sku": "24-WG09",
             "name": "Luma Analog Watch",
-            "category": "products:gear:watches",
+            "category": "equipment:gear:watches",
             "color": "",
             "size": "",
             "price": 43,
