@@ -1,9 +1,9 @@
 {
     "config": {
-        "tenant": "_adobeamericaspot4",
-        "sandbox": "test-sandbox-1",
-        "datasetId": "64a53ee35141a01c72d8f794",
-        "datastreamId": "1feb48cc-03f1-4606-b394-5eecb1ca117b",
+        "tenant": "_techmarketingdemos",
+        "sandbox": "mobile-and-web-sdk-courses",
+        "datasetId": "64ba5bc041ddf31ca9364aae",
+        "datastreamId": "36ce7dc5-27e9-4c1a-b9b2-4ea45e1db84f",
         "showProducts": true,
         "showPersonalisation": true,
         "showPersonalisationDirect": false,
