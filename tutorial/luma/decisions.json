@@ -9,15 +9,9 @@
     "scopes": [
         {
             "name": "Amsiossa - Luma Push Notification Decision",
-            "activityId": "xcore:offer-activity:163768bdc9b9cbc9",
-            "placementId": "xcore:offer-placement:16371e6c29484935",
+            "activityId": "xcore:offer-activity:177cdaa5e1fd589d",
+            "placementId": "xcore:offer-placement:13a3b264ce69bb14",
             "itemCount": 2
-        },
-        {
-            "name": "Amsiossa - Luma Another Push Notification Decision",
-            "activityId": "xcore:offer-activity:16483b8375bac939",
-            "placementId": "xcore:offer-placement:16371e6c29484935",
-            "itemCount": 1
         }
     ]
 }

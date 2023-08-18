@@ -15,7 +15,7 @@
     },
     "customer": {
         "name": "Luma",
-        "logo": "https://contentviewer.s3.amazonaws.com/helium/luma-logo01.png",
+        "logo": "https://luma.enablementadobe.com/content/dam/luma/en/logos/Luma_Logo.png",
         "productsType": "Products",
         "productsSystemImage": "cart",
         "currency": "€"
@@ -35,7 +35,7 @@
         }
     },
     "target": {
-        "location": "amsiossa-luma"
+        "location": "luma-app"
     },
     "map": {
         "latitude": 52.37109,
