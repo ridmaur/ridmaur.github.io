@@ -35,7 +35,7 @@
         }
     },
     "target": {
-        "location": "luma-app"
+        "location": "luma-mobileapp-abtest"
     },
     "map": {
         "latitude": 52.37109,
