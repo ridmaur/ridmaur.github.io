@@ -29,7 +29,7 @@
     },
     "testPush": {
         "name": "Mobile App Test Push",
-        "eventType": "mobileapp.testpush",
+        "eventType": "application.test",
         "orchestration": {
             "eventID": "cb9c8fc3d86043a55e1e3f8039265b4fe87f6ce4ba729a3c3ee1013225651924"
         }
