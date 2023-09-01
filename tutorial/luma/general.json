@@ -7,8 +7,8 @@
         "showProducts": true,
         "showPersonalisation": true,
         "showPersonalisationDirect": false,
-        "showGeofences": false,
-        "showBeacons": false,
+        "showGeofences": true,
+        "showBeacons": true,
         "ldap": "rmaur",
         "emailDomain": "adobe.com",
         "tms": "AEP Data Collection"
