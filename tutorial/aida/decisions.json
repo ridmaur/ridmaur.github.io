@@ -1,0 +1,17 @@
+{
+    "containerId": "4fcd6362-1132-32e5-b895-1a11cead8d0f",
+    "accessToken": "eyJhbGciOiJSUzI1NiIsIng1dSI6Imltc19uYTEta2V5LWF0LTEuY2VyIiwia2lkIjoiaW1zX25hMS1rZXktYXQtMSIsIml0dCI6ImF0In0.eyJpZCI6IjE2Nzk5MjQ3NjYxMTlfZmU2MDJhMzYtYTQwMS00MmVlLWFlYjEtNWVjYWI2MDhlZmI4X2V3MSIsInR5cGUiOiJhY2Nlc3NfdG9rZW4iLCJjbGllbnRfaWQiOiJkYjcyYzVjYWZiMzQ0ODJlYWViMTQyOTJlZmQ4MDM2MCIsInVzZXJfaWQiOiIxMTdCMzMxMjYyMUUzRTQzMEE0OTVGQjBAdGVjaGFjY3QuYWRvYmUuY29tIiwic3RhdGUiOiJ7XCJzZXNzaW9uXCI6XCJodHRwczovL2ltcy1uYTEuYWRvYmVsb2dpbi5jb20vaW1zL3Nlc3Npb24vdjEvT1RWbU9HWmhPVEl0WkdRMk15MDBZVEpoTFdFMFlqTXRZV1V4TWpjM00yTmtNekV6TFMweE1UZENNek14TWpZeU1VVXpSVFF6TUVFME9UVkdRakJBZEdWamFHRmpZM1F1WVdSdlltVXVZMjl0XCJ9IiwiYXMiOiJpbXMtbmExIiwiYWFfaWQiOiIxMTdCMzMxMjYyMUUzRTQzMEE0OTVGQjBAdGVjaGFjY3QuYWRvYmUuY29tIiwiY3RwIjozLCJmZyI6IlhKNFBVTE40SFBON05QNEtFTVFWWlBRQUxRPT09PT09IiwibW9pIjoiN2E2MTYxYjQiLCJleHBpcmVzX2luIjoiODY0MDAwMDAiLCJjcmVhdGVkX2F0IjoiMTY3OTkyNDc2NjExOSIsInNjb3BlIjoib3BlbmlkLHNlc3Npb24sQWRvYmVJRCxyZWFkX29yZ2FuaXphdGlvbnMsYWRkaXRpb25hbF9pbmZvLnByb2plY3RlZFByb2R1Y3RDb250ZXh0In0.fBdopZS2A7K3HmhywonCyKpJKyB0NId4C4UsaGhLcMUKZyNf9NVDvRiRIDyJ2-250wzXazBTR2z1Je7wwgnG8xIFQ9Z9O_FYQm1qqAOTbGYzSObdFJNIwicdBPBLRcvlJprQu4w7BLSvJEST4wwwDkvDpv-4y7tz6EnPky2YuqkMfaVIl43JyvvV3mPU5SERk7pbq9C3L_A-ke537RvUt3Bd_YSpkBhtDfygK8OWVFP6PtpoB68HqRSLstqz8n1ugHmDk94wIgLmmeiovZFCkibtjG9tCYnLcNtI5jKUR773ll9GXPccMOgGGbNliTrXAaInn5msPFHllW3_2I229Q",
+    "apiKey": "db72c5cafb34482eaeb14292efd80360",
+    "orgId": "6BB915785DE67ED10A495E68@AdobeOrg",
+    "allowDuplicatesAcrossActivities": true,
+    "allowDuplicatesAcrossPlacements": true,
+    "dryRun": true,
+    "scopes": [
+        {
+            "name": "luma - Mobile App Decision",
+            "activityId": "xcore:offer-activity:177cdaa5e1fd589d",
+            "placementId": "xcore:offer-placement:13a3b264ce69bb14",
+            "itemCount": 2
+        }
+    ]
+}

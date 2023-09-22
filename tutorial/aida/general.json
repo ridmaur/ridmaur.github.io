@@ -1,0 +1,36 @@
+{
+    "config": {
+        "tenant": "_techmarketingdemos",
+        "sandbox": "mobile-and-web-sdk-courses",
+        "datasetId": "64ba5bc041ddf31ca9364aae",
+        "datastreamId": "36ce7dc5-27e9-4c1a-b9b2-4ea45e1db84f",
+        "showProducts": true,
+        "showPersonalisation": true,
+        "showPersonalisationDirect": false,
+        "showGeofences": true,
+        "showBeacons": true,
+        "ldap": "testUser",
+        "emailDomain": "gmail.com",
+        "tms": "AEP Data Collection"
+    },
+    "customer": {
+        "name": "AIDA",
+        "logo": "https://aida.de/content/experience-fragments/aida/deutschland/de/footer/master/_jcr_content/root/container_156817019/container/container/image.coreimg.85.1600.png/1687979364828/aidalogo.png",
+        "productsType": "Cruises",
+        "productsSystemImage": "ferry",
+        "currency": "€"
+    },
+    "testPush": {
+        "name": "Mobile App Test Push",
+        "eventType": "application.test"
+    },
+    "target": {
+        "location": "luma-mobileapp-abtest"
+    },
+    "map": {
+        "latitude": 52.37109,
+        "longitude": 4.8919,
+        "zoom": 2
+    }
+}
+
