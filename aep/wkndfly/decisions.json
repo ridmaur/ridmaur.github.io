@@ -9,8 +9,8 @@
     "dryRun": true,
     "decisionScopes": [
         {
-            "name": "luma - Mobile App Decision",
-            "activityId": "xcore:offer-activity:177cdaa5e1fd589d",
+            "name": "WKND Fly - Mobile App Decision",
+            "activityId": "xcore:offer-activity:17fb5d73f8ff4a6d",
             "placementId": "xcore:offer-placement:13a3b264ce69bb14",
             "itemCount": 2
         }
