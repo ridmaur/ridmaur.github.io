@@ -1,0 +1,95 @@
+{
+    "products": [
+        {
+            "sku": "AMS-LHR",
+            "name": "Amsterdam - London Heathrow",
+            "category": "flights:europe",
+            "color": "",
+            "size": "",
+            "price": 70,
+            "description": "Friday December 1. Departs at 08:15 / Arrived at 09:45.",
+            "imageUrl": "https://t4.ftcdn.net/jpg/02/57/75/51/240_F_257755130_JgTlcqTFxabsIKgIYLAhOFEFYmNgwyJ6.jpg",
+            "url": "https://dsn.adobe.com/web/wknd-fly/home",
+            "stockQuantity": 0,
+            "featured": true
+        },
+        {
+            "sku": "WAS-CDG",
+            "name": "Warsaw - Paris Charles de Gaulle",
+            "category": "flights:europe",
+            "color": "",
+            "size": "",
+            "price": 180,
+            "description": "Friday December 1. Departs at 09:05 / Arrived at 13:30.",
+            "imageUrl": "https://t4.ftcdn.net/jpg/02/96/15/35/240_F_296153501_B34baBHDkFXbl5RmzxpiOumF4LHGCvAE.jpg",
+            "url": "https://dsn.adobe.com/web/wknd-fly/home",
+            "stockQuantity": 0,
+            "featured": true
+        },
+        {
+            "sku": "AMS-WAW-1",
+            "name": "Amsterdam - Warsaw",
+            "category": "flights:europe",
+            "color": "",
+            "size": "",
+            "price": 105,
+            "description": "Friday December 1. Departs at 11:35 / Arrived at 15:25.",
+            "imageUrl": "https://t3.ftcdn.net/jpg/03/71/83/54/240_F_371835433_gDwn3pKqDhxODpLeGScBhUhVIfDtyrgV.jpg",
+            "url": "https://dsn.adobe.com/web/wknd-fly/home",
+            "stockQuantity": 0,
+            "featured": true
+        },
+        {
+            "sku": "AMS-WAW-2",
+            "name": "Amsterdam - Warswa",
+            "category": "flights:europe",
+            "color": "",
+            "size": "",
+            "price": 120,
+            "description": "Friday December 1. Departs at 15:40 / Arrived at 19:30.",
+            "imageUrl": "https://t4.ftcdn.net/jpg/01/13/60/45/240_F_113604536_p8Koxo80FEJCFUwgVEfr7Nr59WHyWx2B.jpg",
+            "url": "https://dsn.adobe.com/web/wknd-fly/home",
+            "stockQuantity": 0,
+            "featured": true
+        },
+        {
+            "sku": "LHR-CDG",
+            "name": "London Heathrow - Paris Charles de Gaulle",
+            "category": "flights:europe",
+            "color": "",
+            "size": "",
+            "price": 1300,
+            "description": "Friday December 1. Departs at 08:30 / Arrived at 10:00.",
+            "imageUrl": "https://t4.ftcdn.net/jpg/02/57/75/51/240_F_257755130_JgTlcqTFxabsIKgIYLAhOFEFYmNgwyJ6.jpg",
+            "url": "https://dsn.adobe.com/web/wknd-fly/home",
+            "stockQuantity": 0,
+            "featured": true
+        },
+        {
+            "sku": "AMS-JFK",
+            "name": "Amsterdam - New York John F. Kennedy",
+            "category": "flights:intercontinental",
+            "color": "",
+            "size": "",
+            "price": 810,
+            "description": "Friday December 1. Departs at 11:35 / Arrived at 19:40.",
+            "imageUrl": "https://t3.ftcdn.net/jpg/01/67/47/60/240_F_167476076_QUloGN9kciwitQKjExQFkAhzAskGNHte.jpg",
+            "url": "https://dsn.adobe.com/web/wknd-fly/home",
+            "stockQuantity": 0,
+            "featured": true
+        },
+        {
+            "sku": "WAW-DEL",
+            "name": "Warsaw - Delhi",
+            "category": "flights:intercontinental",
+            "color": "",
+            "size": "",
+            "price": 920,
+            "description": "Friday December 1. Departs at 02:30 / Arrived at 21:45.",
+            "imageUrl": "https://t4.ftcdn.net/jpg/02/38/73/29/240_F_238732964_mokJEyovKXrtbJl04rgFu5cOER6jW6c9.jpg",
+            "url": "https://dsn.adobe.com/web/wknd-fly/flights?from=AMS&to=LHR&date=2023-11-23T23%3A00%3A00Z",
+            "stockQuantity": 0,
+            "featured": true
+        }
+    ]
+}
