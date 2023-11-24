@@ -8,7 +8,20 @@
             "size": "",
             "price": 70,
             "description": "Amsterdam - London Heathrow. Friday December 1, 2023. Departs at 08:15 / Arrives at 09:45.",
-            "imageUrl": "https://t4.ftcdn.net/jpg/02/57/75/51/240_F_257755130_JgTlcqTFxabsIKgIYLAhOFEFYmNgwyJ6.jpg",
+            "imageUrl": "https://ridmaur.github.io/aep/wkndfly/images/lhr.jpg",
+            "url": "https://dsn.adobe.com/web/wknd-fly/home",
+            "stockQuantity": 0,
+            "featured": true
+        },
+        {
+            "sku": "JFK-AMS",
+            "name": "JFK-AMS",
+            "category": "flights:intercontinental",
+            "color": "",
+            "size": "",
+            "price": 70,
+            "description": "New York John F. Kennedy - Amsterdam Schiphol. Friday December 1, 2023. Departs at 09:15 / Arrives at 19:45.",
+            "imageUrl": "https://ridmaur.github.io/aep/wkndfly/images/ams.jpg",
             "url": "https://dsn.adobe.com/web/wknd-fly/home",
             "stockQuantity": 0,
             "featured": true
@@ -21,7 +34,7 @@
             "size": "",
             "price": 180,
             "description": "Warwaw - Paris Charles de Gaulle. Friday December 1, 2023. Departs at 09:05 / Arrives at 13:30.",
-            "imageUrl": "https://t4.ftcdn.net/jpg/02/96/15/35/240_F_296153501_B34baBHDkFXbl5RmzxpiOumF4LHGCvAE.jpg",
+            "imageUrl": "https://ridmaur.github.io/aep/wkndfly/images/cdg.jpg",
             "url": "https://dsn.adobe.com/web/wknd-fly/home",
             "stockQuantity": 0,
             "featured": false
@@ -34,7 +47,7 @@
             "size": "",
             "price": 105,
             "description": "Amsterdam - Warsaw. Friday December 1, 2023. Departs at 11:35 / Arrives at 15:25.",
-            "imageUrl": "https://t3.ftcdn.net/jpg/03/71/83/54/240_F_371835433_gDwn3pKqDhxODpLeGScBhUhVIfDtyrgV.jpg",
+            "imageUrl": "https://ridmaur.github.io/aep/wkndfly/images/waw.jpg",
             "url": "https://dsn.adobe.com/web/wknd-fly/home",
             "stockQuantity": 0,
             "featured": false
@@ -47,7 +60,7 @@
             "size": "",
             "price": 120,
             "description": "Amsterdam - Warswaw. Friday December 1, 2023. Departs at 15:40 / Arrives at 19:30.",
-            "imageUrl": "https://t4.ftcdn.net/jpg/01/13/60/45/240_F_113604536_p8Koxo80FEJCFUwgVEfr7Nr59WHyWx2B.jpg",
+            "imageUrl": "https://ridmaur.github.io/aep/wkndfly/images/waw.jpg",
             "url": "https://dsn.adobe.com/web/wknd-fly/home",
             "stockQuantity": 0,
             "featured": true
@@ -60,7 +73,7 @@
             "size": "",
             "price": 1300,
             "description": "London Heathrow - Paris Charles de Gaulle. Friday December 1, 2023. Departs at 08:30 / Arrives at 10:00.",
-            "imageUrl": "https://t4.ftcdn.net/jpg/02/57/75/51/240_F_257755130_JgTlcqTFxabsIKgIYLAhOFEFYmNgwyJ6.jpg",
+            "imageUrl": "https://ridmaur.github.io/aep/wkndfly/images/cdg.jpg",
             "url": "https://dsn.adobe.com/web/wknd-fly/home",
             "stockQuantity": 0,
             "featured": false
@@ -73,7 +86,7 @@
             "size": "",
             "price": 810,
             "description": "Amsterdam - New York John F. Kennedy. Friday December 1, 2023. Departs at 11:35 / Arrives at 19:40.",
-            "imageUrl": "https://t3.ftcdn.net/jpg/01/67/47/60/240_F_167476076_QUloGN9kciwitQKjExQFkAhzAskGNHte.jpg",
+            "imageUrl": "https://ridmaur.github.io/aep/wkndfly/images/jfk.jpg",
             "url": "https://dsn.adobe.com/web/wknd-fly/home",
             "stockQuantity": 0,
             "featured": true
@@ -86,7 +99,7 @@
             "size": "",
             "price": 920,
             "description": "Warsaw - New Delhi. Friday December 1, 2023. Departs at 02:30 / Arrives at 21:45.",
-            "imageUrl": "https://t4.ftcdn.net/jpg/02/38/73/29/240_F_238732964_mokJEyovKXrtbJl04rgFu5cOER6jW6c9.jpg",
+            "imageUrl": "https://ridmaur.github.io/aep/wkndfly/images/del.jpg",
             "url": "https://dsn.adobe.com/web/wknd-fly/flights?from=AMS&to=LHR&date=2023-11-23T23%3A00%3A00Z",
             "stockQuantity": 0,
             "featured": false
