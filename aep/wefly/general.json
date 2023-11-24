@@ -1,19 +1,19 @@
 {
     "config": {
-        "tenant": "_adobeamericaspot4",
-        "sandbox": "test-sandbox-1",
+        "tenant": "_techmarketingdemos",
+        "sandbox": "mobile-and-web-sdk-courses",
         "showProducts": true,
         "showPersonalisation": true,
-        "showPersonalisationDirect": true,
+        "showPersonalisationDirect": false,
         "showGeofences": true,
-        "showBeacons": true,
-        "ldap": "rmaur",
-        "emailDomain": "adobe.com",
+        "showBeacons": false,
+        "ldap": "testUser",
+        "emailDomain": "gmail.com",
         "tms": "AEP Data Collection"
     },
     "customer": {
-        "name": "Luma (Amsiossa)",
-        "logo": "https://contentviewer.s3.amazonaws.com/helium/luma-logo01.png",
+        "name": "Luma",
+        "logo": "https://luma.enablementadobe.com/content/dam/luma/en/logos/Luma_Logo.png",
         "productsType": "Products",
         "productsSystemImage": "cart",
         "currency": "€"
@@ -23,7 +23,7 @@
         "eventType": "application.test"
     },
     "target": {
-        "location": "amsiossa-luma"
+        "location": "luma-mobileapp-abtest"
     },
     "map": {
         "latitude": 52.37109,
