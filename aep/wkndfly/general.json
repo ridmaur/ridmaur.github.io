@@ -4,9 +4,9 @@
         "sandbox": "mobile-and-web-sdk-courses",
         "showProducts": true,
         "showPersonalisation": true,
-        "showPersonalisationDirect": false,
+        "showPersonalisationDirect": true,
         "showGeofences": true,
-        "showBeacons": false,
+        "showBeacons": true,
         "ldap": "testUser",
         "emailDomain": "gmail.com",
         "tms": "AEP Data Collection"
