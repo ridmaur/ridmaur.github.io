@@ -23,7 +23,7 @@
         "eventType": "application.test"
     },
     "target": {
-        "location": "luma-mobileapp-abtest"
+        "location": "luma-mobileapp-abtest-wkndfly"
     },
     "map": {
         "latitude": 52.37109,
