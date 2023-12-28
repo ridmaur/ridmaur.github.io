@@ -438,6 +438,21 @@
                     "id": 17,
                     "titolo": "Posso avere maggiori dettagli su artista, album, canzone?",
                     "testo": "Quando sei nei dettagli di una voce, tocca l'icona dell'occhio per vedere tutte le informazioni relative alla voce disponibili su Genius"
+                },
+                {
+                    "id": 18,
+                    "titolo": "Posso disobbligare la musica?",
+                    "testo": "L'app ha la funzionalità Shazam integrata. Usa la scheda Scopri per scoprire la musica e aggiungerla rapidamente alle tue raccolte."
+                },
+                {
+                    "id": 19,
+                    "titolo": "Posso spostare velocemente le voci in une classifiche?",
+                    "text": "Nei classifiche di grandi dimensioni, puoi scorrere una voce verso destra, selezionare il pulsante coniglio e utilizzare la finestra di dialogo Spostamento rapido per spostare rapidamente una voce in un'altra posizione."
+                },
+                {
+                    "id": 20,
+                    "titolo": "Posso importare le classifiche da un servizio musicale?",
+                    "text": "Solo Apple Music supporta l'importazione di classifiche. Quando utilizzi Apple Music come servizio musicale, puoi importare le classifiche di Apple Music nella tua collezione."
                 }
             ]
         },

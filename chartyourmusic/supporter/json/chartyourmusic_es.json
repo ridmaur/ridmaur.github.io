@@ -485,6 +485,21 @@
                     "id": 8,
                     "title": "Best-in-Class iOS App",
                     "text": "The [Best-in-Class iOS App](https://www.bestinclassiosapp.com) is is a living, breathing document that's continually updated by Jordan Morgan."
+                },
+                {
+                    "id": 18,
+                    "title": "¿Puedo recuperar música?",
+                    "text": "La aplicación tiene incorporada la función Shazam. Utiliza la pestaña Descubrir para descubrir música y añadirla rápidamente a tus colecciones."
+                },
+                {
+                    "id": 19,
+                    "title": "¿Puedo mover rápidamente las entradas de un listas?",
+                    "text": "En los listas grandes, puedes deslizar una entrada hacia la derecha, seleccionar el botón del conejo y utilizar el cuadro de diálogo Mover rápido para mover rápidamente una entrada a otra posición."
+                },
+                {
+                    "id": 20,
+                    "title": "¿Puedo importar listas de un servicio de música?",
+                    "text": "Sólo Apple Music admite la importación de listas de éxitos. Si utilizas Apple Music como servicio de música, puedes importar las listas de éxitos de Apple Music a tu colección."
                 }
             ]
         },

@@ -438,6 +438,21 @@
                     "id" : 17,
                     "title" : "Puis-je obtenir plus de détails sur l'artiste, l'album, la chanson ?",
                     "text" : "Lorsque vous êtes dans les détails d'une entrée, appuyez sur l'icône de l'œil pour voir toutes les informations liées à l'entrée telles qu'elles sont disponibles sur Genius."
+                },
+                {
+                    "id" : 18,
+                    "title" : " Est-ce que je peux découvrir de la musique ? ",
+                    "text" : "L'appli dispose d'une fonctionnalité Shazam intégrée. Utilise l'onglet Découvrir pour découvrir de la musique et l'ajouter rapidement à tes collections."
+                },
+                {
+                    "id" : 19,
+                    "title" : "Puis-je déplacer rapidement des entrées dans un graphique ?",
+                    "text" : "Dans les grands listes, tu peux faire glisser une entrée vers la droite, sélectionner le bouton de lapin et utiliser la boîte de dialogue Fast Move pour déplacer rapidement une entrée vers une autre position."
+                },
+                {
+                    "id" :20,
+                    "title" : "Puis-je importer des charts à partir d'un service musical ?",
+                    "text" : "Seul Apple Music prend en charge l'importation de chartes. Lorsque tu utilises Apple Music en tant que service musical, tu peux importer les charts d'Apple Music dans ta collection."
                 }
             ]
         },

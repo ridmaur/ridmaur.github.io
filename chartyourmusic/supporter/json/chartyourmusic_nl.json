@@ -438,6 +438,21 @@
                     "id": 17,
                     "title": "Kan ik meer details krijgen over artiest, album, liedje?",
                     "text": "Tik in de details van een vermelding op het oogpictogram om alle informatie over de vermelding zoals beschikbaar op Genius te zien."
+                },
+                {
+                    "id": 18,
+                    "title": "Kan ik muziek disoveren?",
+                    "text": "De app heeft Shazam-functionaliteit ingebouwd. Gebruik het tabblad Ontdekken om muziek te ontdekken en snel toe te voegen aan je collecties."
+                },
+                {
+                    "id": 19,
+                    "title": "Kan ik items in een lijst snel verplaatsen?",
+                    "text": "In grote lijsten kun je een item naar rechts vegen, de 'konijn' knop selecteren en het dialoogvenster Snel verplaatsen gebruiken om een item snel naar een andere positie te verplaatsen."
+                },
+                {
+                    "id": 20,
+                    "title": "Kan ik hitlijsten importeren van een muziekservice?",
+                    "text": "Alleen Apple Music ondersteunt het importeren van hitlijsten. Als je Apple Music als muziekdienst gebruikt, kun je Apple Music lijsten importeren in je verzameling."
                 }
             ]
         },

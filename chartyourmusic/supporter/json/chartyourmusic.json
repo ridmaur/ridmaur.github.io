@@ -438,6 +438,21 @@
                     "id": 17,
                     "title": "Can I get more details about artist, album, song?",
                     "text": "When in the details of an entry, tap the eye icon to see all information related to the entry as available on Genius."
+                },
+                {
+                    "id": 18,
+                    "title": "Can I disover music?",
+                    "text": "The app has Shazam functionality built-in. Use the Discover tab to discover music and rapidly add it to your collections."
+                },
+                {
+                    "id": 19,
+                    "title": "Can I fast move entries in a chart?",
+                    "text": "In large charts, you can swipe an entry to the right, select the rabbit button and use the Fast Move dialog to fast move an entry to another position."
+                },
+                {
+                    "id": 20,
+                    "title": "Can I import charts from a music service?",
+                    "text": "Only Apple Music supports importing chart. When using Apple Music as a music service, you can import Apple Music charts to your collection."
                 }
             ]
         },
