@@ -209,7 +209,7 @@
                         {
                             "id": 0,
                             "title": "Visualizza o modifica una collezione",
-                            "subtitle": "Tocca **Lizza** nella barra delle schede. Tocca la raccolta che vuoi visualizzare o modificare. Tocca l'intestazione (con la data della raccolta). Verrà visualizzata la schermata **Riassunto delle voci** in cui potrai classificare e cercare tutte le voci della raccolta. Tocca **…* e poi **Modifica** per modificare i dettagli della raccolta.",
+                            "subtitle": "Tocca **Lizza** nella barra delle schede. Tocca la raccolta che vuoi visualizzare o modificare. Tocca l'intestazione (con la data della raccolta). Verrà visualizzata la schermata **Riassunto delle voci** in cui potrai classificare e cercare tutte le voci della raccolta. Tocca **…** e poi **Modifica** per modificare i dettagli della raccolta.",
                             "videoURL": "https://ridmaur.github.io/chartyourmusic/supporter/videos/vieweditcollection_white.mp4",
                             "darkVideoURL": "https://ridmaur.github.io/chartyourmusic/supporter/videos/vieweditcollection_black.mp4"
                         },
@@ -532,6 +532,21 @@
                     "id": 7,
                     "title": "CloudkitSyncMonitor",
                     "text": "A [Swift Package](https://github.com/ggruen/CloudKitSyncMonitor) to provide user feedback and monitoring on CloudKit syncing."
+                },
+                {
+                    "id": 8,
+                    "title": "ColorKit",
+                    "text": "[ColorKit](https://github.com/Boris-Em/ColorKit) is your companion to work with colors on iOS."
+                },
+                {
+                    "id": 9,
+                    "title": "CustomAlert",
+                    "text": "[CustomAlert](https://github.com/divadretlaw/CustomAlert) extends the default iOS Alert with images and other controls. Used for rapidly moving entries within big charts."
+                },
+                {
+                    "id": 10,
+                    "title": "SDWebImage / SDWebImageSwiftUI",
+                    "text": "[SDWebImage and SDWebImageSwiftUI](https://github.com/SDWebImage/SDWebImage) is an async image downloader with cache support. Ensures all the artwork is readily available in the app."
                 }
             ]
         }
@@ -549,13 +564,6 @@
                 },
                 {
                     "id": 1,
-                    "title": "Twitter",
-                    "url": "twitter://user?screen_name=chartyourmusic",
-                    "imageName": "message",
-                    "color": 0
-                },
-                {
-                    "id": 2,
                     "title": "Sito web",
                     "url": "https://www.chartyourmusic.com",
                     "imageName": "globe",
@@ -590,6 +598,86 @@
                 {
                     "id": 4,
                     "releaseNote": "Supporto per un gran numero di nuove funzionalità di iOS 15."
+                },
+                {
+                    "id": 5,
+                    "releaseNote": "1.1.1: Bug fixes to improve the reliability and performance of the app."
+                },
+                {
+                    "id": 6,
+                    "releaseNote": "1.1.2: Small updates: Using separator when showing large numbers in tiles (e.g. 10.615 instead of 10615). Entries in Pick Existing Entry sheet by now by default sorted on date rather than alphabetical. Notification in About Screen about potential updated version available in App Store."
+                },
+                {
+                    "id": 7,
+                    "releaseNote": "1.1.3: For everyone: Small (bug) fixes. If you're on iOS 16: Interactive graph showing the position of an entry; just swipe across the graph in the Entry Detail view and a lollipop will provide details about date, position and points. Support for Lock Screen widget."
+                },
+                {
+                    "id": 8,
+                    "releaseNote": "1.1.4: Details of a chart can now be shared directly from the chart itself using the iOS Share functionality. For Instagram specifically, you can now easily create a story or post which automatically contains the artwork of number 1 in your chart and allows you to paste additional details as text. Re-entries in a chart are now identified by using a different symbol for the previous week, rather than the same symbol for brand new entries. Fixed a bug introduced with iPadOS 16.1, where switching between two- or three panes in the UI resulted in an app crash."
+                },
+                {
+                    "id": 9,
+                    "releaseNote": "1.1.5: Added sharing feature to the collection overview, so you can now share your favourite music albums, tracks, much like but way more accurate (obviously) than Spotify Wrapped or Apple Music Replay... Prevent creating duplicate entries when searching for music and selecting an entry that already exists in the collection. NOTE: This will be the last version supporting iOS 15; subsequent versions will require iOS 16."
+                },
+                {
+                    "id": 10,
+                    "releaseNote": "1.1.6: This is merely an update to fully support iOS 16 (and drop support for older versions), and the newly introduced navigation unctionality introduced with it. As a result, major bugs with iPad navigation in iOS 16 should have been solved. Also fixed a number of minor bugs."
+                },
+                {
+                    "id": 11,
+                    "releaseNote": "1.1.8: You can now (automatic) love / like tracks, songs, albums and it will be synced with Apple Music or Spotify, most likely resulting in better recommendations. Average position of an entry is now visible in the graph of an entry and you can view and sort on it in the overview of a collection. Introduction of push notifications. So we can occasionally inform you about anything interesting regarding the app. Widgets are enhanced to use the best text colour on top of the artwork. You can change the app icon from its default to a darker version.."
+                },
+                {
+                    "id": 12,
+                    "releaseNote": "1.1.9: Minor fix: Enabled smart text colour on widgets (accidentally disabled in previous version). All new features from previous version: You can now (automatic) love / like tracks, songs, albums and it will be synced with Apple Music or Spotify, most likely resulting in better recommendations. The average position of an entry is now visible in the graph of an entry and you can view and sort on it in the overview of a collection. Introduction of push notifications. So we can occasionally inform you about anything interesting regarding the app. Widgets are enhanced to use the best text colour on top of the artwork. You can change the app icon from its default to a darker version."
+                },
+                {
+                    "id": 13,
+                    "releaseNote": "1.1.10: Major fix: Fixed a crash when creating a collection. Minor fix: Enabled smart text color on widgets (accidentally disabled in previous version). All new features from previous version: You can now (automatic) love / like tracks, songs, albums and it will be synced with Apple Music or Spotify, most likely resulting in better recommendations. The average position of an entry is now visible in the graph of an entry and you can view and sort on it in the overview of a collection. Introduction of push notifications. So we can occasionally inform you about anything interesting regarding the app. Widgets are enhanced to use the best text colour on top of the artwork. You can change the app icon from its default to a darker version."
+                },
+                {
+                    "id": 14,
+                    "releaseNote": "1.1.11: New features: Implemented caching of artwork images to avoid artwork not showing when scrolling and on slower internet connections. Added possibility to update the artwork of an entry manually, overriding what is defined for an entry. This is especially relevant for blank entries and/or entries that can not be found in the selected music service."
+                },
+                {
+                    "id": 15,
+                    "releaseNote": "1.1.12: ChartYourMusic integrates with Genius. Through this integration, you can now find a vast amount of information about your entries in a chart, ranging from song details, album details (including cover-flow experience), up until artist details. You want to know who played the violin in that one track; you can figure out directly from the app. Graphs for entries in a collection with over 25 entries are vertically condensed in size, so you can still see them in one screen on an iPhone, rather than having to scroll. From the About screen you can easily access the app's System Settings. Bug fixes..."
+                },
+                {
+                    "id": 16,
+                    "releaseNote": "1.1.14: Support for Shazam! You can now discover new music by letting the app listening to what is playing around you. Once discovered, you can add the music items to one or more collections."
+                },
+                {
+                    "id": 17,
+                    "releaseNote": "1.1.15: Minor redesign of the Discover interface."
+                },
+                {
+                    "id": 18,
+                    "releaseNote": "1.1.16: Bug fixes::Editorial notes text field behaving correctly. Automatic refresh for Entry overview."
+                },
+                {
+                    "id": 19,
+                    "releaseNote": "1.1.18: Quick fix for widgets in iOS 17."
+                },
+                {
+                    "id": 20,
+                    "releaseNote": "1.1.19: Fixes for application bugs introduced with iOS 17. "
+                },
+                {
+                    "id": 21,
+                    "releaseNote": "1.1.20: Added subtle animations in details screens. Fixed a bug in update entry sheet."
+                },
+                {
+                    "id": 22,
+                    "releaseNote": "1.1.22: You can create your own Billboard Top 100, as the app now allows charts to consist of max 100 entries. You can quickly move an entry across many positions. Simply swipe an entry to the right, select the Fast Move (Rabbit) button and enter the new position. Fixed a bug with widgets."
+                },
+                {
+                    "id": 23,                  
+                    "releaseNote": "1.1.24:  Symbols are now used in the app to distinguish between songs/tracks and albums."
+                },
+                {
+                    "id": 24,                  
+                    "releaseNote": "1.1.26:  If you are using Apple Music as the music service in the app, you can now import Apple Music chart playlists (like the Top 100 and City Top 25) into a collection. So, aside from using the app to keep track of the music YOU love... over time..., you can now also record the musical preferences of one or more countries or cities...  Just create a collection to store a country's or city's chart playlists and start importing the chart playlist for that country or city on a daily (or regular) schedule. NOTE: This will be the last version supporting iOS 16. Newer versions of the app do require iOS 17."
                 }
             ]
         }
