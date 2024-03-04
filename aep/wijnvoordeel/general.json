@@ -14,8 +14,8 @@
     "customer": {
         "name": "wijnvoordeel",
         "logo": "https://com825.adobedemo.com/media/logo/stores/2/logo_horizontaal_RGB_wijnvoordeel.png",
-        "productsType": "Flights",
-        "productsSystemImage": "airplane",
+        "productsType": "Products",
+        "productsSystemImage": "wineglass",
         "currency": "€"
     },
     "testPush": {
