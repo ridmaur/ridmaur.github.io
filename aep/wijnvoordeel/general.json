@@ -1,0 +1,33 @@
+{
+    "config": {
+        "tenant": "_demosystem",
+        "sandbox": "vgabriel",
+        "showProducts": true,
+        "showPersonalisation": true,
+        "showPersonalisationDirect": false,
+        "showGeofences": true,
+        "showBeacons": false,
+        "ldap": "pvanoosterho",
+        "emailDomain": "adobetest.com",
+        "tms": "AEP Data Collection"
+    },
+    "customer": {
+        "name": "wijnvoordeel",
+        "logo": "https://com825.adobedemo.com/media/logo/stores/2/logo_horizontaal_RGB_wijnvoordeel.png",
+        "productsType": "Flights",
+        "productsSystemImage": "airplane",
+        "currency": "€"
+    },
+    "testPush": {
+        "name": "Mobile App Test Push",
+        "eventType": "application.test"
+    },
+    "target": {
+        "location": "luma-mobileapp-abtest-wkndfly"
+    },
+    "map": {
+        "latitude": 52.37109,
+        "longitude": 4.8919,
+        "zoom": 2
+    }
+}

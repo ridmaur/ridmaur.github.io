@@ -1,0 +1,108 @@
+{
+    "products": [
+        {
+            "sku": "AMS-LHR",
+            "name": "AMS-LHR",
+            "category": "flights:europe",
+            "color": "",
+            "size": "",
+            "price": 70,
+            "description": "Amsterdam - London Heathrow. Friday December 1, 2023. Departs at 08:15 / Arrives at 09:45.",
+            "imageUrl": "https://ridmaur.github.io/aep/wkndfly/images/lhr.jpg",
+            "url": "https://dsn.adobe.com/web/wknd-fly/home",
+            "stockQuantity": 0,
+            "featured": true
+        },
+        {
+            "sku": "JFK-AMS",
+            "name": "JFK-AMS",
+            "category": "flights:intercontinental",
+            "color": "",
+            "size": "",
+            "price": 70,
+            "description": "New York John F. Kennedy - Amsterdam Schiphol. Friday December 1, 2023. Departs at 09:15 / Arrives at 19:45.",
+            "imageUrl": "https://ridmaur.github.io/aep/wkndfly/images/ams.jpg",
+            "url": "https://dsn.adobe.com/web/wknd-fly/home",
+            "stockQuantity": 0,
+            "featured": true
+        },
+        {
+            "sku": "WAS-CDG",
+            "name": "WAS-CDG",
+            "category": "flights:europe",
+            "color": "",
+            "size": "",
+            "price": 180,
+            "description": "Warwaw - Paris Charles de Gaulle. Friday December 1, 2023. Departs at 09:05 / Arrives at 13:30.",
+            "imageUrl": "https://ridmaur.github.io/aep/wkndfly/images/cdg.jpg",
+            "url": "https://dsn.adobe.com/web/wknd-fly/home",
+            "stockQuantity": 0,
+            "featured": false
+        },
+        {
+            "sku": "AMS-WAW-1",
+            "name": "AMS-WAW",
+            "category": "flights:europe",
+            "color": "",
+            "size": "",
+            "price": 105,
+            "description": "Amsterdam - Warsaw. Friday December 1, 2023. Departs at 11:35 / Arrives at 15:25.",
+            "imageUrl": "https://ridmaur.github.io/aep/wkndfly/images/waw.jpg",
+            "url": "https://dsn.adobe.com/web/wknd-fly/home",
+            "stockQuantity": 0,
+            "featured": false
+        },
+        {
+            "sku": "AMS-WAW-2",
+            "name": "AMS-WAW",
+            "category": "flights:europe",
+            "color": "",
+            "size": "",
+            "price": 120,
+            "description": "Amsterdam - Warswaw. Friday December 1, 2023. Departs at 15:40 / Arrives at 19:30.",
+            "imageUrl": "https://ridmaur.github.io/aep/wkndfly/images/waw.jpg",
+            "url": "https://dsn.adobe.com/web/wknd-fly/home",
+            "stockQuantity": 0,
+            "featured": true
+        },
+        {
+            "sku": "LHR-CDG",
+            "name": "LHR-CDG",
+            "category": "flights:europe",
+            "color": "",
+            "size": "",
+            "price": 1300,
+            "description": "London Heathrow - Paris Charles de Gaulle. Friday December 1, 2023. Departs at 08:30 / Arrives at 10:00.",
+            "imageUrl": "https://ridmaur.github.io/aep/wkndfly/images/cdg.jpg",
+            "url": "https://dsn.adobe.com/web/wknd-fly/home",
+            "stockQuantity": 0,
+            "featured": false
+        },
+        {
+            "sku": "AMS-JFK",
+            "name": "AMS-JFK",
+            "category": "flights:intercontinental",
+            "color": "",
+            "size": "",
+            "price": 810,
+            "description": "Amsterdam - New York John F. Kennedy. Friday December 1, 2023. Departs at 11:35 / Arrives at 19:40.",
+            "imageUrl": "https://ridmaur.github.io/aep/wkndfly/images/jfk.jpg",
+            "url": "https://dsn.adobe.com/web/wknd-fly/home",
+            "stockQuantity": 0,
+            "featured": true
+        },
+        {
+            "sku": "WAW-DEL",
+            "name": "WAW-DEL",
+            "category": "flights:intercontinental",
+            "color": "",
+            "size": "",
+            "price": 920,
+            "description": "Warsaw - New Delhi. Friday December 1, 2023. Departs at 02:30 / Arrives at 21:45.",
+            "imageUrl": "https://ridmaur.github.io/aep/wkndfly/images/del.jpg",
+            "url": "https://dsn.adobe.com/web/wknd-fly/flights?from=AMS&to=LHR&date=2023-11-23T23%3A00%3A00Z",
+            "stockQuantity": 0,
+            "featured": false
+        }
+    ]
+}
