@@ -29,7 +29,7 @@
         {
             "sku": "win-red-moulin",
             "name": "Château Le Grand Moulin Cuvée Prestige",
-            "category": "Wines:red",
+            "category": "wines:red",
             "color": "red",
             "size": "0.75",
             "price": 180,
@@ -42,7 +42,7 @@
         {
             "sku": "wine-red-viejo",
             "name": "Viejo y Magistral Reserva",
-            "category": "Wines:red",
+            "category": "wines:red",
             "color": "red",
             "size": "0.75",
             "price": 105,
@@ -55,7 +55,7 @@
         {
             "sku": "AMS-WAW-2",
             "name": "Calle Principal Sauvignon Blanc Edicion Limitada",
-            "category": "flights:europe",
+            "category": "wines:white",
             "color": "white",
             "size": "0.75",
             "price": 120,
