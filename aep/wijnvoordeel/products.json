@@ -3,7 +3,7 @@
         {
             "sku": "win-red-aluado",
             "name": "Aluado Reserva Alicante Bouschet",
-            "category": "Wines:red",
+            "category": "wines:red",
             "color": "red",
             "size": "0.75",
             "price": 70,
