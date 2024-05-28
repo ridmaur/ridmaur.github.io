@@ -1,0 +1,197 @@
+[
+    {
+        "id": "0",
+        "title": "Specify music service at collection.",
+        "localizedTitle": [
+            {
+                "language": "en",
+                "value": "Specify music service at collection."
+            },
+            {
+                "language": "en-GB",
+                "value": "Specify music service at collection."
+            },
+            {
+                "language": "de",
+                "value": "Bestimme den Musikdienst bei der Sammlung."
+            },
+            {
+                "language": "fr",
+                "value": "Spécifie le service de musique lors de la collecte."
+            },
+            {
+                "language": "es",
+                "value": "Especifica el servicio de música en la recogid."
+            },
+            {
+                "language": "it",
+                "value": "Specifica il servizio musicale al momento della raccolta."
+            },
+            {
+                "language": "nl",
+                "value": "Specificeer muziek dienst per verzameling."
+            }
+
+        ],
+        "status": "planned",
+        "localizedStatus": [
+            {
+                "language": "en",
+                "value": "Plannedd"
+            },
+            {
+                "language": "en-GB",
+                "value": "Planned"
+            },
+            {
+                "language": "de",
+                "value": "Geplant"
+            },
+            {
+                "language": "fr",
+                "value": "Prévu"
+            },
+            {
+                "language": "es",
+                "value": "Planificado"
+            },
+            {
+                "language": "it",
+                "value": "Planificato"
+            },
+            {
+                "language": "nl",
+                "value": "Gepland"
+            }
+        ],
+        "description": "On top of defining music service on app level also allow to specifcy music service (like Apple Music, Spotify) on an individual collection level…",
+        "localizedDescription": [
+            {
+                "language": "en",
+                "value": "On top of defining music service on app level also allow to specifcy music service (like Apple Music, Spotify) on an individual collection level…"
+            },
+            {
+                "language": "en-GB",
+                "value": "On top of defining music service on app level also allow to specifcy music service (like Apple Music, Spotify) on an individual collection level…"
+            },
+            {
+                "language": "de",
+                "value": "Zusätzlich zur Definition von Musikdiensten auf App-Ebene können Musikdienste (wie Apple Music, Spotify) auch auf Ebene der einzelnen Sammlungen festgelegt werden..."
+            },
+            {
+                "language": "fr",
+                "value": "En plus de définir le service musical au niveau de l'application, il faut aussi permettre de spécifier le service musical (comme Apple Music, Spotify) au niveau d'une collection individuelle..."
+            },
+            {
+                "language": "es",
+                "value": "Además de definir el servicio de música a nivel de aplicación, también permite especificar el servicio de música (como Apple Music, Spotify) a nivel de colección individual..."
+            },
+            {
+                "language": "it",
+                "value": "Oltre a definire il servizio musicale a livello di app, è possibile specificare il servizio musicale (come Apple Music, Spotify) a livello di singola collezione..."
+            },
+            {
+                "language": "nl",
+                "value": "Naast het definiëren van muziekdiensten op app-niveau, zou het ook mogelijk moeten zijn om muziekdiensten (zoals Apple Music, Spotify) per individuele verzameling te specificeren..."
+            }
+        ]
+    },
+    {
+        "id": "1",
+        "title": "Other music services",
+        "localizedTitle": [
+            {
+                "language": "en",
+                "value": "Other music services."
+            },
+            {
+                "language": "en-GB",
+                "value": "Other music services."
+            },
+            {
+                "language": "de",
+                "value": "Andere Musikdienste."
+            },
+            {
+                "language": "fr",
+                "value": "Autres services musicaux."
+            },
+            {
+                "language": "es",
+                "value": "Otros servicios musicales."
+            },
+            {
+                "language": "it",
+                "value": "Altri servizi musicali."
+            },
+            {
+                "language": "nl",
+                "value": "Andere muziekdiensten."
+            }
+
+        ],
+        "status": "planned",
+        "localizedStatus": [
+            {
+                "language": "en",
+                "value": "Plannedd"
+            },
+            {
+                "language": "en-GB",
+                "value": "Planned"
+            },
+            {
+                "language": "de",
+                "value": "Geplant"
+            },
+            {
+                "language": "fr",
+                "value": "Prévu"
+            },
+            {
+                "language": "es",
+                "value": "Planificado"
+            },
+            {
+                "language": "it",
+                "value": "Planificato"
+            },
+            {
+                "language": "nl",
+                "value": "Gepland"
+            }
+        ],
+        "description": "Support for music services like Deezer, Tidal, Youtube Music…",
+        "localizedDescription": [
+            {
+                "language": "en",
+                "value": "Support for music services like Deezer, Tidal, Youtube Music…"
+            },
+            {
+                "language": "en-GB",
+                "value": "Support for music services like Deezer, Tidal, Youtube Music…"
+            },
+            {
+                "language": "de",
+                "value": "Unterstützung für Musikdienste wie Deezer, Tidal, Youtube Music..."
+            },
+            {
+                "language": "fr",
+                "value": "Prise en charge des services musicaux comme Deezer, Tidal, Youtube Music..."
+            },
+            {
+                "language": "es",
+                "value": "Compatibilidad con servicios de música como Deezer, Tidal, Youtube Music..."
+            },
+            {
+                "language": "it",
+                "value": "Supporto per servizi musicali come Deezer, Tidal, Youtube Music..."
+            },
+            {
+                "language": "nl",
+                "value": "Ondersteuning voor muziekdiensten zoals Deezer, Tidal, Youtube Music..."
+            }
+        ]
+    }
+]
+
