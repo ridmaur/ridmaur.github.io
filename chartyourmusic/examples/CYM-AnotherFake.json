@@ -1,0 +1,1368 @@
+[
+  {
+    "archived" : false,
+    "entries" : [
+      {
+        "notes" : "To listen to music, tap Play. In the chart itself, long press the artwork.",
+        "id" : "12",
+        "artwork" : "https:\/\/ridmaur.github.io\/chartyourmusic\/examples\/covers\/12.png",
+        "musicService" : "iTunes",
+        "artist" : "Gordon Sperch",
+        "date" : "2022-01-02T00:00:00Z",
+        "preview" : "",
+        "title" : "Modern Reflection"
+      },
+      {
+        "id" : "05",
+        "artist" : "Jerry Sims",
+        "artwork" : "https:\/\/ridmaur.github.io\/chartyourmusic\/examples\/covers\/05.png",
+        "notes" : "To listen to music, tap Play. In the chart itself, long press the artwork.",
+        "musicService" : "iTunes",
+        "date" : "2022-01-02T00:00:00Z",
+        "title" : "Scarlet",
+        "preview" : ""
+      },
+      {
+        "musicService" : "iTunes",
+        "preview" : "",
+        "artwork" : "https:\/\/ridmaur.github.io\/chartyourmusic\/examples\/covers\/04.png",
+        "id" : "04",
+        "notes" : "To listen to music, tap Play. In the chart itself, long press the artwork.",
+        "date" : "2022-01-02T00:00:00Z",
+        "title" : "Blood",
+        "artist" : "Jerry Line"
+      },
+      {
+        "artist" : "Mendy Moon",
+        "date" : "2022-01-02T00:00:00Z",
+        "artwork" : "https:\/\/ridmaur.github.io\/chartyourmusic\/examples\/covers\/07.png",
+        "id" : "07",
+        "title" : "Ice Cold",
+        "notes" : "To listen to music, tap Play. In the chart itself, long press the artwork.",
+        "preview" : "",
+        "musicService" : "iTunes"
+      },
+      {
+        "id" : "02",
+        "notes" : "To listen to music, tap Play. In the chart itself, long press the artwork.",
+        "musicService" : "iTunes",
+        "artwork" : "https:\/\/ridmaur.github.io\/chartyourmusic\/examples\/covers\/02.png",
+        "artist" : "Caroline Richards",
+        "date" : "2022-01-02T00:00:00Z",
+        "preview" : "",
+        "title" : "Out Of Control"
+      },
+      {
+        "artist" : "MIA",
+        "artwork" : "https:\/\/ridmaur.github.io\/chartyourmusic\/examples\/covers\/13.png",
+        "id" : "13",
+        "preview" : "",
+        "date" : "2022-01-02T00:00:00Z",
+        "notes" : "To listen to music, tap Play. In the chart itself, long press the artwork.",
+        "musicService" : "iTunes",
+        "title" : "Unchained"
+      },
+      {
+        "preview" : "",
+        "artist" : "Musal",
+        "date" : "2022-01-02T00:00:00Z",
+        "title" : "Second Attempt",
+        "id" : "14",
+        "artwork" : "https:\/\/ridmaur.github.io\/chartyourmusic\/examples\/covers\/14.png",
+        "musicService" : "iTunes",
+        "notes" : "To listen to music, tap Play. In the chart itself, long press the artwork."
+      },
+      {
+        "title" : "Golden",
+        "date" : "2022-01-02T00:00:00Z",
+        "artwork" : "https:\/\/ridmaur.github.io\/chartyourmusic\/examples\/covers\/11.png",
+        "artist" : "S. Lee",
+        "notes" : "",
+        "id" : "11",
+        "musicService" : "iTunes",
+        "preview" : ""
+      },
+      {
+        "artist" : "Shawn Knox",
+        "date" : "2022-01-02T00:00:00Z",
+        "title" : "Level",
+        "notes" : "To listen to music, tap Play. In the chart itself, long press the artwork.",
+        "artwork" : "https:\/\/ridmaur.github.io\/chartyourmusic\/examples\/covers\/09.png",
+        "preview" : "",
+        "id" : "09",
+        "musicService" : "iTunes"
+      },
+      {
+        "date" : "2022-01-02T00:00:00Z",
+        "musicService" : "iTunes",
+        "artwork" : "https:\/\/ridmaur.github.io\/chartyourmusic\/examples\/covers\/01.png",
+        "title" : "Twelvew",
+        "id" : "01",
+        "artist" : "The Waning",
+        "preview" : "",
+        "notes" : "To listen to music, tap Play. In the chart itself, long press the artwork."
+      },
+      {
+        "title" : "Perspective",
+        "artwork" : "https:\/\/ridmaur.github.io\/chartyourmusic\/examples\/covers\/08.png",
+        "preview" : "",
+        "id" : "08",
+        "date" : "2022-01-02T00:00:00Z",
+        "artist" : "Lauren Brookes",
+        "musicService" : "iTunes",
+        "notes" : ""
+      },
+      {
+        "title" : " Emphasize",
+        "notes" : "To listen to music, tap Play. In the chart itself, long press the artwork.",
+        "id" : "10",
+        "preview" : "",
+        "musicService" : "iTunes",
+        "artist" : "Ansley Nguyen",
+        "artwork" : "https:\/\/ridmaur.github.io\/chartyourmusic\/examples\/covers\/10.png",
+        "date" : "2022-01-02T00:00:00Z"
+      },
+      {
+        "title" : "Little Bit Of Love",
+        "notes" : "To listen to music, tap Play. In the chart itself, long press the artwork.",
+        "id" : "06",
+        "artwork" : "https:\/\/ridmaur.github.io\/chartyourmusic\/examples\/covers\/06.png",
+        "musicService" : "iTunes",
+        "artist" : "Blair Maynard",
+        "date" : "2022-01-02T00:00:00Z",
+        "preview" : ""
+      }
+    ],
+    "nrOfEntries" : 10,
+    "orderArtistTitle" : false,
+    "notes" : "",
+    "title" : "Another Collection (imported)",
+    "sequence" : true,
+    "charts" : [
+      {
+        "notes" : "",
+        "subtitle" : "",
+        "title" : "Week 4",
+        "date" : "2023-01-21T06:10:00Z",
+        "chartEntries" : [
+          {
+            "entryId" : "14",
+            "currentPosition" : 1
+          },
+          {
+            "currentPosition" : 2,
+            "entryId" : "10"
+          },
+          {
+            "entryId" : "01",
+            "currentPosition" : 3
+          },
+          {
+            "currentPosition" : 4,
+            "entryId" : "02"
+          },
+          {
+            "currentPosition" : 5,
+            "entryId" : "05"
+          },
+          {
+            "currentPosition" : 6,
+            "entryId" : "06"
+          },
+          {
+            "currentPosition" : 7,
+            "entryId" : "13"
+          },
+          {
+            "currentPosition" : 8,
+            "entryId" : "07"
+          },
+          {
+            "entryId" : "11",
+            "currentPosition" : 9
+          },
+          {
+            "currentPosition" : 10,
+            "entryId" : "08"
+          }
+        ],
+        "locked" : true
+      },
+      {
+        "subtitle" : "",
+        "title" : "Week 3",
+        "notes" : "",
+        "locked" : true,
+        "date" : "2023-01-21T06:05:00Z",
+        "chartEntries" : [
+          {
+            "entryId" : "10",
+            "currentPosition" : 1
+          },
+          {
+            "currentPosition" : 2,
+            "entryId" : "05"
+          },
+          {
+            "entryId" : "13",
+            "currentPosition" : 3
+          },
+          {
+            "entryId" : "01",
+            "currentPosition" : 4
+          },
+          {
+            "entryId" : "02",
+            "currentPosition" : 5
+          },
+          {
+            "currentPosition" : 6,
+            "entryId" : "14"
+          },
+          {
+            "currentPosition" : 7,
+            "entryId" : "07"
+          },
+          {
+            "entryId" : "06",
+            "currentPosition" : 8
+          },
+          {
+            "currentPosition" : 9,
+            "entryId" : "11"
+          },
+          {
+            "currentPosition" : 10,
+            "entryId" : "08"
+          }
+        ]
+      },
+      {
+        "locked" : true,
+        "chartEntries" : [
+          {
+            "currentPosition" : 1,
+            "entryId" : "13"
+          },
+          {
+            "currentPosition" : 2,
+            "entryId" : "01"
+          },
+          {
+            "entryId" : "02",
+            "currentPosition" : 3
+          },
+          {
+            "entryId" : "10",
+            "currentPosition" : 4
+          },
+          {
+            "currentPosition" : 5,
+            "entryId" : "14"
+          },
+          {
+            "entryId" : "05",
+            "currentPosition" : 6
+          },
+          {
+            "entryId" : "07",
+            "currentPosition" : 7
+          },
+          {
+            "currentPosition" : 8,
+            "entryId" : "09"
+          },
+          {
+            "entryId" : "06",
+            "currentPosition" : 9
+          },
+          {
+            "currentPosition" : 10,
+            "entryId" : "12"
+          }
+        ],
+        "title" : "Week 2",
+        "subtitle" : "Second week of the year…",
+        "date" : "2023-01-14T00:00:00Z",
+        "notes" : "This chart is based on complete fictitious entries. As this is the second chart in the collection, you can see the changes from the previous (first) chart. This chart is unlocked. You will only be able to lock it if the amount of entries conforms to what is defined for the collection (e.g. 5 for this sample collection)."
+      },
+      {
+        "date" : "2023-01-07T00:00:00Z",
+        "notes" : "This chart is based on complete fictitious entries. As this is the first chart in the collection, all entries are seen as new entries. This chart is locked, which means its entries will be taken into account when doing calculations.",
+        "title" : "Week 1",
+        "locked" : true,
+        "subtitle" : "Initial chart for this collection; i.e. the first day.",
+        "chartEntries" : [
+          {
+            "entryId" : "13",
+            "currentPosition" : 1
+          },
+          {
+            "currentPosition" : 2,
+            "entryId" : "05"
+          },
+          {
+            "currentPosition" : 3,
+            "entryId" : "01"
+          },
+          {
+            "entryId" : "10",
+            "currentPosition" : 4
+          },
+          {
+            "entryId" : "11",
+            "currentPosition" : 5
+          },
+          {
+            "entryId" : "02",
+            "currentPosition" : 6
+          },
+          {
+            "entryId" : "09",
+            "currentPosition" : 7
+          },
+          {
+            "currentPosition" : 8,
+            "entryId" : "14"
+          },
+          {
+            "entryId" : "04",
+            "currentPosition" : 9
+          },
+          {
+            "currentPosition" : 10,
+            "entryId" : "07"
+          }
+        ]
+      }
+    ],
+    "date" : "2023-01-01T00:00:00Z"
+  },
+  {
+    "title" : "My Favorite Albums (imported)",
+    "date" : "2023-01-01T00:00:00Z",
+    "orderArtistTitle" : false,
+    "entries" : [
+      {
+        "id" : "06",
+        "notes" : "To listen to music, tap Play. In the chart itself, long press the artwork.",
+        "musicService" : "iTunes",
+        "title" : "Little Bit Of Love",
+        "artwork" : "https:\/\/ridmaur.github.io\/chartyourmusic\/examples\/covers\/06.png",
+        "artist" : "Blair Maynard",
+        "preview" : "",
+        "date" : "2022-01-02T00:00:00Z"
+      },
+      {
+        "notes" : "To listen to music, tap Play. In the chart itself, long press the artwork.",
+        "musicService" : "iTunes",
+        "id" : "10",
+        "date" : "2022-01-02T00:00:00Z",
+        "preview" : "",
+        "artwork" : "https:\/\/ridmaur.github.io\/chartyourmusic\/examples\/covers\/10.png",
+        "title" : " Emphasize",
+        "artist" : "Ansley Nguyen"
+      },
+      {
+        "id" : "02",
+        "artist" : "Caroline Richards",
+        "artwork" : "https:\/\/ridmaur.github.io\/chartyourmusic\/examples\/covers\/02.png",
+        "musicService" : "iTunes",
+        "title" : "Out Of Control",
+        "notes" : "To listen to music, tap Play. In the chart itself, long press the artwork.",
+        "date" : "2022-01-02T00:00:00Z",
+        "preview" : ""
+      },
+      {
+        "id" : "04",
+        "preview" : "",
+        "title" : "Blood",
+        "musicService" : "iTunes",
+        "date" : "2022-01-02T00:00:00Z",
+        "artist" : "Jerry Line",
+        "notes" : "To listen to music, tap Play. In the chart itself, long press the artwork.",
+        "artwork" : "https:\/\/ridmaur.github.io\/chartyourmusic\/examples\/covers\/04.png"
+      },
+      {
+        "preview" : "",
+        "artwork" : "https:\/\/ridmaur.github.io\/chartyourmusic\/examples\/covers\/09.png",
+        "date" : "2022-01-02T00:00:00Z",
+        "title" : "Level",
+        "artist" : "Shawn Knox",
+        "id" : "09",
+        "musicService" : "iTunes",
+        "notes" : "To listen to music, tap Play. In the chart itself, long press the artwork."
+      },
+      {
+        "notes" : "To listen to music, tap Play. In the chart itself, long press the artwork.",
+        "id" : "01",
+        "artist" : "The Waning",
+        "title" : "Twelvew",
+        "preview" : "",
+        "musicService" : "iTunes",
+        "artwork" : "https:\/\/ridmaur.github.io\/chartyourmusic\/examples\/covers\/01.png",
+        "date" : "2022-01-02T00:00:00Z"
+      },
+      {
+        "date" : "2022-01-02T00:00:00Z",
+        "id" : "05",
+        "title" : "Scarlet",
+        "artwork" : "https:\/\/ridmaur.github.io\/chartyourmusic\/examples\/covers\/05.png",
+        "preview" : "",
+        "artist" : "Jerry Sims",
+        "musicService" : "iTunes",
+        "notes" : "To listen to music, tap Play. In the chart itself, long press the artwork."
+      },
+      {
+        "artist" : "S. Lee",
+        "title" : "Golden",
+        "preview" : "",
+        "id" : "11",
+        "date" : "2022-01-02T00:00:00Z",
+        "musicService" : "iTunes",
+        "notes" : "",
+        "artwork" : "https:\/\/ridmaur.github.io\/chartyourmusic\/examples\/covers\/11.png"
+      },
+      {
+        "date" : "2022-01-02T00:00:00Z",
+        "artwork" : "https:\/\/ridmaur.github.io\/chartyourmusic\/examples\/covers\/07.png",
+        "preview" : "",
+        "title" : "Taste of Gaia",
+        "artist" : "Mendy Moon",
+        "notes" : "To listen to music, tap Play. In the chart itself, long press the artwork.",
+        "id" : "07",
+        "musicService" : "iTunes"
+      },
+      {
+        "artwork" : "https:\/\/ridmaur.github.io\/chartyourmusic\/examples\/covers\/13.png",
+        "notes" : "To listen to music, tap Play. In the chart itself, long press the artwork.",
+        "preview" : "",
+        "musicService" : "iTunes",
+        "id" : "13",
+        "artist" : "MIA",
+        "title" : "Unchained",
+        "date" : "2022-01-02T00:00:00Z"
+      },
+      {
+        "artist" : "Gordon Sperch",
+        "date" : "2022-01-02T00:00:00Z",
+        "musicService" : "iTunes",
+        "notes" : "To listen to music, tap Play. In the chart itself, long press the artwork.",
+        "artwork" : "https:\/\/ridmaur.github.io\/chartyourmusic\/examples\/covers\/12.png",
+        "title" : "Modern Reflection",
+        "id" : "12",
+        "preview" : ""
+      },
+      {
+        "musicService" : "iTunes",
+        "notes" : "",
+        "title" : "Perspective",
+        "artwork" : "https:\/\/ridmaur.github.io\/chartyourmusic\/examples\/covers\/08.png",
+        "artist" : "Lauren Brookes",
+        "id" : "08",
+        "preview" : "",
+        "date" : "2022-01-02T00:00:00Z"
+      },
+      {
+        "id" : "14",
+        "artwork" : "https:\/\/ridmaur.github.io\/chartyourmusic\/examples\/covers\/14.png",
+        "date" : "2022-01-02T00:00:00Z",
+        "artist" : "Musal",
+        "title" : "Second Attempt",
+        "musicService" : "iTunes",
+        "preview" : "",
+        "notes" : "To listen to music, tap Play. In the chart itself, long press the artwork."
+      }
+    ],
+    "nrOfEntries" : 10,
+    "archived" : false,
+    "charts" : [
+      {
+        "locked" : false,
+        "date" : "2023-01-22T06:10:00Z",
+        "subtitle" : "",
+        "chartEntries" : [
+          {
+            "currentPosition" : 1,
+            "entryId" : "07"
+          },
+          {
+            "entryId" : "14",
+            "currentPosition" : 2
+          },
+          {
+            "currentPosition" : 3,
+            "entryId" : "10"
+          },
+          {
+            "entryId" : "01",
+            "currentPosition" : 4
+          },
+          {
+            "currentPosition" : 5,
+            "entryId" : "02"
+          },
+          {
+            "currentPosition" : 6,
+            "entryId" : "05"
+          },
+          {
+            "entryId" : "06",
+            "currentPosition" : 7
+          },
+          {
+            "entryId" : "13",
+            "currentPosition" : 8
+          },
+          {
+            "entryId" : "11",
+            "currentPosition" : 9
+          },
+          {
+            "entryId" : "08",
+            "currentPosition" : 10
+          }
+        ],
+        "notes" : "",
+        "title" : "Week 4"
+      },
+      {
+        "locked" : true,
+        "chartEntries" : [
+          {
+            "entryId" : "10",
+            "currentPosition" : 1
+          },
+          {
+            "entryId" : "05",
+            "currentPosition" : 2
+          },
+          {
+            "entryId" : "13",
+            "currentPosition" : 3
+          },
+          {
+            "entryId" : "01",
+            "currentPosition" : 4
+          },
+          {
+            "entryId" : "02",
+            "currentPosition" : 5
+          },
+          {
+            "entryId" : "14",
+            "currentPosition" : 6
+          },
+          {
+            "currentPosition" : 7,
+            "entryId" : "07"
+          },
+          {
+            "currentPosition" : 8,
+            "entryId" : "06"
+          },
+          {
+            "entryId" : "11",
+            "currentPosition" : 9
+          },
+          {
+            "currentPosition" : 10,
+            "entryId" : "08"
+          }
+        ],
+        "notes" : "",
+        "title" : "Week 3",
+        "subtitle" : "",
+        "date" : "2023-01-21T06:05:00Z"
+      },
+      {
+        "locked" : true,
+        "title" : "Week 2",
+        "subtitle" : "Second week of the year…",
+        "date" : "2023-01-14T00:00:00Z",
+        "notes" : "This chart is based on complete fictitious entries. As this is the second chart in the collection, you can see the changes from the previous (first) chart. This chart is unlocked. You will only be able to lock it if the amount of entries conforms to what is defined for the collection (e.g. 5 for this sample collection).",
+        "chartEntries" : [
+          {
+            "entryId" : "13",
+            "currentPosition" : 1
+          },
+          {
+            "entryId" : "01",
+            "currentPosition" : 2
+          },
+          {
+            "currentPosition" : 3,
+            "entryId" : "02"
+          },
+          {
+            "currentPosition" : 4,
+            "entryId" : "10"
+          },
+          {
+            "entryId" : "14",
+            "currentPosition" : 5
+          },
+          {
+            "currentPosition" : 6,
+            "entryId" : "05"
+          },
+          {
+            "currentPosition" : 7,
+            "entryId" : "07"
+          },
+          {
+            "entryId" : "09",
+            "currentPosition" : 8
+          },
+          {
+            "entryId" : "06",
+            "currentPosition" : 9
+          },
+          {
+            "entryId" : "12",
+            "currentPosition" : 10
+          }
+        ]
+      },
+      {
+        "notes" : "This chart is based on complete fictitious entries. As this is the first chart in the collection, all entries are seen as new entries. This chart is locked, which means its entries will be taken into account when doing calculations.",
+        "subtitle" : "Initial chart for this collection; i.e. the first day.",
+        "chartEntries" : [
+          {
+            "entryId" : "13",
+            "currentPosition" : 1
+          },
+          {
+            "currentPosition" : 2,
+            "entryId" : "05"
+          },
+          {
+            "entryId" : "01",
+            "currentPosition" : 3
+          },
+          {
+            "currentPosition" : 4,
+            "entryId" : "10"
+          },
+          {
+            "entryId" : "11",
+            "currentPosition" : 5
+          },
+          {
+            "entryId" : "02",
+            "currentPosition" : 6
+          },
+          {
+            "entryId" : "09",
+            "currentPosition" : 7
+          },
+          {
+            "currentPosition" : 8,
+            "entryId" : "14"
+          },
+          {
+            "entryId" : "04",
+            "currentPosition" : 9
+          },
+          {
+            "entryId" : "07",
+            "currentPosition" : 10
+          }
+        ],
+        "locked" : true,
+        "title" : "Week 1",
+        "date" : "2023-01-07T00:00:00Z"
+      }
+    ],
+    "sequence" : true,
+    "notes" : ""
+  },
+  {
+    "date" : "2023-01-01T00:00:00Z",
+    "notes" : "",
+    "orderArtistTitle" : false,
+    "title" : "Top 10 2023 (imported)",
+    "charts" : [
+      {
+        "locked" : false,
+        "title" : "Week 4",
+        "subtitle" : "",
+        "date" : "2023-01-27T06:10:00Z",
+        "chartEntries" : [
+          {
+            "currentPosition" : 1,
+            "entryId" : "01"
+          },
+          {
+            "currentPosition" : 2,
+            "entryId" : "14"
+          },
+          {
+            "currentPosition" : 3,
+            "entryId" : "10"
+          },
+          {
+            "entryId" : "02",
+            "currentPosition" : 4
+          },
+          {
+            "entryId" : "05",
+            "currentPosition" : 5
+          },
+          {
+            "entryId" : "06",
+            "currentPosition" : 6
+          },
+          {
+            "currentPosition" : 7,
+            "entryId" : "13"
+          },
+          {
+            "currentPosition" : 8,
+            "entryId" : "07"
+          },
+          {
+            "currentPosition" : 9,
+            "entryId" : "11"
+          },
+          {
+            "entryId" : "08",
+            "currentPosition" : 10
+          }
+        ],
+        "notes" : ""
+      },
+      {
+        "notes" : "",
+        "subtitle" : "",
+        "title" : "Week 3",
+        "chartEntries" : [
+          {
+            "currentPosition" : 1,
+            "entryId" : "10"
+          },
+          {
+            "currentPosition" : 2,
+            "entryId" : "05"
+          },
+          {
+            "entryId" : "13",
+            "currentPosition" : 3
+          },
+          {
+            "currentPosition" : 4,
+            "entryId" : "01"
+          },
+          {
+            "currentPosition" : 5,
+            "entryId" : "02"
+          },
+          {
+            "entryId" : "14",
+            "currentPosition" : 6
+          },
+          {
+            "entryId" : "07",
+            "currentPosition" : 7
+          },
+          {
+            "currentPosition" : 8,
+            "entryId" : "06"
+          },
+          {
+            "entryId" : "11",
+            "currentPosition" : 9
+          },
+          {
+            "currentPosition" : 10,
+            "entryId" : "08"
+          }
+        ],
+        "locked" : true,
+        "date" : "2023-01-21T06:05:00Z"
+      },
+      {
+        "date" : "2023-01-14T00:00:00Z",
+        "locked" : true,
+        "title" : "Week 2",
+        "subtitle" : "Second week of the year…",
+        "notes" : "This chart is based on complete fictitious entries. As this is the second chart in the collection, you can see the changes from the previous (first) chart. This chart is unlocked. You will only be able to lock it if the amount of entries conforms to what is defined for the collection (e.g. 5 for this sample collection).",
+        "chartEntries" : [
+          {
+            "entryId" : "13",
+            "currentPosition" : 1
+          },
+          {
+            "entryId" : "01",
+            "currentPosition" : 2
+          },
+          {
+            "entryId" : "02",
+            "currentPosition" : 3
+          },
+          {
+            "entryId" : "10",
+            "currentPosition" : 4
+          },
+          {
+            "currentPosition" : 5,
+            "entryId" : "14"
+          },
+          {
+            "entryId" : "05",
+            "currentPosition" : 6
+          },
+          {
+            "currentPosition" : 7,
+            "entryId" : "07"
+          },
+          {
+            "currentPosition" : 8,
+            "entryId" : "09"
+          },
+          {
+            "entryId" : "06",
+            "currentPosition" : 9
+          },
+          {
+            "currentPosition" : 10,
+            "entryId" : "12"
+          }
+        ]
+      },
+      {
+        "date" : "2023-01-07T00:00:00Z",
+        "chartEntries" : [
+          {
+            "entryId" : "13",
+            "currentPosition" : 1
+          },
+          {
+            "entryId" : "05",
+            "currentPosition" : 2
+          },
+          {
+            "currentPosition" : 3,
+            "entryId" : "01"
+          },
+          {
+            "currentPosition" : 4,
+            "entryId" : "10"
+          },
+          {
+            "currentPosition" : 5,
+            "entryId" : "11"
+          },
+          {
+            "currentPosition" : 6,
+            "entryId" : "02"
+          },
+          {
+            "entryId" : "09",
+            "currentPosition" : 7
+          },
+          {
+            "currentPosition" : 8,
+            "entryId" : "14"
+          },
+          {
+            "entryId" : "04",
+            "currentPosition" : 9
+          },
+          {
+            "currentPosition" : 10,
+            "entryId" : "07"
+          }
+        ],
+        "notes" : "This chart is based on complete fictitious entries. As this is the first chart in the collection, all entries are seen as new entries. This chart is locked, which means its entries will be taken into account when doing calculations.",
+        "subtitle" : "Initial chart for this collection; i.e. the first day.",
+        "title" : "Week 1",
+        "locked" : true
+      }
+    ],
+    "entries" : [
+      {
+        "id" : "13",
+        "title" : "Unchained",
+        "notes" : "To listen to music, tap Play. In the chart itself, long press the artwork.",
+        "musicService" : "iTunes",
+        "artist" : "MIA",
+        "preview" : "",
+        "date" : "2022-01-02T00:00:00Z",
+        "artwork" : "https:\/\/ridmaur.github.io\/chartyourmusic\/examples\/covers\/13.png"
+      },
+      {
+        "musicService" : "iTunes",
+        "artist" : "Blair Maynard",
+        "id" : "06",
+        "date" : "2022-01-02T00:00:00Z",
+        "artwork" : "https:\/\/ridmaur.github.io\/chartyourmusic\/examples\/covers\/06.png",
+        "title" : "Little Bit Of Love",
+        "preview" : "",
+        "notes" : "To listen to music, tap Play. In the chart itself, long press the artwork."
+      },
+      {
+        "date" : "2022-01-02T00:00:00Z",
+        "preview" : "",
+        "artwork" : "https:\/\/ridmaur.github.io\/chartyourmusic\/examples\/covers\/08.png",
+        "artist" : "Lauren Brookes",
+        "title" : "Perspective",
+        "id" : "08",
+        "musicService" : "iTunes",
+        "notes" : ""
+      },
+      {
+        "date" : "2022-01-02T00:00:00Z",
+        "notes" : "To listen to music, tap Play. In the chart itself, long press the artwork.",
+        "preview" : "",
+        "artist" : "Ambra Kiss",
+        "title" : "Scarlet",
+        "artwork" : "https:\/\/ridmaur.github.io\/chartyourmusic\/examples\/covers\/05.png",
+        "id" : "05",
+        "musicService" : "iTunes"
+      },
+      {
+        "id" : "02",
+        "preview" : "",
+        "artwork" : "https:\/\/ridmaur.github.io\/chartyourmusic\/examples\/covers\/02.png",
+        "musicService" : "iTunes",
+        "artist" : "Caroline Richards",
+        "date" : "2022-01-02T00:00:00Z",
+        "notes" : "To listen to music, tap Play. In the chart itself, long press the artwork.",
+        "title" : "Out Of Control"
+      },
+      {
+        "notes" : "To listen to music, tap Play. In the chart itself, long press the artwork.",
+        "title" : "Level",
+        "artist" : "Shawn Knox",
+        "artwork" : "https:\/\/ridmaur.github.io\/chartyourmusic\/examples\/covers\/09.png",
+        "date" : "2022-01-02T00:00:00Z",
+        "musicService" : "iTunes",
+        "preview" : "",
+        "id" : "09"
+      },
+      {
+        "artwork" : "https:\/\/ridmaur.github.io\/chartyourmusic\/examples\/covers\/04.png",
+        "id" : "04",
+        "notes" : "To listen to music, tap Play. In the chart itself, long press the artwork.",
+        "date" : "2022-01-02T00:00:00Z",
+        "title" : "Blood",
+        "musicService" : "iTunes",
+        "artist" : "Jerry Line",
+        "preview" : ""
+      },
+      {
+        "preview" : "",
+        "musicService" : "iTunes",
+        "id" : "12",
+        "artist" : "Gordon Sperch",
+        "title" : "Modern Reflection",
+        "artwork" : "https:\/\/ridmaur.github.io\/chartyourmusic\/examples\/covers\/12.png",
+        "date" : "2022-01-02T00:00:00Z",
+        "notes" : "To listen to music, tap Play. In the chart itself, long press the artwork."
+      },
+      {
+        "notes" : "To listen to music, tap Play. In the chart itself, long press the artwork.",
+        "id" : "10",
+        "date" : "2022-01-02T00:00:00Z",
+        "artist" : "Ansley Nguyen",
+        "artwork" : "https:\/\/ridmaur.github.io\/chartyourmusic\/examples\/covers\/10.png",
+        "title" : " Emphasize",
+        "preview" : "",
+        "musicService" : "iTunes"
+      },
+      {
+        "title" : "Golden",
+        "artist" : "S. Lee",
+        "artwork" : "https:\/\/ridmaur.github.io\/chartyourmusic\/examples\/covers\/11.png",
+        "notes" : "",
+        "preview" : "",
+        "id" : "11",
+        "musicService" : "iTunes",
+        "date" : "2022-01-02T00:00:00Z"
+      },
+      {
+        "artwork" : "https:\/\/ridmaur.github.io\/chartyourmusic\/examples\/covers\/01.png",
+        "preview" : "",
+        "notes" : "To listen to music, tap Play. In the chart itself, long press the artwork.",
+        "artist" : "The Waning",
+        "date" : "2022-01-02T00:00:00Z",
+        "title" : "Twelvew",
+        "musicService" : "iTunes",
+        "id" : "01"
+      },
+      {
+        "artwork" : "https:\/\/ridmaur.github.io\/chartyourmusic\/examples\/covers\/07.png",
+        "musicService" : "iTunes",
+        "preview" : "",
+        "id" : "07",
+        "date" : "2022-01-02T00:00:00Z",
+        "notes" : "To listen to music, tap Play. In the chart itself, long press the artwork.",
+        "title" : "Taste of Gaia",
+        "artist" : "Mendy Moon"
+      },
+      {
+        "title" : "Second Attempt",
+        "musicService" : "iTunes",
+        "preview" : "",
+        "artwork" : "https:\/\/ridmaur.github.io\/chartyourmusic\/examples\/covers\/14.png",
+        "id" : "14",
+        "artist" : "Musal",
+        "notes" : "To listen to music, tap Play. In the chart itself, long press the artwork.",
+        "date" : "2022-01-02T00:00:00Z"
+      }
+    ],
+    "nrOfEntries" : 10,
+    "archived" : false,
+    "sequence" : true
+  },
+  {
+    "charts" : [
+      {
+        "notes" : "",
+        "locked" : true,
+        "date" : "2023-01-28T06:10:00Z",
+        "chartEntries" : [
+          {
+            "currentPosition" : 1,
+            "entryId" : "14"
+          },
+          {
+            "entryId" : "10",
+            "currentPosition" : 2
+          },
+          {
+            "entryId" : "01",
+            "currentPosition" : 3
+          },
+          {
+            "currentPosition" : 4,
+            "entryId" : "02"
+          },
+          {
+            "currentPosition" : 5,
+            "entryId" : "05"
+          },
+          {
+            "currentPosition" : 6,
+            "entryId" : "06"
+          },
+          {
+            "entryId" : "13",
+            "currentPosition" : 7
+          },
+          {
+            "entryId" : "15",
+            "currentPosition" : 8
+          },
+          {
+            "currentPosition" : 9,
+            "entryId" : "11"
+          },
+          {
+            "currentPosition" : 10,
+            "entryId" : "08"
+          }
+        ],
+        "title" : "Week 4",
+        "subtitle" : ""
+      },
+      {
+        "chartEntries" : [
+          {
+            "entryId" : "10",
+            "currentPosition" : 1
+          },
+          {
+            "currentPosition" : 2,
+            "entryId" : "05"
+          },
+          {
+            "entryId" : "13",
+            "currentPosition" : 3
+          },
+          {
+            "entryId" : "01",
+            "currentPosition" : 4
+          },
+          {
+            "currentPosition" : 5,
+            "entryId" : "02"
+          },
+          {
+            "currentPosition" : 6,
+            "entryId" : "14"
+          },
+          {
+            "currentPosition" : 7,
+            "entryId" : "07"
+          },
+          {
+            "currentPosition" : 8,
+            "entryId" : "06"
+          },
+          {
+            "entryId" : "11",
+            "currentPosition" : 9
+          },
+          {
+            "entryId" : "08",
+            "currentPosition" : 10
+          }
+        ],
+        "notes" : "",
+        "date" : "2023-01-21T06:05:00Z",
+        "locked" : true,
+        "title" : "Week 3",
+        "subtitle" : ""
+      },
+      {
+        "date" : "2023-01-14T00:00:00Z",
+        "locked" : true,
+        "subtitle" : "Second week of the year…",
+        "chartEntries" : [
+          {
+            "currentPosition" : 1,
+            "entryId" : "13"
+          },
+          {
+            "currentPosition" : 2,
+            "entryId" : "01"
+          },
+          {
+            "currentPosition" : 3,
+            "entryId" : "02"
+          },
+          {
+            "entryId" : "10",
+            "currentPosition" : 4
+          },
+          {
+            "currentPosition" : 5,
+            "entryId" : "14"
+          },
+          {
+            "currentPosition" : 6,
+            "entryId" : "05"
+          },
+          {
+            "entryId" : "07",
+            "currentPosition" : 7
+          },
+          {
+            "entryId" : "09",
+            "currentPosition" : 8
+          },
+          {
+            "entryId" : "06",
+            "currentPosition" : 9
+          },
+          {
+            "currentPosition" : 10,
+            "entryId" : "12"
+          }
+        ],
+        "notes" : "This chart is based on complete fictitious entries. As this is the second chart in the collection, you can see the changes from the previous (first) chart. This chart is unlocked. You will only be able to lock it if the amount of entries conforms to what is defined for the collection (e.g. 5 for this sample collection).",
+        "title" : "Week 2"
+      },
+      {
+        "chartEntries" : [
+          {
+            "currentPosition" : 1,
+            "entryId" : "13"
+          },
+          {
+            "entryId" : "05",
+            "currentPosition" : 2
+          },
+          {
+            "currentPosition" : 3,
+            "entryId" : "01"
+          },
+          {
+            "entryId" : "10",
+            "currentPosition" : 4
+          },
+          {
+            "currentPosition" : 5,
+            "entryId" : "11"
+          },
+          {
+            "currentPosition" : 6,
+            "entryId" : "02"
+          },
+          {
+            "currentPosition" : 7,
+            "entryId" : "09"
+          },
+          {
+            "currentPosition" : 8,
+            "entryId" : "14"
+          },
+          {
+            "entryId" : "04",
+            "currentPosition" : 9
+          },
+          {
+            "currentPosition" : 10,
+            "entryId" : "07"
+          }
+        ],
+        "date" : "2023-01-07T00:00:00Z",
+        "title" : "Week 1",
+        "locked" : true,
+        "subtitle" : "Initial chart for this collection; i.e. the first day.",
+        "notes" : "This chart is based on complete fictitious entries. As this is the first chart in the collection, all entries are seen as new entries. This chart is locked, which means its entries will be taken into account when doing calculations."
+      }
+    ],
+    "nrOfEntries" : 10,
+    "date" : "2023-01-01T00:00:00Z",
+    "title" : "Best Tracks (imported)",
+    "archived" : false,
+    "sequence" : true,
+    "orderArtistTitle" : false,
+    "notes" : "",
+    "entries" : [
+      {
+        "date" : "2022-01-02T00:00:00Z",
+        "artist" : "Jerry Sims",
+        "musicService" : "iTunes",
+        "id" : "05",
+        "title" : "Scarlet",
+        "artwork" : "https:\/\/ridmaur.github.io\/chartyourmusic\/examples\/covers\/05.png",
+        "notes" : "To listen to music, tap Play. In the chart itself, long press the artwork.",
+        "preview" : ""
+      },
+      {
+        "date" : "2022-01-02T00:00:00Z",
+        "title" : "Level",
+        "artwork" : "https:\/\/ridmaur.github.io\/chartyourmusic\/examples\/covers\/09.png",
+        "artist" : "Shawn Knox",
+        "id" : "09",
+        "preview" : "",
+        "musicService" : "iTunes",
+        "notes" : "To listen to music, tap Play. In the chart itself, long press the artwork."
+      },
+      {
+        "date" : "2022-01-02T00:00:00Z",
+        "id" : "12",
+        "title" : "Modern Reflection",
+        "artwork" : "https:\/\/ridmaur.github.io\/chartyourmusic\/examples\/covers\/12.png",
+        "musicService" : "iTunes",
+        "preview" : "",
+        "artist" : "Gordon Sperch",
+        "notes" : "To listen to music, tap Play. In the chart itself, long press the artwork."
+      },
+      {
+        "preview" : "",
+        "title" : "Perspective",
+        "artist" : "Lauren Brookes",
+        "artwork" : "https:\/\/ridmaur.github.io\/chartyourmusic\/examples\/covers\/08.png",
+        "notes" : "",
+        "musicService" : "iTunes",
+        "date" : "2022-01-02T00:00:00Z",
+        "id" : "08"
+      },
+      {
+        "date" : "2022-01-02T00:00:00Z",
+        "notes" : "To listen to music, tap Play. In the chart itself, long press the artwork.",
+        "musicService" : "iTunes",
+        "artist" : "Jerry Line",
+        "preview" : "",
+        "artwork" : "https:\/\/ridmaur.github.io\/chartyourmusic\/examples\/covers\/04.png",
+        "title" : "Blood",
+        "id" : "04"
+      },
+      {
+        "musicService" : "iTunes",
+        "artwork" : "https:\/\/ridmaur.github.io\/chartyourmusic\/examples\/covers\/01.png",
+        "artist" : "The Waning",
+        "preview" : "",
+        "notes" : "To listen to music, tap Play. In the chart itself, long press the artwork.",
+        "date" : "2022-01-02T00:00:00Z",
+        "id" : "01",
+        "title" : "Twelvew"
+      },
+      {
+        "id" : "15",
+        "musicService" : "iTunes",
+        "title" : "Debut",
+        "preview" : "",
+        "notes" : "To listen to music, tap Play. In the chart itself, long press the artwork.",
+        "artist" : "Abbie Smyth",
+        "date" : "2022-01-02T00:00:00Z",
+        "artwork" : "https:\/\/ridmaur.github.io\/chartyourmusic\/examples\/covers\/15.png"
+      },
+      {
+        "title" : "Out Of Control",
+        "musicService" : "iTunes",
+        "artwork" : "https:\/\/ridmaur.github.io\/chartyourmusic\/examples\/covers\/02.png",
+        "preview" : "",
+        "notes" : "To listen to music, tap Play. In the chart itself, long press the artwork.",
+        "date" : "2022-01-02T00:00:00Z",
+        "artist" : "Riley Harris",
+        "id" : "02"
+      },
+      {
+        "id" : "10",
+        "musicService" : "iTunes",
+        "notes" : "To listen to music, tap Play. In the chart itself, long press the artwork.",
+        "date" : "2022-01-02T00:00:00Z",
+        "artwork" : "https:\/\/ridmaur.github.io\/chartyourmusic\/examples\/covers\/10.png",
+        "preview" : "",
+        "artist" : "Ansley Nguyen",
+        "title" : " Emphasize"
+      },
+      {
+        "id" : "11",
+        "artist" : "S. Lee",
+        "preview" : "",
+        "title" : "Golden",
+        "date" : "2022-01-02T00:00:00Z",
+        "notes" : "",
+        "musicService" : "iTunes",
+        "artwork" : "https:\/\/ridmaur.github.io\/chartyourmusic\/examples\/covers\/11.png"
+      },
+      {
+        "musicService" : "iTunes",
+        "artwork" : "https:\/\/ridmaur.github.io\/chartyourmusic\/examples\/covers\/06.png",
+        "artist" : "Blair Maynard",
+        "notes" : "To listen to music, tap Play. In the chart itself, long press the artwork.",
+        "preview" : "",
+        "date" : "2022-01-02T00:00:00Z",
+        "id" : "06",
+        "title" : "Little Bit Of Love"
+      },
+      {
+        "title" : "Unchained",
+        "id" : "13",
+        "artwork" : "https:\/\/ridmaur.github.io\/chartyourmusic\/examples\/covers\/13.png",
+        "artist" : "MIA",
+        "date" : "2022-01-02T00:00:00Z",
+        "musicService" : "iTunes",
+        "notes" : "To listen to music, tap Play. In the chart itself, long press the artwork.",
+        "preview" : ""
+      },
+      {
+        "preview" : "",
+        "title" : "Second Attempt",
+        "notes" : "To listen to music, tap Play. In the chart itself, long press the artwork.",
+        "date" : "2022-01-02T00:00:00Z",
+        "artwork" : "https:\/\/ridmaur.github.io\/chartyourmusic\/examples\/covers\/14.png",
+        "id" : "14",
+        "artist" : "Musal",
+        "musicService" : "iTunes"
+      },
+      {
+        "artwork" : "https:\/\/ridmaur.github.io\/chartyourmusic\/examples\/covers\/07.png",
+        "artist" : "Mendy Moon",
+        "musicService" : "iTunes",
+        "date" : "2022-01-02T00:00:00Z",
+        "id" : "07",
+        "notes" : "To listen to music, tap Play. In the chart itself, long press the artwork.",
+        "title" : "Taste of Gaia",
+        "preview" : ""
+      }
+    ]
+  }
+]
