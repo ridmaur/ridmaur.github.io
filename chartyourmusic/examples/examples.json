@@ -9,16 +9,16 @@
 	},
 	{
 		"id": 2,
-		"title": "Fake Collection",
-		"description": "A collection of fake entries, created to be in compliance with Apple's App Store guidelines for displaying previews of the app. None of the tracks exist, neither do the artists…",
+		"title": "Fake Collections",
+		"description": "A set of collections of fake entries, created to be in compliance with Apple's App Store guidelines for displaying previews of the app. None of the tracks exist, neither do the artists…",
 		"imageUrl": "https://ridmaur.github.io/chartyourmusic/examples/images/CYM-Fake.jpeg",
 		"musicService": "iTunes",
 		"url": "https://ridmaur.github.io/chartyourmusic/examples/CYM-Fake.json"
 	},	
 	{
 		"id": 3,
-		"title": "Another Fake Collection",
-		"description": "Another collection of fake entries, created to be in compliance with Apple's App Store guidelines for displaying previews of the app. None of the tracks exist, neither do the artists…",
+		"title": "Another Fake Collections",
+		"description": "Another set of collections of fake entries, created to be in compliance with Apple's App Store guidelines for displaying previews of the app. None of the tracks exist, neither do the artists…",
 		"imageUrl": "https://ridmaur.github.io/chartyourmusic/examples/images/CYM-AnotherFake.png",
 		"musicService": "iTunes",
 		"url": "https://ridmaur.github.io/chartyourmusic/examples/CYM-AnotherFake.json"
