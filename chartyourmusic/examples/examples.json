@@ -41,6 +41,14 @@
 	},
 	{
 		"id": 6,
+		"title": "Billboard Hot 100",
+		"description": "Collection of four Billboard Hot 100 charts, late 2023…",
+		"imageUrl": "https://ridmaur.github.io/chartyourmusic/examples/images/CYM-AppleMusic-BillboardHot100",
+		"musicService": "Apple Music",
+		"url": "https://ridmaur.github.io/chartyourmusic/examples/CYM-AppleMusic-BillboardHot100.json"
+	},
+	{
+		"id": 7,
 		"title": "OOR 2021",
 		"description": "The best albums of 2021 according to music journalists in the Netherlands and collected by the Dutch infamous music magazine OOR. A typical example of a collection of end-of-year lists with no apparent sequence… ",
 		"imageUrl": "https://ridmaur.github.io/chartyourmusic/examples/images/CYM-OOR21.png",
