@@ -43,7 +43,7 @@
 		"id": 6,
 		"title": "Billboard Hot 100",
 		"description": "Collection of four Billboard Hot 100 charts, late 2023…",
-		"imageUrl": "https://ridmaur.github.io/chartyourmusic/examples/images/CYM-AppleMusic-BillboardHot100",
+		"imageUrl": "https://ridmaur.github.io/chartyourmusic/examples/images/CYM-AppleMusic-BillboardHot100.png",
 		"musicService": "Apple Music",
 		"url": "https://ridmaur.github.io/chartyourmusic/examples/CYM-AppleMusic-BillboardHot100.json"
 	},
