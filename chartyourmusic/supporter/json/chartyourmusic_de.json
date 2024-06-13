@@ -196,7 +196,7 @@
                             "title":  "Beispiele importieren",
                             "subtitle": "Du kannst Beispielsammlungen importieren. Die Beispiele unterscheiden sich je nach Musikdienst. Wähle **Einstellungen** > **Sammlungen verwalten**, wähle **...** und dann **Beispiele importieren**. Wähle aus der Liste die Beispielsammlungen aus und tippe auf **Importieren**",
                             "videoURL": "https://ridmaur.github.io/chartyourmusic/supporter/videos/importsamplecollection_white.mp4",
-                            "darkVideoURL": "https://ridmaur.github.io/chartyourmusic/supporter/videos/mportsamplecollection_black.mp4"
+                            "darkVideoURL": "https://ridmaur.github.io/chartyourmusic/supporter/videos/importsamplecollection_black.mp4"
                         }
                     ]
                 }

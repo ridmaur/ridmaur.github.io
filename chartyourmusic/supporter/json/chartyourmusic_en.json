@@ -196,7 +196,7 @@
                             "title": "Import Examples",
                             "subtitle": "You can can import example collection. The examples differ based on the music service. Select **Settings** > **Manage Collections**, select **…** and then **Import Examples**. From the list select the example collections and tap **Import**",
                             "videoURL": "https://ridmaur.github.io/chartyourmusic/supporter/videos/importsamplecollection_white.mp4",
-                            "darkVideoURL": "https://ridmaur.github.io/chartyourmusic/supporter/videos/mportsamplecollection_black.mp4"
+                            "darkVideoURL": "https://ridmaur.github.io/chartyourmusic/supporter/videos/importsamplecollection_black.mp4"
                         }
                     ]
                 }
