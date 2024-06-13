@@ -293,6 +293,13 @@
                             "subtitle": "Tippe auf die Sammlung, die du ansehen oder bearbeiten willst. Tippe auf die Kopfzeile (die das Datum der Sammlung enthält). Du siehst den Bildschirm **Einträge Ubersicht**, auf dem du alle Einträge in der Sammlung bewerten und durchsuchen kannst.",
                             "videoURL": "https://ridmaur.github.io/chartyourmusic/supporter/videos/collectiondetails_white.mp4",
                             "darkVideoURL": "https://ridmaur.github.io/chartyourmusic/supporter/videos/collectiondetails_black.mp4"
+                        },
+                        {
+                            "id": 3,
+                            "title": "Mehr Details",
+                            "subtitle": "Tippe auf das Bild eines Eintrags in den Eintragsdetails. Du siehst dann die Details des Eintrags aus dem ausgewählten Musikdienst. Erkunde weitere Details auch aus anderen Quellen.",
+                            "videoURL": "https://ridmaur.github.io/chartyourmusic/supporter/videos/moredetails_white.mp4",
+                            "darkVideoURL": "https://ridmaur.github.io/chartyourmusic/supporter/videos/moredetails_black.mp4"
                         }
                     ]
                 },
@@ -327,7 +334,7 @@
                         {
                             "id": 3,
                             "title": "Playlists importieren",
-                            "subtitle": "Tippe im Bildschirm **Einträge Übersicht** auf **…* und dann auf **Wiedergabelisten importieren…**. Ein Blatt zeigt dir die Wiedergabelisten des konfigurierten Musikdienstes. Wähle eine WiedergabeHitliste aus und alle Lieder aus der Wiedergabeliste, die noch nicht in der Sammlung sind, werden hinzugefügt.",
+                            "subtitle": "Tippe in deiner Sammlung auf **Importieren**. Ein Blatt zeigt deine Wiedergabelisten aus dem konfigurierten Musikdienst an. Wähle **Sammlung**, um sie zu deiner Sammlung hinzuzufügen, wähle **Neue Chart**, um eine neue Tabelle aus der Wiedergabeliste zu erstellen.",
                             "videoURL": "https://ridmaur.github.io/chartyourmusic/supporter/videos/importplaylists_white.mp4",
                             "darkVideoURL": "https://ridmaur.github.io/chartyourmusic/supporter/videos/importplaylists_black.mp4"
                         },

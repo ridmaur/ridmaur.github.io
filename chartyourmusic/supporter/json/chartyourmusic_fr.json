@@ -166,7 +166,7 @@
                         {
                             "id" : 4,
                             "title" : "Déplacer ou supprimer des entrées",
-                            "subtitle" : "Tape sur **↔︎**. La vue de ton tableau change pour que tu puisses supprimer et déplacer les entrées. Fais glisser les entrées vers le haut ou le bas en utilisant la poignée d'une entrée. Tape sur **-** pour supprimer une entrée du tableau (tu peux aussi faire glisser de droite à gauche, même si tu n'es pas en vue classement). Touche **⇅** lorsque tu as fini de classer ton tableau.",
+                            "subtitle" : "Tape sur **↔︎** ou simplement par glisser-déposer. La vue de ton tableau change pour que tu puisses supprimer et déplacer les entrées. Fais glisser les entrées vers le haut ou le bas en utilisant la poignée d'une entrée. Tape sur **-** pour supprimer une entrée du tableau (tu peux aussi faire glisser de droite à gauche, même si tu n'es pas en vue classement). Touche **⇅** lorsque tu as fini de classer ton tableau.",
                             "videoURL" : "https://ridmaur.github.io/chartyourmusic/supporter/videos/movedeleteentry_white.mp4",
                             "darkVideoURL" : "https://ridmaur.github.io/chartyourmusic/supporter/videos/movedeleteentry_black.mp4"
                         },
@@ -293,7 +293,15 @@
                             "subtitle" : "Tape sur la collection que tu veux voir ou modifier. Tape sur l'en-tête (avec la date de la collection). Tu verras l'écran **Vue d'ensemble des entrées** où tu peux classer et rechercher toutes les entrées de la collection.",
                             "videoURL" : "https://ridmaur.github.io/chartyourmusic/supporter/videos/collectiondetails_white.mp4",
                             "darkVideoURL" : "https://ridmaur.github.io/chartyourmusic/supporter/videos/collectiondetails_black.mp4"
+                        },
+                        {
+                            "id" : 3,
+                            "title" : "Plus de détails",
+                            "subtitle" : "Tape sur l'image d'une entrée dans les détails de l'entrée. Tu verras les détails de l'entrée à partir du service musical sélectionné. Explore plus de détails même à partir d'autres sources.",
+                            "videoURL" : "https://ridmaur.github.io/chartyourmusic/supporter/videos/moredetails_white.mp4",
+                            "darkVideoURL" : "https://ridmaur.github.io/chartyourmusic/supporter/videos/moredetils_black.mp4"
                         }
+
                     ]
                 },
                 {
@@ -327,7 +335,7 @@
                         {
                             "id" : 3,
                             "title" : "Importer des listes de lecture",
-                            "subtitle" : "Dans **Survol des éléments*, tape sur **…*, puis sur **Importer**. Une feuille affichera tes listes de lecture du service musical configuré. Sélectionne une liste de lecture et toutes les pistes de la liste de lecture qui n'existent pas encore dans la collection seront ajoutées.",
+                            "subtitle" : "Dans ta collection, tape sur **Importer**. Une feuille affichera tes listes de lecture à partir du service musical configuré. Sélectionne **Collection** pour l'ajouter à ta collection, sélectionne **Nouveau charte** pour créer un nouveau graphique à partir de la liste de lecture.",
                             "videoURL" : "https://ridmaur.github.io/chartyourmusic/supporter/videos/importplaylists_white.mp4",
                             "darkVideoURL" : "https://ridmaur.github.io/chartyourmusic/supporter/videos/importplaylists_black.mp4"
                         },

@@ -166,7 +166,7 @@
                         {
                             "id": 4,
                             "title": "Spostamento o eliminazione di voci",
-                            "subtitle": "Tocca **↔︎**. La vista del Lista cambia e puoi eliminare e spostare le voci. Trascina le voci verso l'alto o verso il basso utilizzando la maniglia di una voce. Tocca **-** per rimuovere una voce dal Lista (in alternativa puoi scorrere il dito da destra a sinistra, anche quando non sei in vista della classifica). Tocca **⇅** quando hai finito di classificare la tua classifica.",
+                            "subtitle": "Tocca **↔︎** o semplicemente trascinare e rilasciare. La vista del Lista cambia e puoi eliminare e spostare le voci. Trascina le voci verso l'alto o verso il basso utilizzando la maniglia di una voce. Tocca **-** per rimuovere una voce dal Lista (in alternativa puoi scorrere il dito da destra a sinistra, anche quando non sei in vista della classifica). Tocca **⇅** quando hai finito di classificare la tua classifica.",
                             "videoURL": "https://ridmaur.github.io/chartyourmusic/supporter/videos/movedeleteentry_white.mp4",
                             "darkVideoURL": "https://ridmaur.github.io/chartyourmusic/supporter/videos/movedeleteentry_black.mp4"
                         },
@@ -226,6 +226,13 @@
                             "subtitle": "Tocca una voce in un Lista o nella panoramica delle voci. Verrà visualizzata la schermata **Dettagli voce** con una panoramica dei punti totali, ecc. Tocca **Modifica (matita)** per modificare i dettagli della voce.",
                             "videoURL": "https://ridmaur.github.io/chartyourmusic/supporter/videos/vieweditentry_white.mp4",
                             "darkVideoURL": "https://ridmaur.github.io/chartyourmusic/supporter/videos/vieweditentry_black.mp4"
+                        },
+                        {
+                            "id": 3,
+                            "title": "Ulteriori dettagli ",
+                            "subtitle": "Tocca l'immagine di una voce nei dettagli della voce. Vedrai i dettagli della voce dal servizio musicale selezionato. Esplora ulteriori dettagli anche da altre fonti.",
+                            "videoURL": "https://ridmaur.github.io/chartyourmusic/supporter/videos/moredetails_white.mp4",
+                            "darkVideoURL": "https://ridmaur.github.io/chartyourmusic/supporter/videos/moredetails_black.mp4"
                         }
                     ]
                 },
@@ -327,7 +334,7 @@
                         {
                             "id": 3,
                             "title": "Importazione di playlist",
-                            "subtitle": "Nella **Panoramica degli items*, tocca su **…*, quindi su **Importa**. Un foglio mostrerà le tue playlist dal servizio musicale configurato. Seleziona una playlist e tutti i brani della playlist che non esistono ancora nella raccolta verranno aggiunti.",
+                            "subtitle": "Nella tua raccolta tocca **Importa**. Un foglio mostrerà le tue playlist dal servizio musicale configurato. Seleziona **Collezione** per aggiungerla alla tua raccolta, seleziona **Nuovo classifica** per creare un nuovo grafico dalla playlist.",
                             "videoURL": "https://ridmaur.github.io/chartyourmusic/supporter/videos/importplaylists_white.mp4",
                             "darkVideoURL": "https://ridmaur.github.io/chartyourmusic/supporter/videos/importplaylists_black.mp4"
                         },

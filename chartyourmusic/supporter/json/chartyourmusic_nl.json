@@ -166,7 +166,7 @@
                         {
                             "id": 4,
                             "title": "Verplaatsen of Verwijderen Items",
-                            "subtitle": "Druk op **↔︎**. De lijstweergave verandert, zodat je items kunt verwijderen en verplaatsen. Sleep items omhoog of omlaag met behulp van het handvat van een item. Klik op **-** om een item uit de lijst te verwijderen (je kunt ook van rechts naar links vegen, zelfs als je niet in de ranglijstweergave bent). Tik op **⇅** wanneer je klaar bent met het rangschikken van je lijst.",
+                            "subtitle": "Druk op **↔︎** of drag en drop items. De lijstweergave verandert, zodat je items kunt verwijderen en verplaatsen. Sleep items omhoog of omlaag met behulp van het handvat van een item. Klik op **-** om een item uit de lijst te verwijderen (je kunt ook van rechts naar links vegen, zelfs als je niet in de ranglijstweergave bent). Tik op **⇅** wanneer je klaar bent met het rangschikken van je lijst.",
                             "videoURL": "https://ridmaur.github.io/chartyourmusic/supporter/videos/movedeleteentry_white.mp4",
                             "darkVideoURL": "https://ridmaur.github.io/chartyourmusic/supporter/videos/movedeleteentry_black.mp4"
                         },
@@ -293,6 +293,13 @@
                             "subtitle": "Tik op de verzameling die u wilt bekijken of wijzigen. Tik op de koptekst (met de datum van de verzameling). U ziet het scherm **Items Overview** waar u alle items in de collectie kunt rangschikken en doorzoeken.",
                             "videoURL": "https://ridmaur.github.io/chartyourmusic/supporter/videos/collectiondetails_white.mp4",
                             "darkVideoURL": "https://ridmaur.github.io/chartyourmusic/supporter/videos/collectiondetails_black.mp4"
+                        },
+                        {
+                            "id": 3,
+                            "title": "Meer Details",
+                            "subtitle": "Tik op de afbeelding in de details van een item. Je ziet de details van het item van de geselecteerde muziekdienst. Ontdek meer details, zelfs van andere bronnen.",
+                            "videoURL": "https://ridmaur.github.io/chartyourmusic/supporter/videos/moredetails_white.mp4",
+                            "darkVideoURL": "https://ridmaur.github.io/chartyourmusic/supporter/videos/moredetails_black.mp4"
                         }
                     ]
                 },
@@ -327,7 +334,7 @@
                         {
                             "id": 3,
                             "title": "Importeer Afspeellijsten",
-                            "subtitle": "In het **Items Overzicht** scherm, tik op **…* en vervolgens op **Importeer Afspeellijsten…**. Een blad toont je de afspeellijsten van de geconfigureerde muziekdienst. Selecteer een afspeellijst en alle nummers uit de afspeellijst die nog niet in de verzameling voorkomen, worden toegevoegd.",
+                            "subtitle": "Tik in je verzameling op **Import**. Er verschijnt een blad met je afspeellijsten van de geconfigureerde muziekservice. Selecteer **Verzameling** om toe te voegen aan je collectie, selecteer **Nieuwe lijst** om een nieuwe lijst te maken van de afspeellijst.",
                             "videoURL": "https://ridmaur.github.io/chartyourmusic/supporter/videos/importplaylists_white.mp4",
                             "darkVideoURL": "https://ridmaur.github.io/chartyourmusic/supporter/videos/importplaylists_black.mp4"
                         },

@@ -166,7 +166,7 @@
                         {
                             "id": 4,
                             "title": "Moving or Deleting Entries",
-                            "subtitle": "Tap on **↔︎**. Your chart view changes so you can delete and move entries. Drag entries up or down using the handle of an entry. Tap on **-** to remove an entry from the chart (alternatively you can swipe from right to left, even when not in ranking view). Tap **⇅** when finished ranking your chart.",
+                            "subtitle": "Tap on **↔︎** or simply drag and drop. Your chart view changes so you can delete and move entries. Drag entries up or down using the handle of an entry. Tap on **-** to remove an entry from the chart (alternatively you can swipe from right to left, even when not in ranking view). Tap **⇅** when finished ranking your chart.",
                             "videoURL": "https://ridmaur.github.io/chartyourmusic/supporter/videos/movedeleteentry_white.mp4",
                             "darkVideoURL": "https://ridmaur.github.io/chartyourmusic/supporter/videos/movedeleteentry_black.mp4"
                         },
@@ -227,6 +227,7 @@
                             "videoURL": "https://ridmaur.github.io/chartyourmusic/supporter/videos/vieweditentry_white.mp4",
                             "darkVideoURL": "https://ridmaur.github.io/chartyourmusic/supporter/videos/vieweditentry_black.mp4"
                         }
+
                     ]
                 },
                 {
@@ -293,6 +294,13 @@
                             "subtitle": "Tap on the collection you want to view or modify. Tap on the header (with the date of the collection). You will see the **Entries Overview** screen where you can rank and search for all entries in the collection.",
                             "videoURL": "https://ridmaur.github.io/chartyourmusic/supporter/videos/collectiondetails_white.mp4",
                             "darkVideoURL": "https://ridmaur.github.io/chartyourmusic/supporter/videos/collectiondetails_black.mp4"
+                        },
+                        {
+                            "id": 3,
+                            "title": "More Details",
+                            "subtitle": "Tap on the image of an entry in the entry details. You will see the details of the entry from the selected music service. Explore more details even from other sources.",
+                            "videoURL": "https://ridmaur.github.io/chartyourmusic/supporter/videos/moredetails_white.mp4",
+                            "darkVideoURL": "https://ridmaur.github.io/chartyourmusic/supporter/videos/moredetails_black.mp4"
                         }
                     ]
                 },
@@ -327,7 +335,7 @@
                         {
                             "id": 3,
                             "title": "Import Playlists",
-                            "subtitle": "In  **Items Overview*, tap on **…*, then on **Import**. A sheet will display your playlists from the configured music service. Select a playlist and all the tracks from the playlist that do not exist yet in the collection will be added.",
+                            "subtitle": "In your collection tap **Import**. A sheet will display your playlists from the configured music service. Select **Collection** to add to your collection, select **New Chart** to create a new chart from the playlist.",
                             "videoURL": "https://ridmaur.github.io/chartyourmusic/supporter/videos/importplaylists_white.mp4",
                             "darkVideoURL": "https://ridmaur.github.io/chartyourmusic/supporter/videos/importplaylists_black.mp4"
                         },
