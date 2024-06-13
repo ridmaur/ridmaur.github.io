@@ -190,6 +190,13 @@
                             "subtitle" : "Tu peux choisir n'importe quelle entrée dans une collection qui ne fait pas partie du tableau actuel. Sélectionne **Pick Entry** et choisis l'entrée dans la liste ou recherche l'entrée. Choisis celle que tu veux ajouter. Tu peux trier les entrées sur l'artiste/le titre (en ordre croissant) ou sur la date (en ordre décroissant). Fais glisser vers le bas pour effectuer une recherche.",
                             "videoURL" : "https://ridmaur.github.io/chartyourmusic/supporter/videos/pickentry_white.mp4",
                             "darkVideoURL" : "https://ridmaur.github.io/chartyourmusic/supporter/videos/pickentry_black.mp4"
+                        },
+                        {
+                            "id": 8,
+                            "title": "Importer des exemples",
+                            "subtitle": " Tu peux importer des exemples de collection. Les exemples diffèrent en fonction du service musical. Sélectionne **Réglages** > **Gestion des collections**, sélectionne **...** puis **Importer des exemples**. Dans la liste, sélectionne les collections d'exemples et appuie sur **Importer**",
+                            "videoURL": "https://ridmaur.github.io/chartyourmusic/supporter/videos/importsamplecollection_white.mp4",
+                            "darkVideoURL": "https://ridmaur.github.io/chartyourmusic/supporter/videos/mportsamplecollection_black.mp4"
                         }
                     ]
                 }
@@ -314,7 +321,7 @@
                         {
                             "id" : 0,
                             "title" : "Partage ton tableau",
-                            "subtitle" : "Tu peux partager ton Liste en utilisant la fonctionnalité de partage d'iOS. Tape sur **Listes** dans la barre d'onglets. Tape sur ta collection. Tape sur le Liste spécifique. Tape sur l'en-tête (avec la date du Liste). Dans l'écran **Détails du Liste**, tape sur **…***, puis sur **Partager**. Ce qui est partagé dépend de l'application que tu as sélectionnée.",
+                            "subtitle" : "Tu peux partager ton Liste en utilisant la fonctionnalité de partage d'iOS. Tape sur **Listes** dans la barre d'onglets. Tape sur ta collection. Tape sur le Liste spécifique. Tape sur **Partager**. Ce qui est partagé dépend de l'application que tu as sélectionnée.",
                             "videoURL" : "https://ridmaur.github.io/chartyourmusic/supporter/videos/sharechart_white.mp4",
                             "darkVideoURL" : "https://ridmaur.github.io/chartyourmusic/supporter/videos/sharechart_black.mp4"
                         },

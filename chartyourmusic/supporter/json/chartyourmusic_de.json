@@ -190,6 +190,13 @@
                             "subtitle": "Du kannst jedes Eintrag in einer Sammlung auswählen, das nicht Teil der aktuellen Hitliste ist. Wähle **Eintrag auswählen** und wähle ein Eintrag aus der Hitliste oder suche nach einem Eintrag. Wähle den Eintrag, den du hinzufügen möchtest. Du kannst die Eintrag nach Künstler/Titel (aufsteigend) oder nach Datum (absteigend) sortieren. Ziehe nach unten, um das Suchfeld anzuzeigen.",
                             "videoURL": "https://ridmaur.github.io/chartyourmusic/supporter/videos/pickentry_white.mp4",
                             "darkVideoURL": "https://ridmaur.github.io/chartyourmusic/supporter/videos/pickentry_black.mp4"
+                        },
+                        {
+                            "id": 8,
+                            "title":  "Beispiele importieren",
+                            "subtitle": "Du kannst Beispielsammlungen importieren. Die Beispiele unterscheiden sich je nach Musikdienst. Wähle **Einstellungen** > **Sammlungen verwalten**, wähle **...** und dann **Beispiele importieren**. Wähle aus der Liste die Beispielsammlungen aus und tippe auf **Importieren**",
+                            "videoURL": "https://ridmaur.github.io/chartyourmusic/supporter/videos/importsamplecollection_white.mp4",
+                            "darkVideoURL": "https://ridmaur.github.io/chartyourmusic/supporter/videos/mportsamplecollection_black.mp4"
                         }
                     ]
                 }
@@ -313,7 +320,7 @@
                         {
                             "id": 0,
                             "title": "Teile deine Liste",
-                            "subtitle": "Du kannst deine Hitliste mit der iOS Sharing-Funktion teilen. Tippe auf **Listen**. Tippe auf deine Sammlung. Tippe auf die jeweilige Liste. Tippe auf die Kopfzeile (die das Datum der Hitliste enthält). Tippe auf dem Bildschirm **Listen details** auf **…*** und dann auf **Teilen…**. Was geteilt wird, hängt von der App ab, die du ausgewählt hast.",
+                            "subtitle": "Du kannst deine Hitliste mit der iOS Sharing-Funktion teilen. Tippe auf **Listen**. Tippe auf deine Sammlung. Tippe auf die jeweilige Liste. Tippe auf **Teilen…**. Was geteilt wird, hängt von der App ab, die du ausgewählt hast.",
                             "videoURL": "https://ridmaur.github.io/chartyourmusic/supporter/videos/sharechart_white.mp4",
                             "darkVideoURL": "https://ridmaur.github.io/chartyourmusic/supporter/videos/sharechart_black.mp4"
                         },

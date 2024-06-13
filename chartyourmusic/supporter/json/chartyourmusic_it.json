@@ -190,6 +190,13 @@
                             "subtitle": "Puoi scegliere qualsiasi voce di una collezione che non fa parte del Lista corrente. Seleziona **Pick Entry** e seleziona una voce dall'elenco o cercala. Scegli quella che vuoi aggiungere. Puoi ordinare le voci in base all'artista/title (crescente) o alla data (decrescente). Trascina verso il basso per cercare",
                             "videoURL": "https://ridmaur.github.io/chartyourmusic/supporter/videos/pickentry_white.mp4",
                             "darkVideoURL": "https://ridmaur.github.io/chartyourmusic/supporter/videos/pickentry_black.mp4"
+                        },
+                        {
+                            "id": 8,
+                            "title": "Importazione di esempi",
+                            "subtitle": "Puoi importare una raccolta di esempi. Gli esempi variano a seconda del servizio musicale. Seleziona **Impostazioni** > **Gestione collezioni**, seleziona **...** e poi **Importa esempi**. Dall'elenco seleziona le raccolte di esempi e tocca **Importa**",
+                            "videoURL": "https://ridmaur.github.io/chartyourmusic/supporter/videos/importsamplecollection_white.mp4",
+                            "darkVideoURL": "https://ridmaur.github.io/chartyourmusic/supporter/videos/mportsamplecollection_black.mp4"
                         }
                     ]
                 }
@@ -313,14 +320,14 @@
                         {
                             "id": 0,
                             "title": "Condividi il tuo Lista",
-                            "subtitle": "Puoi condividere il tuo Lista utilizzando la funzionalità di condivisione di iOS. Tocca **Lizza** nella barra delle schede. Tocca la tua raccolta. Tocca il Lista specifico. Tocca l'intestazione (con la data del Lista). Nella schermata **Dettagli del Lista**, tocca **…*** e poi **Condividi**. Ciò che viene condiviso dipende dall'app selezionata",
+                            "subtitle": "Puoi condividere il tuo Lista utilizzando la funzionalità di condivisione di iOS. Tocca **Lizza** nella barra delle schede. Tocca la tua raccolta. Tocca il Lista specifico. Tocca poi **Condividi**. Ciò che viene condiviso dipende dall'app selezionata",
                             "videoURL": "https://ridmaur.github.io/chartyourmusic/supporter/videos/sharechart_white.mp4",
                             "darkVideoURL": "https://ridmaur.github.io/chartyourmusic/supporter/videos/sharechart_black.mp4"
                         },
                         {
                             "id": 1,
                             "title": "Crea una playlist",
-                            "subtitle": "Quando Apple Music o Spotify sono configurati come servizio musicale, puoi creare una playlist da una classifica. Tocca **Lizza** nella barra delle schede. Tocca la tua raccolta. Tocca il Lista specifico. Tocca l'intestazione (con la data del Lista). Nella schermata **Dettagli del Lista**, tocca **…**, quindi **Crea playlist…***. Verrà creata una playlist intitolata *CYM: nome della raccolta - nome del Lista*",
+                            "subtitle": "Quando Apple Music o Spotify sono configurati come servizio musicale, puoi creare una playlist da una classifica. Tocca **Lizza** nella barra delle schede. Tocca la tua raccolta. Tocca il Lista specifico. Tocca l'intestazione (con la data del Lista). Nella schermata **Dettagli del Lista**, tocca **…**, quindi **Crea playlist…**. Verrà creata una playlist intitolata *CYM: nome della raccolta - nome del Lista*",
                             "videoURL": "https://ridmaur.github.io/chartyourmusic/supporter/videos/createplaylist_white.mp4",
                             "darkVideoURL": "https://ridmaur.github.io/chartyourmusic/supporter/videos/createplaylist_black.mp4"
                         },

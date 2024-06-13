@@ -190,6 +190,13 @@
                             "subtitle": "Je kunt elk item in een collectie kiezen dat geen deel uitmaakt van de huidige lijst. Selecteer **Selecteer Item** en selecteer een item uit de lijst of zoek een item. Kies het item dat je wilt toevoegen. Je kunt de items sorteren op artiest/titel (oplopend) of op datum (aflopend). Sleep naar beneden om zoekveld te tonen.",
                             "videoURL": "https://ridmaur.github.io/chartyourmusic/supporter/videos/pickentry_white.mp4",
                             "darkVideoURL": "https://ridmaur.github.io/chartyourmusic/supporter/videos/pickentry_black.mp4"
+                        },
+                        {
+                            "id": 8,
+                            "title": "Import Voorbeelden",
+                            "subtitle": "Je kunt voorbeeldverzamelingen importeren. De voorbeelden verschillen per muziekservice. Selecteer **Instellingen** > **Beheer Verzamelingen**, selecteer **...** en vervolgens **Importeer Voorbeelden**. Selecteer in de lijst de voorbeeldverzamelingen en tik op **Import**",
+                            "videoURL": "https://ridmaur.github.io/chartyourmusic/supporter/videos/importsamplecollection_white.mp4",
+                            "darkVideoURL": "https://ridmaur.github.io/chartyourmusic/supporter/videos/mportsamplecollection_black.mp4"
                         }
                     ]
                 }
@@ -313,7 +320,7 @@
                         {
                             "id": 0,
                             "title": "Deel je Lijst",
-                            "subtitle": "Je kunt je lijst delen met behulp van de iOS deelfunctie. Tik op **Lijsten** in de tabbalk. Tik op je verzameling. Tik op de specifieke lijst. Tik op de koptekst (met de datum van de lijst). In het scherm **Details Lijst**, tik je op **…*** en vervolgens op **Deel…**. Wat gedeeld wordt, hangt af van de app die je selecteert.",
+                            "subtitle": "Je kunt je lijst delen met behulp van de iOS deelfunctie. Tik op **Lijsten** in de tabbalk. Tik op je verzameling. Tik op **Deel…**. Wat gedeeld wordt, hangt af van de app die je selecteert.",
                             "videoURL": "https://ridmaur.github.io/chartyourmusic/supporter/videos/sharechart_white.mp4",
                             "darkVideoURL": "https://ridmaur.github.io/chartyourmusic/supporter/videos/sharechart_black.mp4"
                         },
