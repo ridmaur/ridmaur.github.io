@@ -517,68 +517,6 @@
                     "text": "The [Best-in-Class iOS App](https://www.bestinclassiosapp.com) is is a living, breathing document that's continually updated by Jordan Morgan."
                 }
             ]
-        },
-        {
-            "id": 2,
-            "title": "Contributions",
-            "hasDetailPage": true,
-            "items": [
-                {
-                    "id": 0,
-                    "title": "SpotifyAPI",
-                    "text": "A [Swift library](https://peter-schorn.github.io/SpotifyAPI/index.html) for the Spotify web API."
-                },
-                {
-                    "id": 1,
-                    "title": "Supporter",
-                    "text": "A [Swift framework](https://goodsnooze.gumroad.com/l/supporter) for building in-app support."
-                },
-                {
-                    "id": 2,
-                    "title": "KeychainAcces",
-                    "text": "A simple [Swift wrapper](https://github.com/kishikawakatsumi/KeychainAccess) for Keychain access."
-                },
-                {
-                    "id": 3,
-                    "title": "SwimplyPlayIndicator",
-                    "text": "A **now playing** [animated indicator](https://github.com/docterd/SwimplyPlayIndicator) for SwiftUI."
-                },
-                {
-                    "id": 4,
-                    "title": "MusicThread",
-                    "text": "[MusicThread](https://musicthread.app) is a website to create and share lists of music. Chart Your Music is integrated with this service using MusicThread's API."
-                },
-                {
-                    "id": 5,
-                    "title": "TagField",
-                    "text": "A [tagfield implementation](https://github.com/changemin/TagField.git) for SwiftUI."
-                },
-                {
-                    "id": 6,
-                    "title": "WhatsNewKit",
-                    "text": "A [Swift Package](https://github.com/SvenTiigi/WhatsNewKit) to easily introduce new app features."
-                },
-                {
-                    "id": 7,
-                    "title": "CloudkitSyncMonitor",
-                    "text": "A [Swift Package](https://github.com/ggruen/CloudKitSyncMonitor) to provide user feedback and monitoring on CloudKit syncing."
-                },
-                {
-                    "id": 8,
-                    "title": "ColorKit",
-                    "text": "[ColorKit](https://github.com/Boris-Em/ColorKit) is your companion to work with colors on iOS."
-                },
-                {
-                    "id": 9,
-                    "title": "CustomAlert",
-                    "text": "[CustomAlert](https://github.com/divadretlaw/CustomAlert) extends the default iOS Alert with images and other controls. Used for rapidly moving entries within big charts."
-                },
-                {
-                    "id": 10,
-                    "title": "SDWebImage / SDWebImageSwiftUI",
-                    "text": "[SDWebImage and SDWebImageSwiftUI](https://github.com/SDWebImage/SDWebImage) is an async image downloader with cache support. Ensures all the artwork is readily available in the app."
-                }
-            ]
         }
     ],
     "contactSections": [
@@ -604,6 +542,17 @@
         }
     ],
     "changelogItems": [
+        {
+            "id": 0,
+            "version": "Version 2.0",
+            "date": "8 June 2024",
+            "notes": [
+                {
+                    "id": 0,
+                    "releaseNote": "2.0.0: You can now add any playlist as a chart to your collection, not only Apple Music chart playlists. For example, you can add your daily updated Apple Music Heavy Rotations Mix to a collection, or the Billboard Top 100 playlist on Spotify to a collection. When adding a playlist, you can select whether you want to add the playlist to the collection and pick entries from it later, or immediately create a new chart from the playlist. A ton of additional information is now available for your chart entries. Tap on the artwork in the entry details and you will find additional information the music service (iTunes, Apple Music, or Spotify) provides. On top of that you can retrieve information from other sources like Last.fm, Discogs, Genius. If there is more artwork available (for example liner notes, etc.) for a song or an album, it is displayed in cover flow. You can tap on any artwork to see a full screen version which you can drag and zoom for more details. The app now offers integration with Last.fm. If you have configured to like/love tracks for a collection, and you actually do like/love one or more entries, these entries are also added to your  loved tracks in Last.fm. If you play an entry through the app, the entry is added to your Last.fm scrobbles. You can configure your Last.fm account in Settings. The app also integrates with the beautiful NowPlaying app; an app to explore the hidden stories behind your favourite music & enhance your listening experience. In the Statistics screen you can now search for Artist, Entry Title amongst all entries and Chart Title amongst all charts. Added some utility admin functions, for example to delete all reminders and to make a full backup in JSON of all your collections."
+                }
+            ]
+        },
         {
             "id": 0,
             "version": "Version 1.1",
