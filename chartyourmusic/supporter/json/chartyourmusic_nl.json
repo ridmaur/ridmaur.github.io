@@ -122,9 +122,9 @@
                         {
                             "id": 4,
                             "title": "Noteringen",
-                            "subtitle": "De unieke combinatie van een item in een lijst, die de positie van een item in de lijst specificeert, bv. het item (song) *Beyoncé - Naughty Girl* in de lijst *Week 19*.",
-                            "imageURL": "https://ridmaur.github.io/chartyourmusic/supporter/images/chart_white.png",
-                            "darkImageURL": "https://ridmaur.github.io/chartyourmusic/supporter/images/chart_black.png"
+                            "subtitle": "De unieke combinatie van een item in een lijst, die de positie van een item in de lijst specificeert.",
+                            "imageURL": "https://ridmaur.github.io/chartyourmusic/supporter/images/chartentry_white.png",
+                            "darkImageURL": "https://ridmaur.github.io/chartyourmusic/supporter/images/chartentry_black.png"
                         }
                     ]
                 },
@@ -197,6 +197,13 @@
                             "subtitle": "Je kunt voorbeeldverzamelingen importeren. De voorbeelden verschillen per muziekservice. Selecteer **Instellingen** > **Beheer Verzamelingen**, selecteer **...** en vervolgens **Importeer Voorbeelden**. Selecteer in de lijst de voorbeeldverzamelingen en tik op **Import**",
                             "videoURL": "https://ridmaur.github.io/chartyourmusic/supporter/videos/importsamplecollection_white.mp4",
                             "darkVideoURL": "https://ridmaur.github.io/chartyourmusic/supporter/videos/importsamplecollection_black.mp4"
+                        },
+                        {
+                            "id": 9,
+                            "title": "Ontdek",
+                            "subtitle": "Je kunt de muziek die je hoort ontdekken via het tabblad **Ontdekken**. Tik op **Ontdeklen…** en wacht tot de muziek is ontdekt. Tik vervolgens op **Item toevoegen...** om muziek aan een verzameling toe te voegen.",
+                            "imageURL": "https://ridmaur.github.io/chartyourmusic/supporter/images/discover_white.png",
+                            "darkImageURL": "https://ridmaur.github.io/chartyourmusic/supporter/images/discover_black.png"
                         }
                     ]
                 }

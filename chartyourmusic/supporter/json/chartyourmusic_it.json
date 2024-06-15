@@ -122,9 +122,9 @@
                         {
                             "id": 4,
                             "title": "Voci del Lista",
-                            "subtitle": "La combinazione unica di una voce in una classifica, che specifica la posizione di una voce nella classifica, ad esempio la voce *Beyoncé - Naughty Girl* nella classifica *Settimana 19*",
-                            "imageURL": "https://ridmaur.github.io/chartyourmusic/supporter/images/chart_white.png",
-                            "darkImageURL": "https://ridmaur.github.io/chartyourmusic/supporter/images/chart_black.png"
+                            "subtitle": "La combinazione unica di una voce in una classifica, che specifica la posizione di una voce nella classifica.",
+                            "imageURL": "https://ridmaur.github.io/chartyourmusic/supporter/images/chartentry_white.png",
+                            "darkImageURL": "https://ridmaur.github.io/chartyourmusic/supporter/images/chartentry_black.png"
                         }
                     ]
                 },
@@ -197,6 +197,13 @@
                             "subtitle": "Puoi importare una raccolta di esempi. Gli esempi variano a seconda del servizio musicale. Seleziona **Impostazioni** > **Gestione collezioni**, seleziona **...** e poi **Importa esempi**. Dall'elenco seleziona le raccolte di esempi e tocca **Importa**",
                             "videoURL": "https://ridmaur.github.io/chartyourmusic/supporter/videos/importsamplecollection_white.mp4",
                             "darkVideoURL": "https://ridmaur.github.io/chartyourmusic/supporter/videos/importsamplecollection_black.mp4"
+                        },
+                        {
+                            "id": 9,
+                            "title": "Scoprire",
+                            "subtitle": "Puoi scoprire la musica che ascolti utilizzando la scheda **Scopri**. Tocca **Scopri...** e attendi che la musica venga scoperta. Poi tocca **Aggiungi voce...** per aggiungere musica a una raccolta.",
+                            "imageURL": "https://ridmaur.github.io/chartyourmusic/supporter/images/discover_white.png",
+                            "darkImageURL": "https://ridmaur.github.io/chartyourmusic/supporter/images/discover_black.png"
                         }
                     ]
                 }

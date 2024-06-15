@@ -122,9 +122,9 @@
                         {
                             "id": 4,
                             "title": "Hilisteinträge",
-                            "subtitle": "Die eindeutige Kombination eines Elements in einer Liste, die die Position eines Elements in der Hitliste angibt, z.B. das Element (Lied) *Beyoncé - Naughty Girl* in der Hitliste *Woche 19*.",
-                            "imageURL": "https://ridmaur.github.io/chartyourmusic/supporter/images/chart_white.png",
-                            "darkImageURL": "https://ridmaur.github.io/chartyourmusic/supporter/images/chart_black.png"
+                            "subtitle": "Die eindeutige Kombination eines Elements in einer Liste, die die Position eines Elements in der Hitliste angibt.",
+                            "imageURL": "https://ridmaur.github.io/chartyourmusic/supporter/images/chartentry_white.png",
+                            "darkImageURL": "https://ridmaur.github.io/chartyourmusic/supporter/images/chartentry_black.png"
                         }
                     ]
                 },
@@ -197,6 +197,13 @@
                             "subtitle": "Du kannst Beispielsammlungen importieren. Die Beispiele unterscheiden sich je nach Musikdienst. Wähle **Einstellungen** > **Sammlungen verwalten**, wähle **...** und dann **Beispiele importieren**. Wähle aus der Liste die Beispielsammlungen aus und tippe auf **Importieren**",
                             "videoURL": "https://ridmaur.github.io/chartyourmusic/supporter/videos/importsamplecollection_white.mp4",
                             "darkVideoURL": "https://ridmaur.github.io/chartyourmusic/supporter/videos/importsamplecollection_black.mp4"
+                        },
+                        {
+                            "id": 9,
+                            "title": "Entdecke",
+                            "subtitle": "Du kannst die Musik, die du hörst, über die Registerkarte **Entdecken** entdecken. Tippe auf **Entdecken...** und warte, bis die Musik entdeckt wird. Tippe dann auf **Eintrag hinzufügen...**, um Musik zu einer Sammlung hinzuzufügen.",
+                            "imageURL": "https://ridmaur.github.io/chartyourmusic/supporter/images/discover_white.png",
+                            "darkImageURL": "https://ridmaur.github.io/chartyourmusic/supporter/images/discover_black.png"
                         }
                     ]
                 }

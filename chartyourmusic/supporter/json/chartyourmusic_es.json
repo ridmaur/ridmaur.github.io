@@ -122,9 +122,9 @@
                         {
                             "id": 4,
                             "title": "Entradas de la lista",
-                            "subtitle": "La combinación única de una entrada en una lista, especificando la posición de una entrada en la lista, por ejemplo, la entrada *Beyoncé - Naughty Girl* en la lista *Semana 19*",
-                            "imageURL": "https://ridmaur.github.io/chartyourmusic/supporter/images/chart_white.png",
-                            "darkImageURL": "https://ridmaur.github.io/chartyourmusic/supporter/images/chart_black.png"
+                            "subtitle": "La combinación única de una entrada en una lista, especificando la posición de una entrada en la lista.",
+                            "imageURL": "https://ridmaur.github.io/chartyourmusic/supporter/images/chartentry_white.png",
+                            "darkImageURL": "https://ridmaur.github.io/chartyourmusic/supporter/images/chartentry_black.png"
                         }
                     ]
                 },
@@ -197,6 +197,13 @@
                             "subtitle": "Puedes importar una colección de ejemplos. Los ejemplos difieren según el servicio de música. Selecciona **Configuración** > **Gestionar colecciones**, selecciona **...** y luego **Importar ejemplos**. En la lista, selecciona las colecciones de ejemplo y pulsa **Importar**",
                             "videoURL": "https://ridmaur.github.io/chartyourmusic/supporter/videos/importsamplecollection_white.mp4",
                             "darkVideoURL": "https://ridmaur.github.io/chartyourmusic/supporter/videos/importsamplecollection_black.mp4"
+                        },
+                        {
+                            "id": 9,
+                            "title": "Descubre",
+                            "subtitle": "Puedes descubrir la música que escuchas utilizando la pestaña **Descubrir**. Pulsa **Descubrir...** y espera a que se descubra la música. A continuación, pulsa **Añadir entrada...** para añadir música a una colección.",
+                            "imageURL": "https://ridmaur.github.io/chartyourmusic/supporter/images/discover_white.png",
+                            "darkImageURL": "https://ridmaur.github.io/chartyourmusic/supporter/images/discover_black.png"
                         }
                     ]
                 }
