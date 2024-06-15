@@ -57,24 +57,24 @@
             "supportPages": [
                 {
                     "id": 0,
-                    "title": "Interfaz de usuario renovada",
-                    "subtitle": "Las ilustraciones se han hecho mucho más prominentes en todas las pantallas de la aplicación. Rediseño completo de la barra lateral del iPad",
-                    "imageURL": "https://ridmaur.github.io/chartyourmusic/supporter/images/refreshedui_white.png",
-                    "darkImageURL": "https://ridmaur.github.io/chartyourmusic/supporter/images/refreshedui_black.png"
+                    "title": "¡Detalles, detalles, detalles!",
+                    "subtitle": "Explora todo tipo de detalles (como carátulas, notas, productores, valoraciones, etc.) sobre tus entradas utilizando tu servicio de música y fuentes como Last.fm, Discogs, Genius…",
+                    "imageURL": "https://ridmaur.github.io/chartyourmusic/supporter/images/moredetails_white.png",
+                    "darkImageURL": "https://ridmaur.github.io/chartyourmusic/supporter/images/moredetails_black.png"
                 },
                 {
                     "id": 1,
-                    "title": "Importar, Exportar, Compartir",
-                    "subtitle": "Importar colecciones de ejemplo o colecciones de otros. Importa notas editoriales. Exporta tus colecciones. Comparte tus listas con [MusicThread](https://musicthread.app).",
-                    "imageURL": "https://ridmaur.github.io/chartyourmusic/supporter/images/importexport_white.png",
-                    "darkImageURL": "https://ridmaur.github.io/chartyourmusic/supporter/images/importexport_black.png"
+                    "title": "Cualquier lista de reproducción como un liste",
+                    "subtitle": "Importa una lista de reproducción de un chart (Apple Music) o cualquier lista de reproducción (como un nuevo chart) a una colección…",
+                    "imageURL": "https://ridmaur.github.io/chartyourmusic/supporter/images/chartplaylist_white.png",
+                    "darkImageURL": "https://ridmaur.github.io/chartyourmusic/supporter/images/chartplaylist_black.png"
                 },
                 {
                     "id": 2,
-                    "title": "Soporte mejorado",
-                    "subtitle": "Empieza con la aplicación a través de las colecciones de muestra, la incorporación a la aplicación, el soporte, las preguntas frecuentes, etc.",
-                    "imageURL": "https://ridmaur.github.io/chartyourmusic/supporter/images/improvedsupport_white.png",
-                    "darkImageURL": "https://ridmaur.github.io/chartyourmusic/supporter/images/improvedsupport_black.png"
+                    "title": "Funciona con Last.fm y NowPlaying",
+                    "subtitle": "Integración con Last.fm para pistas queridas y scrobbles. Y con NowPlaying para una bonita experiencia de escucha…",
+                    "imageURL": "https://ridmaur.github.io/chartyourmusic/supporter/images/integration_white.png",
+                    "darkImageURL": "https://ridmaur.github.io/chartyourmusic/supporter/images/integration_black.png"
                 }
             ]
         }
