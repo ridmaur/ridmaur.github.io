@@ -1,7 +1,7 @@
 {
     "products": [
         {
-            "sku": "",
+            "sku": "0001",
             "name": "Apple Watch Ultra 2",
             "category": "Devices, Apple",
             "color": "",
@@ -10,11 +10,11 @@
             "description": "The Apple Watch Ultra 2 is designed for adventurers and athletes, offering unmatched durability, advanced health features, and all-day performance. Featuring a 49mm titanium case, it’s built to withstand extreme conditions with water resistance up to 100 meters, a robust sapphire crystal display, and a high-contrast Retina display that’s 2x brighter than previous models, making it easy to read in any environment.\nEquipped with enhanced GPS tracking, improved battery life of up to 36 hours, and new fitness and health monitoring features, the Ultra 2 is perfect for outdoor enthusiasts and athletes. Its advanced sensors track everything from heart rate and blood oxygen to altitude and temperature, while new workout modes offer tailored insights for diverse activities. With a rugged yet sleek design, the Apple Watch Ultra 2 seamlessly blends cutting-edge technology with superior durability for those who push their limits.",
             "imageUrl": "https://dsn-upload.s3.us-east-2.amazonaws.com/projects/citi-signal/1ede60a17c9f9549",
             "url": "",
-            "stockQuantity": 0,
+            "stockQuantity": 10,
             "featured": true
         },
         {
-            "sku": "",
+            "sku": "0002",
             "name": "Galaxy S24",
             "category": "Devices - Samsung",
             "color": "",
@@ -23,11 +23,11 @@
             "description": "3120 x 1440 pixels\n 6.7\" QHD+ Flat Display\n 50MP\n ide) + 10MP(Tele) + 12MP(Ultra-Wide) Rear Cameras\n12MP Front Camera\n 44 Hours Talk Time\n4.1 Days Standby Time",
             "imageUrl": "https://t-mobile.scene7.com/is/image/Tmusprod/Samsung-Galaxy-S24-Plus-Cobalt-Violet-frontimage",
             "url": "",
-            "stockQuantity": 0,
+            "stockQuantity": 50,
             "featured": false
         },
         {
-            "sku": "",
+            "sku": "0003",
             "name": "Galaxy Tab S10+ 5G",
             "category": "Devices - Samsung",
             "color": "",
@@ -36,11 +36,11 @@
             "description": "The Samsung Galaxy Tab S10+ 5G combines cutting-edge performance with a stunning 12.4-inch Super AMOLED display, offering vibrant colors and crisp details for an immersive viewing experience. Powered by the latest Snapdragon chipset and 5G capabilities, it delivers fast speeds, making it perfect for both work and play, whether you're streaming, gaming, or multitasking.\nEquipped with the versatile S Pen, the Tab S10+ 5G is ideal for drawing, note-taking, and precise editing. Its long-lasting battery ensures you stay productive throughout the day, while its multi-tasking features and seamless connectivity to other Samsung devices make it an excellent choice for those seeking a powerful, portable tablet. With support for Samsung DeX, this tablet can easily transition into a desktop-like experience, enhancing productivity on the go.",
             "imageUrl": "https://dsn-upload.s3.us-east-2.amazonaws.com/projects/citi-signal/934c5195f115a034",
             "url": "",
-            "stockQuantity": 0,
+            "stockQuantity": 20,
             "featured": true
         },
         {
-            "sku": "",
+            "sku": "0004",
             "name": "Galaxy Watch FE 40MM",
             "category": "Devices - Samsung",
             "color": "",
@@ -49,11 +49,11 @@
             "description": "The Samsung Galaxy Watch FE 40mm is a sleek and stylish smartwatch designed for everyday wear with advanced fitness and health features. Its compact 40mm design fits comfortably on smaller wrists while offering a vibrant Super AMOLED display that delivers clear, sharp visuals for easy navigation and notifications.\nPacked with fitness tracking capabilities, the Galaxy Watch FE monitors your heart rate, sleep patterns, and steps, and offers built-in GPS for precise workout tracking. With a long-lasting battery that supports up to 40 hours of use, it’s ideal for active lifestyles. Plus, with customizable watch faces and a variety of straps, you can make the Galaxy Watch FE truly your own, whether you're at the gym or on the go.",
             "imageUrl": "https://dsn-upload.s3.us-east-2.amazonaws.com/projects/citi-signal/6cd67b6f01a13b30",
             "url": "",
-            "stockQuantity": 0,
+            "stockQuantity": 50,
             "featured": false
         },
         {
-            "sku": "",
+            "sku": "0005",
             "name": "Galaxy Z Flip 6",
             "category": "Phones - Samsung",
             "color": "",
@@ -62,11 +62,11 @@
             "description": "The Samsung Galaxy Z Flip6 offers style and innovation in a compact, foldable design that fits perfectly in your pocket. With a vibrant 6.7-inch Dynamic AMOLED main display and a versatile 3.4-inch cover screen, the Flip6 allows you to effortlessly switch between a full-sized experience and quick, on-the-go access to notifications, apps, and selfies without unfolding. Enhanced Flex Mode adds even more versatility, allowing the phone to act as its own stand for hands-free photos, video calls, and multitasking.\nPowered by the latest Snapdragon processor, the Galaxy Z Flip6 ensures smooth performance and extended battery life, even with heavy use. The upgraded dual-lens camera system captures stunning photos in any light, while Samsung’s intelligent photo tools, including Nightography and AI-enhanced features, ensure every shot looks its best. With a sleek, durable design and water resistance, the Galaxy Z Flip6 is built to be both stylish and resilient, making it perfect for those who want a powerful smartphone that stands out",
             "imageUrl": "https://dsn-upload.s3.us-east-2.amazonaws.com/projects/citi-signal/4823613861388ced",
             "url": "",
-            "stockQuantity": 0,
+            "stockQuantity": 40,
             "featured": false
         },
         {
-            "sku": "",
+            "sku": "0006",
             "name": "Google Pixel 9",
             "category": "Phones - Google",
             "color": "",
@@ -75,11 +75,11 @@
             "description": "The Google Pixel 9 is here, packed with smart features and a sleek design that reinforces Google’s reputation for delivering powerful AI-driven technology in a user-friendly package. Powered by Google’s new Tensor G4 chip, the Pixel 9 excels in speed, efficiency, and advanced AI capabilities, from photo editing to real-time language translation.\nThe 6.3-inch OLED display is bright and vibrant, with a 120Hz refresh rate for smooth scrolling and gaming. Known for its industry-leading camera capabilities, the Pixel 9 brings enhancements to its 50MP primary camera, now featuring improved low-light performance and AI-driven editing tools that make capturing and refining stunning images effortless. The front-facing camera also gets an upgrade, with a wider field of view and refined skin tone mapping for selfies that look natural in any light.",
             "imageUrl": "https://dsn-upload.s3.us-east-2.amazonaws.com/projects/citi-signal/d63c93dc16682d8d",
             "url": "",
-            "stockQuantity": 0,
+            "stockQuantity": 10,
             "featured": false
         },
         {
-            "sku": "",
+            "sku": "0007",
             "name": "Google Pixel 9 Pro Fold",
             "category": "Phones - Google",
             "color": "",
@@ -88,11 +88,11 @@
             "description": "The Google Pixel 9 Pro Fold brings the future of foldable technology to life, offering a seamless blend of innovation and performance in a sleek, foldable design. Featuring a 7.6-inch foldable OLED display, it provides an immersive, tablet-like experience that folds into a compact form, perfect for on-the-go convenience. The 6.2-inch outer screen allows quick access to apps, notifications, and selfies without unfolding the device.",
             "imageUrl": "https://dsn-upload.s3.us-east-2.amazonaws.com/projects/citi-signal/0aa0ccc9e8041f78",
             "url": "",
-            "stockQuantity": 0,
+            "stockQuantity": 50,
             "featured": false
         },
         {
-            "sku": "",
+            "sku": "0008",
             "name": "Google Pixel Watch 3 ",
             "category": "Devices - Google",
             "color": "",
@@ -101,24 +101,11 @@
             "description": "The Google Pixel Watch 3 combines elegant design with powerful smart features, offering a seamless integration with Google’s ecosystem. With a sleek, circular AMOLED display and a premium stainless steel case, it’s the perfect accessory for both casual and active wearers.",
             "imageUrl": "https://dsn-upload.s3.us-east-2.amazonaws.com/projects/citi-signal/a58de29c31df031c",
             "url": "",
-            "stockQuantity": 0,
+            "stockQuantity": 10,
             "featured": true
         },
         {
-            "sku": "",
-            "name": "iPad Pro",
-            "category": "Devices - Apple",
-            "color": "",
-            "size": "",
-            "price": 699,
-            "description": "Apple M1 Chip\nBrilliant 12.9-inch Liquid Retina XDR Display\nTrueDepth Camera System Featuring Ultra Wide Camera\n12MP Wide & 10MP Ultra Wide Cameras\nLiDAR Scanner\n5G Connectivity",
-            "imageUrl": "https://demo-system-next.s3.amazonaws.com/assets/citisignal/apple-12-9-ipad-pro.png",
-            "url": "",
-            "stockQuantity": 0,
-            "featured": false
-        },
-        {
-            "sku": "",
+            "sku": "0009",
             "name": "iPad Pro 11-inch (M4)",
             "category": "Devices - Apple",
             "color": "",
@@ -127,11 +114,11 @@
             "description": "The iPad Pro 11-inch (M4) redefines performance with Apple’s powerful M4 chip, delivering lightning-fast speeds and seamless multitasking capabilities. The stunning Liquid Retina display provides vibrant colors and sharp details, making it perfect for everything from creative work to entertainment. Whether you're drawing, editing photos, or working on complex projects, the M4 chip ensures that even the most demanding tasks run smoothly.",
             "imageUrl": "https://dsn-upload.s3.us-east-2.amazonaws.com/projects/citi-signal/60f18f0221eb65ad",
             "url": "",
-            "stockQuantity": 0,
+            "stockQuantity": 50,
             "featured": false
         },
         {
-            "sku": "",
+            "sku": "0010",
             "name": "iPhone 16",
             "category": "Phones - Apple",
             "color": "",
@@ -140,11 +127,11 @@
             "description": "The iPhone 16 brings powerful upgrades and refined design to Apple’s lineup, offering advanced performance and enhanced user experience without the premium features of the Pro models. Equipped with the new A17 chip, the iPhone 16 is faster and more efficient, allowing for smoother multitasking, gaming, and app usage while optimizing battery life",
             "imageUrl": "https://dsn-upload.s3.us-east-2.amazonaws.com/projects/citi-signal/0d976dbd8994af1c",
             "url": "",
-            "stockQuantity": 0,
+            "stockQuantity": 40,
             "featured": false
         },
         {
-            "sku": "",
+            "sku": "0011",
             "name": "iPhone 16 Pro",
             "category": "Phones - Apple",
             "color": "",
@@ -157,7 +144,7 @@
             "featured": false
         },
         {
-            "sku": "",
+            "sku": "0012",
             "name": "Pixel 7",
             "category": "Phones - Google",
             "color": "",
@@ -166,11 +153,11 @@
             "description": "Wide and ultrawide lenses with up to 8x Super Res Zoom\n6.3 FHD+ Smooth Display up to 90Hz\nPowered by Google Tensor G2 and Titan M2 security chip\nCinematic Blur brings more drama to your videos\nAdaptive Battery lasts over 24 hours.",
             "imageUrl": "https://demo-system-next.s3.amazonaws.com/assets/citisignal/Google-Pixel-7-Obsidian-thumbnail.webp",
             "url": "",
-            "stockQuantity": 0,
+            "stockQuantity": 30,
             "featured": false
         },
         {
-            "sku": "",
+            "sku": "0013",
             "name": "Plan - International",
             "category": "Plans",
             "color": "",
@@ -183,7 +170,7 @@
             "featured": false
         },
         {
-            "sku": "",
+            "sku": "0014",
             "name": "Plan - Unlimited",
             "category": "Plans",
             "color": "",
@@ -192,7 +179,7 @@
             "description": "All Magenta benefits + unlimited premium data on a 5G plan that can’t slow you down based on how much data you use.",
             "imageUrl": "https://demo-system-next.s3.amazonaws.com/assets/telco/unlimited-small.jpeg",
             "url": "",
-            "stockQuantity": 0,
+            "stockQuantity": 10,
             "featured": false
         }
     ]
