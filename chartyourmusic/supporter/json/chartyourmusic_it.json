@@ -57,24 +57,24 @@
             "supportPages": [
                 {
                     "id": 0,
-                    "title": "Interfaccia utente rinnovata",
-                    "subtitle": "L'opera d'arte è diventata molto più evidente in ogni schermata dell'app. Riprogettazione completa della barra laterale dell'iPad",
-                    "imageURL": "https://ridmaur.github.io/chartyourmusic/supporter/images/refreshedui_white.png",
-                    "darkImageURL": "https://ridmaur.github.io/chartyourmusic/supporter/images/refreshedui_black.png"
+                    "title": "Dettagli, dettagli, dettagli!",
+                    "subtitle": "Esplora tutti i dettagli (come copertine, note di copertina, produttori, valutazioni, ecc.) delle tue voci utilizzando il tuo servizio musicale e fonti come Last.fm, Discogs, Genius…",
+                    "imageURL": "https://ridmaur.github.io/chartyourmusic/supporter/images/moredetails_white.png",
+                    "darkImageURL": "https://ridmaur.github.io/chartyourmusic/supporter/images/moredetails_black.png"
                 },
                 {
                     "id": 1,
-                    "title": "Importazione, esportazione, condivisione",
-                    "subtitle": "Importa collezioni di esempio o collezioni di altri. Importa le note editoriali. Esporta le tue raccolte. Condividi le tue raccolte con [MusicThread](https://musicthread.app).",
-                    "imageURL": "https://ridmaur.github.io/chartyourmusic/supporter/images/importexport_white.png",
-                    "darkImageURL": "https://ridmaur.github.io/chartyourmusic/supporter/images/importexport_black.png"
+                    "title": "Qualsiasi playlist come classifica",
+                    "subtitle": "Importa una playlist in classifica (Apple Music) o qualsiasi playlist (come nuova classifica) in una raccolta…",
+                    "imageURL": "https://ridmaur.github.io/chartyourmusic/supporter/images/chartplaylist_white.png",
+                    "darkImageURL": "https://ridmaur.github.io/chartyourmusic/supporter/images/chartplaylist_black.png"
                 },
                 {
                     "id": 2,
-                    "title": "Supporto migliorato",
-                    "subtitle": "Inizia a conoscere l'app attraverso le collezioni di campioni, l'on-boarding in-app, il supporto, le faq, ecc.",
-                    "imageURL": "https://ridmaur.github.io/chartyourmusic/supporter/images/improvedsupport_white.png",
-                    "darkImageURL": "https://ridmaur.github.io/chartyourmusic/supporter/images/improvedsupport_black.png"
+                    "title": "Funziona con Last.fm e NowPlaying.",
+                    "subtitle": "Integrazione con Last.fm per i brani più amati e le scrobbles. E con NowPlaying per una bellissima esperienza di ascolto…",
+                    "imageURL": "https://ridmaur.github.io/chartyourmusic/supporter/images/integration_white.png",
+                    "darkImageURL": "https://ridmaur.github.io/chartyourmusic/supporter/images/integration_black.png"
                 }
             ]
         }
@@ -122,9 +122,9 @@
                         {
                             "id": 4,
                             "title": "Voci del Lista",
-                            "subtitle": "La combinazione unica di una voce in una classifica, che specifica la posizione di una voce nella classifica, ad esempio la voce *Beyoncé - Naughty Girl* nella classifica *Settimana 19*",
-                            "imageURL": "https://ridmaur.github.io/chartyourmusic/supporter/images/chart_white.png",
-                            "darkImageURL": "https://ridmaur.github.io/chartyourmusic/supporter/images/chart_black.png"
+                            "subtitle": "La combinazione unica di una voce in una classifica, che specifica la posizione di una voce nella classifica.",
+                            "imageURL": "https://ridmaur.github.io/chartyourmusic/supporter/images/chartentry_white.png",
+                            "darkImageURL": "https://ridmaur.github.io/chartyourmusic/supporter/images/chartentry_black.png"
                         }
                     ]
                 },
@@ -166,7 +166,7 @@
                         {
                             "id": 4,
                             "title": "Spostamento o eliminazione di voci",
-                            "subtitle": "Tocca **↔︎**. La vista del Lista cambia e puoi eliminare e spostare le voci. Trascina le voci verso l'alto o verso il basso utilizzando la maniglia di una voce. Tocca **-** per rimuovere una voce dal Lista (in alternativa puoi scorrere il dito da destra a sinistra, anche quando non sei in vista della classifica). Tocca **⇅** quando hai finito di classificare la tua classifica.",
+                            "subtitle": "Tocca **↔︎** o semplicemente trascinare e rilasciare. La vista del Lista cambia e puoi eliminare e spostare le voci. Trascina le voci verso l'alto o verso il basso utilizzando la maniglia di una voce. Tocca **-** per rimuovere una voce dal Lista (in alternativa puoi scorrere il dito da destra a sinistra, anche quando non sei in vista della classifica). Tocca **⇅** quando hai finito di classificare la tua classifica.",
                             "videoURL": "https://ridmaur.github.io/chartyourmusic/supporter/videos/movedeleteentry_white.mp4",
                             "darkVideoURL": "https://ridmaur.github.io/chartyourmusic/supporter/videos/movedeleteentry_black.mp4"
                         },
@@ -190,6 +190,20 @@
                             "subtitle": "Puoi scegliere qualsiasi voce di una collezione che non fa parte del Lista corrente. Seleziona **Pick Entry** e seleziona una voce dall'elenco o cercala. Scegli quella che vuoi aggiungere. Puoi ordinare le voci in base all'artista/title (crescente) o alla data (decrescente). Trascina verso il basso per cercare",
                             "videoURL": "https://ridmaur.github.io/chartyourmusic/supporter/videos/pickentry_white.mp4",
                             "darkVideoURL": "https://ridmaur.github.io/chartyourmusic/supporter/videos/pickentry_black.mp4"
+                        },
+                        {
+                            "id": 8,
+                            "title": "Importazione di esempi",
+                            "subtitle": "Puoi importare una raccolta di esempi. Gli esempi variano a seconda del servizio musicale. Seleziona **Impostazioni** > **Gestione collezioni**, seleziona **...** e poi **Importa esempi**. Dall'elenco seleziona le raccolte di esempi e tocca **Importa**",
+                            "videoURL": "https://ridmaur.github.io/chartyourmusic/supporter/videos/importsamplecollection_white.mp4",
+                            "darkVideoURL": "https://ridmaur.github.io/chartyourmusic/supporter/videos/importsamplecollection_black.mp4"
+                        },
+                        {
+                            "id": 9,
+                            "title": "Scoprire",
+                            "subtitle": "Puoi scoprire la musica che ascolti utilizzando la scheda **Scopri**. Tocca **Scopri...** e attendi che la musica venga scoperta. Poi tocca **Aggiungi voce...** per aggiungere musica a una raccolta.",
+                            "imageURL": "https://ridmaur.github.io/chartyourmusic/supporter/images/discover_white.png",
+                            "darkImageURL": "https://ridmaur.github.io/chartyourmusic/supporter/images/discover_black.png"
                         }
                     ]
                 }
@@ -226,6 +240,13 @@
                             "subtitle": "Tocca una voce in un Lista o nella panoramica delle voci. Verrà visualizzata la schermata **Dettagli voce** con una panoramica dei punti totali, ecc. Tocca **Modifica (matita)** per modificare i dettagli della voce.",
                             "videoURL": "https://ridmaur.github.io/chartyourmusic/supporter/videos/vieweditentry_white.mp4",
                             "darkVideoURL": "https://ridmaur.github.io/chartyourmusic/supporter/videos/vieweditentry_black.mp4"
+                        },
+                        {
+                            "id": 3,
+                            "title": "Ulteriori dettagli ",
+                            "subtitle": "Tocca l'immagine di una voce nei dettagli della voce. Vedrai i dettagli della voce dal servizio musicale selezionato. Esplora ulteriori dettagli anche da altre fonti.",
+                            "videoURL": "https://ridmaur.github.io/chartyourmusic/supporter/videos/moredetails_white.mp4",
+                            "darkVideoURL": "https://ridmaur.github.io/chartyourmusic/supporter/videos/moredetails_black.mp4"
                         }
                     ]
                 },
@@ -306,14 +327,14 @@
                         {
                             "id": 0,
                             "title": "Condividi il tuo Lista",
-                            "subtitle": "Puoi condividere il tuo Lista utilizzando la funzionalità di condivisione di iOS. Tocca **Lizza** nella barra delle schede. Tocca la tua raccolta. Tocca il Lista specifico. Tocca l'intestazione (con la data del Lista). Nella schermata **Dettagli del Lista**, tocca **…*** e poi **Condividi**. Ciò che viene condiviso dipende dall'app selezionata",
+                            "subtitle": "Puoi condividere il tuo Lista utilizzando la funzionalità di condivisione di iOS. Tocca **Lizza** nella barra delle schede. Tocca la tua raccolta. Tocca il Lista specifico. Tocca poi **Condividi**. Ciò che viene condiviso dipende dall'app selezionata",
                             "videoURL": "https://ridmaur.github.io/chartyourmusic/supporter/videos/sharechart_white.mp4",
                             "darkVideoURL": "https://ridmaur.github.io/chartyourmusic/supporter/videos/sharechart_black.mp4"
                         },
                         {
                             "id": 1,
                             "title": "Crea una playlist",
-                            "subtitle": "Quando Apple Music o Spotify sono configurati come servizio musicale, puoi creare una playlist da una classifica. Tocca **Lizza** nella barra delle schede. Tocca la tua raccolta. Tocca il Lista specifico. Tocca l'intestazione (con la data del Lista). Nella schermata **Dettagli del Lista**, tocca **…**, quindi **Crea playlist…***. Verrà creata una playlist intitolata *CYM: nome della raccolta - nome del Lista*",
+                            "subtitle": "Quando Apple Music o Spotify sono configurati come servizio musicale, puoi creare una playlist da una classifica. Tocca **Lizza** nella barra delle schede. Tocca la tua raccolta. Tocca il Lista specifico. Tocca l'intestazione (con la data del Lista). Nella schermata **Dettagli del Lista**, tocca **…**, quindi **Crea playlist…**. Verrà creata una playlist intitolata *CYM: nome della raccolta - nome del Lista*",
                             "videoURL": "https://ridmaur.github.io/chartyourmusic/supporter/videos/createplaylist_white.mp4",
                             "darkVideoURL": "https://ridmaur.github.io/chartyourmusic/supporter/videos/createplaylist_black.mp4"
                         },
@@ -327,7 +348,7 @@
                         {
                             "id": 3,
                             "title": "Importazione di playlist",
-                            "subtitle": "Nella **Panoramica degli items*, tocca su **…*, quindi su **Importa**. Un foglio mostrerà le tue playlist dal servizio musicale configurato. Seleziona una playlist e tutti i brani della playlist che non esistono ancora nella raccolta verranno aggiunti.",
+                            "subtitle": "Nella tua raccolta tocca **Importa**. Un foglio mostrerà le tue playlist dal servizio musicale configurato. Seleziona **Collezione** per aggiungerla alla tua raccolta, seleziona **Nuovo classifica** per creare un nuovo grafico dalla playlist.",
                             "videoURL": "https://ridmaur.github.io/chartyourmusic/supporter/videos/importplaylists_white.mp4",
                             "darkVideoURL": "https://ridmaur.github.io/chartyourmusic/supporter/videos/importplaylists_black.mp4"
                         },
@@ -502,68 +523,6 @@
                     "text": "The [Best-in-Class iOS App](https://www.bestinclassiosapp.com) is is a living, breathing document that's continually updated by Jordan Morgan."
                 }
             ]
-        },
-        {
-            "id": 2,
-            "title": "Contributions",
-            "hasDetailPage": true,
-            "items": [
-                {
-                    "id": 0,
-                    "title": "SpotifyAPI",
-                    "text": "A [Swift library](https://peter-schorn.github.io/SpotifyAPI/index.html) for the Spotify web API."
-                },
-                {
-                    "id": 1,
-                    "title": "Supporter",
-                    "text": "A [Swift framework](https://goodsnooze.gumroad.com/l/supporter) for building in-app support."
-                },
-                {
-                    "id": 2,
-                    "title": "KeychainAcces",
-                    "text": "A simple [Swift wrapper](https://github.com/kishikawakatsumi/KeychainAccess) for Keychain access."
-                },
-                {
-                    "id": 3,
-                    "title": "SwimplyPlayIndicator",
-                    "text": "A **now playing** [animated indicator](https://github.com/docterd/SwimplyPlayIndicator) for SwiftUI."
-                },
-                {
-                    "id": 4,
-                    "title": "MusicThread",
-                    "text": "[MusicThread](https://musicthread.app) is a website to create and share lists of music. Chart Your Music is integrated with this service using MusicThread's API."
-                },
-                {
-                    "id": 5,
-                    "title": "TagField",
-                    "text": "A [tagfield implementation](https://github.com/changemin/TagField.git) for SwiftUI."
-                },
-                {
-                    "id": 6,
-                    "title": "WhatsNewKit",
-                    "text": "A [Swift Package](https://github.com/SvenTiigi/WhatsNewKit) to easily introduce new app features."
-                },
-                {
-                    "id": 7,
-                    "title": "CloudkitSyncMonitor",
-                    "text": "A [Swift Package](https://github.com/ggruen/CloudKitSyncMonitor) to provide user feedback and monitoring on CloudKit syncing."
-                },
-                {
-                    "id": 8,
-                    "title": "ColorKit",
-                    "text": "[ColorKit](https://github.com/Boris-Em/ColorKit) is your companion to work with colors on iOS."
-                },
-                {
-                    "id": 9,
-                    "title": "CustomAlert",
-                    "text": "[CustomAlert](https://github.com/divadretlaw/CustomAlert) extends the default iOS Alert with images and other controls. Used for rapidly moving entries within big charts."
-                },
-                {
-                    "id": 10,
-                    "title": "SDWebImage / SDWebImageSwiftUI",
-                    "text": "[SDWebImage and SDWebImageSwiftUI](https://github.com/SDWebImage/SDWebImage) is an async image downloader with cache support. Ensures all the artwork is readily available in the app."
-                }
-            ]
         }
     ],
     "contactSections": [
@@ -591,6 +550,21 @@
     "changelogItems": [
         {
             "id": 0,
+            "version": "Version 2.0",
+            "date": "8 June 2024",
+            "notes": [
+                {
+                    "id": 0,
+                    "releaseNote": "2.0.0: You can now add any playlist as a chart to your collection, not only Apple Music chart playlists. For example, you can add your daily updated Apple Music Heavy Rotations Mix to a collection, or the Billboard Top 100 playlist on Spotify to a collection. When adding a playlist, you can select whether you want to add the playlist to the collection and pick entries from it later, or immediately create a new chart from the playlist. A ton of additional information is now available for your chart entries. Tap on the artwork in the entry details and you will find additional information the music service (iTunes, Apple Music, or Spotify) provides. On top of that you can retrieve information from other sources like Last.fm, Discogs, Genius. If there is more artwork available (for example liner notes, etc.) for a song or an album, it is displayed in cover flow. You can tap on any artwork to see a full screen version which you can drag and zoom for more details. The app now offers integration with Last.fm. If you have configured to like/love tracks for a collection, and you actually do like/love one or more entries, these entries are also added to your  loved tracks in Last.fm. If you play an entry through the app, the entry is added to your Last.fm scrobbles. You can configure your Last.fm account in Settings. The app also integrates with the beautiful NowPlaying app; an app to explore the hidden stories behind your favourite music & enhance your listening experience. In the Statistics screen you can now search for Artist, Entry Title amongst all entries and Chart Title amongst all charts. Added some utility admin functions, for example to delete all reminders and to make a full backup in JSON of all your collections."
+                },
+                {
+                    "id": 1,
+                    "releaseNote": "2.0.1: Fixed a bug with sorting in Entry Overview"
+                }
+            ]
+        },
+        {
+            "id": 1,
             "version": "Versione 1.1",
             "date": "28 giugno 2022",
             "notes": [

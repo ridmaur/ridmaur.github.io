@@ -9,14 +9,22 @@
 	},
 	{
 		"id": 2,
-		"title": "Fake Collection",
-		"description": "A collection of fake entries, created to be in compliance with Apple's App Store guidelines for displaying previews of the app. None of the tracks exist, neither do the artists…",
+		"title": "Fake Collections",
+		"description": "A set of collections of fake entries, created to be in compliance with Apple's App Store guidelines for displaying previews of the app. None of the tracks exist, neither do the artists…",
 		"imageUrl": "https://ridmaur.github.io/chartyourmusic/examples/images/CYM-Fake.jpeg",
 		"musicService": "iTunes",
 		"url": "https://ridmaur.github.io/chartyourmusic/examples/CYM-Fake.json"
 	},	
 	{
 		"id": 3,
+		"title": "Another Fake Collections",
+		"description": "Another set of collections of fake entries, created to be in compliance with Apple's App Store guidelines for displaying previews of the app. None of the tracks exist, neither do the artists…",
+		"imageUrl": "https://ridmaur.github.io/chartyourmusic/examples/images/CYM-AnotherFake.png",
+		"musicService": "iTunes",
+		"url": "https://ridmaur.github.io/chartyourmusic/examples/CYM-AnotherFake.json"
+	},	
+	{
+		"id": 4,
 		"title": "Spotify Top 10 NL",
 		"description": "Collection of most popular daily Spotify streams in the Netherlands up until June 30, 2022…",
 		"imageUrl": "https://ridmaur.github.io/chartyourmusic/examples/images/CYM-SpotifyTop10NL-Spotify.jpeg",
@@ -24,7 +32,7 @@
 		"url": "https://ridmaur.github.io/chartyourmusic/examples/CYM-SpotifyTop10NL2022H1.json"
 	},
 	{
-		"id": 4,
+		"id": 5,
 		"title": "Apple Music Top 10 NL",
 		"description": "Collection of most popular daily Apple Music tracks in the Netherlands up until June 30, 2022…",
 		"imageUrl": "https://ridmaur.github.io/chartyourmusic/examples/images/CYM-AppleMusicTop10NL-AppleMusic.jpeg",
@@ -32,7 +40,15 @@
 		"url": "https://ridmaur.github.io/chartyourmusic/examples/CYM-AppleMusicTop10NL2022H1.json"
 	},
 	{
-		"id": 5,
+		"id": 6,
+		"title": "Billboard Hot 100",
+		"description": "Collection of four Billboard Hot 100 charts, late 2023…",
+		"imageUrl": "https://ridmaur.github.io/chartyourmusic/examples/images/CYM-AppleMusic-BillboardHot100.png",
+		"musicService": "Apple Music",
+		"url": "https://ridmaur.github.io/chartyourmusic/examples/CYM-AppleMusic-BillboardHot100.json"
+	},
+	{
+		"id": 7,
 		"title": "OOR 2021",
 		"description": "The best albums of 2021 according to music journalists in the Netherlands and collected by the Dutch infamous music magazine OOR. A typical example of a collection of end-of-year lists with no apparent sequence… ",
 		"imageUrl": "https://ridmaur.github.io/chartyourmusic/examples/images/CYM-OOR21.png",
