@@ -16,7 +16,7 @@
         {
             "sku": "0002",
             "name": "Galaxy S24",
-            "category": "Devices - Samsung",
+            "category": "Phones - Samsung",
             "color": "",
             "size": "",
             "price": 599,
@@ -106,7 +106,7 @@
         },
         {
             "sku": "0009",
-            "name": "iPad Pro 11-inch (M4)",
+            "name": "Apple iPad Pro 11-inch (M4)",
             "category": "Devices - Apple",
             "color": "",
             "size": "",
@@ -119,7 +119,7 @@
         },
         {
             "sku": "0010",
-            "name": "iPhone 16",
+            "name": "Apple iPhone 16",
             "category": "Phones - Apple",
             "color": "",
             "size": "",
@@ -132,7 +132,7 @@
         },
         {
             "sku": "0011",
-            "name": "iPhone 16 Pro",
+            "name": "Apple iPhone 16 Pro",
             "category": "Phones - Apple",
             "color": "",
             "size": "",
@@ -145,7 +145,7 @@
         },
         {
             "sku": "0012",
-            "name": "Pixel 7",
+            "name": "Google Pixel 7",
             "category": "Phones - Google",
             "color": "",
             "size": "",
