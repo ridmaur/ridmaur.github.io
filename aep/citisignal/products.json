@@ -24,7 +24,7 @@
             "imageUrl": "https://t-mobile.scene7.com/is/image/Tmusprod/Samsung-Galaxy-S24-Plus-Cobalt-Violet-frontimage",
             "url": "",
             "stockQuantity": 0,
-            "featured": true
+            "featured": false
         },
         {
             "sku": "",
@@ -50,7 +50,7 @@
             "imageUrl": "https://dsn-upload.s3.us-east-2.amazonaws.com/projects/citi-signal/6cd67b6f01a13b30",
             "url": "",
             "stockQuantity": 0,
-            "featured": true
+            "featured": false
         },
         {
             "sku": "",
@@ -63,7 +63,7 @@
             "imageUrl": "https://dsn-upload.s3.us-east-2.amazonaws.com/projects/citi-signal/4823613861388ced",
             "url": "",
             "stockQuantity": 0,
-            "featured": true
+            "featured": false
         },
         {
             "sku": "",
@@ -76,7 +76,7 @@
             "imageUrl": "https://dsn-upload.s3.us-east-2.amazonaws.com/projects/citi-signal/d63c93dc16682d8d",
             "url": "",
             "stockQuantity": 0,
-            "featured": true
+            "featured": false
         },
         {
             "sku": "",
@@ -89,7 +89,7 @@
             "imageUrl": "https://dsn-upload.s3.us-east-2.amazonaws.com/projects/citi-signal/0aa0ccc9e8041f78",
             "url": "",
             "stockQuantity": 0,
-            "featured": true
+            "featured": false
         },
         {
             "sku": "",
@@ -115,7 +115,7 @@
             "imageUrl": "https://demo-system-next.s3.amazonaws.com/assets/citisignal/apple-12-9-ipad-pro.png",
             "url": "",
             "stockQuantity": 0,
-            "featured": true
+            "featured": false
         },
         {
             "sku": "",
@@ -128,7 +128,7 @@
             "imageUrl": "https://dsn-upload.s3.us-east-2.amazonaws.com/projects/citi-signal/60f18f0221eb65ad",
             "url": "",
             "stockQuantity": 0,
-            "featured": true
+            "featured": false
         },
         {
             "sku": "",
@@ -141,7 +141,7 @@
             "imageUrl": "https://dsn-upload.s3.us-east-2.amazonaws.com/projects/citi-signal/0d976dbd8994af1c",
             "url": "",
             "stockQuantity": 0,
-            "featured": true
+            "featured": false
         },
         {
             "sku": "",
@@ -154,7 +154,7 @@
             "imageUrl": "https://dsn-upload.s3.us-east-2.amazonaws.com/projects/citi-signal/62e7b8751ef784d6",
             "url": "",
             "stockQuantity": 0,
-            "featured": true
+            "featured": false
         },
         {
             "sku": "",
@@ -167,7 +167,7 @@
             "imageUrl": "https://demo-system-next.s3.amazonaws.com/assets/citisignal/Google-Pixel-7-Obsidian-thumbnail.webp",
             "url": "",
             "stockQuantity": 0,
-            "featured": true
+            "featured": false
         },
         {
             "sku": "",
@@ -180,7 +180,7 @@
             "imageUrl": "https://demo-system-next.s3.amazonaws.com/assets/telco/international-small.jpeg",
             "url": "",
             "stockQuantity": 0,
-            "featured": true
+            "featured": false
         },
         {
             "sku": "",
@@ -193,7 +193,7 @@
             "imageUrl": "https://demo-system-next.s3.amazonaws.com/assets/telco/unlimited-small.jpeg",
             "url": "",
             "stockQuantity": 0,
-            "featured": true
+            "featured": false
         }
     ]
 }
