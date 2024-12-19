@@ -23,7 +23,7 @@
         "eventType": "application.test"
     },
     "target": {
-        "location": "luma-mobileapp-abtest-wkndfly"
+        "location": "citysignal-mobileapp-abtest"
     },
     "map": {
         "latitude": 52.37109,
