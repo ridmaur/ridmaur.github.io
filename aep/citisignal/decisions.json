@@ -1,0 +1,10 @@
+{
+    "decisionScopes": [
+        {
+            "name": "CitiSignal - Mobile App Decision",
+            "activityId": "dps:offer-activity:19f2a7ee5815e48c",
+            "placementId": "xcore:offer-placement:13a3b264ce69bb14",
+            "itemCount": 2
+        }
+    ]
+}
