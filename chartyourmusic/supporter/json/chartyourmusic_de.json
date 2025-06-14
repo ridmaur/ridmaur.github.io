@@ -417,8 +417,7 @@
                 },
                 {
                     "id": 8,
-                    "title": "Wie kann ich eine Hitliste löschen?",
-                    "text": "DDu kannst eine einzelne Hitliste nur löschen, wenn die Hitliste keine Einträge enthält. Wenn ja, wische nach links auf die entsprechende Liste, um sie zu entfernen."
+                    "title": "Wische nach links auf die entsprechende Liste, um sie zu entfernen."
                 },
                 {
                     "id": 9,
@@ -458,7 +457,7 @@
                 {
                     "id": 17,
                     "title": "Kann ich mehr Details über den Künstler, das Album oder den Song bekommen?",
-                    "text": "Wenn du in den Details eines Eintrags bist, tippe auf das Augensymbol, um alle auf Genius verfügbaren Informationen zu diesem Eintrag zu sehen."
+                    "text": "Wenn Sie sich in den Details eines Eintrags befinden, tippen Sie auf das Bild, um alle beim Musikdienst verfügbaren Informationen zu diesem Eintrag anzuzeigen. Scrollen Sie nach unten, um weitere Informationen aus Quellen wie Discogs, last.fm und Genius abzurufen."
                 },
                 {
                     "id": 18,
@@ -542,8 +541,51 @@
                     "url": "https://www.chartyourmusic.com",
                     "imageName": "globe",
                     "color": 0
+                },
+                {
+                    "id": 2,
+                    "releaseNote": "2.0.2: FIX: Solved crash when no network. FIX: Solved sorting in Entry Overview not properly working."
+                },
+                {
+                    "id": 3,
+                    "releaseNote": "2.0.3: NEW: Different entries with the same id, often the results of the import of playlists, can now be merged when using Rebuild on a collection. FIX: Solved incorrect order of entries when importing Spotify playlist. FIX: Solved crash when no network. FIX: Solved sorting in Entry Overview not properly working." 
+                },
+                {
+                    "id": 4,
+                    "releaseNote": "2.0.4: Apologies, previous version did not include the functionality to merge duplicates. This version does..."
+                },
+                {
+                    "id": 6,
+                    "releaseNote": "2.0.6: Support for dark and tinted icons in iOS 18."
+                },
+                {
+                    "id": 8,
+                    "releaseNote": "2.0.8: Now also supports tinted widgets."
+                },
+                {
+                    "id": 9,
+                    "releaseNote": "2.0.8: FIXED: Small widget display issue resolved. FIXED: Restored large sheet size for iOS 18 on iPad instead of the new smaller default size."
+                },
+                {
+                    "id": 10,
+                    "releaseNote": "2.1.0: Resolved another batch of bugs that emerged when the app was operated on iOS 18. FIXED: Rectified the problem of small widgets not displaying correctly due to oversized images. FIXED: Addressed issues with Shazam integration that led to the app freezing and crashing."
+                },
+                {
+                    "id": 11,
+                    "releaseNote": "2.1.1: Some tweaks before the year ends. Look out for exciting updates in 2025! New icon for top spot in non-consecutive charts. Resolved a minor bug in English (UK) version."
+                },
+                {
+                    "id": 12,
+                    "releaseNote": "2.1.2: NEW: Now you can make playlists from a collection overview, making it simple to create an end-of-year playlist on your preferred music platform. FIXED: Issue with playlist creation from long charts on Apple Music."
+                },
+                {
+                    "id": 14,
+                    "releaseNote": "2.1.4: - The app is now available again for Apple Mac Silicon (designed for iPad). The previous version was marked incompatible for unknown reasons, but the App Store Connect issue has been resolved. Fingers crossed. - Fixed Share function. - Enhanced size and display of detailed artwork or artist images, especially on iPad. - Added a shortcut to the Period button in Overview. This button opens the Collection Edit screen for quick period changes."
+                },
+                {
+                    "ïd": 15,
+                    "releaseNote": "Better error message when you try to connect to last.fm and the connection does not validate. Solved a bug with the rapid move dialog. Insert a new entry you have searched for, or an existing entry you picked from the list of existing entries, at a preferred position in the chart rather than at the last position. The preferred position is intelligently determined by the last changes you have made in a chart but can be changed before you insert the entry."
                 }
-
             ]
         }
     ],
