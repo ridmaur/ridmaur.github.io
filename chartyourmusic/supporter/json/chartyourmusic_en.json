@@ -604,7 +604,7 @@
                 },
                 {
                     "id": 15,
-                    "releaseNote": "Better error message when you try to connect to last.fm and the connection does not validate. Solved a bug with the rapid move dialog. Insert a new entry you have searched for, or an existing entry you picked from the list of existing entries, at a preferred position in the chart rather than at the last position. The preferred position is intelligently determined by the last changes you have made in a chart but can be changed before you insert the entry."
+                    "releaseNote": "2.1.5: Better error message when you try to connect to last.fm and the connection does not validate. Solved a bug with the rapid move dialog. Insert a new entry you have searched for, or an existing entry you picked from the list of existing entries, at a preferred position in the chart rather than at the last position. The preferred position is intelligently determined by the last changes you have made in a chart but can be changed before you insert the entry."
                 }
             ]
         },
