@@ -1,0 +1,26 @@
+Privacy Policy
+
+        Last updated: February 26, 2026
+
+        1. Information We Access
+        OuraQi accesses health and personal data from your Oura account via the Oura API, including sleep, activity, readiness, stress, resilience, workout, tag, and personal information.
+
+        2. Data Storage
+        Your Oura API token is stored locally on your device using the app's secure storage. No health data is stored on external servers or transmitted to third parties.
+
+        3. Data Sharing
+        We do not sell, share, or transmit your personal or health data to any third parties. Data remains on your device.
+
+        4. Analytics
+        OuraQi does not collect analytics, usage data, or tracking information.
+
+        5. Third-Party Services
+        OuraQi connects to the Oura API (api.ouraring.com) to retrieve your data. Please refer to Oura's privacy policy for information on how Oura handles your data.
+
+        6. Your Rights
+        You can revoke OuraQi's access to your Oura data at any time by signing out within the app or revoking access in your Oura account settings.
+
+        7. Contact
+        For questions about this privacy policy, please reach out via the app's support channels.
+
+        

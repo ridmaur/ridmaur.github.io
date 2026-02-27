@@ -1,0 +1,25 @@
+Terms of Service
+
+        Last updated: \(formattedToday)
+
+        1. Acceptance of Terms
+        By using OuraQi, you agree to these Terms of Service. If you do not agree, please do not use the app.
+
+        2. Description of Service
+        OuraQi is a personal health dashboard that displays data retrieved from the Oura Ring API. The app does not store your health data on any external servers.
+
+        3. Oura Account
+        You must have a valid Oura account and an Oura Ring to use the full features of this app. Demo mode is available using Oura's sandbox API.
+
+        4. Data Usage
+        OuraQi accesses your Oura data (sleep, activity, readiness, stress, resilience, workouts, tags, and personal info) solely to display it within the app. Your data is not shared with third parties.
+
+        5. No Medical Advice
+        OuraQi is not a medical device and does not provide medical advice, diagnosis, or treatment. Always consult a qualified healthcare provider for medical decisions.
+
+        6. Limitation of Liability
+        OuraQi is provided "as is" without warranties of any kind. We are not liable for any damages arising from your use of the app.
+
+        7. Changes to Terms
+        We may update these terms at any time. Continued use of the app constitutes acceptance of any changes.
+        
